@@ -39,7 +39,7 @@ jobs:
       run: |
         java -jar saxon-he-10.5.jar -xsl:scripts/keyboard.xsl output=keyboards \
         -s:scripts/keyboard.xsl &&\
-        pwd &&\
+        cd ghout/keyboards &&\
         ls -l
       shell: bash
       
