@@ -54,7 +54,7 @@ jobs:
       run:  |
         cp scripts/table_hide.css ghout/
         cp scripts/_config.yml ghout/
-        cp keyboards/*. xml ghout/keyboards/
+        cp scripts/*. xml ghout/keyboards/
 
 
     - name: Archive the keyboard files 
