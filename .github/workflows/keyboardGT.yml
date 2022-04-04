@@ -40,7 +40,7 @@ jobs:
         java -jar saxon-he-10.5.jar -xsl:scripts/keyboard.xsl output=keyboards \
         -s:scripts/keyboard.xsl &&\
         cd ghout/keyboards &&\
-        shell: bash
+        
       
 
     - name: make compressed table view
