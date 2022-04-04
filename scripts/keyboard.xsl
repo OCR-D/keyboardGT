@@ -6,15 +6,16 @@
     xmlns:fn="http://www.w3.org/2005/xpath-functions"
     xmlns:pc="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15"
     xmlns:in="http://www.intern.de"
-    
     exclude-result-prefixes="#all"
     version="3.0">
     <xsl:output indent="yes" omit-xml-declaration="yes" method="xml"/>
     
     
+    
+    
+    
     <xsl:param name="output"/>
-    
-    
+        
     <xsl:variable name="MUFITABLE">
         <xsl:copy-of select="document('../metadata/coding.xml')" />
     </xsl:variable>
@@ -108,11 +109,14 @@
             <xsl:element name="tbody">
             <xsl:for-each-group select="$MUFIEXPORT//fn:map" group-by="fn:string[@key='range']">
             <xsl:sort select="fn:current-grouping-key()"/>
-                
+                <xsl:variable name="link">https://mufi.info/m.php?p=mufichars<xsl:value-of select="$MUFITABLE//coding/code[@id=fn:current-grouping-key()]/@href"/></xsl:variable>
                  <xsl:element name="tr">
+                     
                     <xsl:element name="td"><xsl:value-of select="$MUFITABLE//coding/code[@id=fn:current-grouping-key()]"/></xsl:element>
                     <xsl:element name="td"><xsl:element name="a"><xsl:attribute name="href">keyboards/<xsl:value-of select="fn:current-grouping-key()"/>.xml</xsl:attribute><xsl:value-of select="fn:current-grouping-key()"/></xsl:element>
-                        <xsl:element name="td"><xsl:element name="a"><xsl:attribute name="href">https://mufi.info/<xsl:value-of select="$MUFITABLE//coding/code[@id=fn:current-grouping-key()]/@href"/></xsl:attribute>Browse charts</xsl:element></xsl:element>
+                        <xsl:element name="td">
+                            <xsl:text disable-output-escaping="yes">&lt;a href="</xsl:text><xsl:value-of select="$link" disable-output-escaping="yes" /><xsl:text disable-output-escaping="yes">"&gt;</xsl:text>Browse charts<xsl:text disable-output-escaping="yes">&lt;/a&gt;</xsl:text>
+                        </xsl:element>
                     </xsl:element>
                 </xsl:element>
         </xsl:for-each-group>
