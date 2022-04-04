@@ -18,7 +18,7 @@ jobs:
      
    # Installation and Directories
       
-   - name: Download and install saxon
+    - name: Download and install saxon
       run: |
        wget https://sourceforge.net/projects/saxon/files/Saxon-HE/10/Java/SaxonHE10-5J.zip/download
        unzip download
