@@ -20,10 +20,11 @@
             } );
             } );
         </script>
-<h1>
-            Code chart
-        </h1>
-<p>
+        
+        
+         # Code chart
+        
+        <p>
             The offer of different keyboards for the Aletheia document image analysis system is based on the data snapchot of <a href="https://mufi.info/">MUFI: The Medieval Unicode Font Initiative</a>.
             <a href="https://mufi.info/m.php?p=mufiexport">(MUFI data as json)</a>.
         </p>
