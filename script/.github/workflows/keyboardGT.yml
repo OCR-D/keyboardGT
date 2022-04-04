@@ -23,11 +23,12 @@ jobs:
        wget https://sourceforge.net/projects/saxon/files/Saxon-HE/10/Java/SaxonHE10-5J.zip/download
        unzip download
         
-    - name: make keyboards folder
-      run: mkdir keyboards
-      
+     
     - name: make gh-pages_out
       run: mkdir ghout
+
+    - name: make keyboards folder
+      run: mkdir ghout/keyboards  
     
    # Transformation and analysis
 
