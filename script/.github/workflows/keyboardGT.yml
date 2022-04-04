@@ -1,0 +1,96 @@
+name: keyboardGT
+'on':
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+jobs:
+  cli:
+    name: keyboardGT
+    runs-on: ubuntu-latest
+    steps:
+    
+    - name: Git checkout
+      uses: actions/checkout@v2
+
+  
+        
+     
+   # Installation and Directories
+      
+   - name: Download and install saxon
+      run: |
+       wget https://sourceforge.net/projects/saxon/files/Saxon-HE/10/Java/SaxonHE10-5J.zip/download
+       unzip download
+        
+    - name: make keyboards folder
+      run: mkdir keyboards
+      
+    - name: make gh-pages_out
+      run: mkdir ghout
+    
+   # Transformation and analysis
+
+    - name: transform MUFI snapshot to keyboard
+      run: |
+        java -jar saxon-he-10.5.jar -xsl:scripts/keyboard.xsl output=kb \
+        -s:scripts/keyboard.xsl
+      shell: bash
+      
+
+    - name: make compressed table view
+      run: | 
+        java -jar saxon-he-10.5.jar -xsl:scripts/keyboard.xsl output=kb \
+        -s:scripts/keyboard.xsl -o:ghout/overview.md
+      shell: bash
+
+   # GH-style  
+                                                                                        
+    - name: copy css styles and yml files to ghout
+      run:  |
+        cp scripts/table_hide.css ghout/
+        cp scripts/_config.yml ghout/ 
+
+
+    - name: Archive the ocrdzip files from ocrdzip_out folder
+      uses: thedoctor0/zip-release@master
+      with:
+         filename: site.zip
+         path: 'ocrdzip_out'
+      
+   # GitHub release
+
+    - name: Create GitHub release
+      id: create-new-release
+      uses: actions/create-release@latest
+      env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+          tag_name: v${{ github.run_number }}
+          release_name: Release ${{ github.run_number }}
+          body_path: release_note.md 
+          draft: false
+          prerelease: false
+     
+    
+    - name: Upload asset to GitHub release
+      uses: actions/upload-release-asset@latest
+      env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+          tag_name: ${{ github.run_number }}
+          release_name: Release ${{ github.run_number }}
+          upload_url: ${{ steps.create-new-release.outputs.upload_url }}
+          asset_path: ./site.zip
+          asset_name: keyboardGT-v${{ github.run_number }}.zip
+          asset_content_type: application/zip
+          
+      
+    - name: Deploy GT-Overview to GitHub Pages
+      uses: JamesIves/github-pages-deploy-action@3.7.1
+      with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BRANCH: gh-pages # The branch the action should deploy to.
+          FOLDER: ghout # The folder the action should deploy.
+   
+   
