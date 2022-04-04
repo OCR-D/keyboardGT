@@ -23,7 +23,10 @@ jobs:
        wget https://sourceforge.net/projects/saxon/files/Saxon-HE/10/Java/SaxonHE10-5J.zip/download
        unzip download
         
-     
+
+    
+
+
     - name: make gh-pages_out
       run: mkdir ghout
 
@@ -53,11 +56,11 @@ jobs:
         cp scripts/_config.yml ghout/ 
 
 
-    - name: Archive the ocrdzip files from ocrdzip_out folder
+    - name: Archive the keyboard files 
       uses: thedoctor0/zip-release@master
       with:
          filename: site.zip
-         path: 'ocrdzip_out'
+         path: 'ghout/keyboards'
       
    # GitHub release
 
