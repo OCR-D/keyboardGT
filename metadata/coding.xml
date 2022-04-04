@@ -1,164 +1,164 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <coding>
  
- <code href="m.php?p=mufichars&amp;i=3&amp;v=1" id="BasLat">Basic Latin </code>
+ <code href="p=mufichars&amp;i=3&amp;v=1" id="BasLat">Basic Latin </code>
  
- <code href="m.php?p=mufichars&amp;i=3&amp;v=4" id="Lat1Suppl">Latin-1 Supplement </code>
+ <code href="p=mufichars&amp;i=3&amp;v=4" id="Lat1Suppl">Latin-1 Supplement </code>
  
- <code href="m.php?p=mufichars&amp;i=3&amp;v=5" id="LatExtA">Latin Extended-A </code>
+ <code href="p=mufichars&amp;i=3&amp;v=5" id="LatExtA">Latin Extended-A </code>
  
- <code href="m.php?p=mufichars&amp;i=3&amp;v=8" id="LatExtB">Latin Extended-B </code>
+ <code href="p=mufichars&amp;i=3&amp;v=8" id="LatExtB">Latin Extended-B </code>
  
- <code href="m.php?p=mufichars&amp;i=3&amp;v=28" id="IPAExt">IPA Extensions </code>
+ <code href="p=mufichars&amp;i=3&amp;v=28" id="IPAExt">IPA Extensions </code>
  
- <code href="m.php?p=mufichars&amp;i=3&amp;v=56" id="SpModLet">Spacing Modifier Letters </code>
+ <code href="p=mufichars&amp;i=3&amp;v=56" id="SpModLet">Spacing Modifier Letters </code>
  
- <code href="m.php?p=mufichars&amp;i=3&amp;v=58" id="CombDiaMk">Combining Diacritical Marks </code>
+ <code href="p=mufichars&amp;i=3&amp;v=58" id="CombDiaMk">Combining Diacritical Marks </code>
  
- <code href="m.php?p=mufichars&amp;i=3&amp;v=80" id="GkCo">Greek and Coptic </code>
+ <code href="p=mufichars&amp;i=3&amp;v=80" id="GkCo">Greek and Coptic </code>
  
- <code href="m.php?p=mufichars&amp;i=3&amp;v=66" id="Georgian">Georgian </code>
+ <code href="p=mufichars&amp;i=3&amp;v=66" id="Georgian">Georgian </code>
  
- <code href="m.php?p=mufichars&amp;i=3&amp;v=65" id="Run">Runic </code>
+ <code href="p=mufichars&amp;i=3&amp;v=65" id="Run">Runic </code>
  
- <code href="m.php?p=mufichars&amp;i=3&amp;v=3" id="PhonExt">Phonetic Extensions </code>
+ <code href="p=mufichars&amp;i=3&amp;v=3" id="PhonExt">Phonetic Extensions </code>
  
- <code href="m.php?p=mufichars&amp;i=3&amp;v=59" id="CombDiaMkS">Combining Diacritical Marks Supplement </code>
+ <code href="p=mufichars&amp;i=3&amp;v=59" id="CombDiaMkS">Combining Diacritical Marks Supplement </code>
  
- <code href="m.php?p=mufichars&amp;i=3&amp;v=7" id="LatExtAdd">Latin Extended Additional </code>
+ <code href="p=mufichars&amp;i=3&amp;v=7" id="LatExtAdd">Latin Extended Additional </code>
  
- <code href="m.php?p=mufichars&amp;i=3&amp;v=62" id="GenPunct">General Punctuation </code>
+ <code href="p=mufichars&amp;i=3&amp;v=62" id="GenPunct">General Punctuation </code>
  
- <code href="m.php?p=mufichars&amp;i=3&amp;v=81" id="SupSub">Superscripts and Subscripts </code>
+ <code href="p=mufichars&amp;i=3&amp;v=81" id="SupSub">Superscripts and Subscripts </code>
  
- <code href="m.php?p=mufichars&amp;i=3&amp;v=73" id="CurrSymb">Currency Symbols </code>
+ <code href="p=mufichars&amp;i=3&amp;v=73" id="CurrSymb">Currency Symbols </code>
  
- <code href="m.php?p=mufichars&amp;i=3&amp;v=41" id="LettSymb">Letterlike Symbols </code>
+ <code href="p=mufichars&amp;i=3&amp;v=41" id="LettSymb">Letterlike Symbols </code>
  
- <code href="m.php?p=mufichars&amp;i=3&amp;v=30" id="NumbFo">Number Forms </code>
+ <code href="p=mufichars&amp;i=3&amp;v=30" id="NumbFo">Number Forms </code>
  
- <code href="m.php?p=mufichars&amp;i=3&amp;v=76" id="Arrows">Arrows </code>
+ <code href="p=mufichars&amp;i=3&amp;v=76" id="Arrows">Arrows </code>
  
- <code href="m.php?p=mufichars&amp;i=3&amp;v=64" id="MathOp">Mathematical Operators </code>
+ <code href="p=mufichars&amp;i=3&amp;v=64" id="MathOp">Mathematical Operators </code>
  
- <code href="m.php?p=mufichars&amp;i=3&amp;v=78" id="MiscTech">Miscellaneous Technical </code>
+ <code href="p=mufichars&amp;i=3&amp;v=78" id="MiscTech">Miscellaneous Technical </code>
  
- <code href="m.php?p=mufichars&amp;i=3&amp;v=77" id="GeomShap">Geometric Shapes </code>
+ <code href="p=mufichars&amp;i=3&amp;v=77" id="GeomShap">Geometric Shapes </code>
  
- <code href="m.php?p=mufichars&amp;i=3&amp;v=72" id="Dingbats">Dingbats </code>
+ <code href="p=mufichars&amp;i=3&amp;v=72" id="Dingbats">Dingbats </code>
  
- <code href="m.php?p=mufichars&amp;i=3&amp;v=70" id="MiMaSymbA">Miscellaneous Mathematical Symbols-A </code>
+ <code href="p=mufichars&amp;i=3&amp;v=70" id="MiMaSymbA">Miscellaneous Mathematical Symbols-A </code>
  
- <code href="m.php?p=mufichars&amp;i=3&amp;v=68" id="SupplMathOp">Supplemental Mathematical Operators </code>
+ <code href="p=mufichars&amp;i=3&amp;v=68" id="SupplMathOp">Supplemental Mathematical Operators </code>
  
- <code href="m.php?p=mufichars&amp;i=3&amp;v=43" id="LatExtC">Latin Extended-C </code>
+ <code href="p=mufichars&amp;i=3&amp;v=43" id="LatExtC">Latin Extended-C </code>
  
- <code href="m.php?p=mufichars&amp;i=3&amp;v=69" id="SupplPunct">Supplemental Punctuation </code>
+ <code href="p=mufichars&amp;i=3&amp;v=69" id="SupplPunct">Supplemental Punctuation </code>
  
- <code href="m.php?p=mufichars&amp;i=3&amp;v=18" id="LatExtD">Latin Extended-D </code>
+ <code href="p=mufichars&amp;i=3&amp;v=18" id="LatExtD">Latin Extended-D </code>
  
- <code href="m.php?p=mufichars&amp;i=3&amp;v=11" id="PUA-36">Private Use Area 36: Characters with acute accent and ogonek </code>
+ <code href="p=mufichars&amp;i=3&amp;v=11" id="PUA-36">Private Use Area 36: Characters with acute accent and ogonek </code>
  
- <code href="m.php?p=mufichars&amp;i=3&amp;v=17" id="PUA-47">Private Use Area 47: Characters with macron and acute accent </code>
+ <code href="p=mufichars&amp;i=3&amp;v=17" id="PUA-47">Private Use Area 47: Characters with macron and acute accent </code>
  
- <code href="m.php?p=mufichars&amp;i=3&amp;v=16" id="PUA-46">Private Use Area 46: Characters with macron and breve </code>
+ <code href="p=mufichars&amp;i=3&amp;v=16" id="PUA-46">Private Use Area 46: Characters with macron and breve </code>
  
- <code href="m.php?p=mufichars&amp;i=3&amp;v=12" id="PUA-17">Private Use Area 17: Characters with double acute accent </code>
+ <code href="p=mufichars&amp;i=3&amp;v=12" id="PUA-17">Private Use Area 17: Characters with double acute accent </code>
  
- <code href="m.php?p=mufichars&amp;i=3&amp;v=27" id="PUA-31">Private Use Area 31: Characters with superscript letters </code>
+ <code href="p=mufichars&amp;i=3&amp;v=27" id="PUA-31">Private Use Area 31: Characters with superscript letters </code>
  
- <code href="m.php?p=mufichars&amp;i=3&amp;v=6" id="PUA-21">Private Use Area 21: Characters with curl above (reversed ogonek) </code>
+ <code href="p=mufichars&amp;i=3&amp;v=6" id="PUA-21">Private Use Area 21: Characters with curl above (reversed ogonek) </code>
  
- <code href="m.php?p=mufichars&amp;i=3&amp;v=20" id="PUA-19">Private Use Area 19: Characters with dot below </code>
+ <code href="p=mufichars&amp;i=3&amp;v=20" id="PUA-19">Private Use Area 19: Characters with dot below </code>
  
- <code href="m.php?p=mufichars&amp;i=3&amp;v=26" id="PUA-23">Private Use Area 23: Characters with breve </code>
+ <code href="p=mufichars&amp;i=3&amp;v=26" id="PUA-23">Private Use Area 23: Characters with breve </code>
  
- <code href="m.php?p=mufichars&amp;i=3&amp;v=24" id="PUA-22">Private Use Area 22: Characters with ogonek </code>
+ <code href="p=mufichars&amp;i=3&amp;v=24" id="PUA-22">Private Use Area 22: Characters with ogonek </code>
  
- <code href="m.php?p=mufichars&amp;i=3&amp;v=9" id="PUA-20">Private Use Area 20: Characters with diaeresis </code>
+ <code href="p=mufichars&amp;i=3&amp;v=9" id="PUA-20">Private Use Area 20: Characters with diaeresis </code>
  
- <code href="m.php?p=mufichars&amp;i=3&amp;v=21" id="PUA-18">Private Use Area 18: Characters with dot above </code>
+ <code href="p=mufichars&amp;i=3&amp;v=21" id="PUA-18">Private Use Area 18: Characters with dot above </code>
  
- <code href="m.php?p=mufichars&amp;i=3&amp;v=22" id="PUA-16">Private Use Area 16: Characters with acute accent </code>
+ <code href="p=mufichars&amp;i=3&amp;v=22" id="PUA-16">Private Use Area 16: Characters with acute accent </code>
  
- <code href="m.php?p=mufichars&amp;i=3&amp;v=29" id="PUA-15">Private Use Area 15: Characters with macron or overline </code>
+ <code href="p=mufichars&amp;i=3&amp;v=29" id="PUA-15">Private Use Area 15: Characters with macron or overline </code>
  
- <code href="m.php?p=mufichars&amp;i=3&amp;v=13" id="PUA-32">Private Use Area 32: Characters with acute accent and dot above </code>
+ <code href="p=mufichars&amp;i=3&amp;v=13" id="PUA-32">Private Use Area 32: Characters with acute accent and dot above </code>
  
- <code href="m.php?p=mufichars&amp;i=3&amp;v=33" id="PUA-39">Private Use Area 39: Characters with dot below and ogonek </code>
+ <code href="p=mufichars&amp;i=3&amp;v=33" id="PUA-39">Private Use Area 39: Characters with dot below and ogonek </code>
  
- <code href="m.php?p=mufichars&amp;i=3&amp;v=37" id="PUA-37">Private Use Area 37: Characters with double acute accent and ogonek </code>
+ <code href="p=mufichars&amp;i=3&amp;v=37" id="PUA-37">Private Use Area 37: Characters with double acute accent and ogonek </code>
  
- <code href="m.php?p=mufichars&amp;i=3&amp;v=32" id="PUA-38">Private Use Area 38: Characters with dot above and ogonek </code>
+ <code href="p=mufichars&amp;i=3&amp;v=32" id="PUA-38">Private Use Area 38: Characters with dot above and ogonek </code>
  
- <code href="m.php?p=mufichars&amp;i=3&amp;v=36" id="PUA-48">Private Use Area 48: Characters with ogonek, dot above and acute accent </code>
+ <code href="p=mufichars&amp;i=3&amp;v=36" id="PUA-48">Private Use Area 48: Characters with ogonek, dot above and acute accent </code>
  
- <code href="m.php?p=mufichars&amp;i=3&amp;v=14" id="PUA-41">Private Use Area 41: Characters with diaeresis and circumflex </code>
+ <code href="p=mufichars&amp;i=3&amp;v=14" id="PUA-41">Private Use Area 41: Characters with diaeresis and circumflex </code>
  
- <code href="m.php?p=mufichars&amp;i=3&amp;v=31" id="PUA-43">Private Use Area 43: Characters with ogonek and curl above (reversed ogonek) </code>
+ <code href="p=mufichars&amp;i=3&amp;v=31" id="PUA-43">Private Use Area 43: Characters with ogonek and curl above (reversed ogonek) </code>
  
- <code href="m.php?p=mufichars&amp;i=3&amp;v=54" id="PUA-30">Private Use Area 30: Characters with vertical bar above </code>
+ <code href="p=mufichars&amp;i=3&amp;v=54" id="PUA-30">Private Use Area 30: Characters with vertical bar above </code>
  
- <code href="m.php?p=mufichars&amp;i=3&amp;v=42" id="PUA-5">Private Use Area 5: Modified base-line abbreviation characters </code>
+ <code href="p=mufichars&amp;i=3&amp;v=42" id="PUA-5">Private Use Area 5: Modified base-line abbreviation characters </code>
  
- <code href="m.php?p=mufichars&amp;i=3&amp;v=39" id="PUA-25">Private Use Area 25: Characters with circumflex </code>
+ <code href="p=mufichars&amp;i=3&amp;v=39" id="PUA-25">Private Use Area 25: Characters with circumflex </code>
  
- <code href="m.php?p=mufichars&amp;i=3&amp;v=10" id="PUA-42">Private Use Area 42: Characters with diaeresis and dot below </code>
+ <code href="p=mufichars&amp;i=3&amp;v=10" id="PUA-42">Private Use Area 42: Characters with diaeresis and dot below </code>
  
- <code href="m.php?p=mufichars&amp;i=3&amp;v=15" id="PUA-45">Private Use Area 45: Characters with ring above and circumflex </code>
+ <code href="p=mufichars&amp;i=3&amp;v=15" id="PUA-45">Private Use Area 45: Characters with ring above and circumflex </code>
  
- <code href="m.php?p=mufichars&amp;i=3&amp;v=35" id="PUA-33">Private Use Area 33: Characters with acute accent and dot below </code>
+ <code href="p=mufichars&amp;i=3&amp;v=35" id="PUA-33">Private Use Area 33: Characters with acute accent and dot below </code>
  
- <code href="m.php?p=mufichars&amp;i=3&amp;v=38" id="PUA-44">Private Use Area 44: Characters with ogonek and circumflex </code>
+ <code href="p=mufichars&amp;i=3&amp;v=38" id="PUA-44">Private Use Area 44: Characters with ogonek and circumflex </code>
  
- <code href="m.php?p=mufichars&amp;i=3&amp;v=34" id="PUA-40">Private Use Area 40: Characters with diaeresis and macron </code>
+ <code href="p=mufichars&amp;i=3&amp;v=34" id="PUA-40">Private Use Area 40: Characters with diaeresis and macron </code>
  
- <code href="m.php?p=mufichars&amp;i=3&amp;v=25" id="PUA-26">Private Use Area 26: Characters with ring above </code>
+ <code href="p=mufichars&amp;i=3&amp;v=25" id="PUA-26">Private Use Area 26: Characters with ring above </code>
  
- <code href="m.php?p=mufichars&amp;i=3&amp;v=44" id="PUA-24">Private Use Area 24: Characters with breve below </code>
+ <code href="p=mufichars&amp;i=3&amp;v=44" id="PUA-24">Private Use Area 24: Characters with breve below </code>
  
- <code href="m.php?p=mufichars&amp;i=3&amp;v=46" id="PUA-27">Private Use Area 27: Characters with ring below </code>
+ <code href="p=mufichars&amp;i=3&amp;v=46" id="PUA-27">Private Use Area 27: Characters with ring below </code>
  
- <code href="m.php?p=mufichars&amp;i=3&amp;v=50" id="PUA-34">Private Use Area 34: Characters with acute accent and diaeresis </code>
+ <code href="p=mufichars&amp;i=3&amp;v=50" id="PUA-34">Private Use Area 34: Characters with acute accent and diaeresis </code>
  
- <code href="m.php?p=mufichars&amp;i=3&amp;v=52" id="PUA-28">Private Use Area 28: Characters with tilde </code>
+ <code href="p=mufichars&amp;i=3&amp;v=52" id="PUA-28">Private Use Area 28: Characters with tilde </code>
  
- <code href="m.php?p=mufichars&amp;i=3&amp;v=47" id="PUA-13">Private Use Area 13: Modified base-line characters </code>
+ <code href="p=mufichars&amp;i=3&amp;v=47" id="PUA-13">Private Use Area 13: Modified base-line characters </code>
  
- <code href="m.php?p=mufichars&amp;i=3&amp;v=19" id="PUA-1">Private Use Area 1: Base characters </code>
+ <code href="p=mufichars&amp;i=3&amp;v=19" id="PUA-1">Private Use Area 1: Base characters </code>
  
- <code href="m.php?p=mufichars&amp;i=3&amp;v=2" id="PUA-3">Private Use Area 3: Enlarged minuscules </code>
+ <code href="p=mufichars&amp;i=3&amp;v=2" id="PUA-3">Private Use Area 3: Enlarged minuscules </code>
  
- <code href="m.php?p=mufichars&amp;i=3&amp;v=48" id="PUA-35">Private Use Area 35: Characters with acute accent and curl above (reversed ogonek) </code>
+ <code href="p=mufichars&amp;i=3&amp;v=48" id="PUA-35">Private Use Area 35: Characters with acute accent and curl above (reversed ogonek) </code>
  
- <code href="m.php?p=mufichars&amp;i=3&amp;v=55" id="PUA-29">Private Use Area 29: Characters with curly bar above </code>
+ <code href="p=mufichars&amp;i=3&amp;v=55" id="PUA-29">Private Use Area 29: Characters with curly bar above </code>
  
- <code href="m.php?p=mufichars&amp;i=3&amp;v=51" id="PUA-2">Private Use Area 2: Small capitals </code>
+ <code href="p=mufichars&amp;i=3&amp;v=51" id="PUA-2">Private Use Area 2: Small capitals </code>
  
- <code href="m.php?p=mufichars&amp;i=3&amp;v=60" id="PUA-7">Private Use Area 7: Combining superscript characters </code>
+ <code href="p=mufichars&amp;i=3&amp;v=60" id="PUA-7">Private Use Area 7: Combining superscript characters </code>
  
- <code href="m.php?p=mufichars&amp;i=3&amp;v=63" id="PUA-4">Private Use Area 4: Base-line abbreviation characters </code>
+ <code href="p=mufichars&amp;i=3&amp;v=63" id="PUA-4">Private Use Area 4: Base-line abbreviation characters </code>
  
- <code href="m.php?p=mufichars&amp;i=3&amp;v=61" id="PUA-6">Private Use Area 6: Combining Marks </code>
+ <code href="p=mufichars&amp;i=3&amp;v=61" id="PUA-6">Private Use Area 6: Combining Marks </code>
  
- <code href="m.php?p=mufichars&amp;i=3&amp;v=71" id="PUA-8">Private Use Area 8: Punctuation marks </code>
+ <code href="p=mufichars&amp;i=3&amp;v=71" id="PUA-8">Private Use Area 8: Punctuation marks </code>
  
- <code href="m.php?p=mufichars&amp;i=3&amp;v=57" id="PUA-11">Private Use Area 11: Additional number forms </code>
+ <code href="p=mufichars&amp;i=3&amp;v=57" id="PUA-11">Private Use Area 11: Additional number forms </code>
  
- <code href="m.php?p=mufichars&amp;i=3&amp;v=67" id="PUA-9">Private Use Area 9: Critical and epigraphical signs </code>
+ <code href="p=mufichars&amp;i=3&amp;v=67" id="PUA-9">Private Use Area 9: Critical and epigraphical signs </code>
  
- <code href="m.php?p=mufichars&amp;i=3&amp;v=74" id="PUA-12">Private Use Area 12: Weight, currency and measurement </code>
+ <code href="p=mufichars&amp;i=3&amp;v=74" id="PUA-12">Private Use Area 12: Weight, currency and measurement </code>
  
- <code href="m.php?p=mufichars&amp;i=3&amp;v=79" id="PUA-10">Private Use Area 10: Metrical symbols </code>
+ <code href="p=mufichars&amp;i=3&amp;v=79" id="PUA-10">Private Use Area 10: Metrical symbols </code>
  
- <code href="m.php?p=mufichars&amp;i=3&amp;v=40" id="AlphPresForm">Alphabetic Presentation Forms </code>
+ <code href="p=mufichars&amp;i=3&amp;v=40" id="AlphPresForm">Alphabetic Presentation Forms </code>
  
- <code href="m.php?p=mufichars&amp;i=3&amp;v=75" id="AncSymb">Ancient Symbols </code>
+ <code href="p=mufichars&amp;i=3&amp;v=75" id="AncSymb">Ancient Symbols </code>
  
- <code href="m.php?p=mufichars&amp;i=3&amp;v=82" id="LatExtE">Latin Extended-E </code>
+ <code href="p=mufichars&amp;i=3&amp;v=82" id="LatExtE">Latin Extended-E </code>
  
- <code href="m.php?p=mufichars&amp;i=3&amp;v=84" id="PUA-14">Private Use Area 14: Other base-line characters </code>
+ <code href="p=mufichars&amp;i=3&amp;v=84" id="PUA-14">Private Use Area 14: Other base-line characters </code>
  
- <code href="m.php?p=mufichars&amp;i=3&amp;v=83" id="PUA-51">Private Use Area 51: Variant letter forms </code>
+ <code href="p=mufichars&amp;i=3&amp;v=83" id="PUA-51">Private Use Area 51: Variant letter forms </code>
  
 </coding>
