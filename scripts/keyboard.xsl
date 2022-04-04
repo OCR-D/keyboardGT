@@ -37,7 +37,7 @@
     <xsl:template match="$MUFIEXPORT//fn:array" name="kb">
         <xsl:for-each-group select="$MUFIEXPORT//fn:map" group-by="fn:string[@key='range']">
             <xsl:sort select="fn:current-grouping-key()"/>
-            <xsl:result-document href="../ghout/keyboards{fn:current-grouping-key()}.xml">
+            <xsl:result-document href="../ghout/keyboards/{fn:current-grouping-key()}.xml">
             <xsl:element name="Parameters">
                 <xsl:attribute name="name"><xsl:value-of select="fn:current-grouping-key()"/></xsl:attribute>
                 <xsl:for-each select="fn:current-group()">
@@ -102,6 +102,7 @@
             <xsl:element name="tr">
                 <xsl:element name="th">Code chart</xsl:element>
                 <xsl:element name="th">Virtual Keyboard Layouts</xsl:element>
+                <xsl:element name="th">Browse by code chart (Link to MUFI)</xsl:element>
             </xsl:element>
             </xsl:element>
             <xsl:element name="tbody">
@@ -109,9 +110,9 @@
             <xsl:sort select="fn:current-grouping-key()"/>
                 
                  <xsl:element name="tr">
-                     <xsl:message select="$MUFITABLE"></xsl:message>
-                     <xsl:element name="td"><xsl:value-of select="$MUFITABLE//coding/code[@id=fn:current-grouping-key()]"/></xsl:element>
+                    <xsl:element name="td"><xsl:value-of select="$MUFITABLE//coding/code[@id=fn:current-grouping-key()]"/></xsl:element>
                     <xsl:element name="td"><xsl:element name="a"><xsl:attribute name="href">keyboards/<xsl:value-of select="fn:current-grouping-key()"/>.xml</xsl:attribute><xsl:value-of select="fn:current-grouping-key()"/></xsl:element>
+                        <xsl:element name="td"><xsl:element name="a"><xsl:attribute name="href">https://mufi.info/<xsl:value-of select="$MUFITABLE//coding/code[@id=fn:current-grouping-key()]/@href"/></xsl:attribute>Browse charts</xsl:element></xsl:element>
                     </xsl:element>
                 </xsl:element>
         </xsl:for-each-group>
