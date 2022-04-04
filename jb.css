@@ -1,0 +1,265 @@
+*,*::after,*::before { font-family:/*Verdana,*/Arial,sans-serif; }
+h1,h2,h3,h4 { font-weight:bold }
+html        { background-color:#f0f8ff; margin:0px;padding:0px }
+body        { font-size:1.0em; line-height:1.3em; color:#000040; 
+              margin:0px; padding: 3em 1em .5em 30px;
+              background-image: linear-gradient(90deg, #80a0ff 24px, #f0f8ff 26px); }
+p,ul,ol,li,td,th,address,blockquote
+            { font-size: 1.0em; line-height:1.3em; color:#000040; background-color:#f0f8ff }
+.Drag_n_Drop { background-color:#f0f8ff }
+.Drag_Bar    { background-color:#80a0ff }
+input,select,textarea
+            { font-size: 1.0em; line-height:1.3em; color:#000040; background-color:#ffffff }
+a:link      { color:#5050ff }
+a:visited   { color:#4040aa }
+a:active    { color:#5050ff }
+button      { color:#ffffff; background-color:#80a0ff; text-align:center;
+              font-size: 1.0em; /*font-family:"Times New Roman",serif;*/
+              cursor:pointer }
+input       { text-align:center }
+h1          { font-size: 1.4em; padding-top:1em; margin-top:0px }
+h2          { font-size: 1.25em; padding-top:1em; padding-bottom:0; margin-top:0px }
+h3          { font-size: 1.1em; padding-top:0.5em; padding-bottom:0; margin-top:0px }
+h4          { font-size: 1.0em }
+.kleiner    { font-size: 0.8em }
+hr          { height:1px;color:#5050ff }
+.tabelle    { border:1px solid #5050ff; border-spacing:0px; border-collapse:collapse }
+.tabelle td,.tabelle th { border:1px solid #5050ff; border-spacing:0px; border-collapse:collapse; padding:3px }
+.src        { border:1px solid #5050ff; color:#000000; background-color:#e0e0ff;
+              margin-left:10px; margin-right:10px; padding:10px; }
+
+/* Anpassung der Navi an das Seitenlayout */
+#sitenav { 
+	top: 1em; 
+	left: 2em;
+  z-index: 1000;
+}
+#sitenav.wide { 
+	top: 0; 
+	left: 22px; 
+	right: 0;
+}
+
+/* Farben */
+#sitenav *,
+#sitenav a { 
+	background-color: #80a0ff; 
+	color: white;
+}
+
+/* Skip-Link */
+#skip-link { 
+	position: absolute; 
+	left: 0; top: 0; background: black; 
+	color: white; padding: 0.25em; 
+	transform: translateY(-100%);
+	transition: 0.2s transform; 
+	z-index: 1001; 
+} 
+#skip-link:focus { 
+	transform: translateY(0); 
+}			
+
+/* Für AT */
+.visually-hidden {
+	position: absolute !important; 
+	clip: rect(1px, 1px, 1px, 1px) !important; 
+	padding: 0 !important; 
+	border: 0 !important; 
+	height: 1px !important; 
+	width: 1px !important; 
+	overflow: hidden !important; 
+	white-space: nowrap !important; 
+}
+
+/* Positionierung */
+/* Bei Browsern, die Details/Summary unterstützen, und bei eingeschaltetem Javascript wird die Navigation absolut positioniert. Die Klasse withjs wird vom Sript gesetzt. */
+@supports (width: max-content) { 
+	/* Nicht für IE und MS-Edge, indirekter Test auf Details/Summary */
+	#sitenav,
+  #sitenav ul { 
+		position: absolute; 
+	}
+}
+#sitenav.withjs,
+#sitenav.withjs ul { 
+	position: absolute; 
+}
+
+/* Regeln für schmale und breite Dis/plays */
+#sitenav ul { 
+	margin:0;
+	padding-top: .2em; 
+	padding-left: 1em; 
+	padding-right: 1em; 
+}
+#sitenav > details { 
+	padding: .2em; 
+}
+#sitenav > details > ul { 
+	margin-left: -.5em; 
+	margin-top: .3em; 
+}
+#sitenav ul ul { 
+	margin-left: calc(100% - 1.2em);
+  margin-top: -3.1em; 
+  padding-left: .1em; 
+}
+#sitenav li a,
+#sitenav li summary { 
+	display: inline-block; 
+	padding: .5em; 
+	margin: .3em; 
+	line-height: 1.4em; 
+  max-height: 1.4em; 
+}
+#sitenav li { 
+	padding: 0em; 
+	white-space: nowrap; 
+	vertical-align: middle; 
+}
+
+/* Anpassungen an breite Displays. Die Klasse wide wird vom Script gesetzt, wenn der Platz reicht. */
+#sitenav.wide > details { 
+	padding: 0; 
+} 
+#sitenav.wide > details > ul { 
+	display: flex;
+	flex-wrap: wrap; 
+	width: 100%; 
+	box-sizing: border-box; 
+}
+#sitenav.wide ul { 
+	margin:0; 
+	padding-top: .2em; 
+	padding-left: 0; 
+	padding-right: 0; 
+}
+#sitenav.wide ul ul { 
+	margin-left: -.5em; 
+	margin-top: -.1em; 
+	padding-left: .5em; 
+	padding-right: .5em; 
+}
+#sitenav.wide ul ul ul { 
+	margin-left: calc(100% - 1.2em); 
+	margin-top: -3.1em; 
+	padding-left: .1em; 
+}
+
+/* Originalsymbole vor den Summary entfernen und eigene Symbole definieren */
+#sitenav summary::-webkit-details-marker { 
+	display: none; 
+}
+#sitenav summary { 
+	list-style-type:  none; 
+}
+#sitenav *::before,
+#sitenav *::after { 
+	font-family: arial_unicode_ms; 
+	vertical-align: top; 
+  display: inline-block;
+}
+#sitenav details *::after {
+  text-align: end;
+  width: 1.5em;
+}
+#sitenav details *::before {
+  text-align: center;
+  width: 1.2em;
+}
+#sitenav ul details:not([open]) > summary::after { 
+	content: '►'; 
+}
+#sitenav ul details[open] > summary::after { 
+	content: '◄'; 
+}
+#sitenav > details:not([open]) > summary::before { 
+	content: '☰';
+} 
+#sitenav > details[open] > summary::before { 
+	content: '×';
+} 
+#sitenav.wide details[open] details:not([open]) summary::after { 
+	content: '▼'; 
+}
+#sitenav.wide details[open] details[open] summary::after { 
+	content: '▲'; 
+}
+#sitenav.wide details[open] details[open] details:not([open]) summary::after { 
+	content: '►'; 
+}
+#sitenav.wide details[open] details[open] details[open] summary::after { 
+	content: '◄'; 
+}
+html.no-details #sitenav ul summary::before { /* Für Details-Polyfill */
+	content: ''; width: 0; 
+} 
+
+/* Link zur aktuellen Seite */
+#sitenav li[aria-current] a[href='#']::before,
+#sitenav li[aria-current] a[tabindex]::before { 
+	content: '►';
+  text-align: start;
+}
+#sitenav.withjs > details > ul > li[aria-current] > details > summary { 
+	border-left: 2px solid black; 
+}
+#sitenav.withjs > details > ul > li[aria-current] > details > ul > li[aria-current] > details > summary { 
+	border-left: 2px solid black; 
+}
+#sitenav.wide > details > ul > li[aria-current] > details > summary { 
+	border-left: none; 
+}
+#sitenav.wide > details > ul > li[aria-current] { 
+	border-bottom: 2px solid black; 
+}
+
+/* Sprachicon */
+#sitenav .langselect img { 
+	height: 2em; 
+	transform: translateY(-.4em); 
+}
+
+/* Rahmen etc. */
+#sitenav summary { 
+	cursor: pointer; 
+}
+#sitenav ul { 
+	list-style-type: none; 
+	border-radius: .5em; 
+}
+#sitenav.wide ul ul { 
+	border-radius: 0 0 .5em .5em;
+}
+#sitenav > details { 
+	border: thin solid black; 
+	border-radius: .2em; 
+}
+#sitenav.wide > details { 
+	border: none; 
+	border-radius: 0; 
+} 
+#sitenav.wide > details > ul { 
+	border-radius: 0; 
+}
+#sitenav li a { 
+	text-decoration: none; 
+}
+#sitenav li a,
+#sitenav li summary { 
+	outline: none; 
+}
+#sitenav li a:focus,
+#sitenav li summary:focus { 
+	outline: thin solid #5050ff; 
+}
+#sitenav li a:focus-visible, 
+#sitenav li summary:focus-visible { 
+	outline: thin solid #5050ff; 
+}
+#sitenav li a:focus:not(:focus-visible), 
+#sitenav li summary:focus:not(:focus-visible) { 
+	outline: none; 
+}
+
