@@ -37,7 +37,7 @@
     <xsl:template match="$MUFIEXPORT//fn:array" name="kb">
         <xsl:for-each-group select="$MUFIEXPORT//fn:map" group-by="fn:string[@key='range']">
             <xsl:sort select="fn:current-grouping-key()"/>
-            <xsl:result-document href="../ghout/keyboards/{fn:current-grouping-key()}.xml">
+            <xsl:result-document href="../keyboards/{fn:current-grouping-key()}.xml">
             <xsl:element name="Parameters">
                 <xsl:attribute name="name"><xsl:value-of select="fn:current-grouping-key()"/></xsl:attribute>
                 <xsl:for-each select="fn:current-group()">
