@@ -109,7 +109,7 @@
             <xsl:element name="tbody">
             <xsl:for-each-group select="$MUFIEXPORT//fn:map" group-by="fn:string[@key='range']">
             <xsl:sort select="fn:current-grouping-key()"/>
-                <xsl:variable name="link">https://mufi.info/m.php?p=muficharsm.php?<xsl:value-of select="$MUFITABLE//coding/code[@id=fn:current-grouping-key()]/@href"/></xsl:variable>
+                <xsl:variable name="link">https://mufi.info/m.php?<xsl:value-of select="$MUFITABLE//coding/code[@id=fn:current-grouping-key()]/@href"/></xsl:variable>
                  <xsl:element name="tr">
                      
                     <xsl:element name="td"><xsl:value-of select="$MUFITABLE//coding/code[@id=fn:current-grouping-key()]"/></xsl:element>
