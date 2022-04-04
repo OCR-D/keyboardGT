@@ -37,8 +37,7 @@ jobs:
 
     - name: transform MUFI snapshot to keyboard
       run: |
-        java -jar saxon-he-10.5.jar -xsl:scripts/keyboard.xsl output=keyboards \
-        -s:scripts/keyboard.xsl \
+        java -jar saxon-he-10.5.jar -xsl:scripts/keyboard.xsl output=keyboards -s:scripts/keyboard.xsl
         shell: bash
       
 
