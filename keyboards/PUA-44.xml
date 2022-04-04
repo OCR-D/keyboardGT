@@ -1,0 +1,26 @@
+<Parameters name="PUA-44">
+   <Parameter type="4"
+              sortIndex="921"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E49F"
+              id="00922"
+              textType="0">
+      <Description>LATIN SMALL LETTER E WITH OGONEK AND CIRCUMFLEX</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="971"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E60E"
+              id="00972"
+              textType="0">
+      <Description>LATIN SMALL LETTER O WITH OGONEK AND CIRCUMFLEX</Description>
+   </Parameter>
+</Parameters>

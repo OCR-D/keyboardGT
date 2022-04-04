@@ -1,0 +1,86 @@
+<Parameters name="AlphPresForm">
+   <Parameter type="4"
+              sortIndex="1585"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0FB00"
+              id="01586"
+              textType="0">
+      <Description>LATIN SMALL LIGATURE FF</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1586"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0FB01"
+              id="01587"
+              textType="0">
+      <Description>LATIN SMALL LIGATURE FI</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1587"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0FB02"
+              id="01588"
+              textType="0">
+      <Description>LATIN SMALL LIGATURE FL</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1588"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0FB03"
+              id="01589"
+              textType="0">
+      <Description>LATIN SMALL LIGATURE FFI</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1589"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0FB04"
+              id="01590"
+              textType="0">
+      <Description>LATIN SMALL LIGATURE FFL</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1590"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0FB05"
+              id="01591"
+              textType="0">
+      <Description>LATIN SMALL LIGATURE LONG S T</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1591"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0FB06"
+              id="01592"
+              textType="0">
+      <Description>LATIN SMALL LIGATURE ST</Description>
+   </Parameter>
+</Parameters>

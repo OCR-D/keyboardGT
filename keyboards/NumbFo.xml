@@ -1,0 +1,62 @@
+<Parameters name="NumbFo">
+   <Parameter type="4"
+              sortIndex="633"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="02180"
+              id="00634"
+              textType="0">
+      <Description>ROMAN NUMERAL ONE THOUSAND C D</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="634"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="02181"
+              id="00635"
+              textType="0">
+      <Description>ROMAN NUMERAL FIVE THOUSAND</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="635"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="02182"
+              id="00636"
+              textType="0">
+      <Description>ROMAN NUMERAL TEN THOUSAND</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="636"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="02183"
+              id="00637"
+              textType="0">
+      <Description>ROMAN NUMERAL REVERSED ONE HUNDRED</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="637"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="02184"
+              id="00638"
+              textType="0">
+      <Description>LATIN ABBREVIATION SIGN SMALL CON</Description>
+   </Parameter>
+</Parameters>

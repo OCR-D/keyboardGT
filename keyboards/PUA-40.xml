@@ -1,0 +1,14 @@
+<Parameters name="PUA-40">
+   <Parameter type="4"
+              sortIndex="925"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E4CD"
+              id="00926"
+              textType="0">
+      <Description>LATIN SMALL LETTER E WITH DIAERESIS AND MACRON</Description>
+   </Parameter>
+</Parameters>

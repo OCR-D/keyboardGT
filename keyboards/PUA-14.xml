@@ -1,0 +1,62 @@
+<Parameters name="PUA-14">
+   <Parameter type="4"
+              sortIndex="1104"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0EADC"
+              id="01105"
+              textType="0">
+      <Description>LATIN SMALL LIGATURE L MIDDLE HIGH GERMAN ZED</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1105"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0EADD"
+              id="01106"
+              textType="0">
+      <Description>LATIN SMALL LIGATURE LONG S MIDDLE HIGH GERMAN ZED</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1106"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0EADE"
+              id="01107"
+              textType="0">
+      <Description>LATIN SMALL LIGATURE LONG S I MIDDLE HIGH GERMAN ZED</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1511"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0F238"
+              id="01512"
+              textType="0">
+      <Description>LATIN SMALL LETTER MIDDLE HIGH GERMAN ZED</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1512"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0F239"
+              id="01513"
+              textType="0">
+      <Description>LATIN SMALL LIGATURE I MIDDLE HIGH GERMAN ZED</Description>
+   </Parameter>
+</Parameters>

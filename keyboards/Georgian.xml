@@ -1,0 +1,14 @@
+<Parameters name="Georgian">
+   <Parameter type="4"
+              sortIndex="395"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="010FB"
+              id="00396"
+              textType="0">
+      <Description>GEORGIAN PARAGRAPH SEPARATOR</Description>
+   </Parameter>
+</Parameters>

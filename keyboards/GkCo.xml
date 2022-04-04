@@ -1,0 +1,194 @@
+<Parameters name="GkCo">
+   <Parameter type="4"
+              sortIndex="379"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="00398"
+              id="00380"
+              textType="0">
+      <Description>GREEK CAPITAL LETTER THETA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="380"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="003B1"
+              id="00381"
+              textType="0">
+      <Description>GREEK SMALL LETTER ALPHA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="381"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="003B2"
+              id="00382"
+              textType="0">
+      <Description>GREEK SMALL LETTER BETA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="382"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="003B3"
+              id="00383"
+              textType="0">
+      <Description>GREEK SMALL LETTER GAMMA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="383"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="003B4"
+              id="00384"
+              textType="0">
+      <Description>GREEK SMALL LETTER DELTA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="384"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="003B5"
+              id="00385"
+              textType="0">
+      <Description>GREEK SMALL LETTER EPSILON</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="385"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="003B6"
+              id="00386"
+              textType="0">
+      <Description>GREEK SMALL LETTER ZETA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="386"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="003B7"
+              id="00387"
+              textType="0">
+      <Description>GREEK SMALL LETTER ETA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="387"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="003B8"
+              id="00388"
+              textType="0">
+      <Description>GREEK SMALL LETTER THETA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="388"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="003B9"
+              id="00389"
+              textType="0">
+      <Description>GREEK SMALL LETTER IOTA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="389"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="003BA"
+              id="00390"
+              textType="0">
+      <Description>GREEK SMALL LETTER KAPPA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="390"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="003BB"
+              id="00391"
+              textType="0">
+      <Description>GREEK SMALL LETTER LAMDA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="391"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="003BC"
+              id="00392"
+              textType="0">
+      <Description>GREEK SMALL LETTER MU</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="392"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="003BD"
+              id="00393"
+              textType="0">
+      <Description>GREEK SMALL LETTER NU</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="393"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="003BE"
+              id="00394"
+              textType="0">
+      <Description>GREEK SMALL LETTER XI</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="394"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="003C3"
+              id="00395"
+              textType="0">
+      <Description>GREEK SMALL LETTER SIGMA</Description>
+   </Parameter>
+</Parameters>

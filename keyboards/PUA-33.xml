@@ -1,0 +1,14 @@
+<Parameters name="PUA-33">
+   <Parameter type="4"
+              sortIndex="919"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E498"
+              id="00920"
+              textType="0">
+      <Description>LATIN SMALL LETTER E WITH DOT BELOW AND ACUTE</Description>
+   </Parameter>
+</Parameters>

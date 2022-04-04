@@ -1,0 +1,62 @@
+<Parameters name="GeomShap">
+   <Parameter type="4"
+              sortIndex="656"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="025AA"
+              id="00657"
+              textType="0">
+      <Description>BLACK SMALL SQUARE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="657"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="025AB"
+              id="00658"
+              textType="0">
+      <Description>WHITE SMALL SQUARE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="658"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="025B9"
+              id="00659"
+              textType="0">
+      <Description>WHITE RIGHT-POINTING SMALL TRIANGLE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="659"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="025C3"
+              id="00660"
+              textType="0">
+      <Description>WHITE LEFT-POINTING SMALL TRIANGLE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="660"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="025CC"
+              id="00661"
+              textType="0">
+      <Description>DOTTED CIRCLE</Description>
+   </Parameter>
+</Parameters>

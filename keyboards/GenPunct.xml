@@ -1,0 +1,626 @@
+<Parameters name="GenPunct">
+   <Parameter type="4"
+              sortIndex="555"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="02000"
+              id="00556"
+              textType="0">
+      <Description>EN QUAD</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="556"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="02001"
+              id="00557"
+              textType="0">
+      <Description>EM QUAD</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="557"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="02002"
+              id="00558"
+              textType="0">
+      <Description>EN SPACE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="558"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="02003"
+              id="00559"
+              textType="0">
+      <Description>EM SPACE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="559"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="02004"
+              id="00560"
+              textType="0">
+      <Description>THREE-PER-EM SPACE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="560"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="02005"
+              id="00561"
+              textType="0">
+      <Description>FOUR-PER-EM SPACE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="561"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="02006"
+              id="00562"
+              textType="0">
+      <Description>SIX-PER-EM SPACE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="562"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="02007"
+              id="00563"
+              textType="0">
+      <Description>FIGURE SPACE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="563"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="02008"
+              id="00564"
+              textType="0">
+      <Description>PUNCTUATION SPACE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="564"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="02009"
+              id="00565"
+              textType="0">
+      <Description>THIN SPACE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="565"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0200A"
+              id="00566"
+              textType="0">
+      <Description>HAIR SPACE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="566"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0200B"
+              id="00567"
+              textType="0">
+      <Description>ZERO WIDTH SPACE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="567"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="02010"
+              id="00568"
+              textType="0">
+      <Description>HYPHEN</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="568"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="02011"
+              id="00569"
+              textType="0">
+      <Description>NON-BREAKING HYPHEN</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="569"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="02012"
+              id="00570"
+              textType="0">
+      <Description>FIGURE DASH</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="570"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="02013"
+              id="00571"
+              textType="0">
+      <Description>EN DASH</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="571"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="02014"
+              id="00572"
+              textType="0">
+      <Description>EM DASH</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="572"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="02015"
+              id="00573"
+              textType="0">
+      <Description>HORIZONTAL BAR</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="573"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="02016"
+              id="00574"
+              textType="0">
+      <Description>DOUBLE VERTICAL LINE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="574"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="02018"
+              id="00575"
+              textType="0">
+      <Description>LEFT SINGLE QUOTATION MARK</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="575"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="02019"
+              id="00576"
+              textType="0">
+      <Description>RIGHT SINGLE QUOTATION MARK</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="576"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0201A"
+              id="00577"
+              textType="0">
+      <Description>SINGLE LOW-9 QUOTATION MARK</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="577"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0201B"
+              id="00578"
+              textType="0">
+      <Description>SINGLE HIGH-REVERSED-9 QUOTATION MARK</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="578"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0201C"
+              id="00579"
+              textType="0">
+      <Description>LEFT DOUBLE QUOTATION MARK</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="579"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0201D"
+              id="00580"
+              textType="0">
+      <Description>RIGHT DOUBLE QUOTATION MARK</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="580"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0201E"
+              id="00581"
+              textType="0">
+      <Description>DOUBLE LOW-9 QUOTATION MARK</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="581"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0201F"
+              id="00582"
+              textType="0">
+      <Description>DOUBLE HIGH-REVERSED-9 QUOTATION MARK</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="582"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="02020"
+              id="00583"
+              textType="0">
+      <Description>DAGGER</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="583"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="02021"
+              id="00584"
+              textType="0">
+      <Description>DOUBLE DAGGER</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="584"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="02022"
+              id="00585"
+              textType="0">
+      <Description>BULLET</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="585"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="02023"
+              id="00586"
+              textType="0">
+      <Description>TRIANGULAR BULLET</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="586"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="02024"
+              id="00587"
+              textType="0">
+      <Description>ONE DOT LEADER</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="587"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="02025"
+              id="00588"
+              textType="0">
+      <Description>TWO DOT LEADER</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="588"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="02026"
+              id="00589"
+              textType="0">
+      <Description>HORIZONTAL ELLIPSIS</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="589"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="02027"
+              id="00590"
+              textType="0">
+      <Description>HYPHENATION POINT</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="590"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0202F"
+              id="00591"
+              textType="0">
+      <Description>NARROW NO-BREAK SPACE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="591"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="02030"
+              id="00592"
+              textType="0">
+      <Description>PER MILLE SIGN</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="592"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="02032"
+              id="00593"
+              textType="0">
+      <Description>PRIME</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="593"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="02033"
+              id="00594"
+              textType="0">
+      <Description>DOUBLE PRIME</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="594"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="02039"
+              id="00595"
+              textType="0">
+      <Description>SINGLE LEFT-POINTING ANGLE QUOTATION MARK</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="595"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0203A"
+              id="00596"
+              textType="0">
+      <Description>SINGLE RIGHT-POINTING ANGLE QUOTATION MARK</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="596"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0203B"
+              id="00597"
+              textType="0">
+      <Description>REFERENCE MARK</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="597"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="02042"
+              id="00598"
+              textType="0">
+      <Description>ASTERISM</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="598"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="02044"
+              id="00599"
+              textType="0">
+      <Description>FRACTION SLASH</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="599"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="02045"
+              id="00600"
+              textType="0">
+      <Description>LEFT SQUARE BRACKET WITH QUILL</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="600"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="02046"
+              id="00601"
+              textType="0">
+      <Description>RIGHT SQUARE BRACKET WITH QUILL</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="601"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0204A"
+              id="00602"
+              textType="0">
+      <Description>LATIN ABBREVIATION SIGN SMALL ET</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="602"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0204B"
+              id="00603"
+              textType="0">
+      <Description>REVERSED PILCROW SIGN</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="603"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="02056"
+              id="00604"
+              textType="0">
+      <Description>THREE DOT PUNCTUATION</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="604"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="02058"
+              id="00605"
+              textType="0">
+      <Description>FOUR DOT PUNCTUATION</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="605"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0205C"
+              id="00606"
+              textType="0">
+      <Description>DOTTED CROSS</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="661"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="025CF"
+              id="00662"
+              textType="0">
+      <Description>BLACK CIRCLE</Description>
+   </Parameter>
+</Parameters>

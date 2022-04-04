@@ -1,0 +1,482 @@
+<Parameters name="PUA-3">
+   <Parameter type="4"
+              sortIndex="1107"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0EAF0"
+              id="01108"
+              textType="0">
+      <Description>LATIN ENLARGED LETTER SMALL A WITH ACUTE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1108"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0EAF1"
+              id="01109"
+              textType="0">
+      <Description>LATIN ENLARGED LETTER SMALL LIGATURE AE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1109"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0EAF2"
+              id="01110"
+              textType="0">
+      <Description>LATIN LIGATURE ENLARGED LETTER SMALL A AND LATIN SMALL LETTER O</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1110"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0EAF3"
+              id="01111"
+              textType="0">
+      <Description>LATIN ENLARGED LETTER SMALL E WITH OGONEK</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1232"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0EEDF"
+              id="01233"
+              textType="0">
+      <Description>LATIN ENLARGED LETTER SMALL LONG S</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1233"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0EEE0"
+              id="01234"
+              textType="0">
+      <Description>LATIN ENLARGED LETTER SMALL A</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1234"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0EEE1"
+              id="01235"
+              textType="0">
+      <Description>LATIN ENLARGED LETTER SMALL B</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1235"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0EEE2"
+              id="01236"
+              textType="0">
+      <Description>LATIN ENLARGED LETTER SMALL C</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1236"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0EEE3"
+              id="01237"
+              textType="0">
+      <Description>LATIN ENLARGED LETTER SMALL D</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1237"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0EEE4"
+              id="01238"
+              textType="0">
+      <Description>LATIN ENLARGED LETTER D ROTUNDA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1238"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0EEE5"
+              id="01239"
+              textType="0">
+      <Description>LATIN ENLARGED LETTER SMALL ETH</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1239"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0EEE6"
+              id="01240"
+              textType="0">
+      <Description>LATIN ENLARGED LETTER SMALL E</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1240"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0EEE7"
+              id="01241"
+              textType="0">
+      <Description>LATIN ENLARGED LETTER SMALL F</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1241"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0EEE8"
+              id="01242"
+              textType="0">
+      <Description>LATIN ENLARGED LETTER SMALL G</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1242"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0EEE9"
+              id="01243"
+              textType="0">
+      <Description>LATIN ENLARGED LETTER SMALL H</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1243"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0EEEA"
+              id="01244"
+              textType="0">
+      <Description>LATIN ENLARGED LETTER SMALL I</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1244"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0EEEB"
+              id="01245"
+              textType="0">
+      <Description>LATIN ENLARGED LETTER SMALL J</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1245"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0EEEC"
+              id="01246"
+              textType="0">
+      <Description>LATIN ENLARGED LETTER SMALL K</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1246"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0EEED"
+              id="01247"
+              textType="0">
+      <Description>LATIN ENLARGED LETTER SMALL L</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1247"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0EEEE"
+              id="01248"
+              textType="0">
+      <Description>LATIN ENLARGED LETTER SMALL M</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1248"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0EEEF"
+              id="01249"
+              textType="0">
+      <Description>LATIN ENLARGED LETTER SMALL N</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1249"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0EEF0"
+              id="01250"
+              textType="0">
+      <Description>LATIN ENLARGED LETTER SMALL O</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1250"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0EEF1"
+              id="01251"
+              textType="0">
+      <Description>LATIN ENLARGED LETTER SMALL P</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1251"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0EEF2"
+              id="01252"
+              textType="0">
+      <Description>LATIN ENLARGED LETTER SMALL Q</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1252"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0EEF3"
+              id="01253"
+              textType="0">
+      <Description>LATIN ENLARGED LETTER SMALL R</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1253"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0EEF4"
+              id="01254"
+              textType="0">
+      <Description>LATIN ENLARGED LETTER SMALL S</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1254"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0EEF5"
+              id="01255"
+              textType="0">
+      <Description>LATIN ENLARGED LETTER SMALL T</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1255"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0EEF6"
+              id="01256"
+              textType="0">
+      <Description>LATIN ENLARGED LETTER SMALL THORN</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1256"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0EEF7"
+              id="01257"
+              textType="0">
+      <Description>LATIN ENLARGED LETTER SMALL U</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1257"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0EEF8"
+              id="01258"
+              textType="0">
+      <Description>LATIN ENLARGED LETTER SMALL V</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1258"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0EEF9"
+              id="01259"
+              textType="0">
+      <Description>LATIN ENLARGED LETTER SMALL W</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1259"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0EEFA"
+              id="01260"
+              textType="0">
+      <Description>LATIN ENLARGED LETTER SMALL X</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1260"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0EEFB"
+              id="01261"
+              textType="0">
+      <Description>LATIN ENLARGED LETTER SMALL Y</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1261"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0EEFC"
+              id="01262"
+              textType="0">
+      <Description>LATIN ENLARGED LETTER SMALL Z</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1262"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0EEFD"
+              id="01263"
+              textType="0">
+      <Description>LATIN ENLARGED LETTER SMALL DOTLESS I</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1263"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0EEFE"
+              id="01264"
+              textType="0">
+      <Description>LATIN ENLARGED LETTER SMALL DOTLESS J</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1264"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0EEFF"
+              id="01265"
+              textType="0">
+      <Description>LATIN ENLARGED LETTER SMALL INSULAR F</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1304"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0EFDD"
+              id="01305"
+              textType="0">
+      <Description>LATIN ENLARGED LETTER SMALL LIGATURE OE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1305"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0EFDE"
+              id="01306"
+              textType="0">
+      <Description>LATIN ENLARGED LETTER SMALL LIGATURE AO</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1306"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0EFDF"
+              id="01307"
+              textType="0">
+      <Description>LATIN ENLARGED LETTER SMALL LIGATURE AA</Description>
+   </Parameter>
+</Parameters>

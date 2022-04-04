@@ -1,0 +1,98 @@
+<Parameters name="LettSymb">
+   <Parameter type="4"
+              sortIndex="625"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="02108"
+              id="00626"
+              textType="0">
+      <Description>SCRUPLE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="626"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="02114"
+              id="00627"
+              textType="0">
+      <Description>L B BAR SYMBOL</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="627"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0211E"
+              id="00628"
+              textType="0">
+      <Description>PRESCRIPTION TAKE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="628"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0211F"
+              id="00629"
+              textType="0">
+      <Description>RESPONSE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="629"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="02123"
+              id="00630"
+              textType="0">
+      <Description>VERSICLE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="630"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="02125"
+              id="00631"
+              textType="0">
+      <Description>OUNCE SIGN</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="631"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="02132"
+              id="00632"
+              textType="0">
+      <Description>TURNED CAPITAL F</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="632"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0214E"
+              id="00633"
+              textType="0">
+      <Description>TURNED SMALL F</Description>
+   </Parameter>
+</Parameters>

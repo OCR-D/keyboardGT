@@ -1,0 +1,338 @@
+<Parameters name="PUA-7">
+   <Parameter type="4"
+              sortIndex="1343"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0F012"
+              id="01344"
+              textType="0">
+      <Description>COMBINING LATIN SMALL LETTER B</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1344"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0F013"
+              id="01345"
+              textType="0">
+      <Description>COMBINING LATIN LETTER SMALL CAPITAL B</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1345"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0F016"
+              id="01346"
+              textType="0">
+      <Description>COMBINING LATIN LETTER SMALL CAPITAL D</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1346"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0F017"
+              id="01347"
+              textType="0">
+      <Description>COMBINING LATIN SMALL LETTER F</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1347"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0F01C"
+              id="01348"
+              textType="0">
+      <Description>COMBINING LATIN LETTER SMALL CAPITAL K</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1348"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0F01F"
+              id="01349"
+              textType="0">
+      <Description>COMBINING M UNCIAL FORM</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1349"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0F025"
+              id="01350"
+              textType="0">
+      <Description>COMBINING LATIN SMALL LETTER P</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1350"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0F02A"
+              id="01351"
+              textType="0">
+      <Description>COMBINING LATIN LETTER SMALL CAPITAL T</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1351"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0F02B"
+              id="01352"
+              textType="0">
+      <Description>COMBINING LATIN SMALL LETTER Y</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1352"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0F02F"
+              id="01353"
+              textType="0">
+      <Description>COMBINING LATIN SMALL LETTER DOTLESS I</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1353"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0F030"
+              id="01354"
+              textType="0">
+      <Description>COMBINING LATIN SMALL LETTER J</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1354"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0F031"
+              id="01355"
+              textType="0">
+      <Description>COMBINING LATIN SMALL LETTER DOTLESS J</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1355"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0F032"
+              id="01356"
+              textType="0">
+      <Description>COMBINING LATIN LETTER SMALL O WITH STROKE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1356"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0F033"
+              id="01357"
+              textType="0">
+      <Description>COMBINING LATIN SMALL LETTER Q</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1357"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0F036"
+              id="01358"
+              textType="0">
+      <Description>COMBINING LATIN SMALL LIGATURE AN</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1358"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0F038"
+              id="01359"
+              textType="0">
+      <Description>COMBINING LATIN SMALL LIGATURE AR</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1359"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0F03A"
+              id="01360"
+              textType="0">
+      <Description>COMBINING LATIN SMALL LIGATURE A SMALL CAPITAL N</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1360"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0F03B"
+              id="01361"
+              textType="0">
+      <Description>COMBINING LATIN LETTER T ROTUNDA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1361"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0F03C"
+              id="01362"
+              textType="0">
+      <Description>COMBINING LATIN SMALL LETTER W</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1362"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0F03D"
+              id="01363"
+              textType="0">
+      <Description>COMBINING LATIN SMALL LETTER THORN</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1363"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0F03E"
+              id="01364"
+              textType="0">
+      <Description>COMBINING LATIN SMALL LETTER O R ROTUNDA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1364"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0F03F"
+              id="01365"
+              textType="0">
+      <Description>COMBINING LATIN SMALL LETTER O RUM</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1365"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0F040"
+              id="01366"
+              textType="0">
+      <Description>COMBINING LATIN SMALL LETTER RUM</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1411"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0F130"
+              id="01412"
+              textType="0">
+      <Description>COMBINING LATIN SMALL LIGATURE A SMALL CAPITAL R</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1412"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0F135"
+              id="01413"
+              textType="0">
+      <Description>COMBINING LATIN SMALL LETTER E WITH OGONEK</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1413"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0F136"
+              id="01414"
+              textType="0">
+      <Description>COMBINING LATIN SMALL LETTER E WITH MACRON</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1415"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0F13E"
+              id="01416"
+              textType="0">
+      <Description>COMBINING LATIN SMALL LETTER O WITH OGONEK</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1416"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0F13F"
+              id="01417"
+              textType="0">
+      <Description>COMBINING LATIN SMALL LETTER O WITH MACRON</Description>
+   </Parameter>
+</Parameters>

@@ -1,0 +1,14 @@
+<Parameters name="SupplMathOp">
+   <Parameter type="4"
+              sortIndex="669"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="02AFD"
+              id="00670"
+              textType="0">
+      <Description>PUNCTUATION MARK DOUBLE SOLIDUS</Description>
+   </Parameter>
+</Parameters>

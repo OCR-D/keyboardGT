@@ -1,0 +1,50 @@
+<Parameters name="PUA-43">
+   <Parameter type="4"
+              sortIndex="846"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E24F"
+              id="00847"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER O WITH OGONEK AND CURL</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="981"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E64F"
+              id="00982"
+              textType="0">
+      <Description>LATIN SMALL LETTER O WITH OGONEK AND CURL</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1189"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0EBF2"
+              id="01190"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER E WITH OGONEK AND CURL</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1190"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0EBF3"
+              id="01191"
+              textType="0">
+      <Description>LATIN SMALL LETTER E WITH OGONEK AND CURL</Description>
+   </Parameter>
+</Parameters>

@@ -1,0 +1,14 @@
+<Parameters name="PUA-29">
+   <Parameter type="4"
+              sortIndex="1141"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0EBBF"
+              id="01142"
+              textType="0">
+      <Description>LATIN SMALL LETTER U WITH CURLY BAR ABOVE</Description>
+   </Parameter>
+</Parameters>

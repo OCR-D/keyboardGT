@@ -1,0 +1,1154 @@
+<Parameters name="Lat1Suppl">
+   <Parameter type="4"
+              sortIndex="96"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="000A0"
+              id="00097"
+              textType="0">
+      <Description>NO-BREAK SPACE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="97"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="000A1"
+              id="00098"
+              textType="0">
+      <Description>INVERTED EXCLAMATION MARK</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="98"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="000A2"
+              id="00099"
+              textType="0">
+      <Description>CENT SIGN</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="99"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="000A3"
+              id="00100"
+              textType="0">
+      <Description>POUND SIGN</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="100"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="000A4"
+              id="00101"
+              textType="0">
+      <Description>CURRENCY SIGN</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="101"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="000A5"
+              id="00102"
+              textType="0">
+      <Description>YEN SIGN</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="102"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="000A6"
+              id="00103"
+              textType="0">
+      <Description>BROKEN BAR</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="103"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="000A7"
+              id="00104"
+              textType="0">
+      <Description>SECTION SIGN</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="104"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="000A8"
+              id="00105"
+              textType="0">
+      <Description>DIAERESIS</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="105"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="000A9"
+              id="00106"
+              textType="0">
+      <Description>COPYRIGHT SIGN</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="106"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="000AA"
+              id="00107"
+              textType="0">
+      <Description>FEMININE ORDINAL INDICATOR</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="107"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="000AB"
+              id="00108"
+              textType="0">
+      <Description>LEFT-POINTING DOUBLE ANGLE QUOTATION MARK</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="108"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="000AC"
+              id="00109"
+              textType="0">
+      <Description>NOT SIGN</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="109"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="000AD"
+              id="00110"
+              textType="0">
+      <Description>SOFT HYPHEN</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="110"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="000AE"
+              id="00111"
+              textType="0">
+      <Description>REGISTERED SIGN</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="111"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="000AF"
+              id="00112"
+              textType="0">
+      <Description>MACRON</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="112"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="000B0"
+              id="00113"
+              textType="0">
+      <Description>DEGREE SIGN</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="113"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="000B1"
+              id="00114"
+              textType="0">
+      <Description>PLUS-MINUS SIGN</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="114"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="000B2"
+              id="00115"
+              textType="0">
+      <Description>SUPERSCRIPT TWO</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="115"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="000B3"
+              id="00116"
+              textType="0">
+      <Description>SUPERSCRIPT THREE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="116"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="000B4"
+              id="00117"
+              textType="0">
+      <Description>ACUTE ACCENT</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="117"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="000B5"
+              id="00118"
+              textType="0">
+      <Description>MICRO SIGN</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="118"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="000B6"
+              id="00119"
+              textType="0">
+      <Description>PILCROW SIGN</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="119"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="000B7"
+              id="00120"
+              textType="0">
+      <Description>MIDDLE DOT</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="120"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="000B8"
+              id="00121"
+              textType="0">
+      <Description>CEDILLA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="121"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="000B9"
+              id="00122"
+              textType="0">
+      <Description>SUPERSCRIPT ONE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="122"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="000BA"
+              id="00123"
+              textType="0">
+      <Description>MASCULINE ORDINAL INDICATOR</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="123"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="000BB"
+              id="00124"
+              textType="0">
+      <Description>RIGHT-POINTING DOUBLE ANGLE QUOTATION MARK</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="124"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="000BC"
+              id="00125"
+              textType="0">
+      <Description>VULGAR FRACTION ONE QUARTER</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="125"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="000BD"
+              id="00126"
+              textType="0">
+      <Description>VULGAR FRACTION ONE HALF</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="126"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="000BE"
+              id="00127"
+              textType="0">
+      <Description>VULGAR FRACTION THREE QUARTERS</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="127"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="000BF"
+              id="00128"
+              textType="0">
+      <Description>INVERTED QUESTION MARK</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="128"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="000C0"
+              id="00129"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER A WITH GRAVE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="129"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="000C1"
+              id="00130"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER A WITH ACUTE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="130"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="000C2"
+              id="00131"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER A WITH CIRCUMFLEX</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="131"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="000C3"
+              id="00132"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER A WITH TILDE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="132"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="000C4"
+              id="00133"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER A WITH DIAERESIS</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="133"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="000C5"
+              id="00134"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER A WITH RING ABOVE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="134"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="000C6"
+              id="00135"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER AE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="135"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="000C7"
+              id="00136"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER C WITH CEDILLA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="136"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="000C8"
+              id="00137"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER E WITH GRAVE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="137"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="000C9"
+              id="00138"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER E WITH ACUTE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="138"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="000CA"
+              id="00139"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER E WITH CIRCUMFLEX</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="139"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="000CB"
+              id="00140"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER E WITH DIAERESIS</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="140"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="000CC"
+              id="00141"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER I WITH GRAVE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="141"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="000CD"
+              id="00142"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER I WITH ACUTE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="142"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="000CE"
+              id="00143"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER I WITH CIRCUMFLEX</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="143"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="000CF"
+              id="00144"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER I WITH DIAERESIS</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="144"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="000D0"
+              id="00145"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER ETH</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="145"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="000D1"
+              id="00146"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER N WITH TILDE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="146"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="000D2"
+              id="00147"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER O WITH GRAVE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="147"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="000D3"
+              id="00148"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER O WITH ACUTE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="148"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="000D4"
+              id="00149"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER O WITH CIRCUMFLEX</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="149"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="000D5"
+              id="00150"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER O WITH TILDE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="150"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="000D6"
+              id="00151"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER O WITH DIAERESIS</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="151"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="000D7"
+              id="00152"
+              textType="0">
+      <Description>MULTIPLICATION SIGN</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="152"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="000D8"
+              id="00153"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER O WITH STROKE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="153"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="000D9"
+              id="00154"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER U WITH GRAVE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="154"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="000DA"
+              id="00155"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER U WITH ACUTE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="155"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="000DB"
+              id="00156"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER U WITH CIRCUMFLEX</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="156"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="000DC"
+              id="00157"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER U WITH DIAERESIS</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="157"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="000DD"
+              id="00158"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER Y WITH ACUTE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="158"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="000DE"
+              id="00159"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER THORN</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="159"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="000DF"
+              id="00160"
+              textType="0">
+      <Description>LATIN SMALL LETTER SHARP S</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="160"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="000E0"
+              id="00161"
+              textType="0">
+      <Description>LATIN SMALL LETTER A WITH GRAVE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="161"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="000E1"
+              id="00162"
+              textType="0">
+      <Description>LATIN SMALL LETTER A WITH ACUTE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="162"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="000E2"
+              id="00163"
+              textType="0">
+      <Description>LATIN SMALL LETTER A WITH CIRCUMFLEX</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="163"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="000E3"
+              id="00164"
+              textType="0">
+      <Description>LATIN SMALL LETTER A WITH TILDE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="164"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="000E4"
+              id="00165"
+              textType="0">
+      <Description>LATIN SMALL LETTER A WITH DIAERESIS</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="165"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="000E5"
+              id="00166"
+              textType="0">
+      <Description>LATIN SMALL LETTER A WITH RING ABOVE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="166"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="000E6"
+              id="00167"
+              textType="0">
+      <Description>LATIN SMALL LETTER AE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="167"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="000E7"
+              id="00168"
+              textType="0">
+      <Description>LATIN SMALL LETTER C WITH CEDILLA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="168"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="000E8"
+              id="00169"
+              textType="0">
+      <Description>LATIN SMALL LETTER E WITH GRAVE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="169"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="000E9"
+              id="00170"
+              textType="0">
+      <Description>LATIN SMALL LETTER E WITH ACUTE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="170"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="000EA"
+              id="00171"
+              textType="0">
+      <Description>LATIN SMALL LETTER E WITH CIRCUMFLEX</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="171"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="000EB"
+              id="00172"
+              textType="0">
+      <Description>LATIN SMALL LETTER E WITH DIAERESIS</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="172"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="000EC"
+              id="00173"
+              textType="0">
+      <Description>LATIN SMALL LETTER I WITH GRAVE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="173"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="000ED"
+              id="00174"
+              textType="0">
+      <Description>LATIN SMALL LETTER I WITH ACUTE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="174"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="000EE"
+              id="00175"
+              textType="0">
+      <Description>LATIN SMALL LETTER I WITH CIRCUMFLEX</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="175"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="000EF"
+              id="00176"
+              textType="0">
+      <Description>LATIN SMALL LETTER I WITH DIAERESIS</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="176"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="000F0"
+              id="00177"
+              textType="0">
+      <Description>LATIN SMALL LETTER ETH</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="177"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="000F1"
+              id="00178"
+              textType="0">
+      <Description>LATIN SMALL LETTER N WITH TILDE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="178"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="000F2"
+              id="00179"
+              textType="0">
+      <Description>LATIN SMALL LETTER O WITH GRAVE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="179"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="000F3"
+              id="00180"
+              textType="0">
+      <Description>LATIN SMALL LETTER O WITH ACUTE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="180"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="000F4"
+              id="00181"
+              textType="0">
+      <Description>LATIN SMALL LETTER O WITH CIRCUMFLEX</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="181"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="000F5"
+              id="00182"
+              textType="0">
+      <Description>LATIN SMALL LETTER O WITH TILDE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="182"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="000F6"
+              id="00183"
+              textType="0">
+      <Description>LATIN SMALL LETTER O WITH DIAERESIS</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="183"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="000F7"
+              id="00184"
+              textType="0">
+      <Description>DIVISION SIGN</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="184"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="000F8"
+              id="00185"
+              textType="0">
+      <Description>LATIN SMALL LETTER O WITH STROKE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="185"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="000F9"
+              id="00186"
+              textType="0">
+      <Description>LATIN SMALL LETTER U WITH GRAVE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="186"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="000FA"
+              id="00187"
+              textType="0">
+      <Description>LATIN SMALL LETTER U WITH ACUTE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="187"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="000FB"
+              id="00188"
+              textType="0">
+      <Description>LATIN SMALL LETTER U WITH CIRCUMFLEX</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="188"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="000FC"
+              id="00189"
+              textType="0">
+      <Description>LATIN SMALL LETTER U WITH DIAERESIS</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="189"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="000FD"
+              id="00190"
+              textType="0">
+      <Description>LATIN SMALL LETTER Y WITH ACUTE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="190"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="000FE"
+              id="00191"
+              textType="0">
+      <Description>LATIN SMALL LETTER THORN</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="191"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="000FF"
+              id="00192"
+              textType="0">
+      <Description>LATIN SMALL LETTER Y WITH DIAERESIS</Description>
+   </Parameter>
+</Parameters>

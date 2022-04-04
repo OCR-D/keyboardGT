@@ -1,0 +1,38 @@
+<Parameters name="LatExtC">
+   <Parameter type="4"
+              sortIndex="670"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="02C75"
+              id="00671"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER HALF H</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="671"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="02C76"
+              id="00672"
+              textType="0">
+      <Description>LATIN SMALL LETTER HALF H</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="672"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="02C7D"
+              id="00673"
+              textType="0">
+      <Description>MODIFIER LETTER CAPITAL V</Description>
+   </Parameter>
+</Parameters>

@@ -1,0 +1,62 @@
+<Parameters name="PUA-41">
+   <Parameter type="4"
+              sortIndex="843"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E22D"
+              id="00844"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER O WITH DIAERESIS AND CIRCUMFLEX</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="864"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E317"
+              id="00865"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER U WITH DIAERESIS AND CIRCUMFLEX</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="895"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E41A"
+              id="00896"
+              textType="0">
+      <Description>LATIN SMALL LETTER A WITH DIAERESIS AND CIRCUMFLEX</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="974"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E62D"
+              id="00975"
+              textType="0">
+      <Description>LATIN SMALL LETTER O WITH DIAERESIS AND CIRCUMFLEX</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1003"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E717"
+              id="01004"
+              textType="0">
+      <Description>LATIN SMALL LETTER U WITH DIAERESIS AND CIRCUMFLEX</Description>
+   </Parameter>
+</Parameters>

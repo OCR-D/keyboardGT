@@ -1,0 +1,14 @@
+<Parameters name="PUA-28">
+   <Parameter type="4"
+              sortIndex="996"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E68B"
+              id="00997"
+              textType="0">
+      <Description>LATIN SMALL LETTER Q WITH STROKE THROUGH DESCENDER AND TILDE</Description>
+   </Parameter>
+</Parameters>

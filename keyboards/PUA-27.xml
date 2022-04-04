@@ -1,0 +1,50 @@
+<Parameters name="PUA-27">
+   <Parameter type="4"
+              sortIndex="961"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E5A4"
+              id="00962"
+              textType="0">
+      <Description>LATIN SMALL LETTER L WITH RING BELOW</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="964"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E5C5"
+              id="00965"
+              textType="0">
+      <Description>LATIN SMALL LETTER M WITH RING BELOW</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="968"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E5EE"
+              id="00969"
+              textType="0">
+      <Description>LATIN SMALL LETTER N WITH RING BELOW</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="997"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E6A3"
+              id="00998"
+              textType="0">
+      <Description>LATIN SMALL LETTER R WITH RING BELOW</Description>
+   </Parameter>
+</Parameters>

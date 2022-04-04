@@ -1,0 +1,14 @@
+<Parameters name="PUA-42">
+   <Parameter type="4"
+              sortIndex="896"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E41D"
+              id="00897"
+              textType="0">
+      <Description>LATIN SMALL LETTER A WITH DIAERESIS AND DOT BELOW</Description>
+   </Parameter>
+</Parameters>

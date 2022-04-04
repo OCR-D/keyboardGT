@@ -1,0 +1,1250 @@
+<Parameters name="LatExtAdd">
+   <Parameter type="4"
+              sortIndex="451"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="01E02"
+              id="00452"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER B WITH DOT ABOVE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="452"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="01E03"
+              id="00453"
+              textType="0">
+      <Description>LATIN SMALL LETTER B WITH DOT ABOVE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="453"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="01E04"
+              id="00454"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER B WITH DOT BELOW</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="454"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="01E05"
+              id="00455"
+              textType="0">
+      <Description>LATIN SMALL LETTER B WITH DOT BELOW</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="455"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="01E0A"
+              id="00456"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER D WITH DOT ABOVE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="456"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="01E0B"
+              id="00457"
+              textType="0">
+      <Description>LATIN SMALL LETTER D WITH DOT ABOVE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="457"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="01E0C"
+              id="00458"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER D WITH DOT BELOW</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="458"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="01E0D"
+              id="00459"
+              textType="0">
+      <Description>LATIN SMALL LETTER D WITH DOT BELOW</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="459"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="01E16"
+              id="00460"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER E WITH MACRON AND ACUTE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="460"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="01E17"
+              id="00461"
+              textType="0">
+      <Description>LATIN SMALL LETTER E WITH MACRON AND ACUTE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="461"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="01E1E"
+              id="00462"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER F WITH DOT ABOVE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="462"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="01E1F"
+              id="00463"
+              textType="0">
+      <Description>LATIN SMALL LETTER F WITH DOT ABOVE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="463"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="01E22"
+              id="00464"
+              textType="0">
+      <Description>LATIN SMALL LETTER H WITH DOT ABOVE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="464"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="01E23"
+              id="00465"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER H WITH DOT ABOVE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="465"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="01E24"
+              id="00466"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER H WITH DOT BELOW</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="466"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="01E25"
+              id="00467"
+              textType="0">
+      <Description>LATIN SMALL LETTER H WITH DOT BELOW</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="467"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="01E30"
+              id="00468"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER K WITH ACUTE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="468"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="01E31"
+              id="00469"
+              textType="0">
+      <Description>LATIN SMALL LETTER K WITH ACUTE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="469"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="01E32"
+              id="00470"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER K WITH DOT BELOW</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="470"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="01E33"
+              id="00471"
+              textType="0">
+      <Description>LATIN SMALL LETTER K WITH DOT BELOW</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="471"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="01E36"
+              id="00472"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER L WITH DOT BELOW</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="472"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="01E37"
+              id="00473"
+              textType="0">
+      <Description>LATIN SMALL LETTER L WITH DOT BELOW</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="473"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="01E3E"
+              id="00474"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER M WITH ACUTE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="474"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="01E3F"
+              id="00475"
+              textType="0">
+      <Description>LATIN SMALL LETTER M WITH ACUTE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="475"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="01E40"
+              id="00476"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER M WITH DOT ABOVE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="476"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="01E41"
+              id="00477"
+              textType="0">
+      <Description>LATIN SMALL LETTER M WITH DOT ABOVE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="477"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="01E42"
+              id="00478"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER M WITH DOT BELOW</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="478"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="01E43"
+              id="00479"
+              textType="0">
+      <Description>LATIN SMALL LETTER M WITH DOT BELOW</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="479"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="01E44"
+              id="00480"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER N WITH DOT ABOVE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="480"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="01E45"
+              id="00481"
+              textType="0">
+      <Description>LATIN SMALL LETTER N WITH DOT ABOVE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="481"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="01E46"
+              id="00482"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER N WITH DOT BELOW</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="482"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="01E47"
+              id="00483"
+              textType="0">
+      <Description>LATIN SMALL LETTER N WITH DOT BELOW</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="483"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="01E52"
+              id="00484"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER O WITH MACRON AND ACUTE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="484"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="01E53"
+              id="00485"
+              textType="0">
+      <Description>LATIN SMALL LETTER O WITH MACRON AND ACUTE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="485"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="01E54"
+              id="00486"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER P WITH ACUTE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="486"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="01E55"
+              id="00487"
+              textType="0">
+      <Description>LATIN SMALL LETTER P WITH ACUTE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="487"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="01E56"
+              id="00488"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER P WITH DOT ABOVE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="488"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="01E57"
+              id="00489"
+              textType="0">
+      <Description>LATIN SMALL LETTER P WITH DOT ABOVE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="489"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="01E58"
+              id="00490"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER R WITH DOT ABOVE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="490"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="01E59"
+              id="00491"
+              textType="0">
+      <Description>LATIN SMALL LETTER R WITH DOT ABOVE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="491"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="01E5A"
+              id="00492"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER R WITH DOT BELOW</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="492"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="01E5B"
+              id="00493"
+              textType="0">
+      <Description>LATIN SMALL LETTER R WITH DOT BELOW</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="493"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="01E60"
+              id="00494"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER S WITH DOT ABOVE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="494"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="01E61"
+              id="00495"
+              textType="0">
+      <Description>LATIN SMALL LETTER S WITH DOT ABOVE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="495"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="01E62"
+              id="00496"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER S WITH DOT BELOW</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="496"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="01E63"
+              id="00497"
+              textType="0">
+      <Description>LATIN SMALL LETTER S WITH DOT BELOW</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="497"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="01E6A"
+              id="00498"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER T WITH DOT ABOVE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="498"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="01E6B"
+              id="00499"
+              textType="0">
+      <Description>LATIN SMALL LETTER T WITH DOT ABOVE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="499"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="01E6C"
+              id="00500"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER T WITH DOT BELOW</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="500"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="01E6D"
+              id="00501"
+              textType="0">
+      <Description>LATIN SMALL LETTER T WITH DOT BELOW</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="501"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="01E7E"
+              id="00502"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER V WITH DOT BELOW</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="502"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="01E7F"
+              id="00503"
+              textType="0">
+      <Description>LATIN SMALL LETTER V WITH DOT BELOW</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="503"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="01E80"
+              id="00504"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER W WITH GRAVE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="504"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="01E81"
+              id="00505"
+              textType="0">
+      <Description>LATIN SMALL LETTER W WITH GRAVE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="505"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="01E82"
+              id="00506"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER W WITH ACUTE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="506"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="01E83"
+              id="00507"
+              textType="0">
+      <Description>LATIN SMALL LETTER W WITH ACUTE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="507"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="01E84"
+              id="00508"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER W WITH DIAERESIS</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="508"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="01E85"
+              id="00509"
+              textType="0">
+      <Description>LATIN SMALL LETTER W WITH DIAERESIS</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="509"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="01E86"
+              id="00510"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER W WITH DOT ABOVE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="510"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="01E87"
+              id="00511"
+              textType="0">
+      <Description>LATIN SMALL LETTER W WITH DOT ABOVE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="511"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="01E88"
+              id="00512"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER W WITH DOT BELOW</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="512"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="01E89"
+              id="00513"
+              textType="0">
+      <Description>LATIN SMALL LETTER W WITH DOT BELOW</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="513"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="01E8E"
+              id="00514"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER Y WITH DOT ABOVE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="514"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="01E8F"
+              id="00515"
+              textType="0">
+      <Description>LATIN SMALL LETTER Y WITH DOT ABOVE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="515"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="01E92"
+              id="00516"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER Z WITH DOT BELOW</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="516"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="01E93"
+              id="00517"
+              textType="0">
+      <Description>LATIN SMALL LETTER Z WITH DOT BELOW</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="517"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="01E98"
+              id="00518"
+              textType="0">
+      <Description>LATIN SMALL LETTER W WITH RING ABOVE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="518"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="01E99"
+              id="00519"
+              textType="0">
+      <Description>LATIN SMALL LETTER Y WITH RING ABOVE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="519"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="01E9C"
+              id="00520"
+              textType="0">
+      <Description>LATIN SMALL LETTER LONG S WITH DIAGONAL STROKE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="520"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="01E9D"
+              id="00521"
+              textType="0">
+      <Description>LATIN SMALL LETTER LONG S WITH HIGH STROKE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="521"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="01E9E"
+              id="00522"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER SHARP S</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="522"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="01E9F"
+              id="00523"
+              textType="0">
+      <Description>LATIN SMALL LETTER DELTA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="523"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="01EA0"
+              id="00524"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER A WITH DOT BELOW</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="524"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="01EA1"
+              id="00525"
+              textType="0">
+      <Description>LATIN SMALL LETTER A WITH DOT BELOW</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="525"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="01EA2"
+              id="00526"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER A WITH HOOK ABOVE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="526"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="01EA3"
+              id="00527"
+              textType="0">
+      <Description>LATIN SMALL LETTER A WITH HOOK ABOVE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="527"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="01EAE"
+              id="00528"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER A WITH BREVE AND ACUTE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="528"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="01EAF"
+              id="00529"
+              textType="0">
+      <Description>LATIN SMALL LETTER A WITH BREVE AND ACUTE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="529"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="01EB8"
+              id="00530"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER E WITH DOT BELOW</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="530"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="01EB9"
+              id="00531"
+              textType="0">
+      <Description>LATIN SMALL LETTER E WITH DOT BELOW</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="531"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="01EC8"
+              id="00532"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER I WITH HOOK ABOVE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="532"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="01EC9"
+              id="00533"
+              textType="0">
+      <Description>LATIN SMALL LETTER I WITH HOOK ABOVE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="533"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="01ECA"
+              id="00534"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER I WITH DOT BELOW</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="534"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="01ECB"
+              id="00535"
+              textType="0">
+      <Description>LATIN SMALL LETTER I WITH DOT BELOW</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="535"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="01ECC"
+              id="00536"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER O WITH DOT BELOW</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="536"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="01ECD"
+              id="00537"
+              textType="0">
+      <Description>LATIN SMALL LETTER O WITH DOT BELOW</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="537"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="01ECE"
+              id="00538"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER O WITH HOOK ABOVE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="538"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="01ECF"
+              id="00539"
+              textType="0">
+      <Description>LATIN SMALL LETTER O WITH HOOK ABOVE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="539"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="01EE4"
+              id="00540"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER U WITH DOT BELOW</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="540"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="01EE5"
+              id="00541"
+              textType="0">
+      <Description>LATIN SMALL LETTER U WITH DOT BELOW</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="541"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="01EE6"
+              id="00542"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER U WITH HOOK ABOVE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="542"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="01EE7"
+              id="00543"
+              textType="0">
+      <Description>LATIN SMALL LETTER U WITH HOOK ABOVE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="543"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="01EF2"
+              id="00544"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER Y WITH GRAVE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="544"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="01EF3"
+              id="00545"
+              textType="0">
+      <Description>LATIN SMALL LETTER Y WITH GRAVE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="545"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="01EF4"
+              id="00546"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER Y WITH DOT BELOW</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="546"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="01EF5"
+              id="00547"
+              textType="0">
+      <Description>LATIN SMALL LETTER Y WITH DOT BELOW</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="547"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="01EF6"
+              id="00548"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER Y WITH HOOK ABOVE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="548"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="01EF7"
+              id="00549"
+              textType="0">
+      <Description>LATIN SMALL LETTER Y WITH HOOK ABOVE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="549"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="01EFA"
+              id="00550"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER MIDDLE-WELSH LL</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="550"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="01EFB"
+              id="00551"
+              textType="0">
+      <Description>LATIN SMALL LETTER MIDDLE-WELSH LL</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="551"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="01EFC"
+              id="00552"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER MIDDLE-WELSH V</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="552"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="01EFD"
+              id="00553"
+              textType="0">
+      <Description>LATIN SMALL LETTER MIDDLE-WELSH V</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="553"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="01EFE"
+              id="00554"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER Y WITH LOOP</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="554"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="01EFF"
+              id="00555"
+              textType="0">
+      <Description>LATIN SMALL LETTER Y WITH LOOP</Description>
+   </Parameter>
+</Parameters>

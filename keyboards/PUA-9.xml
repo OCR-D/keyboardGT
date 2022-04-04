@@ -1,0 +1,26 @@
+<Parameters name="PUA-9">
+   <Parameter type="4"
+              sortIndex="1452"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0F1DA"
+              id="01453"
+              textType="0">
+      <Description>MIDDLE RING</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1453"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0F1DB"
+              id="01454"
+              textType="0">
+      <Description>PALM BRANCH</Description>
+   </Parameter>
+</Parameters>

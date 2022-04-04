@@ -1,0 +1,290 @@
+<Parameters name="PUA-8">
+   <Parameter type="4"
+              sortIndex="1422"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0F160"
+              id="01423"
+              textType="0">
+      <Description>PUNCTUS INTERROGATIVUS</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1423"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0F161"
+              id="01424"
+              textType="0">
+      <Description>PUNCTUS ELEVATUS</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1451"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0F1D2"
+              id="01452"
+              textType="0">
+      <Description>TRIPLE DAGGER</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1454"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0F1E0"
+              id="01455"
+              textType="0">
+      <Description>MEDIEVAL COMMA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1455"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0F1E1"
+              id="01456"
+              textType="0">
+      <Description>PARAGRAPHUS</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1456"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0F1E2"
+              id="01457"
+              textType="0">
+      <Description>COMMA POSITURA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1457"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0F1E3"
+              id="01458"
+              textType="0">
+      <Description>HIGH COMMA POSITURA (SIMPLEX DUCTUS)</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1458"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0F1E4"
+              id="01459"
+              textType="0">
+      <Description>PUNCTUS WITH COMMA POSITURA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1459"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0F1E5"
+              id="01460"
+              textType="0">
+      <Description>COLON WITH MIDDLE COMMA POSITURA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1460"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0F1E6"
+              id="01461"
+              textType="0">
+      <Description>THREE DOTS WITH COMMA POSITURA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1461"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0F1E7"
+              id="01462"
+              textType="0">
+      <Description>PUNCTUS EXCLAMATIVUS</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1462"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0F1E8"
+              id="01463"
+              textType="0">
+      <Description>PUNCTUS INTERROGATIVUS HORIZONTAL TILDE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1463"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0F1EA"
+              id="01464"
+              textType="0">
+      <Description>PUNCTUS VERSUS</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1464"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0F1EC"
+              id="01465"
+              textType="0">
+      <Description>SIGNE DE RENVOI</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1465"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0F1F0"
+              id="01466"
+              textType="0">
+      <Description>PUNCTUS ELEVATUS DIAGONAL STROKE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1466"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0F1F1"
+              id="01467"
+              textType="0">
+      <Description>PUNCTUS INTERROGATIVUS LEMNISKATE FORM</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1467"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0F1F2"
+              id="01468"
+              textType="0">
+      <Description>TWO DOTS OVER COMMA POSITURA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1468"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0F1F4"
+              id="01469"
+              textType="0">
+      <Description>VIRGULA SUSPENSIVA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1469"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0F1F5"
+              id="01470"
+              textType="0">
+      <Description>PUNCTUS FLEXUS</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1470"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0F1F7"
+              id="01471"
+              textType="0">
+      <Description>SHORT VIRGULA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1471"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0F1F8"
+              id="01472"
+              textType="0">
+      <Description>DISTINCTIO</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1472"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0F1F9"
+              id="01473"
+              textType="0">
+      <Description>WAVY LINE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1473"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0F1FA"
+              id="01474"
+              textType="0">
+      <Description>PUNCTUS ELEVATUS WITH HIGH BACK</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1474"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0F1FB"
+              id="01475"
+              textType="0">
+      <Description>PUNCTUS ELEVATUS WITH ONSET</Description>
+   </Parameter>
+</Parameters>

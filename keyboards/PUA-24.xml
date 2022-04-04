@@ -1,0 +1,26 @@
+<Parameters name="PUA-24">
+   <Parameter type="4"
+              sortIndex="947"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E548"
+              id="00948"
+              textType="0">
+      <Description>LATIN SMALL LETTER I WITH INVERTED BREVE BELOW</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1005"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E727"
+              id="01006"
+              textType="0">
+      <Description>LATIN SMALL LETTER U WITH INVERTED BREVE BELOW</Description>
+   </Parameter>
+</Parameters>

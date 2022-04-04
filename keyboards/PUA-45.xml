@@ -1,0 +1,14 @@
+<Parameters name="PUA-45">
+   <Parameter type="4"
+              sortIndex="897"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E41F"
+              id="00898"
+              textType="0">
+      <Description>LATIN SMALL LETTER A WITH RING ABOVE AND CIRCUMFLEX</Description>
+   </Parameter>
+</Parameters>

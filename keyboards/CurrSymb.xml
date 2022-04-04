@@ -1,0 +1,14 @@
+<Parameters name="CurrSymb">
+   <Parameter type="4"
+              sortIndex="624"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="020B0"
+              id="00625"
+              textType="0">
+      <Description>GERMAN PENNY SIGN</Description>
+   </Parameter>
+</Parameters>

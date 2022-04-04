@@ -1,0 +1,14 @@
+<Parameters name="LatExtE">
+   <Parameter type="4"
+              sortIndex="788"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0AB57"
+              id="00789"
+              textType="0">
+      <Description>LATIN SMALL LETTER X WITH LONG LEFT LEG</Description>
+   </Parameter>
+</Parameters>

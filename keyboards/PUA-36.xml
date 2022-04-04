@@ -1,0 +1,110 @@
+<Parameters name="PUA-36">
+   <Parameter type="4"
+              sortIndex="789"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E004"
+              id="00790"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER A WITH OGONEK AND ACUTE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="808"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E099"
+              id="00809"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER E WITH OGONEK AND ACUTE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="841"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E20C"
+              id="00842"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER O WITH OGONEK AND ACUTE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="850"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E257"
+              id="00851"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER O WITH STROKE AND OGONEK AND ACUTE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="892"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E404"
+              id="00893"
+              textType="0">
+      <Description>LATIN SMALL LETTER A WITH OGONEK AND ACUTE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="920"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E499"
+              id="00921"
+              textType="0">
+      <Description>LATIN SMALL LETTER E WITH OGONEK AND ACUTE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="970"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E60C"
+              id="00971"
+              textType="0">
+      <Description>LATIN SMALL LETTER O WITH OGONEK AND ACUTE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="985"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E657"
+              id="00986"
+              textType="0">
+      <Description>LATIN SMALL LETTER O WITH STROKE AND OGONEK AND ACUTE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1078"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E8D3"
+              id="01079"
+              textType="0">
+      <Description>LATIN SMALL LETTER AE WITH OGONEK AND ACUTE</Description>
+   </Parameter>
+</Parameters>

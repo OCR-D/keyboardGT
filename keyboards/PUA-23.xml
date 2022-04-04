@@ -1,0 +1,74 @@
+<Parameters name="PUA-23">
+   <Parameter type="4"
+              sortIndex="798"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E03F"
+              id="00799"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER AE WITH BREVE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="882"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E376"
+              id="00883"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER Y WITH BREVE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="907"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E43F"
+              id="00908"
+              textType="0">
+      <Description>LATIN SMALL LETTER AE WITH BREVE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1030"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E776"
+              id="01031"
+              textType="0">
+      <Description>LATIN SMALL LETTER Y WITH BREVE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1185"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0EBEE"
+              id="01186"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER O WITH STROKE AND BREVE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1186"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0EBEF"
+              id="01187"
+              textType="0">
+      <Description>LATIN SMALL LETTER O WITH STROKE AND BREVE</Description>
+   </Parameter>
+</Parameters>

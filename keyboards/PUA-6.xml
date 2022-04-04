@@ -1,0 +1,122 @@
+<Parameters name="PUA-6">
+   <Parameter type="4"
+              sortIndex="1419"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0F153"
+              id="01420"
+              textType="0">
+      <Description>COMBINING ABBREVIATION MARK SUPERSCRIPT UR ROUND R FORM</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1441"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0F1C0"
+              id="01442"
+              textType="0">
+      <Description>COMBINING ABBREVIATION MARK BAR ABOVE WITH DOT</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1442"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0F1C1"
+              id="01443"
+              textType="0">
+      <Description>COMBINING ABBREVIATION MARK SUPERSCRIPT RA OPEN A FORM WITH BAR ABOVE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1443"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0F1C2"
+              id="01444"
+              textType="0">
+      <Description>COMBINING ABBREVIATION MARK SUPERSCRIPT UR LEMNISKATE FORM</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1444"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0F1C5"
+              id="01445"
+              textType="0">
+      <Description>COMBINING CURL HIGH POSITION</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1445"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0F1C7"
+              id="01446"
+              textType="0">
+      <Description>COMBINING ABBREVIATION MARK ZIGZAG ABOVE ANGLE FORM</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1446"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0F1C8"
+              id="01447"
+              textType="0">
+      <Description>COMBINING ABBREVIATION MARK ZIGZAG ABOVE CURLY FORM</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1447"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0F1CA"
+              id="01448"
+              textType="0">
+      <Description>COMBINING DOT ABOVE HIGH POSITION</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1448"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0F1CC"
+              id="01449"
+              textType="0">
+      <Description>COMBINING CURLY BAR ABOVE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1475"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0F1FC"
+              id="01476"
+              textType="0">
+      <Description>COMBINING TRIPLE BREVE BELOW</Description>
+   </Parameter>
+</Parameters>

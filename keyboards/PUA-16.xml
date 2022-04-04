@@ -1,0 +1,470 @@
+<Parameters name="PUA-16">
+   <Parameter type="4"
+              sortIndex="803"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E044"
+              id="00804"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER B WITH ACUTE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="806"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E077"
+              id="00807"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER D WITH ACUTE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="820"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E0F0"
+              id="00821"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER F WITH ACUTE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="822"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E116"
+              id="00823"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER H WITH ACUTE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="830"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E153"
+              id="00831"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER J WITH ACUTE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="851"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E259"
+              id="00852"
+              textType="0">
+      <Description>LATIN CAPITAL LIGATURE OE WITH ACUTE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="859"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E2E2"
+              id="00860"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER T WITH ACUTE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="870"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E33A"
+              id="00871"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER V WITH ACUTE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="912"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E444"
+              id="00913"
+              textType="0">
+      <Description>LATIN SMALL LETTER B WITH ACUTE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="916"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E477"
+              id="00917"
+              textType="0">
+      <Description>LATIN SMALL LETTER D WITH ACUTE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="937"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E4F0"
+              id="00938"
+              textType="0">
+      <Description>LATIN SMALL LETTER F WITH ACUTE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="941"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E516"
+              id="00942"
+              textType="0">
+      <Description>LATIN SMALL LETTER H WITH ACUTE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="953"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E553"
+              id="00954"
+              textType="0">
+      <Description>LATIN SMALL LETTER J WITH ACUTE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="986"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E659"
+              id="00987"
+              textType="0">
+      <Description>LATIN SMALL LIGATURE OE WITH ACUTE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="998"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E6E2"
+              id="00999"
+              textType="0">
+      <Description>LATIN SMALL LETTER T WITH ACUTE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1013"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E737"
+              id="01014"
+              textType="0">
+      <Description>LATIN SMALL LETTER THORN WITH ACUTE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1014"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E73A"
+              id="01015"
+              textType="0">
+      <Description>LATIN SMALL LETTER V WITH ACUTE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1126"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0EBAF"
+              id="01127"
+              textType="0">
+      <Description>LATIN SMALL LETTER LONG S WITH ACUTE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1127"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0EBB0"
+              id="01128"
+              textType="0">
+      <Description>LATIN CAPITAL LIGATURE AV WITH STROKE AND ACUTE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1128"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0EBB1"
+              id="01129"
+              textType="0">
+      <Description>LATIN SMALL LIGATURE AV WITH STROKE AND ACUTE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1129"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0EBB2"
+              id="01130"
+              textType="0">
+      <Description>LATIN SMALL LETTER D ROTUNDA WITH ACUTE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1130"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0EBB3"
+              id="01131"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER INSULAR F WITH ACUTE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1131"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0EBB4"
+              id="01132"
+              textType="0">
+      <Description>LATIN SMALL LETTER INSULAR F WITH ACUTE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1132"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0EBB5"
+              id="01133"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER UNCIAL M WITH ACUTE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1133"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0EBB6"
+              id="01134"
+              textType="0">
+      <Description>LATIN SMALL LETTER UNCIAL M WITH ACUTE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1136"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0EBB9"
+              id="01137"
+              textType="0">
+      <Description>LATIN SMALL LETTER R ROTUNDA WITH ACUTE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1137"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0EBBA"
+              id="01138"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER INSULAR V (VEND) WITH ACUTE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1138"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0EBBB"
+              id="01139"
+              textType="0">
+      <Description>LATIN SMALL LETTER INSULAR V (VEND) WITH ACUTE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1307"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0EFE0"
+              id="01308"
+              textType="0">
+      <Description>LATIN CAPITAL LIGATURE AA WITH ACUTE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1308"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0EFE1"
+              id="01309"
+              textType="0">
+      <Description>LATIN SMALL LIGATURE AA WITH ACUTE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1309"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0EFE2"
+              id="01310"
+              textType="0">
+      <Description>LATIN CAPITAL LIGATURE AO WITH ACUTE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1310"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0EFE3"
+              id="01311"
+              textType="0">
+      <Description>LATIN SMALL LIGATURE AO WITH ACUTE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1311"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0EFE4"
+              id="01312"
+              textType="0">
+      <Description>LATIN CAPITAL LIGATURE AU WITH ACUTE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1312"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0EFE5"
+              id="01313"
+              textType="0">
+      <Description>LATIN SMALL LIGATURE AU WITH ACUTE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1313"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0EFE6"
+              id="01314"
+              textType="0">
+      <Description>LATIN CAPITAL LIGATURE AV WITH ACUTE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1314"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0EFE7"
+              id="01315"
+              textType="0">
+      <Description>LATIN SMALL LIGATURE AV WITH ACUTE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1315"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0EFE8"
+              id="01316"
+              textType="0">
+      <Description>LATIN CAPITAL LIGATURE OO WITH ACUTE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1316"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0EFE9"
+              id="01317"
+              textType="0">
+      <Description>LATIN SMALL LIGATURE OO WITH ACUTE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1516"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0F23E"
+              id="01517"
+              textType="0">
+      <Description>LATIN SMALL LETTER M UNCIAL FORM WITH ACUTE ACCENT</Description>
+   </Parameter>
+</Parameters>

@@ -1,0 +1,50 @@
+<Parameters name="Arrows">
+   <Parameter type="4"
+              sortIndex="638"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="02190"
+              id="00639"
+              textType="0">
+      <Description>LEFTWARDS ARROW</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="639"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="02191"
+              id="00640"
+              textType="0">
+      <Description>UPWARDS ARROW</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="640"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="02192"
+              id="00641"
+              textType="0">
+      <Description>RIGHTWARDS ARROW</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="641"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="02193"
+              id="00642"
+              textType="0">
+      <Description>DOWNWARDS ARROW</Description>
+   </Parameter>
+</Parameters>

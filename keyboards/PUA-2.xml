@@ -1,0 +1,38 @@
+<Parameters name="PUA-2">
+   <Parameter type="4"
+              sortIndex="1265"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0EF0C"
+              id="01266"
+              textType="0">
+      <Description>LATIN LETTER SMALL CAPITAL Q</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1266"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0EF11"
+              id="01267"
+              textType="0">
+      <Description>LATIN LETTER SMALL CAPITAL X</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1267"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0EF15"
+              id="01268"
+              textType="0">
+      <Description>LATIN LETTER SMALL CAPITAL THORN</Description>
+   </Parameter>
+</Parameters>

@@ -1,0 +1,50 @@
+<Parameters name="MiMaSymbA">
+   <Parameter type="4"
+              sortIndex="665"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="027E6"
+              id="00666"
+              textType="0">
+      <Description>LEFT WHITE SQUARE BRACKET</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="666"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="027E7"
+              id="00667"
+              textType="0">
+      <Description>RIGHT WHITE SQUARE BRACKET</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="667"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="027E8"
+              id="00668"
+              textType="0">
+      <Description>LEFT ANGLE BRACKET</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="668"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="027E9"
+              id="00669"
+              textType="0">
+      <Description>RIGHT ANGLE BRACKET</Description>
+   </Parameter>
+</Parameters>

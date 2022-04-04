@@ -1,0 +1,38 @@
+<Parameters name="PUA-13">
+   <Parameter type="4"
+              sortIndex="1021"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E74E"
+              id="01022"
+              textType="0">
+      <Description>LATIN SMALL LETTER V WITH BAR</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1031"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E77B"
+              id="01032"
+              textType="0">
+      <Description>LATIN SMALL LETTER Y WITH BAR</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1039"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E7B2"
+              id="01040"
+              textType="0">
+      <Description>LATIN SMALL LETTER N WITH BAR</Description>
+   </Parameter>
+</Parameters>

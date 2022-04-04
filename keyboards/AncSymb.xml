@@ -1,0 +1,134 @@
+<Parameters name="AncSymb">
+   <Parameter type="4"
+              sortIndex="1592"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="010190"
+              id="01593"
+              textType="0">
+      <Description>ROMAN SEXTANS SIGN</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1593"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="010191"
+              id="01594"
+              textType="0">
+      <Description>ROMAN UNCIA SIGN</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1594"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="010192"
+              id="01595"
+              textType="0">
+      <Description>ROMAN SEMIUNCIA SIGN</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1595"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="010193"
+              id="01596"
+              textType="0">
+      <Description>ROMAN SEXTULA SIGN</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1596"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="010194"
+              id="01597"
+              textType="0">
+      <Description>ROMAN DIMIDIA SEXTULA SIGN</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1597"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="010195"
+              id="01598"
+              textType="0">
+      <Description>ROMAN SILIQUA SIGN</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1598"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="010196"
+              id="01599"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER X WITH BAR</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1599"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="010197"
+              id="01600"
+              textType="0">
+      <Description>ROMAN QUINARIUS SIGN</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1600"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="010198"
+              id="01601"
+              textType="0">
+      <Description>SESTERTIA SIGN</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1601"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="010199"
+              id="01602"
+              textType="0">
+      <Description>ROMAN DUPONDIUS SIGN</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1602"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="01019A"
+              id="01603"
+              textType="0">
+      <Description>ROMAN AS SIGN</Description>
+   </Parameter>
+</Parameters>

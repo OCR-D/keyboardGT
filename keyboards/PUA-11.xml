@@ -1,0 +1,62 @@
+<Parameters name="PUA-11">
+   <Parameter type="4"
+              sortIndex="1438"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0F1BD"
+              id="01439"
+              textType="0">
+      <Description>SMALL BASE LINE ZERO SIGN</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1439"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0F1BE"
+              id="01440"
+              textType="0">
+      <Description>MODIFIER CAPITAL LETTER V</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1440"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0F1BF"
+              id="01441"
+              textType="0">
+      <Description>MODIFIER LETTER CAPITAL X</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1545"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0F2FE"
+              id="01546"
+              textType="0">
+      <Description>ROMAN NUMERAL CAPITAL C WITH TWO BARS</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1546"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0F2FF"
+              id="01547"
+              textType="0">
+      <Description>ROMAN NUMERAL SMALL C WITH TWO BARS</Description>
+   </Parameter>
+</Parameters>

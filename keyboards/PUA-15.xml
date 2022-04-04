@@ -1,0 +1,542 @@
+<Parameters name="PUA-15">
+   <Parameter type="4"
+              sortIndex="810"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E0BC"
+              id="00811"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER E WITH OGONEK AND MACRON</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="827"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E150"
+              id="00828"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER I WITH HIGH OVERLINE (ABOVE CHARACTER)</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="829"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E152"
+              id="00830"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER J WITH HIGH OVERLINE (ABOVE CHARACTER)</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="831"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E154"
+              id="00832"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER J WITH HIGH MACRON (ABOVE CHARACTER)</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="837"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E1B8"
+              id="00838"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER M WITH HIGH MACRON (ABOVE CHARACTER)</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="838"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E1D2"
+              id="00839"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER M WITH HIGH OVERLINE (ABOVE CHARACTER)</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="839"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E1DC"
+              id="00840"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER N WITH HIGH MACRON (ABOVE CHARACTER)</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="847"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E252"
+              id="00848"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER O WITH STROKE AND MACRON</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="852"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E25D"
+              id="00853"
+              textType="0">
+      <Description>LATIN CAPITAL LIGATURE OE WITH MACRON</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="875"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E34D"
+              id="00876"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER V WITH MACRON</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="879"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E357"
+              id="00880"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER W WITH MACRON</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="913"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E44D"
+              id="00914"
+              textType="0">
+      <Description>LATIN SMALL LETTER B WITH MEDIUM-HIGH OVERLINE (ACROSS ASCENDER)</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="918"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E491"
+              id="00919"
+              textType="0">
+      <Description>LATIN SMALL LETTER D WITH MEDIUM-HIGH OVERLINE (ACROSS ASCENDER)</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="923"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E4BC"
+              id="00924"
+              textType="0">
+      <Description>LATIN SMALL LETTER E WITH OGONEK AND MACRON</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="942"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E517"
+              id="00943"
+              textType="0">
+      <Description>LATIN SMALL LETTER H WITH MEDIUM-HIGH OVERLINE (ACROSS ASCENDER)</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="950"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E550"
+              id="00951"
+              textType="0">
+      <Description>LATIN SMALL LETTER I WITH MEDIUM-HIGH OVERLINE (ABOVE CHARACTER)</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="952"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E552"
+              id="00953"
+              textType="0">
+      <Description>LATIN SMALL LETTER J WITH MEDIUM-HIGH OVERLINE (ABOVE CHARACTER)</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="954"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E554"
+              id="00955"
+              textType="0">
+      <Description>LATIN SMALL LETTER J WITH MEDIUM-HIGH MACRON (ABOVE CHARACTER)</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="958"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E58C"
+              id="00959"
+              textType="0">
+      <Description>LATIN SMALL LETTER L WITH HIGH OVERLINE (ABOVE CHARACTER)</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="959"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E596"
+              id="00960"
+              textType="0">
+      <Description>LATIN SMALL LETTER L WITH HIGH MACRON (ABOVE CHARACTER)</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="962"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E5B1"
+              id="00963"
+              textType="0">
+      <Description>LATIN SMALL LETTER L WITH MEDIUM-HIGH OVERLINE (ACROSS ASCENDER)</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="963"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E5B8"
+              id="00964"
+              textType="0">
+      <Description>LATIN SMALL LETTER M WITH MEDIUM-HIGH MACRON (ABOVE CHARACTER)</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="965"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E5D2"
+              id="00966"
+              textType="0">
+      <Description>LATIN SMALL LETTER M WITH MEDIUM-HIGH OVERLINE (ABOVE CHARACTER)</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="967"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E5DC"
+              id="00968"
+              textType="0">
+      <Description>LATIN SMALL LETTER N WITH MEDIUM-HIGH MACRON (ABOVE CHARACTER)</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="982"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E652"
+              id="00983"
+              textType="0">
+      <Description>LATIN SMALL LETTER O WITH STROKE AND MACRON</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="987"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E65D"
+              id="00988"
+              textType="0">
+      <Description>LATIN SMALL LIGATURE OE WITH MACRON</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="990"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E665"
+              id="00991"
+              textType="0">
+      <Description>LATIN SMALL LETTER P WITH MACRON</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="993"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E681"
+              id="00994"
+              textType="0">
+      <Description>LATIN SMALL LETTER Q WITH MACRON</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1020"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E74D"
+              id="01021"
+              textType="0">
+      <Description>LATIN SMALL LETTER V WITH MACRON</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1026"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E757"
+              id="01027"
+              textType="0">
+      <Description>LATIN SMALL LETTER W WITH MACRON</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1036"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E79E"
+              id="01037"
+              textType="0">
+      <Description>LATIN SMALL LETTER LONG S WITH MEDIUM-HIGH OVERLINE (ACROSS ASCENDER)</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1038"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E7A2"
+              id="01039"
+              textType="0">
+      <Description>LATIN SMALL LETTER THORN WITH MEDIUM-HIGH OVERLINE (ACROSS ASCENDER)</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1042"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E7C3"
+              id="01043"
+              textType="0">
+      <Description>LATIN SMALL LETTER K WITH MEDIUM-HIGH OVERLINE (ACROSS ASCENDER)</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1045"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E7CC"
+              id="01046"
+              textType="0">
+      <Description>LATIN SMALL LETTER OPEN O WITH MACRON</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1339"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0F00A"
+              id="01340"
+              textType="0">
+      <Description>COMBINING HIGH MACRON WITH FIXED HEIGHT (PART-WIDTH)</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1340"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0F00B"
+              id="01341"
+              textType="0">
+      <Description>COMBINING MEDIUM-HIGH MACRON WITH FIXED HEIGHT (PART-WIDTH)</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1341"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0F00C"
+              id="01342"
+              textType="0">
+      <Description>COMBINING HIGH OVERLINE WITH FIXED HEIGHT (FULL-WIDTH)</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1342"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0F00D"
+              id="01343"
+              textType="0">
+      <Description>COMBINING MEDIUM-HIGH OVERLINE WITH FIXED HEIGHT (FULL-WIDTH)</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1517"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0F23F"
+              id="01518"
+              textType="0">
+      <Description>ROMAN NUMERAL REVERSED ONE HUNDRED WITH OVERLINE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1579"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0F7B2"
+              id="01580"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER V WITH HIGH OVERLINE (ABOVE CHARACTER)</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1580"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0F7B3"
+              id="01581"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER X WITH HIGH OVERLINE (ABOVE CHARACTER)</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1581"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0F7B4"
+              id="01582"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER L WITH HIGH OVERLINE (ABOVE CHARACTER)</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1582"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0F7B5"
+              id="01583"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER C WITH HIGH OVERLINE (ABOVE CHARACTER)</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1583"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0F7B6"
+              id="01584"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER D WITH HIGH OVERLINE (ABOVE CHARACTER)</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1584"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0F800"
+              id="01585"
+              textType="0">
+      <Description>MUFI DOUBLE DOLPHIN SIGN</Description>
+   </Parameter>
+</Parameters>

@@ -1,0 +1,338 @@
+<Parameters name="PUA-5">
+   <Parameter type="4"
+              sortIndex="869"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E337"
+              id="00870"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER THORN WITH DIAGONAL STROKE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1011"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E734"
+              id="01012"
+              textType="0">
+      <Description>LATIN SMALL LIGATURE THORN AND LONG S</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1012"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E735"
+              id="01013"
+              textType="0">
+      <Description>LATIN SMALL LIGATURE THORN AND LONG S WITH STROKE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1043"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E7C7"
+              id="01044"
+              textType="0">
+      <Description>LATIN SMALL LIGATURE H AND LONG S WITH STROKE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1044"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E7C8"
+              id="01045"
+              textType="0">
+      <Description>LATIN SMALL LIGATURE K AND LONG S WITH STROKE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1048"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E7E4"
+              id="01049"
+              textType="0">
+      <Description>LATIN SMALL LETTER R WITH LONG LEG AND STROKE THROUGH DESCENDER</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1052"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E8A1"
+              id="01053"
+              textType="0">
+      <Description>LATIN SMALL LETTER I WITH TWO STROKES</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1053"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E8A2"
+              id="01054"
+              textType="0">
+      <Description>LATIN SMALL LETTER J WITH TWO STROKES</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1058"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E8B3"
+              id="01059"
+              textType="0">
+      <Description>LATIN SMALL LETTER Q LIGATED WITH R ROTUNDA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1059"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E8B4"
+              id="01060"
+              textType="0">
+      <Description>LATIN SMALL LETTER Q WITH CENTRAL SLANTED STROKE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1060"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E8B7"
+              id="01061"
+              textType="0">
+      <Description>LATIN SMALL LETTER LONG S WITH FLOURISH</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1061"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E8B8"
+              id="01062"
+              textType="0">
+      <Description>LATIN SMALL LETTER LONG S WITH SLANTED DESCENDING STROKE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1062"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E8BA"
+              id="01063"
+              textType="0">
+      <Description>LATIN SMALL LETTER V WITH SHORT SLASH</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1063"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E8BB"
+              id="01064"
+              textType="0">
+      <Description>LATIN SMALL LETTER V WITH SHORT SLASH ABOVE RIGHT</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1064"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E8BC"
+              id="01065"
+              textType="0">
+      <Description>LATIN SMALL LETTER V WITH TWO SHORT SLASHES ABOVE RIGHT</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1065"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E8BD"
+              id="01066"
+              textType="0">
+      <Description>LATIN SMALL LETTER X WITH SHORT SLASH ABOVE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1066"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E8BE"
+              id="01067"
+              textType="0">
+      <Description>LATIN SMALL LETTER X WITH SHORT SLASH BELOW</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1067"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E8BF"
+              id="01068"
+              textType="0">
+      <Description>LATIN SMALL LETTER Q LIGATED WITH FINAL ET</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1076"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E8CE"
+              id="01077"
+              textType="0">
+      <Description>LATIN SMALL LETTER X WITH TWO SHORT SLASHES BELOW RIGHT</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1081"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E8DA"
+              id="01082"
+              textType="0">
+      <Description>ANTIPHON</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1082"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E8DB"
+              id="01083"
+              textType="0">
+      <Description>HYMNUS</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1083"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E8DC"
+              id="01084"
+              textType="0">
+      <Description>LATIN CAPITAL SIGN PSALMUS</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1084"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E8DD"
+              id="01085"
+              textType="0">
+      <Description>LATIN SMALL SIGN PSALMUS</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1085"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E8DE"
+              id="01086"
+              textType="0">
+      <Description>LATIN CAPITAL SIGN PSALMI</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1086"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E8DF"
+              id="01087"
+              textType="0">
+      <Description>LATIN SMALL SIGN PSALMI</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1124"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0EBAD"
+              id="01125"
+              textType="0">
+      <Description>LATIN SMALL LIGATURE H AND LONG S</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1125"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0EBAE"
+              id="01126"
+              textType="0">
+      <Description>LATIN SMALL LIGATURE K AND LONG S</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1418"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0F149"
+              id="01419"
+              textType="0">
+      <Description>LATIN SMALL LETTER THORN WITH DIAGONAL STROKE</Description>
+   </Parameter>
+</Parameters>

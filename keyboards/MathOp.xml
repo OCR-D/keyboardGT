@@ -1,0 +1,122 @@
+<Parameters name="MathOp">
+   <Parameter type="4"
+              sortIndex="642"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="02212"
+              id="00643"
+              textType="0">
+      <Description>MINUS</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="643"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0221E"
+              id="00644"
+              textType="0">
+      <Description>INFINITY</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="644"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="02227"
+              id="00645"
+              textType="0">
+      <Description>LOGICAL AND</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="645"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="02234"
+              id="00646"
+              textType="0">
+      <Description>THEREFORE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="646"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="02235"
+              id="00647"
+              textType="0">
+      <Description>BECAUSE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="647"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="02237"
+              id="00648"
+              textType="0">
+      <Description>PROPORTION</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="648"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0223B"
+              id="00649"
+              textType="0">
+      <Description>HOMOTHETIC</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="649"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="02248"
+              id="00650"
+              textType="0">
+      <Description>ALMOST EQUAL TO</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="650"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="02260"
+              id="00651"
+              textType="0">
+      <Description>NOT EQUAL TO</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="651"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="022D7"
+              id="00652"
+              textType="0">
+      <Description>GREATER-THAN WITH DOT</Description>
+   </Parameter>
+</Parameters>

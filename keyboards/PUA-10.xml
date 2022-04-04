@@ -1,0 +1,278 @@
+<Parameters name="PUA-10">
+   <Parameter type="4"
+              sortIndex="1556"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0F700"
+              id="01557"
+              textType="0">
+      <Description>METRICAL SYMBOL LONGUM</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1557"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0F701"
+              id="01558"
+              textType="0">
+      <Description>METRICAL SYMBOL BREVE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1558"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0F702"
+              id="01559"
+              textType="0">
+      <Description>METRICAL SYMBOL BREVE ABOVE LONGUM (SHORT OR LONG SYLLABLE)</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1559"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0F703"
+              id="01560"
+              textType="0">
+      <Description>METRICAL SYMBOL LONGUM ABOVE BREVE (SHORT OR LONG SYLLABLE)</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1560"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0F704"
+              id="01561"
+              textType="0">
+      <Description>METRICAL SYMBOL LONGUM WITH ACUTE (PRIMARY STRESS)</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1561"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0F705"
+              id="01562"
+              textType="0">
+      <Description>METRICAL SYMBOL LONGUM WITH GRAVE (SECONDARY STRESS)</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1562"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0F706"
+              id="01563"
+              textType="0">
+      <Description>METRICAL SYMBOL BREVE WITH ACUTE (PRIMARY STRESS)</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1563"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0F707"
+              id="01564"
+              textType="0">
+      <Description>METRICAL SYMBOL BREVE WITH GRAVE (SECONDARY STRESS)</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1564"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0F708"
+              id="01565"
+              textType="0">
+      <Description>METRICAL SYMBOL BREVE ABOVE LONGUM WITH ACUTE (SHORT OR LONG SYLLABLE WITH PRIMARY STRESS)</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1565"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0F709"
+              id="01566"
+              textType="0">
+      <Description>METRICAL SYMBOL BREVE ABOVE LONGUM WITH GRAVE (SHORT OR LONG SYLLABLE WITH SECONDARY STRESS)</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1566"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0F70A"
+              id="01567"
+              textType="0">
+      <Description>METRICAL SYMBOL ANCEPS</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1567"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0F70B"
+              id="01568"
+              textType="0">
+      <Description>METRICAL SYMBOL ANCEPS WITH ACUTE (PRIMARY STRESS)</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1568"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0F70C"
+              id="01569"
+              textType="0">
+      <Description>METRICAL SYMBOL ANCEPS WITH GRAVE (SECONDARY STRESS)</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1569"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0F714"
+              id="01570"
+              textType="0">
+      <Description>METRICAL SYMBOL PAUSE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1570"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0F715"
+              id="01571"
+              textType="0">
+      <Description>METRICAL SYMBOL LONGUM WITH DOUBLE ACUTE (SECONDARY STRESS)</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1571"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0F716"
+              id="01572"
+              textType="0">
+      <Description>METRICAL SYMBOL LONGUM WITH DOUBLE GRAVE (SECONDARY STRESS AND ALLITERATION)</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1572"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0F717"
+              id="01573"
+              textType="0">
+      <Description>METRICAL SYMBOL BREVE WITH DOUBLE ACUTE (PRIMARY STRESS AND ALLITERATION)</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1573"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0F718"
+              id="01574"
+              textType="0">
+      <Description>METRICAL SYMBOL BREVE WITH DOUBLE GRAVE (SECONDARY STRESS AND ALLITERATION)</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1574"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0F719"
+              id="01575"
+              textType="0">
+      <Description>METRICAL SYMBOL ANCEPS WITH DOUBLE ACUTE (PRIMARY STRESS AND ALLITERATION)</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1575"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0F71A"
+              id="01576"
+              textType="0">
+      <Description>METRICAL SYMBOL ANCEPS WITH DOUBLE GRAVE (SECONDARY STRESS AND ALLITERATION)</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1576"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0F71B"
+              id="01577"
+              textType="0">
+      <Description>METRICAL SYMBOL RESOLVED LIFT WITH ACUTE (PRIMARY STRESS)</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1577"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0F71C"
+              id="01578"
+              textType="0">
+      <Description>METRICAL SYMBOL RESOLVED LIFT WITH DOUBLE ACUTE (PRIMARY STRESS AND ALLITERATION)</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1578"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0F72E"
+              id="01579"
+              textType="0">
+      <Description>METRICAL SYMBOL RESOLVED LIFT</Description>
+   </Parameter>
+</Parameters>

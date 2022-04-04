@@ -1,0 +1,50 @@
+<Parameters name="PUA-30">
+   <Parameter type="4"
+              sortIndex="865"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E324"
+              id="00866"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER U WITH VERTICAL LINE ABOVE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="876"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E34E"
+              id="00877"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER V WITH VERTICAL LINE ABOVE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1004"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E724"
+              id="01005"
+              textType="0">
+      <Description>LATIN SMALL LETTER U WITH VERTICAL LINE ABOVE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1022"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E74F"
+              id="01023"
+              textType="0">
+      <Description>LATIN SMALL LETTER V WITH VERTICAL LINE ABOVE</Description>
+   </Parameter>
+</Parameters>

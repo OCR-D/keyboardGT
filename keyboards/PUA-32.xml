@@ -1,0 +1,194 @@
+<Parameters name="PUA-32">
+   <Parameter type="4"
+              sortIndex="811"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E0C8"
+              id="00812"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER E WITH DOT ABOVE AND ACUTE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="884"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E384"
+              id="00885"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER Y WITH DOT ABOVE AND ACUTE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="924"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E4C8"
+              id="00925"
+              textType="0">
+      <Description>LATIN SMALL LETTER E WITH DOT ABOVE AND ACUTE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1034"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E784"
+              id="01035"
+              textType="0">
+      <Description>LATIN SMALL LETTER Y WITH DOT ABOVE AND ACUTE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1191"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0EBF4"
+              id="01192"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER A WITH DOT ABOVE AND ACUTE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1192"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0EBF5"
+              id="01193"
+              textType="0">
+      <Description>LATIN SMALL LETTER A WITH DOT ABOVE AND ACUTE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1193"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0EBF6"
+              id="01194"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER I WITH DOT ABOVE AND ACUTE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1194"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0EBF7"
+              id="01195"
+              textType="0">
+      <Description>LATIN SMALL LETTER I WITH DOT ABOVE AND ACUTE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1195"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0EBF8"
+              id="01196"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER O WITH DOT ABOVE AND ACUTE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1196"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0EBF9"
+              id="01197"
+              textType="0">
+      <Description>LATIN SMALL LETTER O WITH DOT ABOVE AND ACUTE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1199"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0EBFC"
+              id="01200"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER O WITH STROKE AND DOT ABOVE AND ACUTE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1200"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0EBFD"
+              id="01201"
+              textType="0">
+      <Description>LATIN SMALL LETTER O WITH STROKE AND DOT ABOVE AND ACUTE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1201"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0EBFE"
+              id="01202"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER U WITH DOT ABOVE AND ACUTE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1202"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0EBFF"
+              id="01203"
+              textType="0">
+      <Description>LATIN SMALL LETTER U WITH DOT ABOVE AND ACUTE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1302"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0EFDB"
+              id="01303"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER AE WITH DOT ABOVE AND ACUTE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1303"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0EFDC"
+              id="01304"
+              textType="0">
+      <Description>LATIN SMALL LETTER AE WITH DOT ABOVE AND ACUTE</Description>
+   </Parameter>
+</Parameters>

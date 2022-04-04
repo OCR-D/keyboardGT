@@ -1,0 +1,50 @@
+<Parameters name="PUA-38">
+   <Parameter type="4"
+              sortIndex="817"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E0EB"
+              id="00818"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER E WITH OGONEK AND DOT ABOVE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="934"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E4EB"
+              id="00935"
+              textType="0">
+      <Description>LATIN SMALL LETTER E WITH OGONEK AND DOT ABOVE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1169"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0EBDE"
+              id="01170"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER O WITH OGONEK AND DOT ABOVE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1170"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0EBDF"
+              id="01171"
+              textType="0">
+      <Description>LATIN SMALL LETTER O WITH OGONEK AND DOT ABOVE</Description>
+   </Parameter>
+</Parameters>

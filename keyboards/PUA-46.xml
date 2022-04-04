@@ -1,0 +1,218 @@
+<Parameters name="PUA-46">
+   <Parameter type="4"
+              sortIndex="791"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E010"
+              id="00792"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER A WITH MACRON AND BREVE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="797"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E03D"
+              id="00798"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER AE WITH MACRON AND BREVE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="809"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E0B7"
+              id="00810"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER E WITH MACRON AND BREVE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="825"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E137"
+              id="00826"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER I WITH MACRON AND BREVE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="842"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E21B"
+              id="00843"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER O WITH MACRON AND BREVE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="848"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E253"
+              id="00849"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER O WITH STROKE AND MACRON AND BREVE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="853"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E260"
+              id="00854"
+              textType="0">
+      <Description>LATIN CAPITAL LIGATURE OE WITH MACRON AND BREVE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="862"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E30B"
+              id="00863"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER U WITH MACRON AND BREVE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="881"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E375"
+              id="00882"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER Y WITH MACRON AND BREVE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="894"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E410"
+              id="00895"
+              textType="0">
+      <Description>LATIN SMALL LETTER A WITH MACRON AND BREVE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="906"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E43D"
+              id="00907"
+              textType="0">
+      <Description>LATIN SMALL LETTER AE WITH MACRON AND BREVE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="922"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E4B7"
+              id="00923"
+              textType="0">
+      <Description>LATIN SMALL LETTER E WITH MACRON AND BREVE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="945"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E537"
+              id="00946"
+              textType="0">
+      <Description>LATIN SMALL LETTER I WITH MACRON AND BREVE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="972"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E61B"
+              id="00973"
+              textType="0">
+      <Description>LATIN SMALL LETTER O WITH MACRON AND BREVE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="983"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E653"
+              id="00984"
+              textType="0">
+      <Description>LATIN SMALL LETTER O WITH STROKE AND MACRON AND BREVE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="988"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E660"
+              id="00989"
+              textType="0">
+      <Description>LATIN SMALL LIGATURE OE WITH MACRON AND BREVE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1001"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E70B"
+              id="01002"
+              textType="0">
+      <Description>LATIN SMALL LETTER U WITH MACRON AND BREVE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1029"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E775"
+              id="01030"
+              textType="0">
+      <Description>LATIN SMALL LETTER Y WITH MACRON AND BREVE</Description>
+   </Parameter>
+</Parameters>

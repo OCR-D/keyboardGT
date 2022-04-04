@@ -1,0 +1,50 @@
+<Parameters name="PUA-37">
+   <Parameter type="4"
+              sortIndex="816"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E0EA"
+              id="00817"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER E WITH OGONEK AND DOUBLE ACUTE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="933"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E4EA"
+              id="00934"
+              textType="0">
+      <Description>LATIN SMALL LETTER E WITH OGONEK AND DOUBLE ACUTE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1146"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0EBC4"
+              id="01147"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER O WITH OGONEK AND DOUBLE ACUTE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1147"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0EBC5"
+              id="01148"
+              textType="0">
+      <Description>LATIN SMALL LETTER O WITH OGONEK AND DOUBLE ACUTE</Description>
+   </Parameter>
+</Parameters>

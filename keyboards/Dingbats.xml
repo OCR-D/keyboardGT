@@ -1,0 +1,38 @@
+<Parameters name="Dingbats">
+   <Parameter type="4"
+              sortIndex="662"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0271D"
+              id="00663"
+              textType="0">
+      <Description>LATIN CROSS</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="663"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="02766"
+              id="00664"
+              textType="0">
+      <Description>FLORAL HEART</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="664"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="02767"
+              id="00665"
+              textType="0">
+      <Description>ROTATED FLORAL HEART BULLET</Description>
+   </Parameter>
+</Parameters>

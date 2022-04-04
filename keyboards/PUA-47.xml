@@ -1,0 +1,146 @@
+<Parameters name="PUA-47">
+   <Parameter type="4"
+              sortIndex="790"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E00A"
+              id="00791"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER A WITH MACRON AND ACUTE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="796"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E03A"
+              id="00797"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER AE WITH MACRON AND ACUTE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="824"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E135"
+              id="00825"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER I WITH MACRON AND ACUTE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="861"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E309"
+              id="00862"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER U WITH MACRON AND ACUTE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="880"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E373"
+              id="00881"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER Y WITH MACRON AND ACUTE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="893"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E40A"
+              id="00894"
+              textType="0">
+      <Description>LATIN SMALL LETTER A WITH MACRON AND ACUTE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="905"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E43A"
+              id="00906"
+              textType="0">
+      <Description>LATIN SMALL LETTER AE WITH MACRON AND ACUTE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="944"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E535"
+              id="00945"
+              textType="0">
+      <Description>LATIN SMALL LETTER I WITH MACRON AND ACUTE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1000"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E709"
+              id="01001"
+              textType="0">
+      <Description>LATIN SMALL LETTER U WITH MACRON AND ACUTE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1028"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E773"
+              id="01029"
+              textType="0">
+      <Description>LATIN SMALL LETTER Y WITH MACRON AND ACUTE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1183"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0EBEC"
+              id="01184"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER O WITH STROKE AND MACRON AND ACUTE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1184"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0EBED"
+              id="01185"
+              textType="0">
+      <Description>LATIN SMALL LETTER O WITH STROKE AND MACRON AND ACUTE</Description>
+   </Parameter>
+</Parameters>

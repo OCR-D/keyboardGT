@@ -1,0 +1,314 @@
+<Parameters name="CombDiaMkS">
+   <Parameter type="4"
+              sortIndex="425"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="01DCD"
+              id="00426"
+              textType="0">
+      <Description>COMBINING DOUBLE CIRCUMFLEX ABOVE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="426"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="01DCE"
+              id="00427"
+              textType="0">
+      <Description>COMBINING OGONEK ABOVE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="427"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="01DCF"
+              id="00428"
+              textType="0">
+      <Description>COMBINING ZIGZAG BELOW</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="428"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="01DD0"
+              id="00429"
+              textType="0">
+      <Description>COMBINING IS BELOW</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="429"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="01DD1"
+              id="00430"
+              textType="0">
+      <Description>COMBINING UR ABOVE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="430"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="01DD2"
+              id="00431"
+              textType="0">
+      <Description>COMBINING US ABOVE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="431"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="01DD3"
+              id="00432"
+              textType="0">
+      <Description>COMBINING LATIN SMALL LETTER FLATTENED OPEN A ABOVE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="432"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="01DD4"
+              id="00433"
+              textType="0">
+      <Description>COMBINING LATIN SMALL LETTER AE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="433"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="01DD5"
+              id="00434"
+              textType="0">
+      <Description>COMBINING LATIN SMALL LIGATURE AO</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="434"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="01DD6"
+              id="00435"
+              textType="0">
+      <Description>COMBINING LATIN SMALL LIGATURE AV</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="435"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="01DD7"
+              id="00436"
+              textType="0">
+      <Description>COMBINING LATIN SMALL LETTER C CEDILLA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="436"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="01DD8"
+              id="00437"
+              textType="0">
+      <Description>COMBINING LATIN LETTER INSULAR D</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="437"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="01DD9"
+              id="00438"
+              textType="0">
+      <Description>COMBINING LATIN SMALL LETTER ETH</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="438"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="01DDA"
+              id="00439"
+              textType="0">
+      <Description>COMBINING LATIN SMALL LETTER G</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="439"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="01DDB"
+              id="00440"
+              textType="0">
+      <Description>COMBINING LATIN LETTER SMALL CAPITAL G</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="440"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="01DDC"
+              id="00441"
+              textType="0">
+      <Description>COMBINING LATIN SMALL LETTER K</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="441"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="01DDD"
+              id="00442"
+              textType="0">
+      <Description>COMBINING LATIN SMALL LETTER L</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="442"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="01DDE"
+              id="00443"
+              textType="0">
+      <Description>COMBINING LATIN LETTER SMALL CAPITAL L</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="443"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="01DDF"
+              id="00444"
+              textType="0">
+      <Description>COMBINING LATIN LETTER SMALL CAPITAL M</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="444"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="01DE0"
+              id="00445"
+              textType="0">
+      <Description>COMBINING LATIN SMALL LETTER N</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="445"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="01DE1"
+              id="00446"
+              textType="0">
+      <Description>COMBINING LATIN LETTER SMALL CAPITAL N</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="446"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="01DE2"
+              id="00447"
+              textType="0">
+      <Description>COMBINING LATIN LETTER SMALL CAPITAL R</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="447"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="01DE3"
+              id="00448"
+              textType="0">
+      <Description>COMBINING LATIN SMALL LETTER R ROTUNDA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="448"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="01DE4"
+              id="00449"
+              textType="0">
+      <Description>COMBINING LATIN SMALL LETTER S</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="449"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="01DE5"
+              id="00450"
+              textType="0">
+      <Description>COMBINING LATIN SMALL LETTER LONG S</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="450"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="01DE6"
+              id="00451"
+              textType="0">
+      <Description>COMBINING LATIN SMALL LETTER Z</Description>
+   </Parameter>
+</Parameters>

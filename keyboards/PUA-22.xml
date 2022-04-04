@@ -1,0 +1,158 @@
+<Parameters name="PUA-22">
+   <Parameter type="4"
+              sortIndex="799"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E040"
+              id="00800"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER AE WITH OGONEK</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="805"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E076"
+              id="00806"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER C WITH OGONEK</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="849"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E255"
+              id="00850"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER O WITH STROKE AND OGONEK</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="854"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E262"
+              id="00855"
+              textType="0">
+      <Description>LATIN CAPITAL LIGATURE OE WITH OGONEK</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="860"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E2EE"
+              id="00861"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER T WITH OGONEK</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="908"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E440"
+              id="00909"
+              textType="0">
+      <Description>LATIN SMALL LETTER AE WITH OGONEK</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="915"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E476"
+              id="00916"
+              textType="0">
+      <Description>LATIN SMALL LETTER C WITH OGONEK</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="984"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E655"
+              id="00985"
+              textType="0">
+      <Description>LATIN SMALL LETTER O WITH STROKE AND OGONEK</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="989"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E662"
+              id="00990"
+              textType="0">
+      <Description>LATIN SMALL LIGATURE OE WITH OGONEK</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="999"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E6EE"
+              id="01000"
+              textType="0">
+      <Description>LATIN SMALL LETTER T WITH OGONEK</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1055"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E8AD"
+              id="01056"
+              textType="0">
+      <Description>LATIN SMALL LETTER DOTLESS I WITH OGONEK</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1187"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0EBF0"
+              id="01188"
+              textType="0">
+      <Description>LATIN CAPITAL LIGATURE AV WITH OGONEK</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1188"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0EBF1"
+              id="01189"
+              textType="0">
+      <Description>LATIN SMALL LIGATURE AV WITH OGONEK</Description>
+   </Parameter>
+</Parameters>

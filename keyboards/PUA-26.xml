@@ -1,0 +1,50 @@
+<Parameters name="PUA-26">
+   <Parameter type="4"
+              sortIndex="926"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E4CF"
+              id="00927"
+              textType="0">
+      <Description>LATIN SMALL LETTER E WITH RING ABOVE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="975"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E637"
+              id="00976"
+              textType="0">
+      <Description>LATIN SMALL LETTER O WITH RING ABOVE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1017"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E743"
+              id="01018"
+              textType="0">
+      <Description>LATIN SMALL LETTER V WITH RING ABOVE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1077"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E8D1"
+              id="01078"
+              textType="0">
+      <Description>LATIN SMALL LETTER AE WITH RING ABOVE</Description>
+   </Parameter>
+</Parameters>

@@ -1,0 +1,50 @@
+<Parameters name="MiscTech">
+   <Parameter type="4"
+              sortIndex="652"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="023D1"
+              id="00653"
+              textType="0">
+      <Description>METRICAL BREVE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="653"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="023D2"
+              id="00654"
+              textType="0">
+      <Description>METRICAL LONG OVER SHORT</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="654"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="023D3"
+              id="00655"
+              textType="0">
+      <Description>METRICAL SHORT OVER LONG</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="655"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="023D4"
+              id="00656"
+              textType="0">
+      <Description>METRICAL LONG OVER TWO SHORTS</Description>
+   </Parameter>
+</Parameters>

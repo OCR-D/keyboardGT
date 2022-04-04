@@ -1,0 +1,26 @@
+<Parameters name="PUA-35">
+   <Parameter type="4"
+              sortIndex="1134"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0EBB7"
+              id="01135"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER O WITH CURL AND ACUTE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1135"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0EBB8"
+              id="01136"
+              textType="0">
+      <Description>LATIN SMALL LETTER O WITH CURL AND ACUTE</Description>
+   </Parameter>
+</Parameters>

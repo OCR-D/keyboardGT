@@ -1,0 +1,110 @@
+<Parameters name="SpModLet">
+   <Parameter type="4"
+              sortIndex="330"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="002BC"
+              id="00331"
+              textType="0">
+      <Description>MODIFIER LETTER APOSTROPHE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="331"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="002C8"
+              id="00332"
+              textType="0">
+      <Description>MODIFIER LETTER VERTICAL LINE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="332"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="002D8"
+              id="00333"
+              textType="0">
+      <Description>BREVE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="333"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="002D9"
+              id="00334"
+              textType="0">
+      <Description>DOT ABOVE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="334"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="002DA"
+              id="00335"
+              textType="0">
+      <Description>RING ABOVE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="335"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="002DB"
+              id="00336"
+              textType="0">
+      <Description>OGONEK</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="336"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="002DC"
+              id="00337"
+              textType="0">
+      <Description>SMALL TILDE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="337"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="002DD"
+              id="00338"
+              textType="0">
+      <Description>DOUBLE ACUTE ACCENT</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="338"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="002E3"
+              id="00339"
+              textType="0">
+      <Description>MODIFIER LETTER SMALL X</Description>
+   </Parameter>
+</Parameters>

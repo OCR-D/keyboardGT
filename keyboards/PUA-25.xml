@@ -1,0 +1,62 @@
+<Parameters name="PUA-25">
+   <Parameter type="4"
+              sortIndex="871"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E33B"
+              id="00872"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER V WITH CIRCUMFLEX</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="966"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E5D7"
+              id="00967"
+              textType="0">
+      <Description>LATIN SMALL LETTER N WITH CIRCUMFLEX</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1015"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E73B"
+              id="01016"
+              textType="0">
+      <Description>LATIN SMALL LETTER V WITH CIRCUMFLEX</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1139"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0EBBD"
+              id="01140"
+              textType="0">
+      <Description>LATIN SMALL LETTER EA WITH CIRCUMFLEX</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1140"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0EBBE"
+              id="01141"
+              textType="0">
+      <Description>LATIN SMALL LETTER EU WITH CIRCUMFLEX</Description>
+   </Parameter>
+</Parameters>

@@ -1,0 +1,554 @@
+<Parameters name="LatExtB">
+   <Parameter type="4"
+              sortIndex="263"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="00180"
+              id="00264"
+              textType="0">
+      <Description>LATIN SMALL LETTER B WITH STROKE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="264"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="00195"
+              id="00265"
+              textType="0">
+      <Description>LATIN SMALL LETTER HV</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="265"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="00199"
+              id="00266"
+              textType="0">
+      <Description>LATIN SMALL LETTER K WITH HOOK</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="266"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0019A"
+              id="00267"
+              textType="0">
+      <Description>LATIN SMALL LETTER L WITH BAR</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="267"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0019C"
+              id="00268"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER TURNED M</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="268"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0019E"
+              id="00269"
+              textType="0">
+      <Description>LATIN SMALL LETTER N WITH LONG RIGHT LEG</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="269"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="001A6"
+              id="00270"
+              textType="0">
+      <Description>LATIN LETTER YR</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="270"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="001B5"
+              id="00271"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER Z WITH STROKE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="271"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="001B6"
+              id="00272"
+              textType="0">
+      <Description>LATIN SMALL LETTER Z WITH STROKE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="272"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="001B7"
+              id="00273"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER EZH</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="273"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="001BF"
+              id="00274"
+              textType="0">
+      <Description>LATIN LETTER WYNN</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="274"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="001D1"
+              id="00275"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER O WITH CARON</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="275"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="001D2"
+              id="00276"
+              textType="0">
+      <Description>LATIN SMALL LETTER O WITH CARON</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="276"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="001D3"
+              id="00277"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER U WITH CARON</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="277"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="001D4"
+              id="00278"
+              textType="0">
+      <Description>LATIN SMALL LETTER U WITH CARON</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="278"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="001D5"
+              id="00279"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER U WITH DIAERESIS AND MACRON</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="279"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="001D6"
+              id="00280"
+              textType="0">
+      <Description>LATIN SMALL LETTER U WITH DIAERESIS AND MACRON</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="280"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="001E2"
+              id="00281"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER AE WITH MACRON</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="281"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="001E3"
+              id="00282"
+              textType="0">
+      <Description>LATIN SMALL LETTER AE WITH MACRON</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="282"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="001E4"
+              id="00283"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER G WITH STROKE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="283"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="001E5"
+              id="00284"
+              textType="0">
+      <Description>LATIN SMALL LETTER G WITH STROKE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="284"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="001EA"
+              id="00285"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER O WITH OGONEK</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="285"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="001EB"
+              id="00286"
+              textType="0">
+      <Description>LATIN SMALL LETTER O WITH OGONEK</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="286"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="001EC"
+              id="00287"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER O WITH OGONEK AND MACRON</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="287"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="001ED"
+              id="00288"
+              textType="0">
+      <Description>LATIN SMALL LETTER O WITH OGONEK AND MACRON</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="288"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="001F4"
+              id="00289"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER G WITH ACUTE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="289"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="001F5"
+              id="00290"
+              textType="0">
+      <Description>LATIN SMALL LETTER G WITH ACUTE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="290"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="001F6"
+              id="00291"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER HWAIR</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="291"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="001F7"
+              id="00292"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER WYNN</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="292"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="001FC"
+              id="00293"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER AE WITH ACUTE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="293"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="001FD"
+              id="00294"
+              textType="0">
+      <Description>LATIN SMALL LETTER AE WITH ACUTE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="294"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="001FE"
+              id="00295"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER O WITH STROKE AND ACUTE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="295"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="001FF"
+              id="00296"
+              textType="0">
+      <Description>LATIN SMALL LETTER O WITH STROKE AND ACUTE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="296"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0021C"
+              id="00297"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER YOGH</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="297"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0021D"
+              id="00298"
+              textType="0">
+      <Description>LATIN SMALL LETTER YOGH</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="298"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="00226"
+              id="00299"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER A WITH DOT ABOVE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="299"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="00227"
+              id="00300"
+              textType="0">
+      <Description>LATIN SMALL LETTER A WITH DOT ABOVE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="300"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0022A"
+              id="00301"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER O WITH DIAERESIS AND MACRON</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="301"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0022B"
+              id="00302"
+              textType="0">
+      <Description>LATIN SMALL LETTER O WITH DIAERESIS AND MACRON</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="302"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0022E"
+              id="00303"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER O WITH DOT ABOVE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="303"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0022F"
+              id="00304"
+              textType="0">
+      <Description>LATIN SMALL LETTER O WITH DOT ABOVE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="304"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="00232"
+              id="00305"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER Y WITH MACRON</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="305"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="00233"
+              id="00306"
+              textType="0">
+      <Description>LATIN SMALL LETTER Y WITH MACRON</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="306"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="00237"
+              id="00307"
+              textType="0">
+      <Description>LATIN SMALL LETTER DOTLESS J</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="307"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="00248"
+              id="00308"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER J WITH STROKE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="308"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="00249"
+              id="00309"
+              textType="0">
+      <Description>LATIN SMALL LETTER J WITH STROKE</Description>
+   </Parameter>
+</Parameters>

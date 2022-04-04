@@ -1,0 +1,218 @@
+<Parameters name="PUA-21">
+   <Parameter type="4"
+              sortIndex="794"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E033"
+              id="00795"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER A WITH CURL</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="815"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E0E9"
+              id="00816"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER E WITH CURL</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="823"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E12A"
+              id="00824"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER I WITH CURL</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="834"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E163"
+              id="00835"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER J WITH CURL</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="868"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E331"
+              id="00869"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER U WITH CURL</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="885"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E385"
+              id="00886"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER Y WITH CURL</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="887"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E3D3"
+              id="00888"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER O WITH CURL</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="888"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E3D4"
+              id="00889"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER O WITH STROKE AND CURL</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="902"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E433"
+              id="00903"
+              textType="0">
+      <Description>LATIN SMALL LETTER A WITH CURL</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="932"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E4E9"
+              id="00933"
+              textType="0">
+      <Description>LATIN SMALL LETTER E WITH CURL</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="943"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E52A"
+              id="00944"
+              textType="0">
+      <Description>LATIN SMALL LETTER I WITH CURL</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="956"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E563"
+              id="00957"
+              textType="0">
+      <Description>LATIN SMALL LETTER J WITH CURL</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1009"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E731"
+              id="01010"
+              textType="0">
+      <Description>LATIN SMALL LETTER U WITH CURL</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1035"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E785"
+              id="01036"
+              textType="0">
+      <Description>LATIN SMALL LETTER Y WITH CURL</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1046"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E7D3"
+              id="01047"
+              textType="0">
+      <Description>LATIN SMALL LETTER O WITH CURL</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1047"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0E7D4"
+              id="01048"
+              textType="0">
+      <Description>LATIN SMALL LETTER O WITH STROKE AND CURL</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1181"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0EBEA"
+              id="01182"
+              textType="0">
+      <Description>LATIN CAPITAL LETTER AE WITH CURL</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1182"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0EBEB"
+              id="01183"
+              textType="0">
+      <Description>LATIN SMALL LETTER AE WITH CURL</Description>
+   </Parameter>
+</Parameters>
