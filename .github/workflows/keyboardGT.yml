@@ -31,7 +31,9 @@ jobs:
       run: mkdir ghout
 
     - name: make keyboards folder
-      run: mkdir ghout/keyboards  
+      run: | 
+        mkdir ghout/keyboards \
+        mkdir keyboards
     
    # Transformation and analysis
 
@@ -51,10 +53,11 @@ jobs:
 
    # GH-style  
                                                                                         
-    - name: copy css styles and yml files to ghout
+    - name: copy css styles keybords and yml files 
       run:  |
         cp scripts/table_hide.css ghout/
         cp scripts/_config.yml ghout/
+        cp ghout/keybords/*.xml keyboards/
         
 
 
@@ -62,7 +65,7 @@ jobs:
       uses: thedoctor0/zip-release@master
       with:
          filename: site.zip
-         path: 'ghout/keyboards'
+         path: 'keyboards'
       
    # GitHub release
 
