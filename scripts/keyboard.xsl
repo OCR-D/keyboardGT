@@ -101,7 +101,8 @@
             <xsl:attribute name="id">table_id</xsl:attribute>
             <xsl:element name="thead">
             <xsl:element name="tr">
-                <xsl:element name="th">Code chart</xsl:element>
+                <xsl:element name="th"><xsl:attribute name="style">position: sticky !important; left: 0 !important;</xsl:attribute>
+                    Code chart</xsl:element>
                 <xsl:element name="th">Virtual Keyboard Layouts</xsl:element>
                 <xsl:element name="th">Browse by code chart (Link to MUFI)</xsl:element>
             </xsl:element>
