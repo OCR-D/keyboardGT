@@ -1,4 +1,10 @@
 /*            Data-Table*/
+            table.dataTable {
+                 margin: 0 !important;
+}
+            
+            
+            
             div#table_id_filter {
                 margin-bottom: 0.5cm;
             }
