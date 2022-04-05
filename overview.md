@@ -28,8 +28,8 @@
         </p>
    <p>
             Would you like to use the keyboard in Aletheia. Then
-            Download and install the necessary virtual keyboard. (<a href="https://www.primaresearch.org/www/assets/tools/Aletheia%20User%20Guide.pdf#page=91"
-         target="_blank">More information</a>)
+            download and install the necessary virtual keyboard. You can find more information about using Virtual Keyboards in the <a href="https://www.primaresearch.org/www/assets/tools/Aletheia%20User%20Guide.pdf#page=91"
+         target="_blank">Aletheia User Guide</a>.
         </p>
    <h2>Recommendation</h2>
    <p>
@@ -62,7 +62,7 @@
       </div>
       <div class="column">
          <h3>Links:</h3>
-         <a href="https://github.com/tboenig/keyboardGT/releases/download/v58/keyboardGT-v58.zip">Keyboard-Archiv</a>
+         <a href="https://github.com/tboenig/keyboardGT/releases/download/v59/keyboardGT-v59.zip">Keyboard-Archiv</a>
       </div>
    </div>
    <hr/>
