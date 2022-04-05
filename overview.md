@@ -32,7 +32,8 @@
 <table id="table_id">
    <thead>
       <tr>
-         <th>Code chart</th>
+         <th style="position: sticky !important; left: 0 !important;">
+                    Code chart</th>
          <th>Virtual Keyboard Layouts</th>
          <th>Browse by code chart (Link to MUFI)</th>
       </tr>
