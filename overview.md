@@ -33,13 +33,12 @@
         </p>
    <h2>Recommendation</h2>
    <p>
-      <strong>Font:</strong>
-            It is recommended to use the Junicode font. This font supports UNICODE and also MUFI encoding. 
+            We recommended to use the Junicode font. This font supports UNICODE and also MUFI encoding. 
             Before you start working with the virtual keyboards in Altheia you should have the Junicode font installed on your computer.<br/>
       <ul>
          <h3>Links:</h3>
          <li>
-            <a href="https://junicode.sourceforge.io/" target="_blank">Junicode [1]</a>
+            <a href="https://junicode.sourceforge.io/" target="_blank">Junicode</a>
          </li>
          <li>
             <a href="https://psb1558.github.io/Junicode-font/" target="_blank">Junicode 2</a>
@@ -63,7 +62,7 @@
       </div>
       <div class="column">
          <h3>Links:</h3>
-         <a href="https://github.com/tboenig/keyboardGT/releases/download/v57/keyboardGT-v57.zip">Keyboard-Archiv</a>
+         <a href="https://github.com/tboenig/keyboardGT/releases/download/v58/keyboardGT-v58.zip">Keyboard-Archiv</a>
       </div>
    </div>
    <hr/>
