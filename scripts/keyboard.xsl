@@ -128,7 +128,7 @@
         <xsl:element name="p">
             <xsl:element name="strong">Installation:<br/></xsl:element>
             
-            <video width="320" height="240" controls="true">
+            <video width="520" height="440" controls="true">
                 <source src="doc/keyboard.mp4" type="video/mp4"/>
                  Your browser does not support the video tag.
             </video>
