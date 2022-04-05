@@ -11,6 +11,7 @@
             
             div.column {
                 text-align: left;
+                padding: 1em;
             }
             
 /*          Data-Table*/
@@ -57,7 +58,7 @@
             }
             
             span.big {
-                font-size: larger;
+                font-size: xx-large;
             }
             
             
