@@ -37,7 +37,7 @@
             It is recommended to use the Junicode font. This font supports UNICODE and also MUFI encoding. 
             Before you start working with the virtual keyboards in Altheia you should have the Junicode font installed on your computer.<br/>
       <ul>
-         <lh>Links:</lh>
+         <h3>Links:</h3>
          <li>
             <a href="https://junicode.sourceforge.io/" target="_blank">Junicode [1]</a>
          </li>
@@ -53,9 +53,9 @@
             A virtual keyboard is an xml file that you need to import into Alteheia. 
             The keyboard archive is a zip file. Before you want to install the keyboards you have to unpack the zip file.<br/>
       <ul>
-         <lh>Links:</lh>
+         <h3>Links:</h3>
          <li>
-            <a href="https://github.com/tboenig/keyboardGT/releases/download/v48/keyboardGT-v48.zip">Keyboard-Archiv</a>
+            <a href="https://github.com/tboenig/keyboardGT/releases/download/v49/keyboardGT-v49.zip">Keyboard-Archiv</a>
          </li>
       </ul>
    </p>
