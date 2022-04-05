@@ -125,8 +125,8 @@
             </ul>
         </xsl:element>
         
-        <xsl:element name="p">
-            <xsl:element name="strong">Installation:<br/></xsl:element>
+        
+            <xsl:element name="h3">Installation:<br/></xsl:element>
             
             <video width="520" height="440" controls="true">
                 <source src="doc/keyboard.mp4" type="video/mp4"/>
@@ -134,7 +134,7 @@
             </video>
             
             
-        </xsl:element>
+        
         
         <hr/>
         <xsl:element name="table">
