@@ -33,14 +33,25 @@
         </p>
    <h2>Recommendation</h2>
    <p>
-      <b>Font:</b>
+      <strong>Font:</strong>
+            It is recommended to use the Junicode font. This font supports UNICODE and also MUFI encoding.<br/>
+            Before you start working with the virtual keyboards in Altheia you should have the Junicode font installed on your computer.
+            <strong>Link:</strong>
+      <ul>
+         <li>
+            <a href="https://junicode.sourceforge.io/" target="_blank">Junicode [1]</a>
+         </li>
+         <li>
+            <a href="https://psb1558.github.io/Junicode-font/" target="_blank">Junicode 2</a>
+         </li>
+      </ul>
    </p>
    <h2>Download and Installation</h2>
    <p>
-      <b>Download:</b>
+      <strong>Download:</strong>
    </p>
    <p>
-      <b>Installation:</b>
+      <strong>Installation:</strong>
    </p>
    <hr/>
    <table id="table_id">
