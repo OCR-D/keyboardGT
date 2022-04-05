@@ -87,16 +87,16 @@
         </script>
         
         
-         # Code chart
+         <h1>Code chart</h1>
         
-        
+        <xsl:element name="p">
             The offer of different keyboards for the Aletheia document image analysis system is based on the data snapchot of <a href="https://mufi.info/">MUFI: The Medieval Unicode Font Initiative</a>.
             <a href="https://mufi.info/m.php?p=mufiexport">(MUFI data as json)</a>.
-        
-        
+        </xsl:element>
+        <xsl:element name="p">
             Would you like to use the keyboard in Aletheia. Then
             Download and install the necessary virtual keyboard. (<a href="https://www.primaresearch.org/www/assets/tools/Aletheia%20User%20Guide.pdf#page=91">More information</a>)
-        
+        </xsl:element>
         <xsl:element name="table">
             <xsl:attribute name="id">table_id</xsl:attribute>
             <xsl:element name="thead">
