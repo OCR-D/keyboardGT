@@ -1,4 +1,10 @@
-/*            Data-Table*/
+/*          Video */
+            video {
+                box-shadow: #999999 0.5em 0.5em 0.3em;
+                border-radius: 0.5em;
+                }
+
+/*          Data-Table*/
             table.dataTable {
                  margin: 0 !important;
 }
