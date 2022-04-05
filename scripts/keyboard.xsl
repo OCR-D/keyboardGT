@@ -101,6 +101,13 @@
             Download and install the necessary virtual keyboard. (<a href="https://www.primaresearch.org/www/assets/tools/Aletheia%20User%20Guide.pdf#page=91" target="_blank">More information</a>)
         </xsl:element>
         
+        <h2>Recommendation</h2>
+        
+        <xsl:element name="p">
+            <xsl:element name="b">Font:</xsl:element>
+        </xsl:element>
+        
+        
         <h2>Download and Installation</h2>
         
         <xsl:element name="p">
@@ -129,7 +136,7 @@
                  <xsl:element name="tr">
                     <xsl:element name="th"><xsl:value-of select="$MUFITABLE//coding/code[@id=fn:current-grouping-key()]"/></xsl:element>
                     <xsl:element name="td"><xsl:element name="a"><xsl:attribute name="href">keyboards/<xsl:value-of select="fn:current-grouping-key()"/>.xml</xsl:attribute><xsl:value-of select="fn:current-grouping-key()"/></xsl:element>
-                        <xsl:element name="td"><xsl:text disable-output-escaping="yes">&lt;a href="</xsl:text><xsl:value-of select="$link" disable-output-escaping="yes" /> target="_blank"<xsl:text disable-output-escaping="yes">"&gt;</xsl:text>Browse charts<xsl:text disable-output-escaping="yes">&lt;/a&gt;</xsl:text></xsl:element>
+                        <xsl:element name="td"><xsl:text disable-output-escaping="yes">&lt;a href="</xsl:text><xsl:value-of select="$link" disable-output-escaping="yes" />" target="_blank"<xsl:text disable-output-escaping="yes">&gt;</xsl:text>Browse charts<xsl:text disable-output-escaping="yes">&lt;/a&gt;</xsl:text></xsl:element>
                     </xsl:element>
                 </xsl:element>
         </xsl:for-each-group>
