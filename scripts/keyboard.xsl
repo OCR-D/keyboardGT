@@ -93,12 +93,12 @@
          <h1>Code chart</h1>
         
         <xsl:element name="p">
-            The offer of different keyboards for the Aletheia document image analysis system is based on the data snapchot of <a href="https://mufi.info/">MUFI: The Medieval Unicode Font Initiative</a>.
-            <a href="https://mufi.info/m.php?p=mufiexport">(MUFI data as json)</a>.
+            The offer of different keyboards for the Aletheia document image analysis system is based on the data snapchot of <a href="https://mufi.info/" target="_blank">MUFI: The Medieval Unicode Font Initiative</a>.
+            <a href="https://mufi.info/m.php?p=mufiexport" target="_blank">(MUFI data as json)</a>.
         </xsl:element>
         <xsl:element name="p">
             Would you like to use the keyboard in Aletheia. Then
-            Download and install the necessary virtual keyboard. (<a href="https://www.primaresearch.org/www/assets/tools/Aletheia%20User%20Guide.pdf#page=91">More information</a>)
+            Download and install the necessary virtual keyboard. (<a href="https://www.primaresearch.org/www/assets/tools/Aletheia%20User%20Guide.pdf#page=91" target="_blank">More information</a>)
         </xsl:element>
         
         <h2>Download and Installation</h2>
@@ -129,7 +129,7 @@
                  <xsl:element name="tr">
                     <xsl:element name="th"><xsl:value-of select="$MUFITABLE//coding/code[@id=fn:current-grouping-key()]"/></xsl:element>
                     <xsl:element name="td"><xsl:element name="a"><xsl:attribute name="href">keyboards/<xsl:value-of select="fn:current-grouping-key()"/>.xml</xsl:attribute><xsl:value-of select="fn:current-grouping-key()"/></xsl:element>
-                    <xsl:element name="td"><xsl:text disable-output-escaping="yes">&lt;a href="</xsl:text><xsl:value-of select="$link" disable-output-escaping="yes" /><xsl:text disable-output-escaping="yes">"&gt;</xsl:text>Browse charts<xsl:text disable-output-escaping="yes">&lt;/a&gt;</xsl:text></xsl:element>
+                        <xsl:element name="td"><xsl:text disable-output-escaping="yes">&lt;a href="</xsl:text><xsl:value-of select="$link" disable-output-escaping="yes" /> target="_blank"<xsl:text disable-output-escaping="yes">"&gt;</xsl:text>Browse charts<xsl:text disable-output-escaping="yes">&lt;/a&gt;</xsl:text></xsl:element>
                     </xsl:element>
                 </xsl:element>
         </xsl:for-each-group>
