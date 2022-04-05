@@ -51,20 +51,25 @@
       <strong>Download:</strong>
             You can either choose a specific virtual keyboard from the table and/or download the whole keyboard archive. 
             A virtual keyboard is an xml file that you need to import into Alteheia. 
-            The keyboard archive is a zip file. Before you want to install the keyboards you have to unpack the zip file.<br/>
-      <ul>
-         <h3>Links:</h3>
-         <li>
-            <a href="https://github.com/tboenig/keyboardGT/releases/download/v55/keyboardGT-v55.zip">Keyboard-Archiv</a>
-         </li>
-      </ul>
-   </p>
-   <h3>Installation:<br/>
-   </h3>
-   <video width="520" height="440" controls="true">
-      <source src="doc/keyboard.mp4" type="video/mp4"/>
+            The keyboard archive is a zip file. Before you want to install the keyboards you have to unpack the zip file.</p>
+   <div class="container">
+      <div class="column">
+         <ul>
+            <h3>Links:</h3>
+            <li>
+               <a href="https://github.com/tboenig/keyboardGT/releases/download/v56/keyboardGT-v56.zip">Keyboard-Archiv</a>
+            </li>
+         </ul>
+      </div>
+      <div class="column">
+         <h3>Installation:<br/>
+         </h3>
+         <video width="520" height="440" controls="true">
+            <source src="doc/keyboard.mp4" type="video/mp4"/>
                  Your browser does not support the video tag.
             </video>
+      </div>
+   </div>
    <hr/>
    <table id="table_id">
       <thead>
