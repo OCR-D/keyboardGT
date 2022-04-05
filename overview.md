@@ -54,20 +54,16 @@
             The keyboard archive is a zip file. Before you want to install the keyboards you have to unpack the zip file.</p>
    <div class="container">
       <div class="column">
-         <ul>
-            <h3>Links:</h3>
-            <li>
-               <a href="https://github.com/tboenig/keyboardGT/releases/download/v56/keyboardGT-v56.zip">Keyboard-Archiv</a>
-            </li>
-         </ul>
-      </div>
-      <div class="column">
          <h3>Installation:<br/>
          </h3>
          <video width="520" height="440" controls="true">
             <source src="doc/keyboard.mp4" type="video/mp4"/>
                  Your browser does not support the video tag.
             </video>
+      </div>
+      <div class="column">
+         <h3>Links:</h3>
+         <a href="https://github.com/tboenig/keyboardGT/releases/download/v57/keyboardGT-v57.zip">Keyboard-Archiv</a>
       </div>
    </div>
    <hr/>
