@@ -104,18 +104,25 @@
         <h2>Recommendation</h2>
         
         <xsl:element name="p">
-            <xsl:element name="b">Font:</xsl:element>
+            <xsl:element name="strong">Font:</xsl:element>
+            It is recommended to use the Junicode font. This font supports UNICODE and also MUFI encoding.<br/>
+            Before you start working with the virtual keyboards in Altheia you should have the Junicode font installed on your computer.
+            <xsl:element name="strong">Link:</xsl:element>
+            <ul>
+            <li><a href="https://junicode.sourceforge.io/" target="_blank">Junicode [1]</a></li> 
+            <li><a href="https://psb1558.github.io/Junicode-font/" target="_blank">Junicode 2</a></li>
+            </ul> 
         </xsl:element>
         
         
         <h2>Download and Installation</h2>
         
         <xsl:element name="p">
-            <xsl:element name="b">Download:</xsl:element>
+            <xsl:element name="strong">Download:</xsl:element>
         </xsl:element>
         
         <xsl:element name="p">
-            <xsl:element name="b">Installation:</xsl:element>
+            <xsl:element name="strong">Installation:</xsl:element>
         </xsl:element>
         
         <hr/>
