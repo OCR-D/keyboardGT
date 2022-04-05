@@ -34,8 +34,7 @@
    <h2>Recommendation</h2>
    <p>
       <strong>Font:</strong>
-            It is recommended to use the Junicode font. This font supports UNICODE and also MUFI encoding.<br/>
-            Before you start working with the virtual keyboards in Altheia you should have the Junicode font installed on your computer.
+            It is recommended to use the Junicode font. This font supports UNICODE and also MUFI encoding. Before you start working with the virtual keyboards in Altheia you should have the Junicode font installed on your computer.
             <strong>Link:</strong>
       <ul>
          <li>
