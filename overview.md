@@ -55,7 +55,7 @@
       <ul>
          <lh>Links:</lh>
          <li>
-            <a href="https://github.com/tboenig/keyboardGT/releases/download/v46/keyboardGT-v46.zip">Keyboard-Archiv</a>
+            <a href="https://github.com/tboenig/keyboardGT/releases/download/v48/keyboardGT-v48.zip">Keyboard-Archiv</a>
          </li>
       </ul>
    </p>
