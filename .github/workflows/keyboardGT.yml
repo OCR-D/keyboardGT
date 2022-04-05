@@ -13,9 +13,7 @@ jobs:
     - name: Git checkout
       uses: actions/checkout@v2
 
-  
-        
-     
+       
    # Installation and Directories
       
     - name: Download and install saxon
@@ -24,7 +22,7 @@ jobs:
        unzip download
     
 
-    - name: make gh-pages_out, keyboards, doc folder
+    - name: Make gh-pages_out, keyboards, doc folder
       run: | 
         mkdir ghout 
         mkdir ghout/keyboards 
@@ -33,15 +31,14 @@ jobs:
     
    # Transformation and analysis
 
-    - name: transform MUFI snapshot to keyboard
+    - name: Transform MUFI snapshot to keyboard
       run: |
         java -jar saxon-he-10.5.jar -xsl:scripts/keyboard.xsl output=keyboards \
         -s:scripts/keyboard.xsl 
       shell: bash
         
-      
-
-    - name: make compressed table view
+  
+    - name: Make compressed table view
       run: | 
         java -jar saxon-he-10.5.jar -xsl:scripts/keyboard.xsl output=keytable release=$GITHUB_RUN_NUMBER \
         -s:scripts/keyboard.xsl -o:ghout/overview.md
@@ -49,7 +46,7 @@ jobs:
 
    # GH-style  
                                                                                         
-    - name: copy css styles keybords docs and yml files 
+    - name: Copy css styles, keybords, docs and yml files 
       run:  |
         cp scripts/table_hide.css ghout/
         cp scripts/_config.yml ghout/
