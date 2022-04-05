@@ -6,7 +6,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0F160"
+              value="F160"
               id="01423"
               textType="0">
       <Description>PUNCTUS INTERROGATIVUS</Description>
@@ -18,7 +18,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0F161"
+              value="F161"
               id="01424"
               textType="0">
       <Description>PUNCTUS ELEVATUS</Description>
@@ -30,7 +30,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0F1D2"
+              value="F1D2"
               id="01452"
               textType="0">
       <Description>TRIPLE DAGGER</Description>
@@ -42,7 +42,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0F1E0"
+              value="F1E0"
               id="01455"
               textType="0">
       <Description>MEDIEVAL COMMA</Description>
@@ -54,7 +54,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0F1E1"
+              value="F1E1"
               id="01456"
               textType="0">
       <Description>PARAGRAPHUS</Description>
@@ -66,7 +66,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0F1E2"
+              value="F1E2"
               id="01457"
               textType="0">
       <Description>COMMA POSITURA</Description>
@@ -78,7 +78,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0F1E3"
+              value="F1E3"
               id="01458"
               textType="0">
       <Description>HIGH COMMA POSITURA (SIMPLEX DUCTUS)</Description>
@@ -90,7 +90,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0F1E4"
+              value="F1E4"
               id="01459"
               textType="0">
       <Description>PUNCTUS WITH COMMA POSITURA</Description>
@@ -102,7 +102,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0F1E5"
+              value="F1E5"
               id="01460"
               textType="0">
       <Description>COLON WITH MIDDLE COMMA POSITURA</Description>
@@ -114,7 +114,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0F1E6"
+              value="F1E6"
               id="01461"
               textType="0">
       <Description>THREE DOTS WITH COMMA POSITURA</Description>
@@ -126,7 +126,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0F1E7"
+              value="F1E7"
               id="01462"
               textType="0">
       <Description>PUNCTUS EXCLAMATIVUS</Description>
@@ -138,7 +138,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0F1E8"
+              value="F1E8"
               id="01463"
               textType="0">
       <Description>PUNCTUS INTERROGATIVUS HORIZONTAL TILDE</Description>
@@ -150,7 +150,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0F1EA"
+              value="F1EA"
               id="01464"
               textType="0">
       <Description>PUNCTUS VERSUS</Description>
@@ -162,7 +162,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0F1EC"
+              value="F1EC"
               id="01465"
               textType="0">
       <Description>SIGNE DE RENVOI</Description>
@@ -174,7 +174,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0F1F0"
+              value="F1F0"
               id="01466"
               textType="0">
       <Description>PUNCTUS ELEVATUS DIAGONAL STROKE</Description>
@@ -186,7 +186,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0F1F1"
+              value="F1F1"
               id="01467"
               textType="0">
       <Description>PUNCTUS INTERROGATIVUS LEMNISKATE FORM</Description>
@@ -198,7 +198,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0F1F2"
+              value="F1F2"
               id="01468"
               textType="0">
       <Description>TWO DOTS OVER COMMA POSITURA</Description>
@@ -210,7 +210,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0F1F4"
+              value="F1F4"
               id="01469"
               textType="0">
       <Description>VIRGULA SUSPENSIVA</Description>
@@ -222,7 +222,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0F1F5"
+              value="F1F5"
               id="01470"
               textType="0">
       <Description>PUNCTUS FLEXUS</Description>
@@ -234,7 +234,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0F1F7"
+              value="F1F7"
               id="01471"
               textType="0">
       <Description>SHORT VIRGULA</Description>
@@ -246,7 +246,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0F1F8"
+              value="F1F8"
               id="01472"
               textType="0">
       <Description>DISTINCTIO</Description>
@@ -258,7 +258,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0F1F9"
+              value="F1F9"
               id="01473"
               textType="0">
       <Description>WAVY LINE</Description>
@@ -270,7 +270,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0F1FA"
+              value="F1FA"
               id="01474"
               textType="0">
       <Description>PUNCTUS ELEVATUS WITH HIGH BACK</Description>
@@ -282,7 +282,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0F1FB"
+              value="F1FB"
               id="01475"
               textType="0">
       <Description>PUNCTUS ELEVATUS WITH ONSET</Description>

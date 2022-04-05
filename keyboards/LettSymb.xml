@@ -6,7 +6,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="02108"
+              value="2108"
               id="00626"
               textType="0">
       <Description>SCRUPLE</Description>
@@ -18,7 +18,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="02114"
+              value="2114"
               id="00627"
               textType="0">
       <Description>L B BAR SYMBOL</Description>
@@ -30,7 +30,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0211E"
+              value="211E"
               id="00628"
               textType="0">
       <Description>PRESCRIPTION TAKE</Description>
@@ -42,7 +42,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0211F"
+              value="211F"
               id="00629"
               textType="0">
       <Description>RESPONSE</Description>
@@ -54,7 +54,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="02123"
+              value="2123"
               id="00630"
               textType="0">
       <Description>VERSICLE</Description>
@@ -66,7 +66,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="02125"
+              value="2125"
               id="00631"
               textType="0">
       <Description>OUNCE SIGN</Description>
@@ -78,7 +78,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="02132"
+              value="2132"
               id="00632"
               textType="0">
       <Description>TURNED CAPITAL F</Description>
@@ -90,7 +90,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0214E"
+              value="214E"
               id="00633"
               textType="0">
       <Description>TURNED SMALL F</Description>

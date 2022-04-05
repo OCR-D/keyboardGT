@@ -6,7 +6,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0E036"
+              value="E036"
               id="00796"
               textType="0">
       <Description>LATIN CAPITAL LETTER AE WITH DOT BELOW</Description>
@@ -18,7 +18,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0E066"
+              value="E066"
               id="00805"
               textType="0">
       <Description>LATIN CAPITAL LETTER C WITH DOT BELOW</Description>
@@ -30,7 +30,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0E08F"
+              value="E08F"
               id="00808"
               textType="0">
       <Description>LATIN CAPITAL LETTER ETH WITH DOT BELOW</Description>
@@ -42,7 +42,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0E0EE"
+              value="E0EE"
               id="00820"
               textType="0">
       <Description>LATIN CAPITAL LETTER F WITH DOT BELOW</Description>
@@ -54,7 +54,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0E101"
+              value="E101"
               id="00822"
               textType="0">
       <Description>LATIN CAPITAL LETTER G WITH DOT BELOW</Description>
@@ -66,7 +66,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0E151"
+              value="E151"
               id="00829"
               textType="0">
       <Description>LATIN CAPITAL LETTER J WITH DOT BELOW</Description>
@@ -78,7 +78,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0E26D"
+              value="E26D"
               id="00857"
               textType="0">
       <Description>LATIN CAPITAL LETTER P WITH DOT BELOW</Description>
@@ -90,7 +90,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0E288"
+              value="E288"
               id="00859"
               textType="0">
       <Description>LATIN CAPITAL LETTER Q WITH DOT BELOW</Description>
@@ -102,7 +102,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0E39F"
+              value="E39F"
               id="00887"
               textType="0">
       <Description>LATIN CAPITAL LETTER THORN WITH DOT BELOW</Description>
@@ -114,7 +114,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0E3E5"
+              value="E3E5"
               id="00890"
               textType="0">
       <Description>LATIN CAPITAL LETTER INSULAR F WITH DOT BELOW</Description>
@@ -126,7 +126,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0E3E6"
+              value="E3E6"
               id="00891"
               textType="0">
       <Description>LATIN CAPITAL LETTER INSULAR V (VEND) WITH DOT BELOW</Description>
@@ -138,7 +138,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0E436"
+              value="E436"
               id="00905"
               textType="0">
       <Description>LATIN SMALL LETTER AE WITH DOT BELOW</Description>
@@ -150,7 +150,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0E466"
+              value="E466"
               id="00915"
               textType="0">
       <Description>LATIN SMALL LETTER C WITH DOT BELOW</Description>
@@ -162,7 +162,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0E48F"
+              value="E48F"
               id="00918"
               textType="0">
       <Description>LATIN SMALL LETTER ETH WITH DOT BELOW</Description>
@@ -174,7 +174,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0E4EE"
+              value="E4EE"
               id="00937"
               textType="0">
       <Description>LATIN SMALL LETTER F WITH DOT BELOW</Description>
@@ -186,7 +186,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0E501"
+              value="E501"
               id="00941"
               textType="0">
       <Description>LATIN SMALL LETTER G WITH DOT BELOW</Description>
@@ -198,7 +198,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0E551"
+              value="E551"
               id="00952"
               textType="0">
       <Description>LATIN SMALL LETTER J WITH DOT BELOW</Description>
@@ -210,7 +210,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0E66D"
+              value="E66D"
               id="00993"
               textType="0">
       <Description>LATIN SMALL LETTER P WITH DOT BELOW</Description>
@@ -222,7 +222,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0E688"
+              value="E688"
               id="00996"
               textType="0">
       <Description>LATIN SMALL LETTER Q WITH DOT BELOW</Description>
@@ -234,7 +234,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0E79F"
+              value="E79F"
               id="01038"
               textType="0">
       <Description>LATIN SMALL LETTER THORN WITH DOT BELOW</Description>
@@ -246,7 +246,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0E7C1"
+              value="E7C1"
               id="01041"
               textType="0">
       <Description>LATIN SMALL LETTER R ROTUNDA WITH DOT BELOW</Description>
@@ -258,7 +258,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0E7C2"
+              value="E7C2"
               id="01042"
               textType="0">
       <Description>LATIN SMALL LETTER LONG S WITH DOT BELOW</Description>
@@ -270,7 +270,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0E7E5"
+              value="E7E5"
               id="01050"
               textType="0">
       <Description>LATIN SMALL LETTER INSULAR F WITH DOT BELOW</Description>
@@ -282,7 +282,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0E7E6"
+              value="E7E6"
               id="01051"
               textType="0">
       <Description>LATIN SMALL LETTER INSULAR V (VEND) WITH DOT BELOW</Description>
@@ -294,7 +294,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0EBE0"
+              value="EBE0"
               id="01172"
               textType="0">
       <Description>LATIN CAPITAL LETTER O WITH STROKE AND DOT BELOW</Description>
@@ -306,7 +306,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0EBE1"
+              value="EBE1"
               id="01173"
               textType="0">
       <Description>LATIN SMALL LETTER O WITH STROKE AND DOT BELOW</Description>
@@ -318,7 +318,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0EF25"
+              value="EF25"
               id="01274"
               textType="0">
       <Description>LATIN LETTER SMALL CAPITAL B WITH DOT BELOW</Description>
@@ -330,7 +330,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0EF26"
+              value="EF26"
               id="01275"
               textType="0">
       <Description>LATIN LETTER SMALL CAPITAL D WITH DOT BELOW</Description>
@@ -342,7 +342,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0EF27"
+              value="EF27"
               id="01276"
               textType="0">
       <Description>LATIN LETTER SMALL CAPITAL G WITH DOT BELOW</Description>
@@ -354,7 +354,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0EF28"
+              value="EF28"
               id="01277"
               textType="0">
       <Description>LATIN LETTER SMALL CAPITAL L WITH DOT BELOW</Description>
@@ -366,7 +366,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0EF29"
+              value="EF29"
               id="01278"
               textType="0">
       <Description>LATIN LETTER SMALL CAPITAL M WITH DOT BELOW</Description>
@@ -378,7 +378,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0EF2A"
+              value="EF2A"
               id="01279"
               textType="0">
       <Description>LATIN LETTER SMALL CAPITAL N WITH DOT BELOW</Description>
@@ -390,7 +390,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0EF2B"
+              value="EF2B"
               id="01280"
               textType="0">
       <Description>LATIN LETTER SMALL CAPITAL R WITH DOT BELOW</Description>
@@ -402,7 +402,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0EF2C"
+              value="EF2C"
               id="01281"
               textType="0">
       <Description>LATIN LETTER SMALL CAPITAL S WITH DOT BELOW</Description>
@@ -414,7 +414,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0EF2D"
+              value="EF2D"
               id="01282"
               textType="0">
       <Description>LATIN LETTER SMALL CAPITAL T WITH DOT BELOW</Description>
@@ -426,7 +426,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0EFF2"
+              value="EFF2"
               id="01326"
               textType="0">
       <Description>LATIN CAPITAL LIGATURE AA WITH DOT BELOW</Description>
@@ -438,7 +438,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0EFF3"
+              value="EFF3"
               id="01327"
               textType="0">
       <Description>LATIN SMALL LIGATURE AA WITH DOT BELOW</Description>
@@ -450,7 +450,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0EFF4"
+              value="EFF4"
               id="01328"
               textType="0">
       <Description>LATIN CAPITAL LIGATURE AO WITH DOT BELOW</Description>
@@ -462,7 +462,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0EFF5"
+              value="EFF5"
               id="01329"
               textType="0">
       <Description>LATIN SMALL LIGATURE AO WITH DOT BELOW</Description>
@@ -474,7 +474,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0EFF6"
+              value="EFF6"
               id="01330"
               textType="0">
       <Description>LATIN CAPITAL LIGATURE AU WITH DOT BELOW</Description>
@@ -486,7 +486,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0EFF7"
+              value="EFF7"
               id="01331"
               textType="0">
       <Description>LATIN SMALL LIGATURE AU WITH DOT BELOW</Description>
@@ -498,7 +498,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0EFF8"
+              value="EFF8"
               id="01332"
               textType="0">
       <Description>LATIN CAPITAL LIGATURE AV WITH DOT BELOW</Description>
@@ -510,7 +510,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0EFF9"
+              value="EFF9"
               id="01333"
               textType="0">
       <Description>LATIN SMALL LIGATURE AV WITH DOT BELOW</Description>
@@ -522,7 +522,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0EFFA"
+              value="EFFA"
               id="01334"
               textType="0">
       <Description>LATIN CAPITAL LIGATURE AY WITH DOT BELOW</Description>
@@ -534,7 +534,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0EFFB"
+              value="EFFB"
               id="01335"
               textType="0">
       <Description>LATIN SMALL LIGATURE AY WITH DOT BELOW</Description>
@@ -546,7 +546,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0EFFC"
+              value="EFFC"
               id="01336"
               textType="0">
       <Description>LATIN CAPITAL LIGATURE OO WITH DOT BELOW</Description>
@@ -558,7 +558,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0EFFD"
+              value="EFFD"
               id="01337"
               textType="0">
       <Description>LATIN SMALL LIGATURE OO WITH DOT BELOW</Description>

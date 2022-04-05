@@ -6,7 +6,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="00020"
+              value="0020"
               id="00001"
               textType="0">
       <Description>SPACE</Description>
@@ -18,7 +18,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="00021"
+              value="0021"
               id="00002"
               textType="0">
       <Description>EXCLAMATION MARK</Description>
@@ -30,7 +30,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="00022"
+              value="0022"
               id="00003"
               textType="0">
       <Description>QUOTATION MARK</Description>
@@ -42,7 +42,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="00023"
+              value="0023"
               id="00004"
               textType="0">
       <Description>NUMBER SIGN</Description>
@@ -54,7 +54,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="00024"
+              value="0024"
               id="00005"
               textType="0">
       <Description>DOLLAR SIGN</Description>
@@ -66,7 +66,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="00025"
+              value="0025"
               id="00006"
               textType="0">
       <Description>PERCENT SIGN</Description>
@@ -78,7 +78,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="00026"
+              value="0026"
               id="00007"
               textType="0">
       <Description>AMPERSAND</Description>
@@ -90,7 +90,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="00027"
+              value="0027"
               id="00008"
               textType="0">
       <Description>APOSTROPHE</Description>
@@ -102,7 +102,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="00028"
+              value="0028"
               id="00009"
               textType="0">
       <Description>LEFT PARENTHESIS</Description>
@@ -114,7 +114,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="00029"
+              value="0029"
               id="00010"
               textType="0">
       <Description>RIGHT PARENTHESIS</Description>
@@ -126,7 +126,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0002A"
+              value="002A"
               id="00011"
               textType="0">
       <Description>ASTERISK</Description>
@@ -138,7 +138,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0002B"
+              value="002B"
               id="00012"
               textType="0">
       <Description>PLUS SIGN</Description>
@@ -150,7 +150,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0002C"
+              value="002C"
               id="00013"
               textType="0">
       <Description>COMMA</Description>
@@ -162,7 +162,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0002D"
+              value="002D"
               id="00014"
               textType="0">
       <Description>HYPHEN-MINUS</Description>
@@ -174,7 +174,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0002E"
+              value="002E"
               id="00015"
               textType="0">
       <Description>FULL STOP</Description>
@@ -186,7 +186,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0002F"
+              value="002F"
               id="00016"
               textType="0">
       <Description>SOLIDUS</Description>
@@ -198,7 +198,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="00030"
+              value="0030"
               id="00017"
               textType="0">
       <Description>DIGIT ZERO</Description>
@@ -210,7 +210,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="00031"
+              value="0031"
               id="00018"
               textType="0">
       <Description>DIGIT ONE</Description>
@@ -222,7 +222,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="00032"
+              value="0032"
               id="00019"
               textType="0">
       <Description>DIGIT TWO</Description>
@@ -234,7 +234,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="00033"
+              value="0033"
               id="00020"
               textType="0">
       <Description>DIGIT THREE</Description>
@@ -246,7 +246,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="00034"
+              value="0034"
               id="00021"
               textType="0">
       <Description>DIGIT FOUR</Description>
@@ -258,7 +258,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="00035"
+              value="0035"
               id="00022"
               textType="0">
       <Description>DIGIT FIVE</Description>
@@ -270,7 +270,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="00036"
+              value="0036"
               id="00023"
               textType="0">
       <Description>DIGIT SIX</Description>
@@ -282,7 +282,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="00037"
+              value="0037"
               id="00024"
               textType="0">
       <Description>DIGIT SEVEN</Description>
@@ -294,7 +294,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="00038"
+              value="0038"
               id="00025"
               textType="0">
       <Description>DIGIT EIGHT</Description>
@@ -306,7 +306,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="00039"
+              value="0039"
               id="00026"
               textType="0">
       <Description>DIGIT NINE</Description>
@@ -318,7 +318,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0003A"
+              value="003A"
               id="00027"
               textType="0">
       <Description>COLON</Description>
@@ -330,7 +330,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0003B"
+              value="003B"
               id="00028"
               textType="0">
       <Description>SEMICOLON</Description>
@@ -342,7 +342,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0003C"
+              value="003C"
               id="00029"
               textType="0">
       <Description>LESS-THAN SIGN</Description>
@@ -354,7 +354,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0003D"
+              value="003D"
               id="00030"
               textType="0">
       <Description>EQUALS SIGN</Description>
@@ -366,7 +366,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0003E"
+              value="003E"
               id="00031"
               textType="0">
       <Description>GREATER-THAN SIGN</Description>
@@ -378,7 +378,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0003F"
+              value="003F"
               id="00032"
               textType="0">
       <Description>QUESTION MARK</Description>
@@ -390,7 +390,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="00040"
+              value="0040"
               id="00033"
               textType="0">
       <Description>COMMERCIAL AT</Description>
@@ -402,7 +402,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="00041"
+              value="0041"
               id="00034"
               textType="0">
       <Description>LATIN CAPITAL LETTER A</Description>
@@ -414,7 +414,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="00042"
+              value="0042"
               id="00035"
               textType="0">
       <Description>LATIN CAPITAL LETTER B</Description>
@@ -426,7 +426,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="00043"
+              value="0043"
               id="00036"
               textType="0">
       <Description>LATIN CAPITAL LETTER C</Description>
@@ -438,7 +438,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="00044"
+              value="0044"
               id="00037"
               textType="0">
       <Description>LATIN CAPITAL LETTER D</Description>
@@ -450,7 +450,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="00045"
+              value="0045"
               id="00038"
               textType="0">
       <Description>LATIN CAPITAL LETTER E</Description>
@@ -462,7 +462,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="00046"
+              value="0046"
               id="00039"
               textType="0">
       <Description>LATIN CAPITAL LETTER F</Description>
@@ -474,7 +474,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="00047"
+              value="0047"
               id="00040"
               textType="0">
       <Description>LATIN CAPITAL LETTER G</Description>
@@ -486,7 +486,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="00048"
+              value="0048"
               id="00041"
               textType="0">
       <Description>LATIN CAPITAL LETTER H</Description>
@@ -498,7 +498,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="00049"
+              value="0049"
               id="00042"
               textType="0">
       <Description>LATIN CAPITAL LETTER I</Description>
@@ -510,7 +510,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0004A"
+              value="004A"
               id="00043"
               textType="0">
       <Description>LATIN CAPITAL LETTER J</Description>
@@ -522,7 +522,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0004B"
+              value="004B"
               id="00044"
               textType="0">
       <Description>LATIN CAPITAL LETTER K</Description>
@@ -534,7 +534,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0004C"
+              value="004C"
               id="00045"
               textType="0">
       <Description>LATIN CAPITAL LETTER L</Description>
@@ -546,7 +546,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0004D"
+              value="004D"
               id="00046"
               textType="0">
       <Description>LATIN CAPITAL LETTER M</Description>
@@ -558,7 +558,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0004E"
+              value="004E"
               id="00047"
               textType="0">
       <Description>LATIN CAPITAL LETTER N</Description>
@@ -570,7 +570,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0004F"
+              value="004F"
               id="00048"
               textType="0">
       <Description>LATIN CAPITAL LETTER O</Description>
@@ -582,7 +582,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="00050"
+              value="0050"
               id="00049"
               textType="0">
       <Description>LATIN CAPITAL LETTER P</Description>
@@ -594,7 +594,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="00051"
+              value="0051"
               id="00050"
               textType="0">
       <Description>LATIN CAPITAL LETTER Q</Description>
@@ -606,7 +606,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="00052"
+              value="0052"
               id="00051"
               textType="0">
       <Description>LATIN CAPITAL LETTER R</Description>
@@ -618,7 +618,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="00053"
+              value="0053"
               id="00052"
               textType="0">
       <Description>LATIN CAPITAL LETTER S</Description>
@@ -630,7 +630,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="00054"
+              value="0054"
               id="00053"
               textType="0">
       <Description>LATIN CAPITAL LETTER T</Description>
@@ -642,7 +642,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="00055"
+              value="0055"
               id="00054"
               textType="0">
       <Description>LATIN CAPITAL LETTER U</Description>
@@ -654,7 +654,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="00056"
+              value="0056"
               id="00055"
               textType="0">
       <Description>LATIN CAPITAL LETTER V</Description>
@@ -666,7 +666,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="00057"
+              value="0057"
               id="00056"
               textType="0">
       <Description>LATIN CAPITAL LETTER W</Description>
@@ -678,7 +678,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="00058"
+              value="0058"
               id="00057"
               textType="0">
       <Description>LATIN CAPITAL LETTER X</Description>
@@ -690,7 +690,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="00059"
+              value="0059"
               id="00058"
               textType="0">
       <Description>LATIN CAPITAL LETTER Y</Description>
@@ -702,7 +702,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0005A"
+              value="005A"
               id="00059"
               textType="0">
       <Description>LATIN CAPITAL LETTER Z</Description>
@@ -714,7 +714,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0005B"
+              value="005B"
               id="00060"
               textType="0">
       <Description>LEFT SQUARE BRACKET</Description>
@@ -726,7 +726,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0005C"
+              value="005C"
               id="00061"
               textType="0">
       <Description>REVERSE SOLIDUS</Description>
@@ -738,7 +738,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0005D"
+              value="005D"
               id="00062"
               textType="0">
       <Description>RIGHT SQUARE BRACKET</Description>
@@ -750,7 +750,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0005E"
+              value="005E"
               id="00063"
               textType="0">
       <Description>CIRCUMFLEX ACCENT</Description>
@@ -762,7 +762,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0005F"
+              value="005F"
               id="00064"
               textType="0">
       <Description>LOW LINE</Description>
@@ -774,7 +774,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="00060"
+              value="0060"
               id="00065"
               textType="0">
       <Description>GRAVE ACCENT</Description>
@@ -786,7 +786,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="00061"
+              value="0061"
               id="00066"
               textType="0">
       <Description>LATIN SMALL LETTER A</Description>
@@ -798,7 +798,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="00062"
+              value="0062"
               id="00067"
               textType="0">
       <Description>LATIN SMALL LETTER B</Description>
@@ -810,7 +810,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="00063"
+              value="0063"
               id="00068"
               textType="0">
       <Description>LATIN SMALL LETTER C</Description>
@@ -822,7 +822,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="00064"
+              value="0064"
               id="00069"
               textType="0">
       <Description>LATIN SMALL LETTER D</Description>
@@ -834,7 +834,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="00065"
+              value="0065"
               id="00070"
               textType="0">
       <Description>LATIN SMALL LETTER E</Description>
@@ -846,7 +846,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="00066"
+              value="0066"
               id="00071"
               textType="0">
       <Description>LATIN SMALL LETTER F</Description>
@@ -858,7 +858,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="00067"
+              value="0067"
               id="00072"
               textType="0">
       <Description>LATIN SMALL LETTER G</Description>
@@ -870,7 +870,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="00068"
+              value="0068"
               id="00073"
               textType="0">
       <Description>LATIN SMALL LETTER H</Description>
@@ -882,7 +882,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="00069"
+              value="0069"
               id="00074"
               textType="0">
       <Description>LATIN SMALL LETTER I</Description>
@@ -894,7 +894,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0006A"
+              value="006A"
               id="00075"
               textType="0">
       <Description>LATIN SMALL LETTER J</Description>
@@ -906,7 +906,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0006B"
+              value="006B"
               id="00076"
               textType="0">
       <Description>LATIN SMALL LETTER K</Description>
@@ -918,7 +918,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0006C"
+              value="006C"
               id="00077"
               textType="0">
       <Description>LATIN SMALL LETTER L</Description>
@@ -930,7 +930,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0006D"
+              value="006D"
               id="00078"
               textType="0">
       <Description>LATIN SMALL LETTER M</Description>
@@ -942,7 +942,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0006E"
+              value="006E"
               id="00079"
               textType="0">
       <Description>LATIN SMALL LETTER N</Description>
@@ -954,7 +954,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0006F"
+              value="006F"
               id="00080"
               textType="0">
       <Description>LATIN SMALL LETTER O</Description>
@@ -966,7 +966,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="00070"
+              value="0070"
               id="00081"
               textType="0">
       <Description>LATIN SMALL LETTER P</Description>
@@ -978,7 +978,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="00071"
+              value="0071"
               id="00082"
               textType="0">
       <Description>LATIN SMALL LETTER Q</Description>
@@ -990,7 +990,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="00072"
+              value="0072"
               id="00083"
               textType="0">
       <Description>LATIN SMALL LETTER R</Description>
@@ -1002,7 +1002,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="00073"
+              value="0073"
               id="00084"
               textType="0">
       <Description>LATIN SMALL LETTER S</Description>
@@ -1014,7 +1014,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="00074"
+              value="0074"
               id="00085"
               textType="0">
       <Description>LATIN SMALL LETTER T</Description>
@@ -1026,7 +1026,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="00075"
+              value="0075"
               id="00086"
               textType="0">
       <Description>LATIN SMALL LETTER U</Description>
@@ -1038,7 +1038,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="00076"
+              value="0076"
               id="00087"
               textType="0">
       <Description>LATIN SMALL LETTER V</Description>
@@ -1050,7 +1050,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="00077"
+              value="0077"
               id="00088"
               textType="0">
       <Description>LATIN SMALL LETTER W</Description>
@@ -1062,7 +1062,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="00078"
+              value="0078"
               id="00089"
               textType="0">
       <Description>LATIN SMALL LETTER X</Description>
@@ -1074,7 +1074,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="00079"
+              value="0079"
               id="00090"
               textType="0">
       <Description>LATIN SMALL LETTER Y</Description>
@@ -1086,7 +1086,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0007A"
+              value="007A"
               id="00091"
               textType="0">
       <Description>LATIN SMALL LETTER Z</Description>
@@ -1098,7 +1098,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0007B"
+              value="007B"
               id="00092"
               textType="0">
       <Description>LEFT CURLY BRACKET</Description>
@@ -1110,7 +1110,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0007C"
+              value="007C"
               id="00093"
               textType="0">
       <Description>VERTICAL LINE</Description>
@@ -1122,7 +1122,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0007D"
+              value="007D"
               id="00094"
               textType="0">
       <Description>RIGHT CURLY BRACKET</Description>
@@ -1134,7 +1134,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0007E"
+              value="007E"
               id="00095"
               textType="0">
       <Description>TILDE</Description>
@@ -1146,7 +1146,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0007F"
+              value="007F"
               id="00096"
               textType="0">
       <Description>DELETE</Description>

@@ -6,7 +6,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0E0EA"
+              value="E0EA"
               id="00817"
               textType="0">
       <Description>LATIN CAPITAL LETTER E WITH OGONEK AND DOUBLE ACUTE</Description>
@@ -18,7 +18,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0E4EA"
+              value="E4EA"
               id="00934"
               textType="0">
       <Description>LATIN SMALL LETTER E WITH OGONEK AND DOUBLE ACUTE</Description>
@@ -30,7 +30,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0EBC4"
+              value="EBC4"
               id="01147"
               textType="0">
       <Description>LATIN CAPITAL LETTER O WITH OGONEK AND DOUBLE ACUTE</Description>
@@ -42,7 +42,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0EBC5"
+              value="EBC5"
               id="01148"
               textType="0">
       <Description>LATIN SMALL LETTER O WITH OGONEK AND DOUBLE ACUTE</Description>

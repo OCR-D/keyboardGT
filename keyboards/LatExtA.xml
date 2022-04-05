@@ -6,7 +6,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="00100"
+              value="0100"
               id="00193"
               textType="0">
       <Description>LATIN CAPITAL LETTER A WITH MACRON</Description>
@@ -18,7 +18,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="00101"
+              value="0101"
               id="00194"
               textType="0">
       <Description>LATIN SMALL LETTER A WITH MACRON</Description>
@@ -30,7 +30,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="00102"
+              value="0102"
               id="00195"
               textType="0">
       <Description>LATIN CAPITAL LETTER A WITH BREVE</Description>
@@ -42,7 +42,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="00103"
+              value="0103"
               id="00196"
               textType="0">
       <Description>LATIN SMALL LETTER A WITH BREVE</Description>
@@ -54,7 +54,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="00104"
+              value="0104"
               id="00197"
               textType="0">
       <Description>LATIN CAPITAL LETTER A WITH OGONEK</Description>
@@ -66,7 +66,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="00105"
+              value="0105"
               id="00198"
               textType="0">
       <Description>LATIN SMALL LETTER A WITH OGONEK</Description>
@@ -78,7 +78,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="00106"
+              value="0106"
               id="00199"
               textType="0">
       <Description>LATIN CAPITAL LETTER C WITH ACUTE</Description>
@@ -90,7 +90,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="00107"
+              value="0107"
               id="00200"
               textType="0">
       <Description>LATIN SMALL LETTER C WITH ACUTE</Description>
@@ -102,7 +102,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0010A"
+              value="010A"
               id="00201"
               textType="0">
       <Description>LATIN CAPITAL LETTER C WITH DOT ABOVE</Description>
@@ -114,7 +114,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0010B"
+              value="010B"
               id="00202"
               textType="0">
       <Description>LATIN SMALL LETTER C WITH DOT ABOVE</Description>
@@ -126,7 +126,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="00110"
+              value="0110"
               id="00203"
               textType="0">
       <Description>LATIN CAPITAL LETTER D WITH STROKE</Description>
@@ -138,7 +138,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="00111"
+              value="0111"
               id="00204"
               textType="0">
       <Description>LATIN SMALL LETTER D WITH STROKE</Description>
@@ -150,7 +150,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="00112"
+              value="0112"
               id="00205"
               textType="0">
       <Description>LATIN CAPITAL LETTER E WITH MACRON</Description>
@@ -162,7 +162,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="00113"
+              value="0113"
               id="00206"
               textType="0">
       <Description>LATIN SMALL LETTER E WITH MACRON</Description>
@@ -174,7 +174,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="00114"
+              value="0114"
               id="00207"
               textType="0">
       <Description>LATIN CAPITAL LETTER E WITH BREVE</Description>
@@ -186,7 +186,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="00115"
+              value="0115"
               id="00208"
               textType="0">
       <Description>LATIN SMALL LETTER E WITH BREVE</Description>
@@ -198,7 +198,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="00116"
+              value="0116"
               id="00209"
               textType="0">
       <Description>LATIN CAPITAL LETTER E WITH DOT ABOVE</Description>
@@ -210,7 +210,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="00117"
+              value="0117"
               id="00210"
               textType="0">
       <Description>LATIN SMALL LETTER E WITH DOT ABOVE</Description>
@@ -222,7 +222,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="00118"
+              value="0118"
               id="00211"
               textType="0">
       <Description>LATIN CAPITAL LETTER E WITH OGONEK</Description>
@@ -234,7 +234,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="00119"
+              value="0119"
               id="00212"
               textType="0">
       <Description>LATIN SMALL LETTER E WITH OGONEK</Description>
@@ -246,7 +246,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="00120"
+              value="0120"
               id="00213"
               textType="0">
       <Description>LATIN CAPITAL LETTER G WITH DOT ABOVE</Description>
@@ -258,7 +258,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="00121"
+              value="0121"
               id="00214"
               textType="0">
       <Description>LATIN SMALL LETTER G WITH DOT ABOVE</Description>
@@ -270,7 +270,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="00127"
+              value="0127"
               id="00215"
               textType="0">
       <Description>LATIN SMALL LETTER H WITH STROKE</Description>
@@ -282,7 +282,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0012A"
+              value="012A"
               id="00216"
               textType="0">
       <Description>LATIN CAPITAL LETTER I WITH MACRON</Description>
@@ -294,7 +294,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0012B"
+              value="012B"
               id="00217"
               textType="0">
       <Description>LATIN SMALL LETTER I WITH MACRON</Description>
@@ -306,7 +306,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0012C"
+              value="012C"
               id="00218"
               textType="0">
       <Description>LATIN CAPITAL LETTER I WITH BREVE</Description>
@@ -318,7 +318,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0012D"
+              value="012D"
               id="00219"
               textType="0">
       <Description>LATIN SMALL LETTER I WITH BREVE</Description>
@@ -330,7 +330,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0012E"
+              value="012E"
               id="00220"
               textType="0">
       <Description>LATIN CAPITAL LETTER I WITH OGONEK</Description>
@@ -342,7 +342,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0012F"
+              value="012F"
               id="00221"
               textType="0">
       <Description>LATIN SMALL LETTER I WITH OGONEK</Description>
@@ -354,7 +354,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="00130"
+              value="0130"
               id="00222"
               textType="0">
       <Description>LATIN CAPITAL LETTER I WITH DOT ABOVE</Description>
@@ -366,7 +366,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="00131"
+              value="0131"
               id="00223"
               textType="0">
       <Description>LATIN SMALL LETTER DOTLESS I</Description>
@@ -378,7 +378,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="00132"
+              value="0132"
               id="00224"
               textType="0">
       <Description>LATIN CAPITAL LIGATURE IJ</Description>
@@ -390,7 +390,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="00133"
+              value="0133"
               id="00225"
               textType="0">
       <Description>LATIN SMALL LIGATURE IJ</Description>
@@ -402,7 +402,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="00139"
+              value="0139"
               id="00226"
               textType="0">
       <Description>LATIN CAPITAL LETTER L WITH ACUTE</Description>
@@ -414,7 +414,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0013A"
+              value="013A"
               id="00227"
               textType="0">
       <Description>LATIN SMALL LETTER L WITH ACUTE</Description>
@@ -426,7 +426,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="00141"
+              value="0141"
               id="00228"
               textType="0">
       <Description>LATIN CAPITAL LETTER L WITH STROKE</Description>
@@ -438,7 +438,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="00142"
+              value="0142"
               id="00229"
               textType="0">
       <Description>LATIN SMALL LETTER L WITH STROKE</Description>
@@ -450,7 +450,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="00143"
+              value="0143"
               id="00230"
               textType="0">
       <Description>LATIN CAPITAL LETTER N WITH ACUTE</Description>
@@ -462,7 +462,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="00144"
+              value="0144"
               id="00231"
               textType="0">
       <Description>LATIN SMALL LETTER N WITH ACUTE</Description>
@@ -474,7 +474,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0014A"
+              value="014A"
               id="00232"
               textType="0">
       <Description>LATIN CAPITAL LETTER ENG</Description>
@@ -486,7 +486,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0014B"
+              value="014B"
               id="00233"
               textType="0">
       <Description>LATIN SMALL LETTER ENG</Description>
@@ -498,7 +498,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0014C"
+              value="014C"
               id="00234"
               textType="0">
       <Description>LATIN CAPITAL LETTER O WITH MACRON</Description>
@@ -510,7 +510,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0014D"
+              value="014D"
               id="00235"
               textType="0">
       <Description>LATIN SMALL LETTER O WITH MACRON</Description>
@@ -522,7 +522,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0014E"
+              value="014E"
               id="00236"
               textType="0">
       <Description>LATIN CAPITAL LETTER O WITH BREVE</Description>
@@ -534,7 +534,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0014F"
+              value="014F"
               id="00237"
               textType="0">
       <Description>LATIN SMALL LETTER O WITH BREVE</Description>
@@ -546,7 +546,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="00150"
+              value="0150"
               id="00238"
               textType="0">
       <Description>LATIN CAPITAL LETTER O WITH DOUBLE ACUTE</Description>
@@ -558,7 +558,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="00151"
+              value="0151"
               id="00239"
               textType="0">
       <Description>LATIN SMALL LETTER O WITH DOUBLE ACUTE</Description>
@@ -570,7 +570,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="00152"
+              value="0152"
               id="00240"
               textType="0">
       <Description>LATIN CAPITAL LIGATURE OE</Description>
@@ -582,7 +582,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="00153"
+              value="0153"
               id="00241"
               textType="0">
       <Description>LATIN SMALL LIGATURE OE</Description>
@@ -594,7 +594,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="00154"
+              value="0154"
               id="00242"
               textType="0">
       <Description>LATIN CAPITAL LETTER R WITH ACUTE</Description>
@@ -606,7 +606,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="00155"
+              value="0155"
               id="00243"
               textType="0">
       <Description>LATIN SMALL LETTER R WITH ACUTE</Description>
@@ -618,7 +618,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0015A"
+              value="015A"
               id="00244"
               textType="0">
       <Description>LATIN CAPITAL LETTER S WITH ACUTE</Description>
@@ -630,7 +630,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0015B"
+              value="015B"
               id="00245"
               textType="0">
       <Description>LATIN SMALL LETTER S WITH ACUTE</Description>
@@ -642,7 +642,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0016A"
+              value="016A"
               id="00246"
               textType="0">
       <Description>LATIN CAPITAL LETTER U WITH MACRON</Description>
@@ -654,7 +654,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0016B"
+              value="016B"
               id="00247"
               textType="0">
       <Description>LATIN SMALL LETTER U WITH MACRON</Description>
@@ -666,7 +666,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0016C"
+              value="016C"
               id="00248"
               textType="0">
       <Description>LATIN CAPITAL LETTER U WITH BREVE</Description>
@@ -678,7 +678,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0016D"
+              value="016D"
               id="00249"
               textType="0">
       <Description>LATIN SMALL LETTER U WITH BREVE</Description>
@@ -690,7 +690,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0016E"
+              value="016E"
               id="00250"
               textType="0">
       <Description>LATIN CAPITAL LETTER U WITH RING ABOVE</Description>
@@ -702,7 +702,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0016F"
+              value="016F"
               id="00251"
               textType="0">
       <Description>LATIN SMALL LETTER U WITH RING ABOVE</Description>
@@ -714,7 +714,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="00170"
+              value="0170"
               id="00252"
               textType="0">
       <Description>LATIN CAPITAL LETTER U WITH DOUBLE ACUTE</Description>
@@ -726,7 +726,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="00171"
+              value="0171"
               id="00253"
               textType="0">
       <Description>LATIN SMALL LETTER U WITH DOUBLE ACUTE</Description>
@@ -738,7 +738,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="00172"
+              value="0172"
               id="00254"
               textType="0">
       <Description>LATIN CAPITAL LETTER U WITH OGONEK</Description>
@@ -750,7 +750,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="00173"
+              value="0173"
               id="00255"
               textType="0">
       <Description>LATIN SMALL LETTER U WITH OGONEK</Description>
@@ -762,7 +762,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="00174"
+              value="0174"
               id="00256"
               textType="0">
       <Description>LATIN CAPITAL LETTER W WITH CIRCUMFLEX</Description>
@@ -774,7 +774,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="00175"
+              value="0175"
               id="00257"
               textType="0">
       <Description>LATIN SMALL LETTER W WITH CIRCUMFLEX</Description>
@@ -786,7 +786,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="00176"
+              value="0176"
               id="00258"
               textType="0">
       <Description>LATIN CAPITAL LETTER Y WITH CIRCUMFLEX</Description>
@@ -798,7 +798,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="00177"
+              value="0177"
               id="00259"
               textType="0">
       <Description>LATIN SMALL LETTER Y WITH CIRCUMFLEX</Description>
@@ -810,7 +810,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="00178"
+              value="0178"
               id="00260"
               textType="0">
       <Description>LATIN CAPITAL LETTER Y WITH DIAERESIS</Description>
@@ -822,7 +822,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0017B"
+              value="017B"
               id="00261"
               textType="0">
       <Description>LATIN CAPITAL LETTER Z WITH DOT ABOVE</Description>
@@ -834,7 +834,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0017C"
+              value="017C"
               id="00262"
               textType="0">
       <Description>LATIN SMALL LETTER Z WITH DOT ABOVE</Description>
@@ -846,7 +846,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0017F"
+              value="017F"
               id="00263"
               textType="0">
       <Description>LATIN SMALL LETTER LONG S</Description>

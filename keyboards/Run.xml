@@ -6,7 +6,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="016A0"
+              value="16A0"
               id="00397"
               textType="0">
       <Description>RUNIC LETTER FEHU FEOH FE F</Description>
@@ -18,7 +18,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="016A1"
+              value="16A1"
               id="00398"
               textType="0">
       <Description>RUNIC LETTER V</Description>
@@ -30,7 +30,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="016A2"
+              value="16A2"
               id="00399"
               textType="0">
       <Description>RUNIC LETTER URUZ UR U</Description>
@@ -42,7 +42,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="016A3"
+              value="16A3"
               id="00400"
               textType="0">
       <Description>RUNIC LETTER YR</Description>
@@ -54,7 +54,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="016A4"
+              value="16A4"
               id="00401"
               textType="0">
       <Description>RUNIC LETTER Y</Description>
@@ -66,7 +66,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="016A5"
+              value="16A5"
               id="00402"
               textType="0">
       <Description>RUNIC LETTER W</Description>
@@ -78,7 +78,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="016A6"
+              value="16A6"
               id="00403"
               textType="0">
       <Description>RUNIC LETTER THURISAZ THURS THORN</Description>
@@ -90,7 +90,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="016A7"
+              value="16A7"
               id="00404"
               textType="0">
       <Description>RUNIC LETTER ETH</Description>
@@ -102,7 +102,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="016A8"
+              value="16A8"
               id="00405"
               textType="0">
       <Description>RUNIC LETTER ANSUZ A</Description>
@@ -114,7 +114,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="016D8"
+              value="16D8"
               id="00406"
               textType="0">
       <Description>RUNIC MEDIEVAL LETTER M</Description>

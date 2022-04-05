@@ -6,7 +6,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0E004"
+              value="E004"
               id="00790"
               textType="0">
       <Description>LATIN CAPITAL LETTER A WITH OGONEK AND ACUTE</Description>
@@ -18,7 +18,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0E099"
+              value="E099"
               id="00809"
               textType="0">
       <Description>LATIN CAPITAL LETTER E WITH OGONEK AND ACUTE</Description>
@@ -30,7 +30,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0E20C"
+              value="E20C"
               id="00842"
               textType="0">
       <Description>LATIN CAPITAL LETTER O WITH OGONEK AND ACUTE</Description>
@@ -42,7 +42,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0E257"
+              value="E257"
               id="00851"
               textType="0">
       <Description>LATIN CAPITAL LETTER O WITH STROKE AND OGONEK AND ACUTE</Description>
@@ -54,7 +54,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0E404"
+              value="E404"
               id="00893"
               textType="0">
       <Description>LATIN SMALL LETTER A WITH OGONEK AND ACUTE</Description>
@@ -66,7 +66,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0E499"
+              value="E499"
               id="00921"
               textType="0">
       <Description>LATIN SMALL LETTER E WITH OGONEK AND ACUTE</Description>
@@ -78,7 +78,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0E60C"
+              value="E60C"
               id="00971"
               textType="0">
       <Description>LATIN SMALL LETTER O WITH OGONEK AND ACUTE</Description>
@@ -90,7 +90,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0E657"
+              value="E657"
               id="00986"
               textType="0">
       <Description>LATIN SMALL LETTER O WITH STROKE AND OGONEK AND ACUTE</Description>
@@ -102,7 +102,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0E8D3"
+              value="E8D3"
               id="01079"
               textType="0">
       <Description>LATIN SMALL LETTER AE WITH OGONEK AND ACUTE</Description>

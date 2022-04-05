@@ -6,7 +6,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="02180"
+              value="2180"
               id="00634"
               textType="0">
       <Description>ROMAN NUMERAL ONE THOUSAND C D</Description>
@@ -18,7 +18,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="02181"
+              value="2181"
               id="00635"
               textType="0">
       <Description>ROMAN NUMERAL FIVE THOUSAND</Description>
@@ -30,7 +30,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="02182"
+              value="2182"
               id="00636"
               textType="0">
       <Description>ROMAN NUMERAL TEN THOUSAND</Description>
@@ -42,7 +42,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="02183"
+              value="2183"
               id="00637"
               textType="0">
       <Description>ROMAN NUMERAL REVERSED ONE HUNDRED</Description>
@@ -54,7 +54,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="02184"
+              value="2184"
               id="00638"
               textType="0">
       <Description>LATIN ABBREVIATION SIGN SMALL CON</Description>

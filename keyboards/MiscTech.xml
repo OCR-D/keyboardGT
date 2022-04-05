@@ -6,7 +6,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="023D1"
+              value="23D1"
               id="00653"
               textType="0">
       <Description>METRICAL BREVE</Description>
@@ -18,7 +18,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="023D2"
+              value="23D2"
               id="00654"
               textType="0">
       <Description>METRICAL LONG OVER SHORT</Description>
@@ -30,7 +30,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="023D3"
+              value="23D3"
               id="00655"
               textType="0">
       <Description>METRICAL SHORT OVER LONG</Description>
@@ -42,7 +42,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="023D4"
+              value="23D4"
               id="00656"
               textType="0">
       <Description>METRICAL LONG OVER TWO SHORTS</Description>

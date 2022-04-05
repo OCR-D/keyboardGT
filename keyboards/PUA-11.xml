@@ -6,7 +6,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0F1BD"
+              value="F1BD"
               id="01439"
               textType="0">
       <Description>SMALL BASE LINE ZERO SIGN</Description>
@@ -18,7 +18,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0F1BE"
+              value="F1BE"
               id="01440"
               textType="0">
       <Description>MODIFIER CAPITAL LETTER V</Description>
@@ -30,7 +30,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0F1BF"
+              value="F1BF"
               id="01441"
               textType="0">
       <Description>MODIFIER LETTER CAPITAL X</Description>
@@ -42,7 +42,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0F2FE"
+              value="F2FE"
               id="01546"
               textType="0">
       <Description>ROMAN NUMERAL CAPITAL C WITH TWO BARS</Description>
@@ -54,7 +54,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0F2FF"
+              value="F2FF"
               id="01547"
               textType="0">
       <Description>ROMAN NUMERAL SMALL C WITH TWO BARS</Description>

@@ -6,7 +6,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0E025"
+              value="E025"
               id="00793"
               textType="0">
       <Description>LATIN CAPITAL LETTER A WITH DOUBLE ACUTE</Description>
@@ -18,7 +18,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0E041"
+              value="E041"
               id="00801"
               textType="0">
       <Description>LATIN CAPITAL LETTER AE WITH DOUBLE ACUTE</Description>
@@ -30,7 +30,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0E0D1"
+              value="E0D1"
               id="00813"
               textType="0">
       <Description>LATIN CAPITAL LETTER E WITH DOUBLE ACUTE</Description>
@@ -42,7 +42,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0E143"
+              value="E143"
               id="00827"
               textType="0">
       <Description>LATIN CAPITAL LETTER I WITH DOUBLE ACUTE</Description>
@@ -54,7 +54,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0E162"
+              value="E162"
               id="00834"
               textType="0">
       <Description>LATIN CAPITAL LETTER J WITH DOUBLE ACUTE</Description>
@@ -66,7 +66,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0E268"
+              value="E268"
               id="00856"
               textType="0">
       <Description>LATIN CAPITAL LETTER P WITH DOUBLE ACUTE</Description>
@@ -78,7 +78,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0E34B"
+              value="E34B"
               id="00874"
               textType="0">
       <Description>LATIN CAPITAL LETTER V WITH DOUBLE ACUTE</Description>
@@ -90,7 +90,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0E350"
+              value="E350"
               id="00878"
               textType="0">
       <Description>LATIN CAPITAL LETTER W WITH DOUBLE ACUTE</Description>
@@ -102,7 +102,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0E37C"
+              value="E37C"
               id="00884"
               textType="0">
       <Description>LATIN CAPITAL LETTER Y WITH DOUBLE ACUTE</Description>
@@ -114,7 +114,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0E425"
+              value="E425"
               id="00899"
               textType="0">
       <Description>LATIN SMALL LETTER A WITH DOUBLE ACUTE</Description>
@@ -126,7 +126,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0E441"
+              value="E441"
               id="00910"
               textType="0">
       <Description>LATIN SMALL LETTER AE WITH DOUBLE ACUTE</Description>
@@ -138,7 +138,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0E4D1"
+              value="E4D1"
               id="00928"
               textType="0">
       <Description>LATIN SMALL LETTER E WITH DOUBLE ACUTE</Description>
@@ -150,7 +150,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0E543"
+              value="E543"
               id="00947"
               textType="0">
       <Description>LATIN SMALL LETTER I WITH DOUBLE ACUTE</Description>
@@ -162,7 +162,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0E562"
+              value="E562"
               id="00956"
               textType="0">
       <Description>LATIN SMALL LETTER J WITH DOUBLE ACUTE</Description>
@@ -174,7 +174,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0E668"
+              value="E668"
               id="00992"
               textType="0">
       <Description>LATIN SMALL LETTER P WITH DOUBLE ACUTE</Description>
@@ -186,7 +186,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0E74B"
+              value="E74B"
               id="01019"
               textType="0">
       <Description>LATIN SMALL LETTER V WITH DOUBLE ACUTE</Description>
@@ -198,7 +198,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0E750"
+              value="E750"
               id="01024"
               textType="0">
       <Description>LATIN SMALL LETTER W WITH DOUBLE ACUTE</Description>
@@ -210,7 +210,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0E77C"
+              value="E77C"
               id="01033"
               textType="0">
       <Description>LATIN SMALL LETTER Y WITH DOUBLE ACUTE</Description>
@@ -222,7 +222,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0EBC0"
+              value="EBC0"
               id="01143"
               textType="0">
       <Description>LATIN CAPITAL LIGATURE AO WITH DOUBLE ACUTE</Description>
@@ -234,7 +234,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0EBC1"
+              value="EBC1"
               id="01144"
               textType="0">
       <Description>LATIN SMALL LIGATURE AO WITH DOUBLE ACUTE</Description>
@@ -246,7 +246,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0EBC2"
+              value="EBC2"
               id="01145"
               textType="0">
       <Description>LATIN CAPITAL LIGATURE AV WITH DOUBLE ACUTE</Description>
@@ -258,7 +258,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0EBC3"
+              value="EBC3"
               id="01146"
               textType="0">
       <Description>LATIN SMALL LIGATURE AV WITH DOUBLE ACUTE</Description>
@@ -270,7 +270,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0EBC6"
+              value="EBC6"
               id="01149"
               textType="0">
       <Description>LATIN CAPITAL LETTER O WITH STROKE AND DOUBLE ACUTE</Description>
@@ -282,7 +282,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0EBC7"
+              value="EBC7"
               id="01150"
               textType="0">
       <Description>LATIN SMALL LETTER O WITH STROKE AND DOUBLE ACUTE</Description>
@@ -294,7 +294,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0EBC8"
+              value="EBC8"
               id="01151"
               textType="0">
       <Description>LATIN CAPITAL LIGATURE OE WITH DOUBLE ACUTE</Description>
@@ -306,7 +306,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0EBC9"
+              value="EBC9"
               id="01152"
               textType="0">
       <Description>LATIN SMALL LIGATURE OE WITH DOUBLE ACUTE</Description>
@@ -318,7 +318,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0EBCA"
+              value="EBCA"
               id="01153"
               textType="0">
       <Description>LATIN CAPITAL LIGATURE YY WITH DOUBLE ACUTE</Description>
@@ -330,7 +330,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0EBCB"
+              value="EBCB"
               id="01154"
               textType="0">
       <Description>LATIN SMALL LIGATURE YY WITH DOUBLE ACUTE</Description>
@@ -342,7 +342,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0EFD8"
+              value="EFD8"
               id="01301"
               textType="0">
       <Description>LATIN SMALL LIGATURE UU WITH DOUBLE ACUTE</Description>
@@ -354,7 +354,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0EFD9"
+              value="EFD9"
               id="01302"
               textType="0">
       <Description>LATIN CAPITAL LIGATURE UU WITH DOUBLE ACUTE </Description>
@@ -366,7 +366,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0EFEA"
+              value="EFEA"
               id="01318"
               textType="0">
       <Description>LATIN CAPITAL LIGATURE AA WITH DOUBLE ACUTE</Description>
@@ -378,7 +378,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0EFEB"
+              value="EFEB"
               id="01319"
               textType="0">
       <Description>LATIN SMALL LIGATURE AA WITH DOUBLE ACUTE</Description>
@@ -390,7 +390,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0EFEC"
+              value="EFEC"
               id="01320"
               textType="0">
       <Description>LATIN CAPITAL LIGATURE OO WITH DOUBLE ACUTE</Description>
@@ -402,7 +402,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0EFED"
+              value="EFED"
               id="01321"
               textType="0">
       <Description>LATIN SMALL LIGATURE OO WITH DOUBLE ACUTE</Description>

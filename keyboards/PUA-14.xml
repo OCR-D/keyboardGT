@@ -6,7 +6,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0EADC"
+              value="EADC"
               id="01105"
               textType="0">
       <Description>LATIN SMALL LIGATURE L MIDDLE HIGH GERMAN ZED</Description>
@@ -18,7 +18,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0EADD"
+              value="EADD"
               id="01106"
               textType="0">
       <Description>LATIN SMALL LIGATURE LONG S MIDDLE HIGH GERMAN ZED</Description>
@@ -30,7 +30,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0EADE"
+              value="EADE"
               id="01107"
               textType="0">
       <Description>LATIN SMALL LIGATURE LONG S I MIDDLE HIGH GERMAN ZED</Description>
@@ -42,7 +42,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0F238"
+              value="F238"
               id="01512"
               textType="0">
       <Description>LATIN SMALL LETTER MIDDLE HIGH GERMAN ZED</Description>
@@ -54,7 +54,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0F239"
+              value="F239"
               id="01513"
               textType="0">
       <Description>LATIN SMALL LIGATURE I MIDDLE HIGH GERMAN ZED</Description>

@@ -6,7 +6,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="002BC"
+              value="02BC"
               id="00331"
               textType="0">
       <Description>MODIFIER LETTER APOSTROPHE</Description>
@@ -18,7 +18,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="002C8"
+              value="02C8"
               id="00332"
               textType="0">
       <Description>MODIFIER LETTER VERTICAL LINE</Description>
@@ -30,7 +30,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="002D8"
+              value="02D8"
               id="00333"
               textType="0">
       <Description>BREVE</Description>
@@ -42,7 +42,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="002D9"
+              value="02D9"
               id="00334"
               textType="0">
       <Description>DOT ABOVE</Description>
@@ -54,7 +54,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="002DA"
+              value="02DA"
               id="00335"
               textType="0">
       <Description>RING ABOVE</Description>
@@ -66,7 +66,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="002DB"
+              value="02DB"
               id="00336"
               textType="0">
       <Description>OGONEK</Description>
@@ -78,7 +78,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="002DC"
+              value="02DC"
               id="00337"
               textType="0">
       <Description>SMALL TILDE</Description>
@@ -90,7 +90,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="002DD"
+              value="02DD"
               id="00338"
               textType="0">
       <Description>DOUBLE ACUTE ACCENT</Description>
@@ -102,7 +102,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="002E3"
+              value="02E3"
               id="00339"
               textType="0">
       <Description>MODIFIER LETTER SMALL X</Description>

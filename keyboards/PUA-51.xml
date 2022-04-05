@@ -6,7 +6,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0EEC6"
+              value="EEC6"
               id="01208"
               textType="0">
       <Description>LATIN SMALL LIGATURE DD ROTUNDA</Description>
@@ -18,7 +18,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0F106"
+              value="F106"
               id="01404"
               textType="0">
       <Description>LATIN CAPITAL LETTER C SQUARE FORM</Description>
@@ -30,7 +30,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0F10A"
+              value="F10A"
               id="01405"
               textType="0">
       <Description>LATIN CAPITAL LETTER E UNCIAL FORM</Description>
@@ -42,7 +42,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0F10E"
+              value="F10E"
               id="01406"
               textType="0">
       <Description>LATIN CAPITAL LETTER G SQUARE FORM</Description>
@@ -54,7 +54,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0F110"
+              value="F110"
               id="01407"
               textType="0">
       <Description>LATIN CAPITAL LETTER UNCIAL H</Description>
@@ -66,7 +66,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0F11A"
+              value="F11A"
               id="01408"
               textType="0">
       <Description>LATIN CAPITAL LETTER UNCIAL M</Description>
@@ -78,7 +78,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0F126"
+              value="F126"
               id="01409"
               textType="0">
       <Description>LATIN CAPITAL LETTER S CLOSED FORM</Description>
@@ -90,7 +90,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0F127"
+              value="F127"
               id="01410"
               textType="0">
       <Description>LATIN SMALL LETTER LONG S DESCENDING</Description>
@@ -102,7 +102,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0F128"
+              value="F128"
               id="01411"
               textType="0">
       <Description>LATIN SMALL LETTER S CLOSED FORM</Description>
@@ -114,7 +114,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0F13A"
+              value="F13A"
               id="01415"
               textType="0">
       <Description>LATIN CAPITAL LETTER A SQUARE FORM</Description>
@@ -126,7 +126,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0F193"
+              value="F193"
               id="01425"
               textType="0">
       <Description>LATIN SMALL LETTER D WITH CURL</Description>
@@ -138,7 +138,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0F194"
+              value="F194"
               id="01426"
               textType="0">
       <Description>LATIN SMALL LETTER F WITH CURL</Description>
@@ -150,7 +150,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0F195"
+              value="F195"
               id="01427"
               textType="0">
       <Description>LATIN SMALL LETTER K WITH CURL</Description>
@@ -162,7 +162,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0F196"
+              value="F196"
               id="01428"
               textType="0">
       <Description>LATIN SMALL LETTER G WITH CURL</Description>
@@ -174,7 +174,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0F198"
+              value="F198"
               id="01429"
               textType="0">
       <Description>LATIN SMALL LETTER C WITH CURL</Description>
@@ -186,7 +186,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0F199"
+              value="F199"
               id="01430"
               textType="0">
       <Description>LATIN SMALL LETTER T WITH CURL</Description>
@@ -198,7 +198,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0F19A"
+              value="F19A"
               id="01431"
               textType="0">
       <Description>LATIN SMALL LETTER N WITH FLOURISH</Description>
@@ -210,7 +210,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0F19B"
+              value="F19B"
               id="01432"
               textType="0">
       <Description>LATIN SMALL LETTER R WITH FLOURISH</Description>
@@ -222,7 +222,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0F200"
+              value="F200"
               id="01477"
               textType="0">
       <Description>LATIN SMALL LETTER A INSULAR FORM</Description>
@@ -234,7 +234,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0F201"
+              value="F201"
               id="01478"
               textType="0">
       <Description>LATIN CAPITAL LETTER A INSULAR FORM</Description>
@@ -246,7 +246,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0F202"
+              value="F202"
               id="01479"
               textType="0">
       <Description>LATIN SMALL LETTER OPEN A CAROLINGIAN FORM</Description>
@@ -258,7 +258,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0F203"
+              value="F203"
               id="01480"
               textType="0">
       <Description>LATIN SMALL LETTER CLOSED A GOTHIC FORM</Description>
@@ -270,7 +270,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0F207"
+              value="F207"
               id="01484"
               textType="0">
       <Description>LATIN SMALL LETTER CLOSED INSULAR F</Description>
@@ -282,7 +282,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0F208"
+              value="F208"
               id="01485"
               textType="0">
       <Description>LATIN LETTER UNCIAL K</Description>
@@ -294,7 +294,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0F209"
+              value="F209"
               id="01486"
               textType="0">
       <Description>LATIN SMALL LETTER K CLOSED FORM</Description>
@@ -306,7 +306,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0F214"
+              value="F214"
               id="01487"
               textType="0">
       <Description>LATIN SMALL LETTER A UNCIAL FORM</Description>
@@ -318,7 +318,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0F215"
+              value="F215"
               id="01488"
               textType="0">
       <Description>LATIN SMALL LETTER NECKLESS A</Description>
@@ -330,7 +330,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0F217"
+              value="F217"
               id="01489"
               textType="0">
       <Description>LATIN CAPITAL LETTER CLOSED E UNCIAL FORM</Description>
@@ -342,7 +342,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0F218"
+              value="F218"
               id="01490"
               textType="0">
       <Description>LATIN SMALL LETTER E UNCIAL FORM</Description>
@@ -354,7 +354,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0F219"
+              value="F219"
               id="01491"
               textType="0">
       <Description>LATIN SMALL LETTER E EXTENDED BAR FORM</Description>
@@ -366,7 +366,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0F21A"
+              value="F21A"
               id="01492"
               textType="0">
       <Description>LATIN SMALL LETTER E TALL FORM</Description>
@@ -378,7 +378,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0F21B"
+              value="F21B"
               id="01493"
               textType="0">
       <Description>LATIN SMALL LETTER SEMI-CLOSED INSULAR F</Description>
@@ -390,7 +390,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0F21C"
+              value="F21C"
               id="01494"
               textType="0">
       <Description>LATIN SMALL LETTER INSULAR F WITH DOTTED HOOKS</Description>
@@ -402,7 +402,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0F21D"
+              value="F21D"
               id="01495"
               textType="0">
       <Description>LATIN SMALL LETTER G WITH SEPARATE LOOPS</Description>
@@ -414,7 +414,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0F21E"
+              value="F21E"
               id="01496"
               textType="0">
       <Description>LATIN SMALL LETTER CLOSED G WITH LARGE LOWER LOOP</Description>
@@ -426,7 +426,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0F21F"
+              value="F21F"
               id="01497"
               textType="0">
       <Description>LATIN SMALL LETTER CLOSED G WITH SMALL LOWER LOOP</Description>
@@ -438,7 +438,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0F220"
+              value="F220"
               id="01498"
               textType="0">
       <Description>LATIN SMALL LETTER LONG I</Description>
@@ -450,7 +450,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0F221"
+              value="F221"
               id="01499"
               textType="0">
       <Description>LATIN SMALL LETTER K SEMI-CLOSED FORM</Description>
@@ -462,7 +462,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0F222"
+              value="F222"
               id="01500"
               textType="0">
       <Description>LATIN SMALL LETTER L DESCENDING</Description>
@@ -474,7 +474,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0F223"
+              value="F223"
               id="01501"
               textType="0">
       <Description>LATIN SMALL LETTER M WITH RIGHT DESCENDER</Description>
@@ -486,7 +486,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0F224"
+              value="F224"
               id="01502"
               textType="0">
       <Description>LATIN CAPITAL LETTER UNCIAL M WITH RIGHT DESCENDER</Description>
@@ -498,7 +498,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0F225"
+              value="F225"
               id="01503"
               textType="0">
       <Description>LATIN MEDIUSCULE LETTER M UNCIAL FORM</Description>
@@ -510,7 +510,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0F226"
+              value="F226"
               id="01504"
               textType="0">
       <Description>LATIN SMALL LETTER UNCIAL M WITH RIGH DESCENDER</Description>
@@ -522,7 +522,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0F228"
+              value="F228"
               id="01505"
               textType="0">
       <Description>LATIN SMALL LETTER N WITH RIGHT DESCENDER</Description>
@@ -534,7 +534,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0F229"
+              value="F229"
               id="01506"
               textType="0">
       <Description>LATIN CAPITAL LETTER N WITH RIGHT DESCENDER</Description>
@@ -546,7 +546,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0F22A"
+              value="F22A"
               id="01507"
               textType="0">
       <Description>LATIN LETTER SMALL CAPITAL N WITH RIGHT DESCENDER</Description>
@@ -558,7 +558,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0F22B"
+              value="F22B"
               id="01508"
               textType="0">
       <Description>LATIN LETTER SMALL CAPITAL N WITH LEFT DESCENDER</Description>
@@ -570,7 +570,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0F22C"
+              value="F22C"
               id="01509"
               textType="0">
       <Description>LATIN CAPITAL LETTER Q WITH STEM</Description>
@@ -582,7 +582,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0F232"
+              value="F232"
               id="01510"
               textType="0">
       <Description/>
@@ -594,7 +594,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0F233"
+              value="F233"
               id="01511"
               textType="0">
       <Description>LATIN SMALL LETTER Y WITH RIGHT MAIN STROKE</Description>
@@ -606,7 +606,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0F23A"
+              value="F23A"
               id="01514"
               textType="0">
       <Description>LATIN SMALL LETTER H WITH RIGHT DESCENDER</Description>
@@ -618,7 +618,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0F23C"
+              value="F23C"
               id="01515"
               textType="0">
       <Description>LATIN SMALL LETTER M UNCIAL FORM</Description>
@@ -630,7 +630,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0F23D"
+              value="F23D"
               id="01516"
               textType="0">
       <Description>LATIN SMALL LETTER M UNCIAL FORM WITH RIGHT DESCENDER</Description>

@@ -6,7 +6,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0E00A"
+              value="E00A"
               id="00791"
               textType="0">
       <Description>LATIN CAPITAL LETTER A WITH MACRON AND ACUTE</Description>
@@ -18,7 +18,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0E03A"
+              value="E03A"
               id="00797"
               textType="0">
       <Description>LATIN CAPITAL LETTER AE WITH MACRON AND ACUTE</Description>
@@ -30,7 +30,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0E135"
+              value="E135"
               id="00825"
               textType="0">
       <Description>LATIN CAPITAL LETTER I WITH MACRON AND ACUTE</Description>
@@ -42,7 +42,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0E309"
+              value="E309"
               id="00862"
               textType="0">
       <Description>LATIN CAPITAL LETTER U WITH MACRON AND ACUTE</Description>
@@ -54,7 +54,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0E373"
+              value="E373"
               id="00881"
               textType="0">
       <Description>LATIN CAPITAL LETTER Y WITH MACRON AND ACUTE</Description>
@@ -66,7 +66,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0E40A"
+              value="E40A"
               id="00894"
               textType="0">
       <Description>LATIN SMALL LETTER A WITH MACRON AND ACUTE</Description>
@@ -78,7 +78,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0E43A"
+              value="E43A"
               id="00906"
               textType="0">
       <Description>LATIN SMALL LETTER AE WITH MACRON AND ACUTE</Description>
@@ -90,7 +90,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0E535"
+              value="E535"
               id="00945"
               textType="0">
       <Description>LATIN SMALL LETTER I WITH MACRON AND ACUTE</Description>
@@ -102,7 +102,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0E709"
+              value="E709"
               id="01001"
               textType="0">
       <Description>LATIN SMALL LETTER U WITH MACRON AND ACUTE</Description>
@@ -114,7 +114,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0E773"
+              value="E773"
               id="01029"
               textType="0">
       <Description>LATIN SMALL LETTER Y WITH MACRON AND ACUTE</Description>
@@ -126,7 +126,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0EBEC"
+              value="EBEC"
               id="01184"
               textType="0">
       <Description>LATIN CAPITAL LETTER O WITH STROKE AND MACRON AND ACUTE</Description>
@@ -138,7 +138,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0EBED"
+              value="EBED"
               id="01185"
               textType="0">
       <Description>LATIN SMALL LETTER O WITH STROKE AND MACRON AND ACUTE</Description>

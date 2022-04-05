@@ -6,7 +6,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0E042"
+              value="E042"
               id="00802"
               textType="0">
       <Description>LATIN CAPITAL LETTER AE WITH DIAERESIS</Description>
@@ -18,7 +18,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0E342"
+              value="E342"
               id="00873"
               textType="0">
       <Description>LATIN CAPITAL LETTER V WITH DIAERESIS</Description>
@@ -30,7 +30,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0E442"
+              value="E442"
               id="00911"
               textType="0">
       <Description>LATIN SMALL LETTER AE WITH DIAERESIS</Description>
@@ -42,7 +42,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0E742"
+              value="E742"
               id="01017"
               textType="0">
       <Description>LATIN SMALL LETTER V WITH DIAERESIS</Description>
@@ -54,7 +54,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0E8D5"
+              value="E8D5"
               id="01080"
               textType="0">
       <Description>LATIN SMALL LETTER A WITH DIAGONAL DIAERESIS</Description>
@@ -66,7 +66,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0E8D7"
+              value="E8D7"
               id="01081"
               textType="0">
       <Description>LATIN SMALL LETTER O WITH DIAGONAL DIAERESIS</Description>
@@ -78,7 +78,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0EBE2"
+              value="EBE2"
               id="01174"
               textType="0">
       <Description>LATIN CAPITAL LETTER J WITH DIAERESIS</Description>
@@ -90,7 +90,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0EBE3"
+              value="EBE3"
               id="01175"
               textType="0">
       <Description>LATIN SMALL LETTER J WITH DIAERESIS</Description>
@@ -102,7 +102,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0EBE4"
+              value="EBE4"
               id="01176"
               textType="0">
       <Description>LATIN CAPITAL LIGATURE OO WITH DIAERESIS</Description>
@@ -114,7 +114,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0EBE5"
+              value="EBE5"
               id="01177"
               textType="0">
       <Description>LATIN SMALL LIGATURE OO WITH DIAERESIS</Description>
@@ -126,7 +126,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0EBE6"
+              value="EBE6"
               id="01178"
               textType="0">
       <Description>LATIN CAPITAL LIGATURE PP WITH DIAERESIS</Description>
@@ -138,7 +138,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0EBE7"
+              value="EBE7"
               id="01179"
               textType="0">
       <Description>LATIN SMALL LIGATURE PP WITH DIAERESIS</Description>
@@ -150,7 +150,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0EBE8"
+              value="EBE8"
               id="01180"
               textType="0">
       <Description>LATIN CAPITAL LIGATURE YY WITH DIAERESIS</Description>
@@ -162,7 +162,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0EBE9"
+              value="EBE9"
               id="01181"
               textType="0">
       <Description>LATIN SMALL LIGATURE YY WITH DIAERESIS</Description>
@@ -174,7 +174,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0EFFE"
+              value="EFFE"
               id="01338"
               textType="0">
       <Description>LATIN CAPITAL LIGATURE AA WITH DIAERESIS</Description>
@@ -186,7 +186,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0EFFF"
+              value="EFFF"
               id="01339"
               textType="0">
       <Description>LATIN SMALL LIGATURE AA WITH DIAERESIS</Description>

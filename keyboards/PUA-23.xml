@@ -6,7 +6,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0E03F"
+              value="E03F"
               id="00799"
               textType="0">
       <Description>LATIN CAPITAL LETTER AE WITH BREVE</Description>
@@ -18,7 +18,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0E376"
+              value="E376"
               id="00883"
               textType="0">
       <Description>LATIN CAPITAL LETTER Y WITH BREVE</Description>
@@ -30,7 +30,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0E43F"
+              value="E43F"
               id="00908"
               textType="0">
       <Description>LATIN SMALL LETTER AE WITH BREVE</Description>
@@ -42,7 +42,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0E776"
+              value="E776"
               id="01031"
               textType="0">
       <Description>LATIN SMALL LETTER Y WITH BREVE</Description>
@@ -54,7 +54,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0EBEE"
+              value="EBEE"
               id="01186"
               textType="0">
       <Description>LATIN CAPITAL LETTER O WITH STROKE AND BREVE</Description>
@@ -66,7 +66,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0EBEF"
+              value="EBEF"
               id="01187"
               textType="0">
       <Description>LATIN SMALL LETTER O WITH STROKE AND BREVE</Description>

@@ -6,7 +6,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0EAF0"
+              value="EAF0"
               id="01108"
               textType="0">
       <Description>LATIN ENLARGED LETTER SMALL A WITH ACUTE</Description>
@@ -18,7 +18,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0EAF1"
+              value="EAF1"
               id="01109"
               textType="0">
       <Description>LATIN ENLARGED LETTER SMALL LIGATURE AE</Description>
@@ -30,7 +30,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0EAF2"
+              value="EAF2"
               id="01110"
               textType="0">
       <Description>LATIN LIGATURE ENLARGED LETTER SMALL A AND LATIN SMALL LETTER O</Description>
@@ -42,7 +42,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0EAF3"
+              value="EAF3"
               id="01111"
               textType="0">
       <Description>LATIN ENLARGED LETTER SMALL E WITH OGONEK</Description>
@@ -54,7 +54,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0EEDF"
+              value="EEDF"
               id="01233"
               textType="0">
       <Description>LATIN ENLARGED LETTER SMALL LONG S</Description>
@@ -66,7 +66,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0EEE0"
+              value="EEE0"
               id="01234"
               textType="0">
       <Description>LATIN ENLARGED LETTER SMALL A</Description>
@@ -78,7 +78,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0EEE1"
+              value="EEE1"
               id="01235"
               textType="0">
       <Description>LATIN ENLARGED LETTER SMALL B</Description>
@@ -90,7 +90,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0EEE2"
+              value="EEE2"
               id="01236"
               textType="0">
       <Description>LATIN ENLARGED LETTER SMALL C</Description>
@@ -102,7 +102,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0EEE3"
+              value="EEE3"
               id="01237"
               textType="0">
       <Description>LATIN ENLARGED LETTER SMALL D</Description>
@@ -114,7 +114,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0EEE4"
+              value="EEE4"
               id="01238"
               textType="0">
       <Description>LATIN ENLARGED LETTER D ROTUNDA</Description>
@@ -126,7 +126,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0EEE5"
+              value="EEE5"
               id="01239"
               textType="0">
       <Description>LATIN ENLARGED LETTER SMALL ETH</Description>
@@ -138,7 +138,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0EEE6"
+              value="EEE6"
               id="01240"
               textType="0">
       <Description>LATIN ENLARGED LETTER SMALL E</Description>
@@ -150,7 +150,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0EEE7"
+              value="EEE7"
               id="01241"
               textType="0">
       <Description>LATIN ENLARGED LETTER SMALL F</Description>
@@ -162,7 +162,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0EEE8"
+              value="EEE8"
               id="01242"
               textType="0">
       <Description>LATIN ENLARGED LETTER SMALL G</Description>
@@ -174,7 +174,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0EEE9"
+              value="EEE9"
               id="01243"
               textType="0">
       <Description>LATIN ENLARGED LETTER SMALL H</Description>
@@ -186,7 +186,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0EEEA"
+              value="EEEA"
               id="01244"
               textType="0">
       <Description>LATIN ENLARGED LETTER SMALL I</Description>
@@ -198,7 +198,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0EEEB"
+              value="EEEB"
               id="01245"
               textType="0">
       <Description>LATIN ENLARGED LETTER SMALL J</Description>
@@ -210,7 +210,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0EEEC"
+              value="EEEC"
               id="01246"
               textType="0">
       <Description>LATIN ENLARGED LETTER SMALL K</Description>
@@ -222,7 +222,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0EEED"
+              value="EEED"
               id="01247"
               textType="0">
       <Description>LATIN ENLARGED LETTER SMALL L</Description>
@@ -234,7 +234,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0EEEE"
+              value="EEEE"
               id="01248"
               textType="0">
       <Description>LATIN ENLARGED LETTER SMALL M</Description>
@@ -246,7 +246,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0EEEF"
+              value="EEEF"
               id="01249"
               textType="0">
       <Description>LATIN ENLARGED LETTER SMALL N</Description>
@@ -258,7 +258,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0EEF0"
+              value="EEF0"
               id="01250"
               textType="0">
       <Description>LATIN ENLARGED LETTER SMALL O</Description>
@@ -270,7 +270,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0EEF1"
+              value="EEF1"
               id="01251"
               textType="0">
       <Description>LATIN ENLARGED LETTER SMALL P</Description>
@@ -282,7 +282,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0EEF2"
+              value="EEF2"
               id="01252"
               textType="0">
       <Description>LATIN ENLARGED LETTER SMALL Q</Description>
@@ -294,7 +294,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0EEF3"
+              value="EEF3"
               id="01253"
               textType="0">
       <Description>LATIN ENLARGED LETTER SMALL R</Description>
@@ -306,7 +306,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0EEF4"
+              value="EEF4"
               id="01254"
               textType="0">
       <Description>LATIN ENLARGED LETTER SMALL S</Description>
@@ -318,7 +318,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0EEF5"
+              value="EEF5"
               id="01255"
               textType="0">
       <Description>LATIN ENLARGED LETTER SMALL T</Description>
@@ -330,7 +330,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0EEF6"
+              value="EEF6"
               id="01256"
               textType="0">
       <Description>LATIN ENLARGED LETTER SMALL THORN</Description>
@@ -342,7 +342,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0EEF7"
+              value="EEF7"
               id="01257"
               textType="0">
       <Description>LATIN ENLARGED LETTER SMALL U</Description>
@@ -354,7 +354,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0EEF8"
+              value="EEF8"
               id="01258"
               textType="0">
       <Description>LATIN ENLARGED LETTER SMALL V</Description>
@@ -366,7 +366,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0EEF9"
+              value="EEF9"
               id="01259"
               textType="0">
       <Description>LATIN ENLARGED LETTER SMALL W</Description>
@@ -378,7 +378,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0EEFA"
+              value="EEFA"
               id="01260"
               textType="0">
       <Description>LATIN ENLARGED LETTER SMALL X</Description>
@@ -390,7 +390,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0EEFB"
+              value="EEFB"
               id="01261"
               textType="0">
       <Description>LATIN ENLARGED LETTER SMALL Y</Description>
@@ -402,7 +402,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0EEFC"
+              value="EEFC"
               id="01262"
               textType="0">
       <Description>LATIN ENLARGED LETTER SMALL Z</Description>
@@ -414,7 +414,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0EEFD"
+              value="EEFD"
               id="01263"
               textType="0">
       <Description>LATIN ENLARGED LETTER SMALL DOTLESS I</Description>
@@ -426,7 +426,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0EEFE"
+              value="EEFE"
               id="01264"
               textType="0">
       <Description>LATIN ENLARGED LETTER SMALL DOTLESS J</Description>
@@ -438,7 +438,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0EEFF"
+              value="EEFF"
               id="01265"
               textType="0">
       <Description>LATIN ENLARGED LETTER SMALL INSULAR F</Description>
@@ -450,7 +450,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0EFDD"
+              value="EFDD"
               id="01305"
               textType="0">
       <Description>LATIN ENLARGED LETTER SMALL LIGATURE OE</Description>
@@ -462,7 +462,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0EFDE"
+              value="EFDE"
               id="01306"
               textType="0">
       <Description>LATIN ENLARGED LETTER SMALL LIGATURE AO</Description>
@@ -474,7 +474,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0EFDF"
+              value="EFDF"
               id="01307"
               textType="0">
       <Description>LATIN ENLARGED LETTER SMALL LIGATURE AA</Description>

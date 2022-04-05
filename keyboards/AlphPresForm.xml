@@ -6,7 +6,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0FB00"
+              value="FB00"
               id="01586"
               textType="0">
       <Description>LATIN SMALL LIGATURE FF</Description>
@@ -18,7 +18,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0FB01"
+              value="FB01"
               id="01587"
               textType="0">
       <Description>LATIN SMALL LIGATURE FI</Description>
@@ -30,7 +30,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0FB02"
+              value="FB02"
               id="01588"
               textType="0">
       <Description>LATIN SMALL LIGATURE FL</Description>
@@ -42,7 +42,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0FB03"
+              value="FB03"
               id="01589"
               textType="0">
       <Description>LATIN SMALL LIGATURE FFI</Description>
@@ -54,7 +54,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0FB04"
+              value="FB04"
               id="01590"
               textType="0">
       <Description>LATIN SMALL LIGATURE FFL</Description>
@@ -66,7 +66,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0FB05"
+              value="FB05"
               id="01591"
               textType="0">
       <Description>LATIN SMALL LIGATURE LONG S T</Description>
@@ -78,7 +78,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0FB06"
+              value="FB06"
               id="01592"
               textType="0">
       <Description>LATIN SMALL LIGATURE ST</Description>

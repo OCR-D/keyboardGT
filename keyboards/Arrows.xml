@@ -6,7 +6,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="02190"
+              value="2190"
               id="00639"
               textType="0">
       <Description>LEFTWARDS ARROW</Description>
@@ -18,7 +18,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="02191"
+              value="2191"
               id="00640"
               textType="0">
       <Description>UPWARDS ARROW</Description>
@@ -30,7 +30,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="02192"
+              value="2192"
               id="00641"
               textType="0">
       <Description>RIGHTWARDS ARROW</Description>
@@ -42,7 +42,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="02193"
+              value="2193"
               id="00642"
               textType="0">
       <Description>DOWNWARDS ARROW</Description>

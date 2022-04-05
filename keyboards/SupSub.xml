@@ -6,7 +6,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="02070"
+              value="2070"
               id="00607"
               textType="0">
       <Description>SUPERSCRIPT ZERO</Description>
@@ -18,7 +18,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="02074"
+              value="2074"
               id="00608"
               textType="0">
       <Description>SUPERSCRIPT FOUR</Description>
@@ -30,7 +30,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="02075"
+              value="2075"
               id="00609"
               textType="0">
       <Description>SUPERSCRIPT FIVE</Description>
@@ -42,7 +42,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="02076"
+              value="2076"
               id="00610"
               textType="0">
       <Description>SUPERSCRIPT SIX</Description>
@@ -54,7 +54,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="02077"
+              value="2077"
               id="00611"
               textType="0">
       <Description>SUPERSCRIPT SEVEN</Description>
@@ -66,7 +66,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="02078"
+              value="2078"
               id="00612"
               textType="0">
       <Description>SUPERSCRIPT EIGHT</Description>
@@ -78,7 +78,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="02079"
+              value="2079"
               id="00613"
               textType="0">
       <Description>SUPERSCRIPT NINE</Description>
@@ -90,7 +90,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0207B"
+              value="207B"
               id="00614"
               textType="0">
       <Description>SUPERSCRIPT MINUS</Description>
@@ -102,7 +102,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="02080"
+              value="2080"
               id="00615"
               textType="0">
       <Description>SUBSCRIPT ZERO</Description>
@@ -114,7 +114,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="02081"
+              value="2081"
               id="00616"
               textType="0">
       <Description>SUBSCRIPT ONE</Description>
@@ -126,7 +126,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="02082"
+              value="2082"
               id="00617"
               textType="0">
       <Description>SUBSCRIPT TWO</Description>
@@ -138,7 +138,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="02083"
+              value="2083"
               id="00618"
               textType="0">
       <Description>SUBSCRIPT THREE</Description>
@@ -150,7 +150,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="02084"
+              value="2084"
               id="00619"
               textType="0">
       <Description>SUBSCRIPT FOUR</Description>
@@ -162,7 +162,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="02085"
+              value="2085"
               id="00620"
               textType="0">
       <Description>SUBSCRIPT FIVE</Description>
@@ -174,7 +174,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="02086"
+              value="2086"
               id="00621"
               textType="0">
       <Description>SUBSCRIPT SIX</Description>
@@ -186,7 +186,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="02087"
+              value="2087"
               id="00622"
               textType="0">
       <Description>SUBSCRIPT SEVEN</Description>
@@ -198,7 +198,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="02088"
+              value="2088"
               id="00623"
               textType="0">
       <Description>SUBSCRIPT EIGHT</Description>
@@ -210,7 +210,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="02089"
+              value="2089"
               id="00624"
               textType="0">
       <Description>SUBSCRIPT NINE</Description>

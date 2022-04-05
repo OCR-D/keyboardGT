@@ -6,7 +6,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="027E6"
+              value="27E6"
               id="00666"
               textType="0">
       <Description>LEFT WHITE SQUARE BRACKET</Description>
@@ -18,7 +18,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="027E7"
+              value="27E7"
               id="00667"
               textType="0">
       <Description>RIGHT WHITE SQUARE BRACKET</Description>
@@ -30,7 +30,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="027E8"
+              value="27E8"
               id="00668"
               textType="0">
       <Description>LEFT ANGLE BRACKET</Description>
@@ -42,7 +42,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="027E9"
+              value="27E9"
               id="00669"
               textType="0">
       <Description>RIGHT ANGLE BRACKET</Description>

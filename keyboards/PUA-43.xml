@@ -6,7 +6,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0E24F"
+              value="E24F"
               id="00847"
               textType="0">
       <Description>LATIN CAPITAL LETTER O WITH OGONEK AND CURL</Description>
@@ -18,7 +18,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0E64F"
+              value="E64F"
               id="00982"
               textType="0">
       <Description>LATIN SMALL LETTER O WITH OGONEK AND CURL</Description>
@@ -30,7 +30,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0EBF2"
+              value="EBF2"
               id="01190"
               textType="0">
       <Description>LATIN CAPITAL LETTER E WITH OGONEK AND CURL</Description>
@@ -42,7 +42,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0EBF3"
+              value="EBF3"
               id="01191"
               textType="0">
       <Description>LATIN SMALL LETTER E WITH OGONEK AND CURL</Description>

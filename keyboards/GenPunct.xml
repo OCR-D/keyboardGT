@@ -6,7 +6,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="02000"
+              value="2000"
               id="00556"
               textType="0">
       <Description>EN QUAD</Description>
@@ -18,7 +18,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="02001"
+              value="2001"
               id="00557"
               textType="0">
       <Description>EM QUAD</Description>
@@ -30,7 +30,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="02002"
+              value="2002"
               id="00558"
               textType="0">
       <Description>EN SPACE</Description>
@@ -42,7 +42,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="02003"
+              value="2003"
               id="00559"
               textType="0">
       <Description>EM SPACE</Description>
@@ -54,7 +54,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="02004"
+              value="2004"
               id="00560"
               textType="0">
       <Description>THREE-PER-EM SPACE</Description>
@@ -66,7 +66,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="02005"
+              value="2005"
               id="00561"
               textType="0">
       <Description>FOUR-PER-EM SPACE</Description>
@@ -78,7 +78,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="02006"
+              value="2006"
               id="00562"
               textType="0">
       <Description>SIX-PER-EM SPACE</Description>
@@ -90,7 +90,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="02007"
+              value="2007"
               id="00563"
               textType="0">
       <Description>FIGURE SPACE</Description>
@@ -102,7 +102,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="02008"
+              value="2008"
               id="00564"
               textType="0">
       <Description>PUNCTUATION SPACE</Description>
@@ -114,7 +114,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="02009"
+              value="2009"
               id="00565"
               textType="0">
       <Description>THIN SPACE</Description>
@@ -126,7 +126,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0200A"
+              value="200A"
               id="00566"
               textType="0">
       <Description>HAIR SPACE</Description>
@@ -138,7 +138,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0200B"
+              value="200B"
               id="00567"
               textType="0">
       <Description>ZERO WIDTH SPACE</Description>
@@ -150,7 +150,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="02010"
+              value="2010"
               id="00568"
               textType="0">
       <Description>HYPHEN</Description>
@@ -162,7 +162,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="02011"
+              value="2011"
               id="00569"
               textType="0">
       <Description>NON-BREAKING HYPHEN</Description>
@@ -174,7 +174,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="02012"
+              value="2012"
               id="00570"
               textType="0">
       <Description>FIGURE DASH</Description>
@@ -186,7 +186,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="02013"
+              value="2013"
               id="00571"
               textType="0">
       <Description>EN DASH</Description>
@@ -198,7 +198,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="02014"
+              value="2014"
               id="00572"
               textType="0">
       <Description>EM DASH</Description>
@@ -210,7 +210,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="02015"
+              value="2015"
               id="00573"
               textType="0">
       <Description>HORIZONTAL BAR</Description>
@@ -222,7 +222,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="02016"
+              value="2016"
               id="00574"
               textType="0">
       <Description>DOUBLE VERTICAL LINE</Description>
@@ -234,7 +234,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="02018"
+              value="2018"
               id="00575"
               textType="0">
       <Description>LEFT SINGLE QUOTATION MARK</Description>
@@ -246,7 +246,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="02019"
+              value="2019"
               id="00576"
               textType="0">
       <Description>RIGHT SINGLE QUOTATION MARK</Description>
@@ -258,7 +258,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0201A"
+              value="201A"
               id="00577"
               textType="0">
       <Description>SINGLE LOW-9 QUOTATION MARK</Description>
@@ -270,7 +270,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0201B"
+              value="201B"
               id="00578"
               textType="0">
       <Description>SINGLE HIGH-REVERSED-9 QUOTATION MARK</Description>
@@ -282,7 +282,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0201C"
+              value="201C"
               id="00579"
               textType="0">
       <Description>LEFT DOUBLE QUOTATION MARK</Description>
@@ -294,7 +294,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0201D"
+              value="201D"
               id="00580"
               textType="0">
       <Description>RIGHT DOUBLE QUOTATION MARK</Description>
@@ -306,7 +306,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0201E"
+              value="201E"
               id="00581"
               textType="0">
       <Description>DOUBLE LOW-9 QUOTATION MARK</Description>
@@ -318,7 +318,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0201F"
+              value="201F"
               id="00582"
               textType="0">
       <Description>DOUBLE HIGH-REVERSED-9 QUOTATION MARK</Description>
@@ -330,7 +330,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="02020"
+              value="2020"
               id="00583"
               textType="0">
       <Description>DAGGER</Description>
@@ -342,7 +342,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="02021"
+              value="2021"
               id="00584"
               textType="0">
       <Description>DOUBLE DAGGER</Description>
@@ -354,7 +354,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="02022"
+              value="2022"
               id="00585"
               textType="0">
       <Description>BULLET</Description>
@@ -366,7 +366,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="02023"
+              value="2023"
               id="00586"
               textType="0">
       <Description>TRIANGULAR BULLET</Description>
@@ -378,7 +378,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="02024"
+              value="2024"
               id="00587"
               textType="0">
       <Description>ONE DOT LEADER</Description>
@@ -390,7 +390,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="02025"
+              value="2025"
               id="00588"
               textType="0">
       <Description>TWO DOT LEADER</Description>
@@ -402,7 +402,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="02026"
+              value="2026"
               id="00589"
               textType="0">
       <Description>HORIZONTAL ELLIPSIS</Description>
@@ -414,7 +414,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="02027"
+              value="2027"
               id="00590"
               textType="0">
       <Description>HYPHENATION POINT</Description>
@@ -426,7 +426,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0202F"
+              value="202F"
               id="00591"
               textType="0">
       <Description>NARROW NO-BREAK SPACE</Description>
@@ -438,7 +438,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="02030"
+              value="2030"
               id="00592"
               textType="0">
       <Description>PER MILLE SIGN</Description>
@@ -450,7 +450,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="02032"
+              value="2032"
               id="00593"
               textType="0">
       <Description>PRIME</Description>
@@ -462,7 +462,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="02033"
+              value="2033"
               id="00594"
               textType="0">
       <Description>DOUBLE PRIME</Description>
@@ -474,7 +474,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="02039"
+              value="2039"
               id="00595"
               textType="0">
       <Description>SINGLE LEFT-POINTING ANGLE QUOTATION MARK</Description>
@@ -486,7 +486,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0203A"
+              value="203A"
               id="00596"
               textType="0">
       <Description>SINGLE RIGHT-POINTING ANGLE QUOTATION MARK</Description>
@@ -498,7 +498,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0203B"
+              value="203B"
               id="00597"
               textType="0">
       <Description>REFERENCE MARK</Description>
@@ -510,7 +510,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="02042"
+              value="2042"
               id="00598"
               textType="0">
       <Description>ASTERISM</Description>
@@ -522,7 +522,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="02044"
+              value="2044"
               id="00599"
               textType="0">
       <Description>FRACTION SLASH</Description>
@@ -534,7 +534,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="02045"
+              value="2045"
               id="00600"
               textType="0">
       <Description>LEFT SQUARE BRACKET WITH QUILL</Description>
@@ -546,7 +546,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="02046"
+              value="2046"
               id="00601"
               textType="0">
       <Description>RIGHT SQUARE BRACKET WITH QUILL</Description>
@@ -558,7 +558,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0204A"
+              value="204A"
               id="00602"
               textType="0">
       <Description>LATIN ABBREVIATION SIGN SMALL ET</Description>
@@ -570,7 +570,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0204B"
+              value="204B"
               id="00603"
               textType="0">
       <Description>REVERSED PILCROW SIGN</Description>
@@ -582,7 +582,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="02056"
+              value="2056"
               id="00604"
               textType="0">
       <Description>THREE DOT PUNCTUATION</Description>
@@ -594,7 +594,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="02058"
+              value="2058"
               id="00605"
               textType="0">
       <Description>FOUR DOT PUNCTUATION</Description>
@@ -606,7 +606,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0205C"
+              value="205C"
               id="00606"
               textType="0">
       <Description>DOTTED CROSS</Description>
@@ -618,7 +618,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="025CF"
+              value="25CF"
               id="00662"
               textType="0">
       <Description>BLACK CIRCLE</Description>

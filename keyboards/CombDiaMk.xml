@@ -6,7 +6,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="00300"
+              value="0300"
               id="00340"
               textType="0">
       <Description>COMBINING GRAVE ACCENT</Description>
@@ -18,7 +18,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="00301"
+              value="0301"
               id="00341"
               textType="0">
       <Description>COMBINING ACUTE ACCENT</Description>
@@ -30,7 +30,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="00302"
+              value="0302"
               id="00342"
               textType="0">
       <Description>COMBINING CIRCUMFLEX ACCENT</Description>
@@ -42,7 +42,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="00303"
+              value="0303"
               id="00343"
               textType="0">
       <Description>COMBINING TILDE</Description>
@@ -54,7 +54,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="00304"
+              value="0304"
               id="00344"
               textType="0">
       <Description>COMBINING MACRON</Description>
@@ -66,7 +66,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="00305"
+              value="0305"
               id="00345"
               textType="0">
       <Description>COMBINING OVERLINE</Description>
@@ -78,7 +78,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="00306"
+              value="0306"
               id="00346"
               textType="0">
       <Description>COMBINING BREVE</Description>
@@ -90,7 +90,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="00307"
+              value="0307"
               id="00347"
               textType="0">
       <Description>COMBINING DOT ABOVE</Description>
@@ -102,7 +102,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="00308"
+              value="0308"
               id="00348"
               textType="0">
       <Description>COMBINING DIAERESIS</Description>
@@ -114,7 +114,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="00309"
+              value="0309"
               id="00349"
               textType="0">
       <Description>COMBINING HOOK ABOVE</Description>
@@ -126,7 +126,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0030A"
+              value="030A"
               id="00350"
               textType="0">
       <Description>COMBINING RING ABOVE</Description>
@@ -138,7 +138,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0030B"
+              value="030B"
               id="00351"
               textType="0">
       <Description>COMBINING DOUBLE ACUTE ACCENT</Description>
@@ -150,7 +150,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0030D"
+              value="030D"
               id="00352"
               textType="0">
       <Description>COMBINING VERTICAL LINE ABOVE</Description>
@@ -162,7 +162,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0030E"
+              value="030E"
               id="00353"
               textType="0">
       <Description>COMBINING DOUBLE VERTICAL LINE ABOVE</Description>
@@ -174,7 +174,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="00315"
+              value="0315"
               id="00354"
               textType="0">
       <Description>COMBINING COMMA ABOVE RIGHT</Description>
@@ -186,7 +186,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="00323"
+              value="0323"
               id="00355"
               textType="0">
       <Description>COMBINING DOT BELOW</Description>
@@ -198,7 +198,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="00327"
+              value="0327"
               id="00356"
               textType="0">
       <Description>COMBINING CEDILLA</Description>
@@ -210,7 +210,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="00328"
+              value="0328"
               id="00357"
               textType="0">
       <Description>COMBINING OGONEK</Description>
@@ -222,7 +222,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="00332"
+              value="0332"
               id="00358"
               textType="0">
       <Description>COMBINING LOW LINE</Description>
@@ -234,7 +234,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="00333"
+              value="0333"
               id="00359"
               textType="0">
       <Description>COMBINING DOUBLE LOW LINE</Description>
@@ -246,7 +246,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="00336"
+              value="0336"
               id="00360"
               textType="0">
       <Description>COMBINING LONG STROKE OVERLAY</Description>
@@ -258,7 +258,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0033E"
+              value="033E"
               id="00361"
               textType="0">
       <Description>COMBINING VERTICAL TILDE</Description>
@@ -270,7 +270,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0033F"
+              value="033F"
               id="00362"
               textType="0">
       <Description>COMBINING DOUBLE OVERLINE</Description>
@@ -282,7 +282,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="00359"
+              value="0359"
               id="00363"
               textType="0">
       <Description>COMBINING ASTERISK BELOW</Description>
@@ -294,7 +294,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0035B"
+              value="035B"
               id="00364"
               textType="0">
       <Description>COMBINING ZIGZAG ABOVE</Description>
@@ -306,7 +306,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0035C"
+              value="035C"
               id="00365"
               textType="0">
       <Description>COMBINING DOUBLE BREVE BELOW</Description>
@@ -318,7 +318,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="00360"
+              value="0360"
               id="00366"
               textType="0">
       <Description>COMBINING DOUBLE TILDE</Description>
@@ -330,7 +330,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="00363"
+              value="0363"
               id="00367"
               textType="0">
       <Description>COMBINING LATIN SMALL LETTER A</Description>
@@ -342,7 +342,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="00364"
+              value="0364"
               id="00368"
               textType="0">
       <Description>COMBINING LATIN SMALL LETTER E</Description>
@@ -354,7 +354,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="00365"
+              value="0365"
               id="00369"
               textType="0">
       <Description>COMBINING LATIN SMALL LETTER I</Description>
@@ -366,7 +366,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="00366"
+              value="0366"
               id="00370"
               textType="0">
       <Description>COMBINING LATIN SMALL LETTER O</Description>
@@ -378,7 +378,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="00367"
+              value="0367"
               id="00371"
               textType="0">
       <Description>COMBINING LATIN SMALL LETTER U</Description>
@@ -390,7 +390,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="00368"
+              value="0368"
               id="00372"
               textType="0">
       <Description>COMBINING LATIN SMALL LETTER C</Description>
@@ -402,7 +402,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="00369"
+              value="0369"
               id="00373"
               textType="0">
       <Description>COMBINING LATIN SMALL LETTER D</Description>
@@ -414,7 +414,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0036A"
+              value="036A"
               id="00374"
               textType="0">
       <Description>COMBINING LATIN SMALL LETTER H</Description>
@@ -426,7 +426,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0036B"
+              value="036B"
               id="00375"
               textType="0">
       <Description>COMBINING LATIN SMALL LETTER M</Description>
@@ -438,7 +438,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0036C"
+              value="036C"
               id="00376"
               textType="0">
       <Description>COMBINING LATIN SMALL LETTER R</Description>
@@ -450,7 +450,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0036D"
+              value="036D"
               id="00377"
               textType="0">
       <Description>COMBINING LATIN SMALL LETTER T</Description>
@@ -462,7 +462,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0036E"
+              value="036E"
               id="00378"
               textType="0">
       <Description>COMBINING LATIN SMALL LETTER V</Description>
@@ -474,7 +474,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0036F"
+              value="036F"
               id="00379"
               textType="0">
       <Description>COMBINING LATIN SMALL LETTER X</Description>

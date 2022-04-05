@@ -6,7 +6,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="02212"
+              value="2212"
               id="00643"
               textType="0">
       <Description>MINUS</Description>
@@ -18,7 +18,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0221E"
+              value="221E"
               id="00644"
               textType="0">
       <Description>INFINITY</Description>
@@ -30,7 +30,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="02227"
+              value="2227"
               id="00645"
               textType="0">
       <Description>LOGICAL AND</Description>
@@ -42,7 +42,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="02234"
+              value="2234"
               id="00646"
               textType="0">
       <Description>THEREFORE</Description>
@@ -54,7 +54,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="02235"
+              value="2235"
               id="00647"
               textType="0">
       <Description>BECAUSE</Description>
@@ -66,7 +66,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="02237"
+              value="2237"
               id="00648"
               textType="0">
       <Description>PROPORTION</Description>
@@ -78,7 +78,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0223B"
+              value="223B"
               id="00649"
               textType="0">
       <Description>HOMOTHETIC</Description>
@@ -90,7 +90,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="02248"
+              value="2248"
               id="00650"
               textType="0">
       <Description>ALMOST EQUAL TO</Description>
@@ -102,7 +102,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="02260"
+              value="2260"
               id="00651"
               textType="0">
       <Description>NOT EQUAL TO</Description>
@@ -114,7 +114,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="022D7"
+              value="22D7"
               id="00652"
               textType="0">
       <Description>GREATER-THAN WITH DOT</Description>

@@ -6,7 +6,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0E324"
+              value="E324"
               id="00866"
               textType="0">
       <Description>LATIN CAPITAL LETTER U WITH VERTICAL LINE ABOVE</Description>
@@ -18,7 +18,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0E34E"
+              value="E34E"
               id="00877"
               textType="0">
       <Description>LATIN CAPITAL LETTER V WITH VERTICAL LINE ABOVE</Description>
@@ -30,7 +30,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0E724"
+              value="E724"
               id="01005"
               textType="0">
       <Description>LATIN SMALL LETTER U WITH VERTICAL LINE ABOVE</Description>
@@ -42,7 +42,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0E74F"
+              value="E74F"
               id="01023"
               textType="0">
       <Description>LATIN SMALL LETTER V WITH VERTICAL LINE ABOVE</Description>

@@ -6,7 +6,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0E0E8"
+              value="E0E8"
               id="00815"
               textType="0">
       <Description>LATIN CAPITAL LETTER E WITH OGONEK AND DOT BELOW</Description>
@@ -18,7 +18,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0E208"
+              value="E208"
               id="00841"
               textType="0">
       <Description>LATIN CAPITAL LETTER O WITH OGONEK AND DOT BELOW</Description>
@@ -30,7 +30,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0E4E8"
+              value="E4E8"
               id="00932"
               textType="0">
       <Description>LATIN SMALL LETTER E WITH OGONEK AND DOT BELOW</Description>
@@ -42,7 +42,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0E608"
+              value="E608"
               id="00970"
               textType="0">
       <Description>LATIN SMALL LETTER O WITH OGONEK AND DOT BELOW</Description>

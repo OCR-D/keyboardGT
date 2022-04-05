@@ -6,7 +6,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0F2E0"
+              value="F2E0"
               id="01519"
               textType="0">
       <Description>LATIN AS LIBRALIS SIGN</Description>
@@ -18,7 +18,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0F2E2"
+              value="F2E2"
               id="01520"
               textType="0">
       <Description>LATIN SMALL CAPITAL LETTER X WITH BAR</Description>
@@ -30,7 +30,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0F2E3"
+              value="F2E3"
               id="01521"
               textType="0">
       <Description>LATIN SMALL CAPITAL LETTER Y WITH BAR</Description>
@@ -42,7 +42,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0F2E4"
+              value="F2E4"
               id="01522"
               textType="0">
       <Description>LATIN SMALL CAPITAL LETTER D WITH SLASH</Description>
@@ -54,7 +54,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0F2E6"
+              value="F2E6"
               id="01523"
               textType="0">
       <Description>PHARMACEUTICAL DRAM SIGN</Description>
@@ -66,7 +66,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0F2E7"
+              value="F2E7"
               id="01524"
               textType="0">
       <Description>ECU SIGN</Description>
@@ -78,7 +78,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0F2E8"
+              value="F2E8"
               id="01525"
               textType="0">
       <Description>FLOREN SIGN WITH LOOP</Description>
@@ -90,7 +90,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0F2E9"
+              value="F2E9"
               id="01526"
               textType="0">
       <Description>GROSCHEN SIGN</Description>
@@ -102,7 +102,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0F2EA"
+              value="F2EA"
               id="01527"
               textType="0">
       <Description>DUTCH LIBRA SIGN</Description>
@@ -114,7 +114,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0F2EB"
+              value="F2EB"
               id="01528"
               textType="0">
       <Description>FRENCH LIBRA SIGN</Description>
@@ -126,7 +126,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0F2EC"
+              value="F2EC"
               id="01529"
               textType="0">
       <Description>ITALIAN LIBRA SIGN</Description>
@@ -138,7 +138,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0F2ED"
+              value="F2ED"
               id="01530"
               textType="0">
       <Description>FLEMISH LIBRA SIGN</Description>
@@ -150,7 +150,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0F2EE"
+              value="F2EE"
               id="01531"
               textType="0">
       <Description>LIRA NUOVA SIGN</Description>
@@ -162,7 +162,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0F2EF"
+              value="F2EF"
               id="01532"
               textType="0">
       <Description>LIRA STERLINA SIGN</Description>
@@ -174,7 +174,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0F2F0"
+              value="F2F0"
               id="01533"
               textType="0">
       <Description>OLD MARK SIGN</Description>
@@ -186,7 +186,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0F2F1"
+              value="F2F1"
               id="01534"
               textType="0">
       <Description>OLD FLOURISH MARK SIGN</Description>
@@ -198,7 +198,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0F2F2"
+              value="F2F2"
               id="01535"
               textType="0">
       <Description>MARKED SMALL LETTER M SIGN</Description>
@@ -210,7 +210,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0F2F3"
+              value="F2F3"
               id="01536"
               textType="0">
       <Description>FLOURISHED SMALL LETTER M SIGN</Description>
@@ -222,7 +222,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0F2F4"
+              value="F2F4"
               id="01537"
               textType="0">
       <Description>PHARMACEUTICAL OBOLUS SIGN</Description>
@@ -234,7 +234,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0F2F5"
+              value="F2F5"
               id="01538"
               textType="0">
       <Description>PENNING SIGN</Description>
@@ -246,7 +246,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0F2F6"
+              value="F2F6"
               id="01539"
               textType="0">
       <Description>OLD REICHSTALER SIGN</Description>
@@ -258,7 +258,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0F2F7"
+              value="F2F7"
               id="01540"
               textType="0">
       <Description>GERMAN SCHILLING SIGN</Description>
@@ -270,7 +270,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0F2F8"
+              value="F2F8"
               id="01541"
               textType="0">
       <Description>GERMAN SCRIPT SCHILLING SIGN</Description>
@@ -282,7 +282,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0F2F9"
+              value="F2F9"
               id="01542"
               textType="0">
       <Description>SCUDI SIGN</Description>
@@ -294,7 +294,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0F2FA"
+              value="F2FA"
               id="01543"
               textType="0">
       <Description>KRONE SIGN</Description>
@@ -306,7 +306,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0F2FB"
+              value="F2FB"
               id="01544"
               textType="0">
       <Description>HELBING SIGN</Description>
@@ -318,7 +318,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0F2FD"
+              value="F2FD"
               id="01545"
               textType="0">
       <Description>SCRIPT OUNCE SIGN</Description>

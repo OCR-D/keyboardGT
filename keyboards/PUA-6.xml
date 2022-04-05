@@ -6,7 +6,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0F153"
+              value="F153"
               id="01420"
               textType="0">
       <Description>COMBINING ABBREVIATION MARK SUPERSCRIPT UR ROUND R FORM</Description>
@@ -18,7 +18,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0F1C0"
+              value="F1C0"
               id="01442"
               textType="0">
       <Description>COMBINING ABBREVIATION MARK BAR ABOVE WITH DOT</Description>
@@ -30,7 +30,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0F1C1"
+              value="F1C1"
               id="01443"
               textType="0">
       <Description>COMBINING ABBREVIATION MARK SUPERSCRIPT RA OPEN A FORM WITH BAR ABOVE</Description>
@@ -42,7 +42,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0F1C2"
+              value="F1C2"
               id="01444"
               textType="0">
       <Description>COMBINING ABBREVIATION MARK SUPERSCRIPT UR LEMNISKATE FORM</Description>
@@ -54,7 +54,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0F1C5"
+              value="F1C5"
               id="01445"
               textType="0">
       <Description>COMBINING CURL HIGH POSITION</Description>
@@ -66,7 +66,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0F1C7"
+              value="F1C7"
               id="01446"
               textType="0">
       <Description>COMBINING ABBREVIATION MARK ZIGZAG ABOVE ANGLE FORM</Description>
@@ -78,7 +78,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0F1C8"
+              value="F1C8"
               id="01447"
               textType="0">
       <Description>COMBINING ABBREVIATION MARK ZIGZAG ABOVE CURLY FORM</Description>
@@ -90,7 +90,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0F1CA"
+              value="F1CA"
               id="01448"
               textType="0">
       <Description>COMBINING DOT ABOVE HIGH POSITION</Description>
@@ -102,7 +102,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0F1CC"
+              value="F1CC"
               id="01449"
               textType="0">
       <Description>COMBINING CURLY BAR ABOVE</Description>
@@ -114,7 +114,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0F1FC"
+              value="F1FC"
               id="01476"
               textType="0">
       <Description>COMBINING TRIPLE BREVE BELOW</Description>

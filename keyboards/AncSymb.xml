@@ -6,7 +6,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="010190"
+              value="10190"
               id="01593"
               textType="0">
       <Description>ROMAN SEXTANS SIGN</Description>
@@ -18,7 +18,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="010191"
+              value="10191"
               id="01594"
               textType="0">
       <Description>ROMAN UNCIA SIGN</Description>
@@ -30,7 +30,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="010192"
+              value="10192"
               id="01595"
               textType="0">
       <Description>ROMAN SEMIUNCIA SIGN</Description>
@@ -42,7 +42,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="010193"
+              value="10193"
               id="01596"
               textType="0">
       <Description>ROMAN SEXTULA SIGN</Description>
@@ -54,7 +54,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="010194"
+              value="10194"
               id="01597"
               textType="0">
       <Description>ROMAN DIMIDIA SEXTULA SIGN</Description>
@@ -66,7 +66,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="010195"
+              value="10195"
               id="01598"
               textType="0">
       <Description>ROMAN SILIQUA SIGN</Description>
@@ -78,7 +78,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="010196"
+              value="10196"
               id="01599"
               textType="0">
       <Description>LATIN CAPITAL LETTER X WITH BAR</Description>
@@ -90,7 +90,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="010197"
+              value="10197"
               id="01600"
               textType="0">
       <Description>ROMAN QUINARIUS SIGN</Description>
@@ -102,7 +102,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="010198"
+              value="10198"
               id="01601"
               textType="0">
       <Description>SESTERTIA SIGN</Description>
@@ -114,7 +114,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="010199"
+              value="10199"
               id="01602"
               textType="0">
       <Description>ROMAN DUPONDIUS SIGN</Description>
@@ -126,7 +126,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="01019A"
+              value="1019A"
               id="01603"
               textType="0">
       <Description>ROMAN AS SIGN</Description>

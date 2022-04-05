@@ -6,7 +6,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="00398"
+              value="0398"
               id="00380"
               textType="0">
       <Description>GREEK CAPITAL LETTER THETA</Description>
@@ -18,7 +18,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="003B1"
+              value="03B1"
               id="00381"
               textType="0">
       <Description>GREEK SMALL LETTER ALPHA</Description>
@@ -30,7 +30,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="003B2"
+              value="03B2"
               id="00382"
               textType="0">
       <Description>GREEK SMALL LETTER BETA</Description>
@@ -42,7 +42,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="003B3"
+              value="03B3"
               id="00383"
               textType="0">
       <Description>GREEK SMALL LETTER GAMMA</Description>
@@ -54,7 +54,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="003B4"
+              value="03B4"
               id="00384"
               textType="0">
       <Description>GREEK SMALL LETTER DELTA</Description>
@@ -66,7 +66,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="003B5"
+              value="03B5"
               id="00385"
               textType="0">
       <Description>GREEK SMALL LETTER EPSILON</Description>
@@ -78,7 +78,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="003B6"
+              value="03B6"
               id="00386"
               textType="0">
       <Description>GREEK SMALL LETTER ZETA</Description>
@@ -90,7 +90,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="003B7"
+              value="03B7"
               id="00387"
               textType="0">
       <Description>GREEK SMALL LETTER ETA</Description>
@@ -102,7 +102,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="003B8"
+              value="03B8"
               id="00388"
               textType="0">
       <Description>GREEK SMALL LETTER THETA</Description>
@@ -114,7 +114,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="003B9"
+              value="03B9"
               id="00389"
               textType="0">
       <Description>GREEK SMALL LETTER IOTA</Description>
@@ -126,7 +126,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="003BA"
+              value="03BA"
               id="00390"
               textType="0">
       <Description>GREEK SMALL LETTER KAPPA</Description>
@@ -138,7 +138,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="003BB"
+              value="03BB"
               id="00391"
               textType="0">
       <Description>GREEK SMALL LETTER LAMDA</Description>
@@ -150,7 +150,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="003BC"
+              value="03BC"
               id="00392"
               textType="0">
       <Description>GREEK SMALL LETTER MU</Description>
@@ -162,7 +162,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="003BD"
+              value="03BD"
               id="00393"
               textType="0">
       <Description>GREEK SMALL LETTER NU</Description>
@@ -174,7 +174,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="003BE"
+              value="03BE"
               id="00394"
               textType="0">
       <Description>GREEK SMALL LETTER XI</Description>
@@ -186,7 +186,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="003C3"
+              value="03C3"
               id="00395"
               textType="0">
       <Description>GREEK SMALL LETTER SIGMA</Description>

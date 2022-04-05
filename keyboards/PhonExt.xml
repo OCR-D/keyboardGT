@@ -6,7 +6,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="01D00"
+              value="1D00"
               id="00407"
               textType="0">
       <Description>LATIN LETTER SMALL CAPITAL A</Description>
@@ -18,7 +18,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="01D01"
+              value="1D01"
               id="00408"
               textType="0">
       <Description>LATIN LETTER SMALL CAPITAL AE</Description>
@@ -30,7 +30,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="01D04"
+              value="1D04"
               id="00409"
               textType="0">
       <Description>LATIN LETTER SMALL CAPITAL C</Description>
@@ -42,7 +42,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="01D05"
+              value="1D05"
               id="00410"
               textType="0">
       <Description>LATIN LETTER SMALL CAPITAL D</Description>
@@ -54,7 +54,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="01D06"
+              value="1D06"
               id="00411"
               textType="0">
       <Description>LATIN LETTER SMALL CAPITAL ETH</Description>
@@ -66,7 +66,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="01D07"
+              value="1D07"
               id="00412"
               textType="0">
       <Description>LATIN LETTER SMALL CAPITAL E</Description>
@@ -78,7 +78,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="01D0A"
+              value="1D0A"
               id="00413"
               textType="0">
       <Description>LATIN LETTER SMALL CAPITAL J</Description>
@@ -90,7 +90,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="01D0B"
+              value="1D0B"
               id="00414"
               textType="0">
       <Description>LATIN LETTER SMALL CAPITAL K</Description>
@@ -102,7 +102,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="01D0D"
+              value="1D0D"
               id="00415"
               textType="0">
       <Description>LATIN LETTER SMALL CAPITAL M</Description>
@@ -114,7 +114,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="01D0F"
+              value="1D0F"
               id="00416"
               textType="0">
       <Description>LATIN LETTER SMALL CAPITAL O</Description>
@@ -126,7 +126,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="01D18"
+              value="1D18"
               id="00417"
               textType="0">
       <Description>LATIN LETTER SMALL CAPITAL P</Description>
@@ -138,7 +138,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="01D1B"
+              value="1D1B"
               id="00418"
               textType="0">
       <Description>LATIN LETTER SMALL CAPITAL T</Description>
@@ -150,7 +150,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="01D1C"
+              value="1D1C"
               id="00419"
               textType="0">
       <Description>LATIN LETTER SMALL CAPITAL U</Description>
@@ -162,7 +162,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="01D20"
+              value="1D20"
               id="00420"
               textType="0">
       <Description>LATIN LETTER SMALL CAPITAL V</Description>
@@ -174,7 +174,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="01D21"
+              value="1D21"
               id="00421"
               textType="0">
       <Description>LATIN LETTER SMALL CAPITAL W</Description>
@@ -186,7 +186,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="01D22"
+              value="1D22"
               id="00422"
               textType="0">
       <Description>LATIN LETTER SMALL CAPITAL Z</Description>
@@ -198,7 +198,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="01D35"
+              value="1D35"
               id="00423"
               textType="0">
       <Description>MODIFIER CAPITAL LETTER I</Description>
@@ -210,7 +210,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="01D6B"
+              value="1D6B"
               id="00424"
               textType="0">
       <Description>LATIN SMALL LETTER UE</Description>
@@ -222,7 +222,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="01D79"
+              value="1D79"
               id="00425"
               textType="0">
       <Description>LATIN SMALL LETTER INSULAR G</Description>

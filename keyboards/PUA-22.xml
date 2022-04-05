@@ -6,7 +6,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0E040"
+              value="E040"
               id="00800"
               textType="0">
       <Description>LATIN CAPITAL LETTER AE WITH OGONEK</Description>
@@ -18,7 +18,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0E076"
+              value="E076"
               id="00806"
               textType="0">
       <Description>LATIN CAPITAL LETTER C WITH OGONEK</Description>
@@ -30,7 +30,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0E255"
+              value="E255"
               id="00850"
               textType="0">
       <Description>LATIN CAPITAL LETTER O WITH STROKE AND OGONEK</Description>
@@ -42,7 +42,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0E262"
+              value="E262"
               id="00855"
               textType="0">
       <Description>LATIN CAPITAL LIGATURE OE WITH OGONEK</Description>
@@ -54,7 +54,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0E2EE"
+              value="E2EE"
               id="00861"
               textType="0">
       <Description>LATIN CAPITAL LETTER T WITH OGONEK</Description>
@@ -66,7 +66,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0E440"
+              value="E440"
               id="00909"
               textType="0">
       <Description>LATIN SMALL LETTER AE WITH OGONEK</Description>
@@ -78,7 +78,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0E476"
+              value="E476"
               id="00916"
               textType="0">
       <Description>LATIN SMALL LETTER C WITH OGONEK</Description>
@@ -90,7 +90,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0E655"
+              value="E655"
               id="00985"
               textType="0">
       <Description>LATIN SMALL LETTER O WITH STROKE AND OGONEK</Description>
@@ -102,7 +102,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0E662"
+              value="E662"
               id="00990"
               textType="0">
       <Description>LATIN SMALL LIGATURE OE WITH OGONEK</Description>
@@ -114,7 +114,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0E6EE"
+              value="E6EE"
               id="01000"
               textType="0">
       <Description>LATIN SMALL LETTER T WITH OGONEK</Description>
@@ -126,7 +126,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0E8AD"
+              value="E8AD"
               id="01056"
               textType="0">
       <Description>LATIN SMALL LETTER DOTLESS I WITH OGONEK</Description>
@@ -138,7 +138,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0EBF0"
+              value="EBF0"
               id="01188"
               textType="0">
       <Description>LATIN CAPITAL LIGATURE AV WITH OGONEK</Description>
@@ -150,7 +150,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0EBF1"
+              value="EBF1"
               id="01189"
               textType="0">
       <Description>LATIN SMALL LIGATURE AV WITH OGONEK</Description>

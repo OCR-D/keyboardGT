@@ -6,7 +6,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0E033"
+              value="E033"
               id="00795"
               textType="0">
       <Description>LATIN CAPITAL LETTER A WITH CURL</Description>
@@ -18,7 +18,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0E0E9"
+              value="E0E9"
               id="00816"
               textType="0">
       <Description>LATIN CAPITAL LETTER E WITH CURL</Description>
@@ -30,7 +30,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0E12A"
+              value="E12A"
               id="00824"
               textType="0">
       <Description>LATIN CAPITAL LETTER I WITH CURL</Description>
@@ -42,7 +42,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0E163"
+              value="E163"
               id="00835"
               textType="0">
       <Description>LATIN CAPITAL LETTER J WITH CURL</Description>
@@ -54,7 +54,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0E331"
+              value="E331"
               id="00869"
               textType="0">
       <Description>LATIN CAPITAL LETTER U WITH CURL</Description>
@@ -66,7 +66,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0E385"
+              value="E385"
               id="00886"
               textType="0">
       <Description>LATIN CAPITAL LETTER Y WITH CURL</Description>
@@ -78,7 +78,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0E3D3"
+              value="E3D3"
               id="00888"
               textType="0">
       <Description>LATIN CAPITAL LETTER O WITH CURL</Description>
@@ -90,7 +90,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0E3D4"
+              value="E3D4"
               id="00889"
               textType="0">
       <Description>LATIN CAPITAL LETTER O WITH STROKE AND CURL</Description>
@@ -102,7 +102,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0E433"
+              value="E433"
               id="00903"
               textType="0">
       <Description>LATIN SMALL LETTER A WITH CURL</Description>
@@ -114,7 +114,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0E4E9"
+              value="E4E9"
               id="00933"
               textType="0">
       <Description>LATIN SMALL LETTER E WITH CURL</Description>
@@ -126,7 +126,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0E52A"
+              value="E52A"
               id="00944"
               textType="0">
       <Description>LATIN SMALL LETTER I WITH CURL</Description>
@@ -138,7 +138,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0E563"
+              value="E563"
               id="00957"
               textType="0">
       <Description>LATIN SMALL LETTER J WITH CURL</Description>
@@ -150,7 +150,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0E731"
+              value="E731"
               id="01010"
               textType="0">
       <Description>LATIN SMALL LETTER U WITH CURL</Description>
@@ -162,7 +162,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0E785"
+              value="E785"
               id="01036"
               textType="0">
       <Description>LATIN SMALL LETTER Y WITH CURL</Description>
@@ -174,7 +174,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0E7D3"
+              value="E7D3"
               id="01047"
               textType="0">
       <Description>LATIN SMALL LETTER O WITH CURL</Description>
@@ -186,7 +186,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0E7D4"
+              value="E7D4"
               id="01048"
               textType="0">
       <Description>LATIN SMALL LETTER O WITH STROKE AND CURL</Description>
@@ -198,7 +198,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0EBEA"
+              value="EBEA"
               id="01182"
               textType="0">
       <Description>LATIN CAPITAL LETTER AE WITH CURL</Description>
@@ -210,7 +210,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0EBEB"
+              value="EBEB"
               id="01183"
               textType="0">
       <Description>LATIN SMALL LETTER AE WITH CURL</Description>

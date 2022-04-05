@@ -6,7 +6,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="02E00"
+              value="2E00"
               id="00674"
               textType="0">
       <Description>RIGHT ANGLE SUBSTITUTION MARKER</Description>
@@ -18,7 +18,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="02E0C"
+              value="2E0C"
               id="00675"
               textType="0">
       <Description>LEFT UPPER SLANTED STROKE</Description>
@@ -30,7 +30,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="02E0D"
+              value="2E0D"
               id="00676"
               textType="0">
       <Description>RIGHT UPPER SLANTED STROKE</Description>
@@ -42,7 +42,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="02E17"
+              value="2E17"
               id="00677"
               textType="0">
       <Description>DOUBLE OBLIQUE HYPHEN</Description>
@@ -54,7 +54,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="02E1C"
+              value="2E1C"
               id="00678"
               textType="0">
       <Description>RIGHT LOWER SLANTED STROKE</Description>
@@ -66,7 +66,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="02E1D"
+              value="2E1D"
               id="00679"
               textType="0">
       <Description>LEFT LOWER SLANTED STROKE</Description>
@@ -78,7 +78,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="02E20"
+              value="2E20"
               id="00680"
               textType="0">
       <Description>RIGHT VERTICAL BAR WITH QUILL</Description>
@@ -90,7 +90,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="02E21"
+              value="2E21"
               id="00681"
               textType="0">
       <Description>LEFT VERTICAL BAR WITH QUILL</Description>
@@ -102,7 +102,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="02E22"
+              value="2E22"
               id="00682"
               textType="0">
       <Description>TOP LEFT HALF BRACKET</Description>
@@ -114,7 +114,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="02E23"
+              value="2E23"
               id="00683"
               textType="0">
       <Description>TOP RIGHT HALF BRACKET</Description>
@@ -126,7 +126,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="02E24"
+              value="2E24"
               id="00684"
               textType="0">
       <Description>BOTTOM LEFT HALF BRACKET</Description>
@@ -138,7 +138,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="02E25"
+              value="2E25"
               id="00685"
               textType="0">
       <Description>BOTTOM RIGHT HALF BRACKET</Description>
@@ -150,7 +150,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="02E26"
+              value="2E26"
               id="00686"
               textType="0">
       <Description>LEFT SIDEWAYS U BRACKET</Description>
@@ -162,7 +162,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="02E27"
+              value="2E27"
               id="00687"
               textType="0">
       <Description>RIGHT SIDEWAYS U BRACKET</Description>
@@ -174,7 +174,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="02E28"
+              value="2E28"
               id="00688"
               textType="0">
       <Description>LEFT DOUBLE PARENTHESIS</Description>
@@ -186,7 +186,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="02E29"
+              value="2E29"
               id="00689"
               textType="0">
       <Description>RIGHT DOUBLE PARENTHESIS</Description>
@@ -198,7 +198,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="02E2A"
+              value="2E2A"
               id="00690"
               textType="0">
       <Description>TWO DOTS OVER ONE DOT PUNCTUATION</Description>
@@ -210,7 +210,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="02E2B"
+              value="2E2B"
               id="00691"
               textType="0">
       <Description>ONE DOT OVER TWO DOTS PUNCTUATION</Description>
@@ -222,7 +222,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="02E2C"
+              value="2E2C"
               id="00692"
               textType="0">
       <Description>FOUR DOTS PUNCTUATION</Description>
@@ -234,7 +234,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="02E2D"
+              value="2E2D"
               id="00693"
               textType="0">
       <Description>FIVE DOT MARK</Description>
@@ -246,7 +246,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="02E2E"
+              value="2E2E"
               id="00694"
               textType="0">
       <Description>REVERSED QUESTION MARK</Description>
@@ -258,7 +258,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="02E40"
+              value="2E40"
               id="00695"
               textType="0">
       <Description>DOUBLE HYPHEN</Description>

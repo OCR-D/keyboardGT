@@ -6,7 +6,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0E010"
+              value="E010"
               id="00792"
               textType="0">
       <Description>LATIN CAPITAL LETTER A WITH MACRON AND BREVE</Description>
@@ -18,7 +18,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0E03D"
+              value="E03D"
               id="00798"
               textType="0">
       <Description>LATIN CAPITAL LETTER AE WITH MACRON AND BREVE</Description>
@@ -30,7 +30,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0E0B7"
+              value="E0B7"
               id="00810"
               textType="0">
       <Description>LATIN CAPITAL LETTER E WITH MACRON AND BREVE</Description>
@@ -42,7 +42,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0E137"
+              value="E137"
               id="00826"
               textType="0">
       <Description>LATIN CAPITAL LETTER I WITH MACRON AND BREVE</Description>
@@ -54,7 +54,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0E21B"
+              value="E21B"
               id="00843"
               textType="0">
       <Description>LATIN CAPITAL LETTER O WITH MACRON AND BREVE</Description>
@@ -66,7 +66,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0E253"
+              value="E253"
               id="00849"
               textType="0">
       <Description>LATIN CAPITAL LETTER O WITH STROKE AND MACRON AND BREVE</Description>
@@ -78,7 +78,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0E260"
+              value="E260"
               id="00854"
               textType="0">
       <Description>LATIN CAPITAL LIGATURE OE WITH MACRON AND BREVE</Description>
@@ -90,7 +90,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0E30B"
+              value="E30B"
               id="00863"
               textType="0">
       <Description>LATIN CAPITAL LETTER U WITH MACRON AND BREVE</Description>
@@ -102,7 +102,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0E375"
+              value="E375"
               id="00882"
               textType="0">
       <Description>LATIN CAPITAL LETTER Y WITH MACRON AND BREVE</Description>
@@ -114,7 +114,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0E410"
+              value="E410"
               id="00895"
               textType="0">
       <Description>LATIN SMALL LETTER A WITH MACRON AND BREVE</Description>
@@ -126,7 +126,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0E43D"
+              value="E43D"
               id="00907"
               textType="0">
       <Description>LATIN SMALL LETTER AE WITH MACRON AND BREVE</Description>
@@ -138,7 +138,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0E4B7"
+              value="E4B7"
               id="00923"
               textType="0">
       <Description>LATIN SMALL LETTER E WITH MACRON AND BREVE</Description>
@@ -150,7 +150,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0E537"
+              value="E537"
               id="00946"
               textType="0">
       <Description>LATIN SMALL LETTER I WITH MACRON AND BREVE</Description>
@@ -162,7 +162,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0E61B"
+              value="E61B"
               id="00973"
               textType="0">
       <Description>LATIN SMALL LETTER O WITH MACRON AND BREVE</Description>
@@ -174,7 +174,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0E653"
+              value="E653"
               id="00984"
               textType="0">
       <Description>LATIN SMALL LETTER O WITH STROKE AND MACRON AND BREVE</Description>
@@ -186,7 +186,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0E660"
+              value="E660"
               id="00989"
               textType="0">
       <Description>LATIN SMALL LIGATURE OE WITH MACRON AND BREVE</Description>
@@ -198,7 +198,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0E70B"
+              value="E70B"
               id="01002"
               textType="0">
       <Description>LATIN SMALL LETTER U WITH MACRON AND BREVE</Description>
@@ -210,7 +210,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="0E775"
+              value="E775"
               id="01030"
               textType="0">
       <Description>LATIN SMALL LETTER Y WITH MACRON AND BREVE</Description>

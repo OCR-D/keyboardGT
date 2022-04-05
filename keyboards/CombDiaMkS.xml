@@ -6,7 +6,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="01DCD"
+              value="1DCD"
               id="00426"
               textType="0">
       <Description>COMBINING DOUBLE CIRCUMFLEX ABOVE</Description>
@@ -18,7 +18,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="01DCE"
+              value="1DCE"
               id="00427"
               textType="0">
       <Description>COMBINING OGONEK ABOVE</Description>
@@ -30,7 +30,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="01DCF"
+              value="1DCF"
               id="00428"
               textType="0">
       <Description>COMBINING ZIGZAG BELOW</Description>
@@ -42,7 +42,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="01DD0"
+              value="1DD0"
               id="00429"
               textType="0">
       <Description>COMBINING IS BELOW</Description>
@@ -54,7 +54,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="01DD1"
+              value="1DD1"
               id="00430"
               textType="0">
       <Description>COMBINING UR ABOVE</Description>
@@ -66,7 +66,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="01DD2"
+              value="1DD2"
               id="00431"
               textType="0">
       <Description>COMBINING US ABOVE</Description>
@@ -78,7 +78,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="01DD3"
+              value="1DD3"
               id="00432"
               textType="0">
       <Description>COMBINING LATIN SMALL LETTER FLATTENED OPEN A ABOVE</Description>
@@ -90,7 +90,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="01DD4"
+              value="1DD4"
               id="00433"
               textType="0">
       <Description>COMBINING LATIN SMALL LETTER AE</Description>
@@ -102,7 +102,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="01DD5"
+              value="1DD5"
               id="00434"
               textType="0">
       <Description>COMBINING LATIN SMALL LIGATURE AO</Description>
@@ -114,7 +114,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="01DD6"
+              value="1DD6"
               id="00435"
               textType="0">
       <Description>COMBINING LATIN SMALL LIGATURE AV</Description>
@@ -126,7 +126,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="01DD7"
+              value="1DD7"
               id="00436"
               textType="0">
       <Description>COMBINING LATIN SMALL LETTER C CEDILLA</Description>
@@ -138,7 +138,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="01DD8"
+              value="1DD8"
               id="00437"
               textType="0">
       <Description>COMBINING LATIN LETTER INSULAR D</Description>
@@ -150,7 +150,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="01DD9"
+              value="1DD9"
               id="00438"
               textType="0">
       <Description>COMBINING LATIN SMALL LETTER ETH</Description>
@@ -162,7 +162,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="01DDA"
+              value="1DDA"
               id="00439"
               textType="0">
       <Description>COMBINING LATIN SMALL LETTER G</Description>
@@ -174,7 +174,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="01DDB"
+              value="1DDB"
               id="00440"
               textType="0">
       <Description>COMBINING LATIN LETTER SMALL CAPITAL G</Description>
@@ -186,7 +186,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="01DDC"
+              value="1DDC"
               id="00441"
               textType="0">
       <Description>COMBINING LATIN SMALL LETTER K</Description>
@@ -198,7 +198,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="01DDD"
+              value="1DDD"
               id="00442"
               textType="0">
       <Description>COMBINING LATIN SMALL LETTER L</Description>
@@ -210,7 +210,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="01DDE"
+              value="1DDE"
               id="00443"
               textType="0">
       <Description>COMBINING LATIN LETTER SMALL CAPITAL L</Description>
@@ -222,7 +222,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="01DDF"
+              value="1DDF"
               id="00444"
               textType="0">
       <Description>COMBINING LATIN LETTER SMALL CAPITAL M</Description>
@@ -234,7 +234,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="01DE0"
+              value="1DE0"
               id="00445"
               textType="0">
       <Description>COMBINING LATIN SMALL LETTER N</Description>
@@ -246,7 +246,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="01DE1"
+              value="1DE1"
               id="00446"
               textType="0">
       <Description>COMBINING LATIN LETTER SMALL CAPITAL N</Description>
@@ -258,7 +258,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="01DE2"
+              value="1DE2"
               id="00447"
               textType="0">
       <Description>COMBINING LATIN LETTER SMALL CAPITAL R</Description>
@@ -270,7 +270,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="01DE3"
+              value="1DE3"
               id="00448"
               textType="0">
       <Description>COMBINING LATIN SMALL LETTER R ROTUNDA</Description>
@@ -282,7 +282,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="01DE4"
+              value="1DE4"
               id="00449"
               textType="0">
       <Description>COMBINING LATIN SMALL LETTER S</Description>
@@ -294,7 +294,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="01DE5"
+              value="1DE5"
               id="00450"
               textType="0">
       <Description>COMBINING LATIN SMALL LETTER LONG S</Description>
@@ -306,7 +306,7 @@
               readOnly="false"
               isSet="true"
               visible="true"
-              value="01DE6"
+              value="1DE6"
               id="00451"
               textType="0">
       <Description>COMBINING LATIN SMALL LETTER Z</Description>
