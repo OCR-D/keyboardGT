@@ -1,7 +1,7 @@
 # keyboardGT
 
 The Aletheia document image analysis system offers the possibility to install additional virtual keyboards or to customize them.
-This repository offers about 80 keyboards based on the MUFI snapchot for download on the [Github page](https://tboenig.github.io/keyboardGT/overview.html).
+This repository offers about 80 keyboards based on the [MUFI snapshot](https://mufi.info/m.php?p=mufiexport) for download on the [Github page](https://tboenig.github.io/keyboardGT/overview.html).
 
 
 
@@ -21,5 +21,6 @@ If you want to create the keyboard on your computer
 
 ## See Also
 
+- MUFI: The Medieval Unicode Font Initiative https://mufi.info/
 - Aletheia https://www.primaresearch.org/tools/Aletheia
 - Saxon https://www.saxonica.com/welcome/welcome.xml
