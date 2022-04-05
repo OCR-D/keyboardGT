@@ -54,7 +54,6 @@ jobs:
     - name: copy css styles and yml files to ghout
       run:  |
         cp scripts/table_hide.css ghout/
-        cp scripts/jb.css ghout/
         cp scripts/_config.yml ghout/
         
 

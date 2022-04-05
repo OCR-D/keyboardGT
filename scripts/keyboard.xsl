@@ -26,12 +26,15 @@
     </xsl:variable>
     
     <xsl:template match="/">
+        <xsl:element name="div">
+            <xsl:attribute name="class">keyboard</xsl:attribute>
         <xsl:if test="$output = 'keyboards'">
-        <xsl:call-template name="kb"/>
+            <xsl:call-template name="kb"/>
         </xsl:if>
         <xsl:if test="$output = 'keytable'">
             <xsl:call-template name="kb-table"/>
         </xsl:if>
+        </xsl:element>
      </xsl:template>
     
     
@@ -97,14 +100,26 @@
             Would you like to use the keyboard in Aletheia. Then
             Download and install the necessary virtual keyboard. (<a href="https://www.primaresearch.org/www/assets/tools/Aletheia%20User%20Guide.pdf#page=91">More information</a>)
         </xsl:element>
+        
+        <h2>Download and Installation</h2>
+        
+        <xsl:element name="p">
+            <xsl:element name="b">Download:</xsl:element>
+        </xsl:element>
+        
+        <xsl:element name="p">
+            <xsl:element name="b">Installation:</xsl:element>
+        </xsl:element>
+        
+        <hr/>
         <xsl:element name="table">
             <xsl:attribute name="id">table_id</xsl:attribute>
             <xsl:element name="thead">
             <xsl:element name="tr">
                 <xsl:element name="th"><xsl:attribute name="style">position: sticky !important; left: 0 !important;</xsl:attribute>
                     Code chart</xsl:element>
-                <xsl:element name="th">Virtual Keyboard Layouts</xsl:element>
-                <xsl:element name="th">Browse by code chart (Link to MUFI)</xsl:element>
+                <xsl:element name="th">&#x2328; Virtual Keyboard Layouts</xsl:element>
+                <xsl:element name="th">&#x1F481; Browse by code chart (Link to MUFI)</xsl:element>
             </xsl:element>
             </xsl:element>
             <xsl:element name="tbody">
