@@ -13,9 +13,9 @@
                 left: 0;
     
              }
-             #table_id td {
+             /*#table_id td {
                 text-align: right !important;
-             }
+             }*/
              
              table.dataTable thead th, table.dataTable tfoot th {
              font-weight: normal !important;
