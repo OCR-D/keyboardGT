@@ -55,18 +55,16 @@
       <ul>
          <h3>Links:</h3>
          <li>
-            <a href="https://github.com/tboenig/keyboardGT/releases/download/v54/keyboardGT-v54.zip">Keyboard-Archiv</a>
+            <a href="https://github.com/tboenig/keyboardGT/releases/download/v55/keyboardGT-v55.zip">Keyboard-Archiv</a>
          </li>
       </ul>
    </p>
-   <p>
-      <strong>Installation:<br/>
-      </strong>
-      <video width="520" height="440" controls="true">
-         <source src="doc/keyboard.mp4" type="video/mp4"/>
+   <h3>Installation:<br/>
+   </h3>
+   <video width="520" height="440" controls="true">
+      <source src="doc/keyboard.mp4" type="video/mp4"/>
                  Your browser does not support the video tag.
             </video>
-   </p>
    <hr/>
    <table id="table_id">
       <thead>
