@@ -45,7 +45,7 @@ jobs:
 
     - name: make compressed table view
       run: | 
-        java -jar saxon-he-10.5.jar -xsl:scripts/keyboard.xsl output=keytable \
+        java -jar saxon-he-10.5.jar -xsl:scripts/keyboard.xsl output=keytable release=$GITHUB_RUN_NUMBER\
         -s:scripts/keyboard.xsl -o:ghout/overview.md
       shell: bash
 

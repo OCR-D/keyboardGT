@@ -10,11 +10,8 @@
     version="3.0">
     <xsl:output indent="yes" omit-xml-declaration="yes" method="xml"/>
     
-    
-    
-    
-    
     <xsl:param name="output"/>
+    <xsl:param name="release"/>
         
     <xsl:variable name="MUFITABLE">
         <xsl:copy-of select="document('../metadata/coding.xml')" />
@@ -107,8 +104,8 @@
             <xsl:element name="strong">Font:</xsl:element>
             It is recommended to use the Junicode font. This font supports UNICODE and also MUFI encoding. 
             Before you start working with the virtual keyboards in Altheia you should have the Junicode font installed on your computer.<br/>
-            <xsl:element name="strong">Link:</xsl:element>
-            <ul>
+            
+            <ul><xsl:element name="lh">Links:</xsl:element>
             <li><a href="https://junicode.sourceforge.io/" target="_blank">Junicode [1]</a></li> 
             <li><a href="https://psb1558.github.io/Junicode-font/" target="_blank">Junicode 2</a></li>
             </ul> 
@@ -119,6 +116,13 @@
         
         <xsl:element name="p">
             <xsl:element name="strong">Download:</xsl:element>
+            You can either choose a specific virtual keyboard from the table and/or download the whole keyboard archive. 
+            A virtual keyboard is an xml file that you need to import into Alteheia. 
+            The keyboard archive is a zip file. Before you want to install the keyboards you have to unpack the zip file.<br/>
+            <ul><xsl:element name="lh">Links:</xsl:element>
+                <li><a href="https://github.com/tboenig/keyboardGT/releases/download/v{$release}/keyboardGT-v{$release}.zip">Keyboard-Archiv</a></li>
+                
+            </ul>
         </xsl:element>
         
         <xsl:element name="p">
