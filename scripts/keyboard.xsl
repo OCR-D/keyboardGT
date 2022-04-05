@@ -50,7 +50,7 @@
                         <xsl:attribute name="readOnly">false</xsl:attribute>
                         <xsl:attribute name="isSet">true</xsl:attribute>
                         <xsl:attribute name="visible">true</xsl:attribute>
-                        <xsl:attribute name="value">0<xsl:value-of select="fn:string[@key='codepoint']"/></xsl:attribute>
+                        <xsl:attribute name="value"><xsl:value-of select="fn:string[@key='codepoint']"/></xsl:attribute>
                         <xsl:attribute name="id"><xsl:number format="00001"/></xsl:attribute>
                         <xsl:attribute name="textType">0</xsl:attribute>
                         <xsl:element name="Description">
