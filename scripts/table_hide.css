@@ -3,7 +3,17 @@
                 box-shadow: #999999 0.5em 0.5em 0.3em;
                 border-radius: 0.5em;
                 }
-
+            div.container {
+                display: grid;
+                grid-template-columns: auto auto;
+                padding: 10px;
+            }
+            
+            div.column {
+                padding: 20px;
+                text-align: left;
+            }
+            
 /*          Data-Table*/
             table.dataTable {
                  margin: 0 !important;
