@@ -57,7 +57,7 @@ jobs:
       run:  |
         cp scripts/table_hide.css ghout/
         cp scripts/_config.yml ghout/
-        cp ghout/keybords/*.xml keyboards/
+        cp ghout/keyboards/*.xml keyboards/
         
 
 
