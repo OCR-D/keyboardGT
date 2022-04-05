@@ -95,7 +95,7 @@
         </xsl:element>
         <xsl:element name="p">
             Would you like to use the keyboard in Aletheia. Then
-            Download and install the necessary virtual keyboard. (<a href="https://www.primaresearch.org/www/assets/tools/Aletheia%20User%20Guide.pdf#page=91" target="_blank">More information</a>)
+            download and install the necessary virtual keyboard. You can find more information about using Virtual Keyboards in the <a href="https://www.primaresearch.org/www/assets/tools/Aletheia%20User%20Guide.pdf#page=91" target="_blank">Aletheia User Guide</a>.
         </xsl:element>
         
         <h2>Recommendation</h2>
