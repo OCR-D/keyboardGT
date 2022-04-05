@@ -22,17 +22,13 @@ jobs:
       run: |
        wget https://sourceforge.net/projects/saxon/files/Saxon-HE/10/Java/SaxonHE10-5J.zip/download
        unzip download
-        
-
     
 
-
-    - name: make gh-pages_out
-      run: mkdir ghout
-
-    - name: make keyboards folder
+    - name: make gh-pages_out, keyboards, doc folder
       run: | 
-        mkdir ghout/keyboards \
+        mkdir ghout 
+        mkdir ghout/keyboards 
+        mkdir ghout/doc 
         mkdir keyboards
     
    # Transformation and analysis
@@ -53,10 +49,11 @@ jobs:
 
    # GH-style  
                                                                                         
-    - name: copy css styles keybords and yml files 
+    - name: copy css styles keybords docs and yml files 
       run:  |
         cp scripts/table_hide.css ghout/
         cp scripts/_config.yml ghout/
+        cp doc/* ghout/doc/
         cp ghout/keyboards/*.xml keyboards/
         
 
