@@ -132,7 +132,7 @@
             </xsl:element>
                 <xsl:element name="div"><xsl:attribute name="class">column</xsl:attribute>
                     <xsl:element name="h3">Links:</xsl:element>
-                    <a href="https://github.com/tboenig/keyboardGT/releases/download/v{$release}/keyboardGT-v{$release}.zip">Keyboard-Archiv</a>
+                    <a href="https://github.com/tboenig/keyboardGT/releases/download/v{$release}/keyboardGT-v{$release}.zip">keyboard archiv as zip</a>
                     
                     
                 </xsl:element>
