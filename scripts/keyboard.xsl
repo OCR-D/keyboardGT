@@ -97,6 +97,10 @@
             Virtual Keyboards in the 
                <a href="https://www.primaresearch.org/www/assets/tools/Aletheia%20User%20Guide.pdf#page=91" target="_blank">Aletheia User Guide</a>.
         </xsl:element>
+        
+        <xsl:element name="h3">Links:</xsl:element>
+        <ul><li>MUFI: The Medieval Unicode Font Initiative https://mufi.info/</li>
+        <li>Aletheia https://www.primaresearch.org/tools/Aletheia</li></ul>
 
         <h2>Recommendation</h2>
 
