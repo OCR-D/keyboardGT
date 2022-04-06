@@ -183,9 +183,14 @@
         </xsl:element>
          <h3>For Transcribus</h3>
         <xsl:element name="div">
+            <xsl:attribute name="class">container</xsl:attribute>
+            
+            <xsl:element name="div">
+                <xsl:attribute name="class">column</xsl:attribute>
             <xsl:element name="p">
                 Download the <strong>virtualKeyboards.xml</strong> file and copy it to the program directory of your Transkribus installation. 
                 You should archive the existing file. The new virtualKeyboards file replaces this file.
+            </xsl:element>
             </xsl:element>
             
             <xsl:element name="div">
