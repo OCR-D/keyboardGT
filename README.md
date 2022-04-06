@@ -15,10 +15,10 @@ If you want to create the keyboard on your computer
 - clone the repo and 
 - the following command is necessary.
 
-for Aletheia
+**For Aletheia**
 `java -jar saxon-he.jar -xsl:scripts/keyboard.xsl output=keyboards -s:scripts/keyboard.xsl `
 
-for Transkribus
+**For Transkribus**
 `java -jar saxon-he.jar -xsl:scripts/keyboard.xsl output=tkeyboards -s:scripts/keyboard.xsl `
 
 📝 Note: The keybords are stored in the folder `ghout/keyboards` on your system.
