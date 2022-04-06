@@ -240,8 +240,8 @@
             <xsl:element name="thead">
                 <xsl:element name="tr">
                     <xsl:element name="th"><xsl:attribute name="style">position: sticky !important; left: 0 !important;</xsl:attribute>Code chart</xsl:element>
-                    <xsl:element name="th"><span class="big">&#x2328;</span> Virtual Keyboard Layouts for Aletheia</xsl:element>
-                    <xsl:element name="th"><span class="big">&#x2328;</span> Virtual Keyboard Layouts for Transkribus</xsl:element>
+                    <xsl:element name="th"><span class="big">&#x2328;</span> Virtual Keyboard Layouts<br/>for Aletheia</xsl:element>
+                    <xsl:element name="th"><span class="big">&#x2328;</span> Virtual Keyboard Layouts<br/>for Transkribus</xsl:element>
                     <xsl:element name="th"><span class="big">&#x1F481;</span> Browse by code chart<br/>(Link to MUFI)</xsl:element>
                 </xsl:element>
               </xsl:element>
