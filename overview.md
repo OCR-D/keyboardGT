@@ -36,9 +36,12 @@
    </p>
    <h3>Links:</h3>
    <ul>
-      <li>MUFI: The Medieval Unicode Font Initiative https://mufi.info/</li>
-      <li>Aletheia https://www.primaresearch.org/tools/Aletheia</li>
-      <li>Transkribus https://readcoop.eu/transkribus/</li>
+      <li>MUFI: The Medieval Unicode Font Initiative <a href="https://mufi.info/">https://mufi.info/</a>
+      </li>
+      <li>Aletheia <a href="https://www.primaresearch.org/tools/Aletheia">https://www.primaresearch.org/tools/Aletheia</a>
+      </li>
+      <li>Transkribus <a href="https://readcoop.eu/transkribus/">https://readcoop.eu/transkribus/</a>
+      </li>
    </ul>
    <h2>Recommendation</h2>
    <p> We recommended to use the Junicode font. This font supports UNICODE
@@ -72,7 +75,7 @@
       </div>
       <div class="column">
          <h3>Links:</h3>
-         <a href="https://github.com/tboenig/keyboardGT/releases/download/v77/keyboardGT-v77.zip">
+         <a href="https://github.com/tboenig/keyboardGT/releases/download/v78/keyboardGT-v78.zip">
                     keyboard archiv as zip</a>
       </div>
    </div>
