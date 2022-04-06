@@ -71,16 +71,18 @@
       </div>
       <div class="column">
          <h3>Links:</h3>
-         <a href="https://github.com/tboenig/keyboardGT/releases/download/v73/keyboardGT-v73.zip">
+         <a href="https://github.com/tboenig/keyboardGT/releases/download/v74/keyboardGT-v74.zip">
                     keyboard archiv as zip</a>
       </div>
    </div>
    <h3>For Transcribus</h3>
-   <div>
-      <p>
+   <div class="container">
+      <div class="column">
+         <p>
                 Download the <strong>virtualKeyboards.xml</strong> file and copy it to the program directory of your Transkribus installation. 
                 You should archive the existing file. The new virtualKeyboards file replaces this file.
             </p>
+      </div>
       <div class="column">
          <h3>Links:</h3>
          <a href="keyboards/virtualKeyboards.xml" target="_blank">
