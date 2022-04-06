@@ -1,6 +1,6 @@
 # keyboardGT
 
-The Aletheia document image analysis system offers the possibility to install additional virtual keyboards or to customize them.
+The Aletheia document image analysis system and Transkribus offer the possibility to install additional virtual keyboards or to customize them.
 This repository offers about 80 keyboards based on the [MUFI snapshot](https://mufi.info/m.php?p=mufiexport) for download on the [Github page](https://tboenig.github.io/keyboardGT/overview.html).
 
 
