@@ -167,9 +167,9 @@
         </xsl:element>
         
         <xsl:element name="h3">Links:</xsl:element>
-        <ul><li>MUFI: The Medieval Unicode Font Initiative https://mufi.info/</li>
-        <li>Aletheia https://www.primaresearch.org/tools/Aletheia</li>
-        <li>Transkribus https://readcoop.eu/transkribus/</li>
+        <ul><li>MUFI: The Medieval Unicode Font Initiative <a href="https://mufi.info/">https://mufi.info/</a></li>
+            <li>Aletheia <a href="https://www.primaresearch.org/tools/Aletheia">https://www.primaresearch.org/tools/Aletheia</a></li>
+            <li>Transkribus <a href="https://readcoop.eu/transkribus/">https://readcoop.eu/transkribus/</a></li>
         </ul>
 
         <h2>Recommendation</h2>
