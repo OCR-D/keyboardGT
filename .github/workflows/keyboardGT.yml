@@ -31,11 +31,18 @@ jobs:
     
    # Transformation and analysis
 
-    - name: Transform MUFI snapshot to keyboard
+    - name: Transform MUFI snapshot to Aletheia keyboard
       run: |
         java -jar saxon-he-10.5.jar -xsl:scripts/keyboard.xsl output=keyboards \
         -s:scripts/keyboard.xsl 
       shell: bash
+
+    - name: Transform MUFI snapshot to Transkribus keyboard
+      run: |
+        java -jar saxon-he-10.5.jar -xsl:scripts/keyboard.xsl output=tkeyboards \
+        -s:scripts/keyboard.xsl 
+      shell: bash
+
         
   
     - name: Make compressed table view

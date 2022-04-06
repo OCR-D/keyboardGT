@@ -134,7 +134,7 @@
             install the necessary virtual keyboard. You can find more information about using
             Virtual Keyboards in the 
                <a href="https://www.primaresearch.org/www/assets/tools/Aletheia%20User%20Guide.pdf#page=91" target="_blank">Aletheia User Guide</a> or
-               <a href="https://readcoop.eu/de/glossary/virtual-keyboard/"target="_blank">Transkribus Glossar.</a>
+               <a href="https://readcoop.eu/de/glossary/virtual-keyboard/" target="_blank">Transkribus Glossar.</a>
         </xsl:element>
         
         <xsl:element name="h3">Links:</xsl:element>
