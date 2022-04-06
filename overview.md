@@ -31,6 +31,11 @@
                <a href="https://www.primaresearch.org/www/assets/tools/Aletheia%20User%20Guide.pdf#page=91"
          target="_blank">Aletheia User Guide</a>.
         </p>
+   <h3>Links:</h3>
+   <ul>
+      <li>MUFI: The Medieval Unicode Font Initiative https://mufi.info/</li>
+      <li>Aletheia https://www.primaresearch.org/tools/Aletheia</li>
+   </ul>
    <h2>Recommendation</h2>
    <p> We recommended to use the Junicode font. This font supports UNICODE
             and also MUFI encoding. Before you start working with the virtual keyboards in Altheia
@@ -62,7 +67,7 @@
       </div>
       <div class="column">
          <h3>Links:</h3>
-         <a href="https://github.com/tboenig/keyboardGT/releases/download/v66/keyboardGT-v66.zip">
+         <a href="https://github.com/tboenig/keyboardGT/releases/download/v67/keyboardGT-v67.zip">
                     keyboard archiv as zip</a>
       </div>
    </div>
