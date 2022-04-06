@@ -24,6 +24,9 @@
             <xsl:if test="$output = 'keyboards'">
                 <xsl:call-template name="kb"/>
             </xsl:if>
+            <xsl:if test="$output = 'tkeyboards'">
+                <xsl:call-template name="tkb"/>
+            </xsl:if>
             <xsl:if test="$output = 'keytable'">
                 <xsl:call-template name="kb-table"/>
             </xsl:if>
@@ -66,6 +69,41 @@
             </xsl:result-document>
         </xsl:for-each-group>
     </xsl:template>
+    
+    
+    
+    <xsl:template match="$MUFIEXPORT//fn:array" name="tkb">
+        <xsl:result-document href="ghout/keyboards/virtualKeyboards.xml">
+            <xsl:text disable-output-escaping="yes">&lt;?xml version="1.0" encoding="UTF-8"?>&#xD;</xsl:text>
+            <xsl:text disable-output-escaping="yes">&lt;!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd"&gt;</xsl:text>
+            <xsl:element name="properties">
+            <comment>
+                Configure virtual keyboards here.
+                The key of every entry is the name of the tab that is added to the GUI. 
+                The value of the entry is a list of unicode characters OR a valid unicode range in 4-digit hex-format 
+                (i.e. 0080-00FF for Latin-1 supplement) - Note that both, a list of characters and multiple ranges, can be combined 
+                into one keyboard by seperating the values with a whitespace!
+                The keyboards are sorted by their name in the GUI - add leading numbers to enforce a special order!
+                The keyboard was created automatically. The basis was the snapchot of MUFI: The Medieval Unicode Font Initiative (https://mufi.info/m.php?p=mufiexport)
+            </comment>
+        <xsl:for-each-group select="$MUFIEXPORT//fn:map" group-by="fn:string[@key = 'range']">
+            <xsl:sort select="fn:current-grouping-key()"/>
+                  <xsl:element name="entry">
+                    <xsl:attribute name="key">
+                        <xsl:value-of select="fn:current-grouping-key()"/>
+                    </xsl:attribute>
+                    <xsl:for-each select="fn:current-group()">U+<xsl:value-of select="fn:string[@key = 'codepoint']"/><xsl:text> </xsl:text></xsl:for-each>
+                </xsl:element>
+                
+        </xsl:for-each-group>
+            </xsl:element>
+        </xsl:result-document>
+    </xsl:template>
+    
+    
+    
+    
+    
 
     <xsl:template match="$MUFIEXPORT//fn:array" name="kb-table">
         <link rel="stylesheet" href="table_hide.css"/>
@@ -88,19 +126,22 @@
         <xsl:element name="h1">Code chart</xsl:element>
 
         <xsl:element name="p">The offer of different keyboards for the Aletheia document image
-            analysis system is based on the data snapchot of 
+            analysis system and Transkribus is based on the data snapchot of 
                <a href="https://mufi.info/" target="_blank">MUFI: The Medieval Unicode Font Initiative</a>. 
                <a href="https://mufi.info/m.php?p=mufiexport" target="_blank">(MUFI data as json)</a>.
         </xsl:element>
-        <xsl:element name="p">Would you like to use the keyboard in Aletheia. Then download and
+        <xsl:element name="p">Would you like to use the keyboard in Aletheia or in Transkribus. Then download and
             install the necessary virtual keyboard. You can find more information about using
             Virtual Keyboards in the 
-               <a href="https://www.primaresearch.org/www/assets/tools/Aletheia%20User%20Guide.pdf#page=91" target="_blank">Aletheia User Guide</a>.
+               <a href="https://www.primaresearch.org/www/assets/tools/Aletheia%20User%20Guide.pdf#page=91" target="_blank">Aletheia User Guide</a> or
+               <a href="https://readcoop.eu/de/glossary/virtual-keyboard/"target="_blank">Transkribus Glossar.
         </xsl:element>
         
         <xsl:element name="h3">Links:</xsl:element>
         <ul><li>MUFI: The Medieval Unicode Font Initiative https://mufi.info/</li>
-        <li>Aletheia https://www.primaresearch.org/tools/Aletheia</li></ul>
+        <li>Aletheia https://www.primaresearch.org/tools/Aletheia</li>
+        <li>Transkribus https://readcoop.eu/transkribus/</li>
+        </ul>
 
         <h2>Recommendation</h2>
 
@@ -115,7 +156,7 @@
 
 
         <h2>Download and Installation</h2>
-
+        <h3>For Aletheia</h3>
         <xsl:element name="p">
             <xsl:element name="strong">Download:</xsl:element> You can either choose a specific
             virtual keyboard from the table and/or download the whole keyboard archive. A virtual
@@ -140,7 +181,24 @@
                     keyboard archiv as zip</a>
             </xsl:element>
         </xsl:element>
-
+         <h3>For Transcribus</h3>
+        <xsl:element name="div">
+            <xsl:element name="p">
+                Download the <strong>virtualKeyboards.xml</strong> file and copy it to the program directory of your Transkribus installation. 
+                You should archive the existing file. The new virtualKeyboards file replaces this file.
+            </xsl:element>
+            
+            <xsl:element name="div">
+                <xsl:attribute name="class">column</xsl:attribute>
+                <xsl:element name="h3">Links:</xsl:element>
+                <xsl:element name="a">
+                    <xsl:attribute name="href">keyboards/virtualKeyboards.xml</xsl:attribute>
+                    <xsl:attribute name="target">_blank</xsl:attribute>
+                    virtualKeyboards.xml
+                </xsl:element>
+            </xsl:element>
+        
+        </xsl:element>
         <hr/>
         
         <xsl:element name="table">
