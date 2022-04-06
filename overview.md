@@ -21,20 +21,23 @@
             });</script>
    <h1>Code chart</h1>
    <p>The offer of different keyboards for the Aletheia document image
-            analysis system is based on the data snapchot of 
+            analysis system and Transkribus is based on the data snapchot of 
                <a href="https://mufi.info/" target="_blank">MUFI: The Medieval Unicode Font Initiative</a>. 
                <a href="https://mufi.info/m.php?p=mufiexport" target="_blank">(MUFI data as json)</a>.
         </p>
-   <p>Would you like to use the keyboard in Aletheia. Then download and
+   <p>Would you like to use the keyboard in Aletheia or in Transkribus. Then download and
             install the necessary virtual keyboard. You can find more information about using
             Virtual Keyboards in the 
                <a href="https://www.primaresearch.org/www/assets/tools/Aletheia%20User%20Guide.pdf#page=91"
-         target="_blank">Aletheia User Guide</a>.
-        </p>
+         target="_blank">Aletheia User Guide</a> or
+               <a href="https://readcoop.eu/de/glossary/virtual-keyboard/"
+         target="_blank">Transkribus Glossar.</a>
+   </p>
    <h3>Links:</h3>
    <ul>
       <li>MUFI: The Medieval Unicode Font Initiative https://mufi.info/</li>
       <li>Aletheia https://www.primaresearch.org/tools/Aletheia</li>
+      <li>Transkribus https://readcoop.eu/transkribus/</li>
    </ul>
    <h2>Recommendation</h2>
    <p> We recommended to use the Junicode font. This font supports UNICODE
@@ -51,6 +54,7 @@
       </ul>
    </p>
    <h2>Download and Installation</h2>
+   <h3>For Aletheia</h3>
    <p>
       <strong>Download:</strong> You can either choose a specific
             virtual keyboard from the table and/or download the whole keyboard archive. A virtual
@@ -67,8 +71,21 @@
       </div>
       <div class="column">
          <h3>Links:</h3>
-         <a href="https://github.com/tboenig/keyboardGT/releases/download/v67/keyboardGT-v67.zip">
+         <a href="https://github.com/tboenig/keyboardGT/releases/download/v73/keyboardGT-v73.zip">
                     keyboard archiv as zip</a>
+      </div>
+   </div>
+   <h3>For Transcribus</h3>
+   <div>
+      <p>
+                Download the <strong>virtualKeyboards.xml</strong> file and copy it to the program directory of your Transkribus installation. 
+                You should archive the existing file. The new virtualKeyboards file replaces this file.
+            </p>
+      <div class="column">
+         <h3>Links:</h3>
+         <a href="keyboards/virtualKeyboards.xml" target="_blank">
+                    virtualKeyboards.xml
+                </a>
       </div>
    </div>
    <hr/>
