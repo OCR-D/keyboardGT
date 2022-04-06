@@ -73,7 +73,9 @@
     
     
     <xsl:template match="$MUFIEXPORT//fn:array" name="tkb">
-        <xsl:result-document href="ghout/keyboards/virtualKeyboards.xml">
+        <xsl:for-each-group select="$MUFIEXPORT//fn:map" group-by="fn:string[@key = 'range']">
+            <xsl:sort select="fn:current-grouping-key()"/>
+            <xsl:result-document href="ghout/keyboards/{fn:current-grouping-key()}/virtualKeyboards.xml">
             <xsl:text disable-output-escaping="yes">&lt;?xml version="1.0" encoding="UTF-8"?>&#xD;</xsl:text>
             <xsl:text disable-output-escaping="yes">&lt;!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd"&gt;</xsl:text>
             <xsl:element name="properties">
@@ -86,18 +88,44 @@
                 The keyboards are sorted by their name in the GUI - add leading numbers to enforce a special order!
                 The keyboard was created automatically. The basis was the snapchot of MUFI: The Medieval Unicode Font Initiative (https://mufi.info/m.php?p=mufiexport)
             </comment>
-        <xsl:for-each-group select="$MUFIEXPORT//fn:map" group-by="fn:string[@key = 'range']">
-            <xsl:sort select="fn:current-grouping-key()"/>
+        
+            
                   <xsl:element name="entry">
                     <xsl:attribute name="key">
                         <xsl:value-of select="fn:current-grouping-key()"/>
                     </xsl:attribute>
                     <xsl:for-each select="fn:current-group()">U+<xsl:value-of select="fn:string[@key = 'codepoint']"/><xsl:text> </xsl:text></xsl:for-each>
                 </xsl:element>
-                
+            </xsl:element>
+                </xsl:result-document>
         </xsl:for-each-group>
+        
+        <xsl:result-document href="ghout/keyboards/virtualKeyboards.xml">
+            <xsl:text disable-output-escaping="yes">&lt;?xml version="1.0" encoding="UTF-8"?>&#xD;</xsl:text>
+            <xsl:text disable-output-escaping="yes">&lt;!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd"&gt;</xsl:text>
+            <xsl:element name="properties">
+                <comment>
+                    Configure virtual keyboards here.
+                    The key of every entry is the name of the tab that is added to the GUI. 
+                    The value of the entry is a list of unicode characters OR a valid unicode range in 4-digit hex-format 
+                    (i.e. 0080-00FF for Latin-1 supplement) - Note that both, a list of characters and multiple ranges, can be combined 
+                    into one keyboard by seperating the values with a whitespace!
+                    The keyboards are sorted by their name in the GUI - add leading numbers to enforce a special order!
+                    The keyboard was created automatically. The basis was the snapchot of MUFI: The Medieval Unicode Font Initiative (https://mufi.info/m.php?p=mufiexport)
+                </comment>
+                <xsl:for-each-group select="$MUFIEXPORT//fn:map" group-by="fn:string[@key = 'range']">
+                    <xsl:sort select="fn:current-grouping-key()"/>
+                    <xsl:element name="entry">
+                        <xsl:attribute name="key">
+                            <xsl:value-of select="fn:current-grouping-key()"/>
+                        </xsl:attribute>
+                        <xsl:for-each select="fn:current-group()">U+<xsl:value-of select="fn:string[@key = 'codepoint']"/><xsl:text> </xsl:text></xsl:for-each>
+                    </xsl:element>
+                </xsl:for-each-group>
             </xsl:element>
         </xsl:result-document>
+            
+        
     </xsl:template>
     
     
@@ -125,10 +153,11 @@
 
         <xsl:element name="h1">Code chart</xsl:element>
 
-        <xsl:element name="p">The offer of different keyboards for the Aletheia document image
-            analysis system and Transkribus is based on the data snapchot of 
-               <a href="https://mufi.info/" target="_blank">MUFI: The Medieval Unicode Font Initiative</a>. 
-               <a href="https://mufi.info/m.php?p=mufiexport" target="_blank">(MUFI data as json)</a>.
+        <xsl:element name="p">
+            The Aletheia document image analysis system and Transkribus offer the possibility to install additional virtual keyboards or to customize them.
+            This repository offers about 80 keyboards based on the data snapchot of
+            <a href="https://mufi.info/" target="_blank">MUFI: The Medieval Unicode Font Initiative</a> 
+            <a href="https://mufi.info/m.php?p=mufiexport" target="_blank">(MUFI data as json)</a>.
         </xsl:element>
         <xsl:element name="p">Would you like to use the keyboard in Aletheia or in Transkribus. Then download and
             install the necessary virtual keyboard. You can find more information about using
@@ -210,12 +239,12 @@
             <xsl:attribute name="id">table_id</xsl:attribute>
             <xsl:element name="thead">
                 <xsl:element name="tr">
-                    <xsl:element name="th">
-                        <xsl:attribute name="style">position: sticky !important; left: 0 !important;</xsl:attribute>Code chart</xsl:element>
+                    <xsl:element name="th"><xsl:attribute name="style">position: sticky !important; left: 0 !important;</xsl:attribute>Code chart</xsl:element>
                     <xsl:element name="th"><span class="big">&#x2328;</span> Virtual Keyboard Layouts for Aletheia</xsl:element>
+                    <xsl:element name="th"><span class="big">&#x2328;</span> Virtual Keyboard Layouts for Transkribus</xsl:element>
                     <xsl:element name="th"><span class="big">&#x1F481;</span> Browse by code chart (Link to MUFI)</xsl:element>
                 </xsl:element>
-            </xsl:element>
+              </xsl:element>
             <xsl:element name="tbody">
                 <xsl:for-each-group select="$MUFIEXPORT//fn:map"
                     group-by="fn:string[@key = 'range']">
@@ -235,12 +264,22 @@
                                 <xsl:attribute name="target">_blank</xsl:attribute>
                                 <xsl:value-of select="fn:current-grouping-key()"/>
                             </xsl:element>
-                            <xsl:element name="td">
+                        </xsl:element>
+                        <xsl:element name="td">
+                            <xsl:element name="a">
+                                <xsl:attribute name="href">keyboards/<xsl:value-of
+                                    select="fn:current-grouping-key()"/>/virtualKeyboards.xml</xsl:attribute>
+                                <xsl:attribute name="target">_blank</xsl:attribute>
+                                <xsl:value-of select="fn:current-grouping-key()"/>
+                            </xsl:element>
+                        </xsl:element>
+                        <xsl:element name="td">
                                 <xsl:text disable-output-escaping="yes">&lt;a href="</xsl:text><xsl:value-of
                                     select="$link" disable-output-escaping="yes"/>"
                                 target="_blank"<xsl:text disable-output-escaping="yes">&gt;</xsl:text>Browse
-                                charts<xsl:text disable-output-escaping="yes">&lt;/a&gt;</xsl:text></xsl:element>
+                                charts<xsl:text disable-output-escaping="yes">&lt;/a&gt;</xsl:text>
                         </xsl:element>
+                        
                     </xsl:element>
                 </xsl:for-each-group>
             </xsl:element>
