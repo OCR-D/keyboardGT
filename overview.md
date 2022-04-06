@@ -75,7 +75,7 @@
       </div>
       <div class="column">
          <h3>Links:</h3>
-         <a href="https://github.com/tboenig/keyboardGT/releases/download/v79/keyboardGT-v79.zip">
+         <a href="https://github.com/tboenig/keyboardGT/releases/download/v80/keyboardGT-v80.zip">
                     keyboard archiv as zip</a>
       </div>
    </div>
@@ -100,9 +100,9 @@
          <tr>
             <th style="position: sticky !important; left: 0 !important;">Code chart</th>
             <th>
-               <span class="big">⌨</span> Virtual Keyboard Layouts for Aletheia</th>
+               <span class="big">⌨</span> Virtual Keyboard Layouts<br/>for Aletheia</th>
             <th>
-               <span class="big">⌨</span> Virtual Keyboard Layouts for Transkribus</th>
+               <span class="big">⌨</span> Virtual Keyboard Layouts<br/>for Transkribus</th>
             <th>
                <span class="big">💁</span> Browse by code chart<br/>(Link to MUFI)</th>
          </tr>
