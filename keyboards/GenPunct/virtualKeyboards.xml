@@ -6,7 +6,7 @@
                 (i.e. 0080-00FF for Latin-1 supplement) - Note that both, a list of characters and multiple ranges, can be combined 
                 into one keyboard by seperating the values with a whitespace!
                 The keyboards are sorted by their name in the GUI - add leading numbers to enforce a special order!
-                The keyboard was created automatically. The basis was the snapchot of MUFI: The Medieval Unicode Font Initiative (https://mufi.info/m.php?p=mufiexport)
+                The keyboard was created automatically. The basis was the snapshot of MUFI: The Medieval Unicode Font Initiative (https://mufi.info/m.php?p=mufiexport)
             </comment>
    <entry key="GenPunct">U+2000 U+2001 U+2002 U+2003 U+2004 U+2005 U+2006 U+2007 U+2008 U+2009 U+200A U+200B U+2010 U+2011 U+2012 U+2013 U+2014 U+2015 U+2016 U+2018 U+2019 U+201A U+201B U+201C U+201D U+201E U+201F U+2020 U+2021 U+2022 U+2023 U+2024 U+2025 U+2026 U+2027 U+202F U+2030 U+2032 U+2033 U+2039 U+203A U+203B U+2042 U+2044 U+2045 U+2046 U+204A U+204B U+2056 U+2058 U+205C U+25CF </entry>
 </properties>

@@ -6,7 +6,7 @@
                 (i.e. 0080-00FF for Latin-1 supplement) - Note that both, a list of characters and multiple ranges, can be combined 
                 into one keyboard by seperating the values with a whitespace!
                 The keyboards are sorted by their name in the GUI - add leading numbers to enforce a special order!
-                The keyboard was created automatically. The basis was the snapchot of MUFI: The Medieval Unicode Font Initiative (https://mufi.info/m.php?p=mufiexport)
+                The keyboard was created automatically. The basis was the snapshot of MUFI: The Medieval Unicode Font Initiative (https://mufi.info/m.php?p=mufiexport)
             </comment>
    <entry key="PUA-18">U+E043 U+E15C U+E168 U+E19E U+E282 U+E315 U+E34C U+E3E7 U+E443 U+E568 U+E59E U+E682 U+E715 U+E74C U+E7E7 U+EBCD U+EBCE U+EBCF U+EBD0 U+EBD1 U+EBD2 U+EBD3 U+EBD4 U+EBD5 U+EBD6 U+EBD7 U+EBDA U+EBDB U+EBDC U+EBDD U+EF20 U+EF21 U+EF22 U+EF23 U+EF24 U+EFEE U+EFEF U+EFF0 U+EFF1 </entry>
 </properties>

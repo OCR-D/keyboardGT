@@ -22,7 +22,7 @@
    <h1>Code chart</h1>
    <p>
             The Aletheia document image analysis system and Transkribus offer the possibility to install additional virtual keyboards or to customize them.
-            This repository offers about 80 keyboards based on the data snapchot of
+            This repository offers about 80 keyboards based on the data snapshot of
             <a href="https://mufi.info/" target="_blank">MUFI: The Medieval Unicode Font Initiative</a>
       <a href="https://mufi.info/m.php?p=mufiexport" target="_blank">(MUFI data as json)</a>.
         </p>
@@ -75,7 +75,7 @@
       </div>
       <div class="column">
          <h3>Links:</h3>
-         <a href="https://github.com/tboenig/keyboardGT/releases/download/v83/keyboardGT-v83.zip">
+         <a href="https://github.com/tboenig/keyboardGT/releases/download/v84/keyboardGT-v84.zip">
                     keyboard archiv as zip</a>
       </div>
    </div>
