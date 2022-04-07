@@ -27,6 +27,9 @@
             <xsl:if test="$output = 'tkeyboards'">
                 <xsl:call-template name="tkb"/>
             </xsl:if>
+            <xsl:if test="$output = 'lkeyboards'">
+                <xsl:call-template name="lkb"/>
+            </xsl:if>
             <xsl:if test="$output = 'keytable'">
                 <xsl:call-template name="kb-table"/>
             </xsl:if>
@@ -129,7 +132,32 @@
     </xsl:template>
     
     
-    
+    <xsl:template match="$MUFIEXPORT//fn:array" name="lkb">
+        <xsl:for-each-group select="$MUFIEXPORT//fn:map" group-by="fn:string[@key = 'range']">
+            <xsl:sort select="fn:current-grouping-key()"/>
+            <xsl:result-document href="ghout/keyboards/LAREX/{fn:current-grouping-key()}.txt">
+                <xsl:for-each-group select="fn:current-group()" group-by="fn:string[@key = 'alpha']"><xsl:sort order="ascending" select="fn:string[@key = 'alpha']"/>
+                       <xsl:for-each select="fn:current-group()">
+                           
+                           <xsl:choose>
+                               <xsl:when test="contains(fn:string[@key = 'mufichar'], '&amp;')">
+                                   <xsl:text disable-output-escaping="yes">&amp;</xsl:text><xsl:text>  </xsl:text>
+                               </xsl:when>
+                               <xsl:when test="contains(fn:string[@key = 'mufichar'], '&lt;')">
+                                   <xsl:text disable-output-escaping="yes">&lt;</xsl:text><xsl:text>  </xsl:text>
+                               </xsl:when>
+                               <xsl:when test="contains(fn:string[@key = 'mufichar'], '&gt;')">
+                                   <xsl:text disable-output-escaping="yes">&gt;</xsl:text><xsl:text>  </xsl:text>
+                               </xsl:when>
+                               <xsl:when test="contains(fn:string[@key = 'mufichar'], '&#x7f;')"></xsl:when>
+                               <xsl:otherwise><xsl:value-of select="fn:string[@key = 'mufichar']"/><xsl:text>  </xsl:text></xsl:otherwise>
+                           </xsl:choose>
+                           
+                          </xsl:for-each><xsl:text disable-output-escaping="yes">&#xD;</xsl:text>
+                        </xsl:for-each-group>
+            </xsl:result-document>
+        </xsl:for-each-group>
+    </xsl:template>
     
     
 
@@ -154,22 +182,24 @@
         <xsl:element name="h1">Code chart</xsl:element>
 
         <xsl:element name="p">
-            The Aletheia document image analysis system and Transkribus offer the possibility to install additional virtual keyboards or to customize them.
+            The Aletheia document image analysis system, Transkribus and LAREX offer the possibility to install additional virtual keyboards or to customize them.
             This repository offers about 80 keyboards based on the data snapshot of
             <a href="https://mufi.info/" target="_blank">MUFI: The Medieval Unicode Font Initiative</a> 
             <a href="https://mufi.info/m.php?p=mufiexport" target="_blank">(MUFI data as json)</a>.
         </xsl:element>
-        <xsl:element name="p">Would you like to use the keyboard in Aletheia or in Transkribus. Then download and
+        <xsl:element name="p">Would you like to use the keyboard in Aletheia or in Transkribus or in LAREX. Then download and
             install the necessary virtual keyboard. You can find more information about using
             Virtual Keyboards in the 
                <a href="https://www.primaresearch.org/www/assets/tools/Aletheia%20User%20Guide.pdf#page=91" target="_blank">Aletheia User Guide</a> or
-               <a href="https://readcoop.eu/de/glossary/virtual-keyboard/" target="_blank">Transkribus Glossar.</a>
+               <a href="https://readcoop.eu/de/glossary/virtual-keyboard/" target="_blank">Transkribus Glossar,</a>
+               <a href="https://github.com/OCR4all/LAREX/issues/317" target="_blank">LAREX</a>
         </xsl:element>
         
         <xsl:element name="h3">Links:</xsl:element>
         <ul><li>MUFI: The Medieval Unicode Font Initiative <a href="https://mufi.info/">https://mufi.info/</a></li>
             <li>Aletheia <a href="https://www.primaresearch.org/tools/Aletheia">https://www.primaresearch.org/tools/Aletheia</a></li>
             <li>Transkribus <a href="https://readcoop.eu/transkribus/">https://readcoop.eu/transkribus/</a></li>
+            <li>LAREX <a href="https://github.com/OCR4all/LAREX">https://github.com/OCR4all/LAREX</a></li>
         </ul>
 
         <h2>Recommendation</h2>
@@ -242,6 +272,7 @@
                     <xsl:element name="th"><xsl:attribute name="style">position: sticky !important; left: 0 !important;</xsl:attribute>Code chart</xsl:element>
                     <xsl:element name="th"><span class="big">&#x2328;</span> Virtual Keyboard Layouts<br/>for Aletheia</xsl:element>
                     <xsl:element name="th"><span class="big">&#x2328;</span> Virtual Keyboard Layouts<br/>for Transkribus</xsl:element>
+                    <xsl:element name="th"><span class="big">&#x2328;</span> Virtual Keyboard Layouts<br/>for LAREX</xsl:element>
                     <xsl:element name="th"><span class="big">&#x1F481;</span> Browse by code chart<br/>(Link to MUFI)</xsl:element>
                 </xsl:element>
               </xsl:element>
@@ -269,6 +300,14 @@
                             <xsl:element name="a">
                                 <xsl:attribute name="href">keyboards/<xsl:value-of
                                     select="fn:current-grouping-key()"/>/virtualKeyboards.xml</xsl:attribute>
+                                <xsl:attribute name="target">_blank</xsl:attribute>
+                                <xsl:value-of select="fn:current-grouping-key()"/>
+                            </xsl:element>
+                        </xsl:element>
+                        <xsl:element name="td">
+                            <xsl:element name="a">
+                                <xsl:attribute name="href">keyboards/LAREX/<xsl:value-of
+                                    select="fn:current-grouping-key()"/>.txt</xsl:attribute>
                                 <xsl:attribute name="target">_blank</xsl:attribute>
                                 <xsl:value-of select="fn:current-grouping-key()"/>
                             </xsl:element>
