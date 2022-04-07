@@ -24,9 +24,12 @@ jobs:
 
     - name: Make gh-pages_out, keyboards, doc folder
       run: | 
-        mkdir ghout 
-        mkdir ghout/keyboards 
-        mkdir ghout/doc 
+        mkdir ghout
+        mkdir ghout/keyboards
+        mkdir ghout/keyboards/aletheia
+        mkdir ghout/keyboards/transkribus
+        mkdir ghout/keyboards/LAREX
+        mkdir ghout/doc
         mkdir keyboards
     
    # Transformation and analysis
