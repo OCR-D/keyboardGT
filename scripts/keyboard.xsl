@@ -13,10 +13,23 @@
         <xsl:copy-of select="document('../metadata/coding.xml')"/>
     </xsl:variable>
 
-
     <xsl:variable name="MUFIEXPORT">
         <xsl:copy-of select="json-to-xml(unparsed-text('https://mufi.info/m.php?p=mufiexport'))"/>
     </xsl:variable>
+
+<xsl:variable name="TComment">
+    <comment>
+        Configure virtual keyboards here.
+        The key of every entry is the name of the tab that is added to the GUI. 
+        The value of the entry is a list of unicode characters OR a valid unicode range in 4-digit hex-format 
+        (i.e. 0080-00FF for Latin-1 supplement) - Note that both, a list of characters and multiple ranges, can be combined 
+        into one keyboard by seperating the values with a whitespace!
+        The keyboards are sorted by their name in the GUI - add leading numbers to enforce a special order!
+        The keyboard was created automatically. The basis was the snapshot of MUFI: The Medieval Unicode Font Initiative (https://mufi.info/m.php?p=mufiexport)
+    </comment>
+</xsl:variable>
+
+
 
     <xsl:template match="/">
         <xsl:element name="div">
@@ -40,7 +53,7 @@
     <xsl:template match="$MUFIEXPORT//fn:array" name="kb">
         <xsl:for-each-group select="$MUFIEXPORT//fn:map" group-by="fn:string[@key = 'range']">
             <xsl:sort select="fn:current-grouping-key()"/>
-            <xsl:result-document href="ghout/keyboards/{fn:current-grouping-key()}.xml">
+            <xsl:result-document href="ghout/keyboards/aletheia/{fn:current-grouping-key()}.xml">
                 <xsl:element name="Parameters">
                     <xsl:attribute name="name">
                         <xsl:value-of select="fn:current-grouping-key()"/>
@@ -78,21 +91,11 @@
     <xsl:template match="$MUFIEXPORT//fn:array" name="tkb">
         <xsl:for-each-group select="$MUFIEXPORT//fn:map" group-by="fn:string[@key = 'range']">
             <xsl:sort select="fn:current-grouping-key()"/>
-            <xsl:result-document href="ghout/keyboards/{fn:current-grouping-key()}/virtualKeyboards.xml">
+            <xsl:result-document href="ghout/keyboards/transkribus{fn:current-grouping-key()}/virtualKeyboards.xml">
             <xsl:text disable-output-escaping="yes">&lt;?xml version="1.0" encoding="UTF-8"?>&#xD;</xsl:text>
             <xsl:text disable-output-escaping="yes">&lt;!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd"&gt;</xsl:text>
             <xsl:element name="properties">
-            <comment>
-                Configure virtual keyboards here.
-                The key of every entry is the name of the tab that is added to the GUI. 
-                The value of the entry is a list of unicode characters OR a valid unicode range in 4-digit hex-format 
-                (i.e. 0080-00FF for Latin-1 supplement) - Note that both, a list of characters and multiple ranges, can be combined 
-                into one keyboard by seperating the values with a whitespace!
-                The keyboards are sorted by their name in the GUI - add leading numbers to enforce a special order!
-                The keyboard was created automatically. The basis was the snapshot of MUFI: The Medieval Unicode Font Initiative (https://mufi.info/m.php?p=mufiexport)
-            </comment>
-        
-            
+                  <xsl:copy-of select="$TComment"/>
                   <xsl:element name="entry">
                     <xsl:attribute name="key">
                         <xsl:value-of select="fn:current-grouping-key()"/>
@@ -103,19 +106,11 @@
                 </xsl:result-document>
         </xsl:for-each-group>
         
-        <xsl:result-document href="ghout/keyboards/virtualKeyboards.xml">
+        <xsl:result-document href="ghout/keyboards/transkribus/virtualKeyboards.xml">
             <xsl:text disable-output-escaping="yes">&lt;?xml version="1.0" encoding="UTF-8"?>&#xD;</xsl:text>
             <xsl:text disable-output-escaping="yes">&lt;!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd"&gt;</xsl:text>
             <xsl:element name="properties">
-                <comment>
-                    Configure virtual keyboards here.
-                    The key of every entry is the name of the tab that is added to the GUI. 
-                    The value of the entry is a list of unicode characters OR a valid unicode range in 4-digit hex-format 
-                    (i.e. 0080-00FF for Latin-1 supplement) - Note that both, a list of characters and multiple ranges, can be combined 
-                    into one keyboard by seperating the values with a whitespace!
-                    The keyboards are sorted by their name in the GUI - add leading numbers to enforce a special order!
-                    The keyboard was created automatically. The basis was the snapshot of MUFI: The Medieval Unicode Font Initiative (https://mufi.info/m.php?p=mufiexport)
-                </comment>
+                <xsl:copy-of select="$TComment"/>
                 <xsl:for-each-group select="$MUFIEXPORT//fn:map" group-by="fn:string[@key = 'range']">
                     <xsl:sort select="fn:current-grouping-key()"/>
                     <xsl:element name="entry">
@@ -215,7 +210,9 @@
 
 
         <h2>Download and Installation</h2>
-        <h3>For Aletheia</h3>
+        
+        <xsl:element name="details">
+            <xsl:element name="summary">For Aletheia</xsl:element>
         <xsl:element name="p">
             <xsl:element name="strong">Download:</xsl:element> You can either choose a specific
             virtual keyboard from the table and/or download the whole keyboard archive. A virtual
@@ -240,7 +237,10 @@
                     keyboard archiv as zip</a>
             </xsl:element>
         </xsl:element>
-         <h3>For Transcribus</h3>
+        </xsl:element>
+         
+        <xsl:element name="details">
+            <xsl:element name="summary">For Transcribus</xsl:element>
         <xsl:element name="div">
             <xsl:attribute name="class">container</xsl:attribute>
             
@@ -256,13 +256,21 @@
                 <xsl:attribute name="class">column</xsl:attribute>
                 <xsl:element name="h3">Links:</xsl:element>
                 <xsl:element name="a">
-                    <xsl:attribute name="href">keyboards/virtualKeyboards.xml</xsl:attribute>
+                    <xsl:attribute name="href">keyboards/transkribus/virtualKeyboards.xml</xsl:attribute>
                     <xsl:attribute name="target">_blank</xsl:attribute>
                     virtualKeyboards.xml
                 </xsl:element>
             </xsl:element>
-        
         </xsl:element>
+        </xsl:element>
+        
+        <xsl:element name="details">
+            <xsl:element name="summary">For LAREX</xsl:element>
+            <xsl:element name="p">
+                Download the <strong>keyboard text files</strong> and copy the files to the appropriate directory.
+            </xsl:element>
+        </xsl:element>
+        
         <hr/>
         
         <xsl:element name="table">
@@ -290,7 +298,7 @@
                         </xsl:element>
                         <xsl:element name="td">
                             <xsl:element name="a">
-                                <xsl:attribute name="href">keyboards/<xsl:value-of
+                                <xsl:attribute name="href">keyboards/aletheia/<xsl:value-of
                                         select="fn:current-grouping-key()"/>.xml</xsl:attribute>
                                 <xsl:attribute name="target">_blank</xsl:attribute>
                                 <xsl:value-of select="fn:current-grouping-key()"/>
@@ -298,7 +306,7 @@
                         </xsl:element>
                         <xsl:element name="td">
                             <xsl:element name="a">
-                                <xsl:attribute name="href">keyboards/<xsl:value-of
+                                <xsl:attribute name="href">keyboards/transkribus/<xsl:value-of
                                     select="fn:current-grouping-key()"/>/virtualKeyboards.xml</xsl:attribute>
                                 <xsl:attribute name="target">_blank</xsl:attribute>
                                 <xsl:value-of select="fn:current-grouping-key()"/>
