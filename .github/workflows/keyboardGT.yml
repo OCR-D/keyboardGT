@@ -43,6 +43,13 @@ jobs:
         -s:scripts/keyboard.xsl 
       shell: bash
 
+
+    - name: Transform MUFI snapshot to LAREX keyboard
+      run: |
+        java -jar saxon-he-10.5.jar -xsl:scripts/keyboard.xsl output=lkeyboards \
+        -s:scripts/keyboard.xsl 
+      shell: bash  
+
         
   
     - name: Make compressed table view
