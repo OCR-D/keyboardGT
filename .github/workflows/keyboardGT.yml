@@ -65,7 +65,7 @@ jobs:
         cp scripts/table_hide.css ghout/
         cp scripts/_config.yml ghout/
         cp docu/* ghout/doc/
-        cp ghout/keyboards/*.xml keyboards/
+        cp ghout/keyboards/* keyboards/
         
 
 
