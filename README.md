@@ -1,6 +1,6 @@
 # keyboardGT
 
-The Aletheia document image analysis system and Transkribus offer the possibility to install additional virtual keyboards or to customize them.
+The Aletheia document image analysis system, Transkribus and LAREX offer the possibility to install additional virtual keyboards or to customize them.
 This repository offers about 80 keyboards based on the [MUFI snapshot](https://mufi.info/m.php?p=mufiexport) for download on the [Github page](https://tboenig.github.io/keyboardGT/overview.html).
 
 
@@ -21,6 +21,9 @@ If you want to create the keyboard on your computer
 **For Transkribus**
 `java -jar saxon-he.jar -xsl:scripts/keyboard.xsl output=tkeyboards -s:scripts/keyboard.xsl `
 
+**For LAREX**
+`java -jar saxon-he.jar -xsl:scripts/keyboard.xsl output=lkeyboards -s:scripts/keyboard.xsl `
+
 📝 Note: The keybords are stored in the folder `ghout/keyboards` on your system.
 
 ## See Also
@@ -28,4 +31,5 @@ If you want to create the keyboard on your computer
 - MUFI: The Medieval Unicode Font Initiative https://mufi.info/
 - Aletheia https://www.primaresearch.org/tools/Aletheia
 - Transkribus https://readcoop.eu/transkribus/
+- LAREX https://github.com/OCR4all/LAREX
 - Saxon https://www.saxonica.com/welcome/welcome.xml
