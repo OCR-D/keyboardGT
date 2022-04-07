@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd"><properties>
+   <comment>
+        Configure virtual keyboards here.
+        The key of every entry is the name of the tab that is added to the GUI. 
+        The value of the entry is a list of unicode characters OR a valid unicode range in 4-digit hex-format 
+        (i.e. 0080-00FF for Latin-1 supplement) - Note that both, a list of characters and multiple ranges, can be combined 
+        into one keyboard by seperating the values with a whitespace!
+        The keyboards are sorted by their name in the GUI - add leading numbers to enforce a special order!
+        The keyboard was created automatically. The basis was the snapshot of MUFI: The Medieval Unicode Font Initiative (https://mufi.info/m.php?p=mufiexport)
+    </comment>
+   <entry key="PUA-51">U+EEC6 U+F106 U+F10A U+F10E U+F110 U+F11A U+F126 U+F127 U+F128 U+F13A U+F193 U+F194 U+F195 U+F196 U+F198 U+F199 U+F19A U+F19B U+F200 U+F201 U+F202 U+F203 U+F207 U+F208 U+F209 U+F214 U+F215 U+F217 U+F218 U+F219 U+F21A U+F21B U+F21C U+F21D U+F21E U+F21F U+F220 U+F221 U+F222 U+F223 U+F224 U+F225 U+F226 U+F228 U+F229 U+F22A U+F22B U+F22C U+F232 U+F233 U+F23A U+F23C U+F23D </entry>
+</properties>

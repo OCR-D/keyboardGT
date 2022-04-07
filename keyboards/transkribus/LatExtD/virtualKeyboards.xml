@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd"><properties>
+   <comment>
+        Configure virtual keyboards here.
+        The key of every entry is the name of the tab that is added to the GUI. 
+        The value of the entry is a list of unicode characters OR a valid unicode range in 4-digit hex-format 
+        (i.e. 0080-00FF for Latin-1 supplement) - Note that both, a list of characters and multiple ranges, can be combined 
+        into one keyboard by seperating the values with a whitespace!
+        The keyboards are sorted by their name in the GUI - add leading numbers to enforce a special order!
+        The keyboard was created automatically. The basis was the snapshot of MUFI: The Medieval Unicode Font Initiative (https://mufi.info/m.php?p=mufiexport)
+    </comment>
+   <entry key="LatExtD">U+A730 U+A731 U+A732 U+A733 U+A734 U+A735 U+A736 U+A737 U+A738 U+A739 U+A73A U+A73B U+A73C U+A73D U+A73E U+A73F U+A740 U+A741 U+A742 U+A743 U+A744 U+A745 U+A746 U+A747 U+A748 U+A749 U+A74A U+A74B U+A74C U+A74D U+A74E U+A74F U+A750 U+A751 U+A752 U+A753 U+A754 U+A755 U+A756 U+A757 U+A758 U+A759 U+A75A U+A75B U+A75C U+A75D U+A75E U+A75F U+A760 U+A761 U+A762 U+A763 U+A764 U+A765 U+A766 U+A767 U+A768 U+A769 U+A76A U+A76B U+A76C U+A76D U+A76E U+A76F U+A770 U+A771 U+A772 U+A773 U+A774 U+A775 U+A776 U+A777 U+A778 U+A779 U+A77A U+A77B U+A77C U+A77D U+A77E U+A77F U+A780 U+A781 U+A782 U+A783 U+A784 U+A785 U+A786 U+A787 U+A7FB U+A7FC U+A7FD U+A7FE U+A7FF </entry>
+</properties>
