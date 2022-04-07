@@ -91,7 +91,7 @@
     <xsl:template match="$MUFIEXPORT//fn:array" name="tkb">
         <xsl:for-each-group select="$MUFIEXPORT//fn:map" group-by="fn:string[@key = 'range']">
             <xsl:sort select="fn:current-grouping-key()"/>
-            <xsl:result-document href="ghout/keyboards/transkribus{fn:current-grouping-key()}/virtualKeyboards.xml">
+            <xsl:result-document href="ghout/keyboards/transkribus/{fn:current-grouping-key()}/virtualKeyboards.xml">
             <xsl:text disable-output-escaping="yes">&lt;?xml version="1.0" encoding="UTF-8"?>&#xD;</xsl:text>
             <xsl:text disable-output-escaping="yes">&lt;!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd"&gt;</xsl:text>
             <xsl:element name="properties">
