@@ -43,6 +43,9 @@
             <xsl:if test="$output = 'lkeyboards'">
                 <xsl:call-template name="lkb"/>
             </xsl:if>
+            <xsl:if test="$output = 'qkeyboards'">
+                <xsl:call-template name="qkb"/>
+            </xsl:if>
             <xsl:if test="$output = 'keytable'">
                 <xsl:call-template name="kb-table"/>
             </xsl:if>
@@ -131,7 +134,8 @@
         <xsl:for-each-group select="$MUFIEXPORT//fn:map" group-by="fn:string[@key = 'range']">
             <xsl:sort select="fn:current-grouping-key()"/>
             <xsl:result-document href="ghout/keyboards/LAREX/{fn:current-grouping-key()}.txt">
-                <xsl:for-each-group select="fn:current-group()" group-by="fn:string[@key = 'alpha']"><xsl:sort order="ascending" select="fn:string[@key = 'alpha']"/>
+                <xsl:for-each-group select="fn:current-group()" group-by="fn:string[@key = 'alpha']">
+                    <xsl:sort order="ascending" select="fn:string[@key = 'alpha']"/>
                        <xsl:for-each select="fn:current-group()">
                            
                            <xsl:choose>
@@ -153,6 +157,42 @@
             </xsl:result-document>
         </xsl:for-each-group>
     </xsl:template>
+    
+    
+    
+    
+    
+    
+    
+    <xsl:template match="$MUFIEXPORT//fn:array" name="qkb">
+        <xsl:for-each-group select="$MUFIEXPORT//fn:map" group-by="fn:string[@key = 'range']">
+            <xsl:sort select="fn:current-grouping-key()"/>
+            <xsl:result-document href="ghout/keyboards/qurator-neat/{fn:current-grouping-key()}.txt">
+            '<xsl:value-of select="fn:current-grouping-key()"/>': [
+                <xsl:variable name="keys">
+                <xsl:for-each-group select="fn:current-group()" group-by="fn:string[@key = 'alpha']">
+                    <xsl:sort order="ascending" select="fn:string[@key = 'alpha']"/>
+                    <line><xsl:for-each select="fn:current-group()">\u<xsl:value-of select="fn:string[@key = 'codepoint']"/><sp/></xsl:for-each></line>
+                 </xsl:for-each-group>
+                </xsl:variable>
+                <xsl:for-each select="$keys/line[fn:position() &lt; last()]">
+                    "<xsl:apply-templates/><xsl:text disable-output-escaping="yes">",&#xD;</xsl:text>
+                </xsl:for-each>
+                    "<xsl:value-of select="$keys/line[position()=last()]"/> {bksp}"]
+            </xsl:result-document>
+        </xsl:for-each-group>
+    </xsl:template>
+    
+    <xsl:template match="sp">
+        <xsl:choose>
+            <xsl:when test="following-sibling::sp">
+                <xsl:text> </xsl:text>
+            </xsl:when>
+            <xsl:otherwise></xsl:otherwise>
+        </xsl:choose>
+    </xsl:template>
+    
+    
     
     
 
@@ -184,10 +224,12 @@
         </xsl:element>
         <xsl:element name="p">Would you like to use the keyboard in Aletheia or in Transkribus or in LAREX. Then download and
             install the necessary virtual keyboard. You can find more information about using
-            Virtual Keyboards in the 
-               <a href="https://www.primaresearch.org/www/assets/tools/Aletheia%20User%20Guide.pdf#page=91" target="_blank">Aletheia User Guide</a> or
-               <a href="https://readcoop.eu/de/glossary/virtual-keyboard/" target="_blank">Transkribus Glossar,</a>
-               <a href="https://github.com/OCR4all/LAREX/issues/317" target="_blank">LAREX</a>
+            Virtual Keyboards in  
+            <a href="https://www.primaresearch.org/www/assets/tools/Aletheia%20User%20Guide.pdf#page=91" target="_blank">Aletheia User Guide</a> or
+            <a href="https://readcoop.eu/de/glossary/virtual-keyboard/" target="_blank">Transkribus Glossar,</a> or
+            <a href="https://github.com/OCR4all/LAREX/issues/317" target="_blank">LAREX</a> or
+            <a href="https://github.com/qurator-spk/neat" target="_blank">QURATOR-neat</a>.
+            
         </xsl:element>
         
         <xsl:element name="h3">Links:</xsl:element>
@@ -195,6 +237,7 @@
             <li>Aletheia <a href="https://www.primaresearch.org/tools/Aletheia">https://www.primaresearch.org/tools/Aletheia</a></li>
             <li>Transkribus <a href="https://readcoop.eu/transkribus/">https://readcoop.eu/transkribus/</a></li>
             <li>LAREX <a href="https://github.com/OCR4all/LAREX">https://github.com/OCR4all/LAREX</a></li>
+            <li>QURATOR-neat <a href="https://github.com/qurator-spk/neat" target="_blank">https://github.com/qurator-spk/neat</a></li>
         </ul>
 
         <h2>Recommendation</h2>
@@ -271,6 +314,13 @@
             </xsl:element>
         </xsl:element>
         
+        <xsl:element name="details">
+            <xsl:element name="summary">For QURATOR-neat</xsl:element>
+            <xsl:element name="p">
+                Download the <strong>keyboard text files</strong> and copy the files to the appropriate directory.
+            </xsl:element>
+        </xsl:element>
+        
         <hr/>
         
         <xsl:element name="table">
@@ -281,6 +331,7 @@
                     <xsl:element name="th"><span class="big">&#x2328;</span> Virtual Keyboard Layouts<br/>for Aletheia</xsl:element>
                     <xsl:element name="th"><span class="big">&#x2328;</span> Virtual Keyboard Layouts<br/>for Transkribus</xsl:element>
                     <xsl:element name="th"><span class="big">&#x2328;</span> Virtual Keyboard Layouts<br/>for LAREX</xsl:element>
+                    <xsl:element name="th"><span class="big">&#x2328;</span> Virtual Keyboard Layouts<br/>for QURATOR-neat</xsl:element>
                     <xsl:element name="th"><span class="big">&#x1F481;</span> Browse by code chart<br/>(Link to MUFI)</xsl:element>
                 </xsl:element>
               </xsl:element>
@@ -315,6 +366,14 @@
                         <xsl:element name="td">
                             <xsl:element name="a">
                                 <xsl:attribute name="href">keyboards/LAREX/<xsl:value-of
+                                    select="fn:current-grouping-key()"/>.txt</xsl:attribute>
+                                <xsl:attribute name="target">_blank</xsl:attribute>
+                                <xsl:value-of select="fn:current-grouping-key()"/>
+                            </xsl:element>
+                        </xsl:element>
+                        <xsl:element name="td">
+                            <xsl:element name="a">
+                                <xsl:attribute name="href">keyboards/qurator-neat/<xsl:value-of
                                     select="fn:current-grouping-key()"/>.txt</xsl:attribute>
                                 <xsl:attribute name="target">_blank</xsl:attribute>
                                 <xsl:value-of select="fn:current-grouping-key()"/>
