@@ -29,6 +29,7 @@ jobs:
         mkdir ghout/keyboards/aletheia
         mkdir ghout/keyboards/transkribus
         mkdir ghout/keyboards/LAREX
+        mkdir ghout/keyboards/qurator-neat
         mkdir ghout/doc
         mkdir keyboards
     
