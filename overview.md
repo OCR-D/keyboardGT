@@ -28,13 +28,15 @@
         </p>
    <p>Would you like to use the keyboard in Aletheia or in Transkribus or in LAREX. Then download and
             install the necessary virtual keyboard. You can find more information about using
-            Virtual Keyboards in the 
-               <a href="https://www.primaresearch.org/www/assets/tools/Aletheia%20User%20Guide.pdf#page=91"
+            Virtual Keyboards in  
+            <a href="https://www.primaresearch.org/www/assets/tools/Aletheia%20User%20Guide.pdf#page=91"
          target="_blank">Aletheia User Guide</a> or
-               <a href="https://readcoop.eu/de/glossary/virtual-keyboard/"
-         target="_blank">Transkribus Glossar,</a>
-      <a href="https://github.com/OCR4all/LAREX/issues/317" target="_blank">LAREX</a>
-   </p>
+            <a href="https://readcoop.eu/de/glossary/virtual-keyboard/"
+         target="_blank">Transkribus Glossar,</a> or
+            <a href="https://github.com/OCR4all/LAREX/issues/317" target="_blank">LAREX</a> or
+            <a href="https://github.com/qurator-spk/neat" target="_blank">QURATOR-neat</a>.
+            
+        </p>
    <h3>Links:</h3>
    <ul>
       <li>MUFI: The Medieval Unicode Font Initiative <a href="https://mufi.info/">https://mufi.info/</a>
@@ -44,6 +46,8 @@
       <li>Transkribus <a href="https://readcoop.eu/transkribus/">https://readcoop.eu/transkribus/</a>
       </li>
       <li>LAREX <a href="https://github.com/OCR4all/LAREX">https://github.com/OCR4all/LAREX</a>
+      </li>
+      <li>QURATOR-neat <a href="https://github.com/qurator-spk/neat" target="_blank">https://github.com/qurator-spk/neat</a>
       </li>
    </ul>
    <h2>Recommendation</h2>
@@ -79,7 +83,7 @@
          </div>
          <div class="column">
             <h3>Links:</h3>
-            <a href="https://github.com/tboenig/keyboardGT/releases/download/v92/keyboardGT-v92.zip">
+            <a href="https://github.com/tboenig/keyboardGT/releases/download/v93/keyboardGT-v93.zip">
                     keyboard archiv as zip</a>
          </div>
       </div>
@@ -107,6 +111,12 @@
                 Download the <strong>keyboard text files</strong> and copy the files to the appropriate directory.
             </p>
    </details>
+   <details>
+      <summary>For QURATOR-neat</summary>
+      <p>
+                Download the <strong>keyboard text files</strong> and copy the files to the appropriate directory.
+            </p>
+   </details>
    <hr/>
    <table id="table_id">
       <thead>
@@ -118,6 +128,8 @@
                <span class="big">⌨</span> Virtual Keyboard Layouts<br/>for Transkribus</th>
             <th>
                <span class="big">⌨</span> Virtual Keyboard Layouts<br/>for LAREX</th>
+            <th>
+               <span class="big">⌨</span> Virtual Keyboard Layouts<br/>for QURATOR-neat</th>
             <th>
                <span class="big">💁</span> Browse by code chart<br/>(Link to MUFI)</th>
          </tr>
@@ -135,6 +147,9 @@
             <td>
                <a href="keyboards/LAREX/AlphPresForm.txt" target="_blank">AlphPresForm</a>
             </td>
+            <td>
+               <a href="keyboards/qurator-neat/AlphPresForm.txt" target="_blank">AlphPresForm</a>
+            </td>
             <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=40"
                                 target="_blank">Browse
                                 charts</a></td>
@@ -150,6 +165,9 @@
             </td>
             <td>
                <a href="keyboards/LAREX/AncSymb.txt" target="_blank">AncSymb</a>
+            </td>
+            <td>
+               <a href="keyboards/qurator-neat/AncSymb.txt" target="_blank">AncSymb</a>
             </td>
             <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=75"
                                 target="_blank">Browse
@@ -167,6 +185,9 @@
             <td>
                <a href="keyboards/LAREX/Arrows.txt" target="_blank">Arrows</a>
             </td>
+            <td>
+               <a href="keyboards/qurator-neat/Arrows.txt" target="_blank">Arrows</a>
+            </td>
             <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=76"
                                 target="_blank">Browse
                                 charts</a></td>
@@ -182,6 +203,9 @@
             </td>
             <td>
                <a href="keyboards/LAREX/BasLat.txt" target="_blank">BasLat</a>
+            </td>
+            <td>
+               <a href="keyboards/qurator-neat/BasLat.txt" target="_blank">BasLat</a>
             </td>
             <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=1"
                                 target="_blank">Browse
@@ -199,6 +223,9 @@
             <td>
                <a href="keyboards/LAREX/CombDiaMk.txt" target="_blank">CombDiaMk</a>
             </td>
+            <td>
+               <a href="keyboards/qurator-neat/CombDiaMk.txt" target="_blank">CombDiaMk</a>
+            </td>
             <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=58"
                                 target="_blank">Browse
                                 charts</a></td>
@@ -214,6 +241,9 @@
             </td>
             <td>
                <a href="keyboards/LAREX/CombDiaMkS.txt" target="_blank">CombDiaMkS</a>
+            </td>
+            <td>
+               <a href="keyboards/qurator-neat/CombDiaMkS.txt" target="_blank">CombDiaMkS</a>
             </td>
             <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=59"
                                 target="_blank">Browse
@@ -231,6 +261,9 @@
             <td>
                <a href="keyboards/LAREX/CurrSymb.txt" target="_blank">CurrSymb</a>
             </td>
+            <td>
+               <a href="keyboards/qurator-neat/CurrSymb.txt" target="_blank">CurrSymb</a>
+            </td>
             <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=73"
                                 target="_blank">Browse
                                 charts</a></td>
@@ -246,6 +279,9 @@
             </td>
             <td>
                <a href="keyboards/LAREX/Dingbats.txt" target="_blank">Dingbats</a>
+            </td>
+            <td>
+               <a href="keyboards/qurator-neat/Dingbats.txt" target="_blank">Dingbats</a>
             </td>
             <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=72"
                                 target="_blank">Browse
@@ -263,6 +299,9 @@
             <td>
                <a href="keyboards/LAREX/GenPunct.txt" target="_blank">GenPunct</a>
             </td>
+            <td>
+               <a href="keyboards/qurator-neat/GenPunct.txt" target="_blank">GenPunct</a>
+            </td>
             <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=62"
                                 target="_blank">Browse
                                 charts</a></td>
@@ -278,6 +317,9 @@
             </td>
             <td>
                <a href="keyboards/LAREX/GeomShap.txt" target="_blank">GeomShap</a>
+            </td>
+            <td>
+               <a href="keyboards/qurator-neat/GeomShap.txt" target="_blank">GeomShap</a>
             </td>
             <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=77"
                                 target="_blank">Browse
@@ -295,6 +337,9 @@
             <td>
                <a href="keyboards/LAREX/Georgian.txt" target="_blank">Georgian</a>
             </td>
+            <td>
+               <a href="keyboards/qurator-neat/Georgian.txt" target="_blank">Georgian</a>
+            </td>
             <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=66"
                                 target="_blank">Browse
                                 charts</a></td>
@@ -309,6 +354,9 @@
             </td>
             <td>
                <a href="keyboards/LAREX/GkCo.txt" target="_blank">GkCo</a>
+            </td>
+            <td>
+               <a href="keyboards/qurator-neat/GkCo.txt" target="_blank">GkCo</a>
             </td>
             <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=80"
                                 target="_blank">Browse
@@ -326,6 +374,9 @@
             <td>
                <a href="keyboards/LAREX/IPAExt.txt" target="_blank">IPAExt</a>
             </td>
+            <td>
+               <a href="keyboards/qurator-neat/IPAExt.txt" target="_blank">IPAExt</a>
+            </td>
             <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=28"
                                 target="_blank">Browse
                                 charts</a></td>
@@ -341,6 +392,9 @@
             </td>
             <td>
                <a href="keyboards/LAREX/Lat1Suppl.txt" target="_blank">Lat1Suppl</a>
+            </td>
+            <td>
+               <a href="keyboards/qurator-neat/Lat1Suppl.txt" target="_blank">Lat1Suppl</a>
             </td>
             <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=4"
                                 target="_blank">Browse
@@ -358,6 +412,9 @@
             <td>
                <a href="keyboards/LAREX/LatExtA.txt" target="_blank">LatExtA</a>
             </td>
+            <td>
+               <a href="keyboards/qurator-neat/LatExtA.txt" target="_blank">LatExtA</a>
+            </td>
             <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=5"
                                 target="_blank">Browse
                                 charts</a></td>
@@ -373,6 +430,9 @@
             </td>
             <td>
                <a href="keyboards/LAREX/LatExtAdd.txt" target="_blank">LatExtAdd</a>
+            </td>
+            <td>
+               <a href="keyboards/qurator-neat/LatExtAdd.txt" target="_blank">LatExtAdd</a>
             </td>
             <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=7"
                                 target="_blank">Browse
@@ -390,6 +450,9 @@
             <td>
                <a href="keyboards/LAREX/LatExtB.txt" target="_blank">LatExtB</a>
             </td>
+            <td>
+               <a href="keyboards/qurator-neat/LatExtB.txt" target="_blank">LatExtB</a>
+            </td>
             <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=8"
                                 target="_blank">Browse
                                 charts</a></td>
@@ -405,6 +468,9 @@
             </td>
             <td>
                <a href="keyboards/LAREX/LatExtC.txt" target="_blank">LatExtC</a>
+            </td>
+            <td>
+               <a href="keyboards/qurator-neat/LatExtC.txt" target="_blank">LatExtC</a>
             </td>
             <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=43"
                                 target="_blank">Browse
@@ -422,6 +488,9 @@
             <td>
                <a href="keyboards/LAREX/LatExtD.txt" target="_blank">LatExtD</a>
             </td>
+            <td>
+               <a href="keyboards/qurator-neat/LatExtD.txt" target="_blank">LatExtD</a>
+            </td>
             <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=18"
                                 target="_blank">Browse
                                 charts</a></td>
@@ -437,6 +506,9 @@
             </td>
             <td>
                <a href="keyboards/LAREX/LatExtE.txt" target="_blank">LatExtE</a>
+            </td>
+            <td>
+               <a href="keyboards/qurator-neat/LatExtE.txt" target="_blank">LatExtE</a>
             </td>
             <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=82"
                                 target="_blank">Browse
@@ -454,6 +526,9 @@
             <td>
                <a href="keyboards/LAREX/LettSymb.txt" target="_blank">LettSymb</a>
             </td>
+            <td>
+               <a href="keyboards/qurator-neat/LettSymb.txt" target="_blank">LettSymb</a>
+            </td>
             <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=41"
                                 target="_blank">Browse
                                 charts</a></td>
@@ -469,6 +544,9 @@
             </td>
             <td>
                <a href="keyboards/LAREX/MathOp.txt" target="_blank">MathOp</a>
+            </td>
+            <td>
+               <a href="keyboards/qurator-neat/MathOp.txt" target="_blank">MathOp</a>
             </td>
             <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=64"
                                 target="_blank">Browse
@@ -486,6 +564,9 @@
             <td>
                <a href="keyboards/LAREX/MiMaSymbA.txt" target="_blank">MiMaSymbA</a>
             </td>
+            <td>
+               <a href="keyboards/qurator-neat/MiMaSymbA.txt" target="_blank">MiMaSymbA</a>
+            </td>
             <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=70"
                                 target="_blank">Browse
                                 charts</a></td>
@@ -501,6 +582,9 @@
             </td>
             <td>
                <a href="keyboards/LAREX/MiscTech.txt" target="_blank">MiscTech</a>
+            </td>
+            <td>
+               <a href="keyboards/qurator-neat/MiscTech.txt" target="_blank">MiscTech</a>
             </td>
             <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=78"
                                 target="_blank">Browse
@@ -518,6 +602,9 @@
             <td>
                <a href="keyboards/LAREX/NumbFo.txt" target="_blank">NumbFo</a>
             </td>
+            <td>
+               <a href="keyboards/qurator-neat/NumbFo.txt" target="_blank">NumbFo</a>
+            </td>
             <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=30"
                                 target="_blank">Browse
                                 charts</a></td>
@@ -532,6 +619,9 @@
             </td>
             <td>
                <a href="keyboards/LAREX/PUA-1.txt" target="_blank">PUA-1</a>
+            </td>
+            <td>
+               <a href="keyboards/qurator-neat/PUA-1.txt" target="_blank">PUA-1</a>
             </td>
             <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=19"
                                 target="_blank">Browse
@@ -549,6 +639,9 @@
             <td>
                <a href="keyboards/LAREX/PUA-10.txt" target="_blank">PUA-10</a>
             </td>
+            <td>
+               <a href="keyboards/qurator-neat/PUA-10.txt" target="_blank">PUA-10</a>
+            </td>
             <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=79"
                                 target="_blank">Browse
                                 charts</a></td>
@@ -564,6 +657,9 @@
             </td>
             <td>
                <a href="keyboards/LAREX/PUA-11.txt" target="_blank">PUA-11</a>
+            </td>
+            <td>
+               <a href="keyboards/qurator-neat/PUA-11.txt" target="_blank">PUA-11</a>
             </td>
             <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=57"
                                 target="_blank">Browse
@@ -581,6 +677,9 @@
             <td>
                <a href="keyboards/LAREX/PUA-12.txt" target="_blank">PUA-12</a>
             </td>
+            <td>
+               <a href="keyboards/qurator-neat/PUA-12.txt" target="_blank">PUA-12</a>
+            </td>
             <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=74"
                                 target="_blank">Browse
                                 charts</a></td>
@@ -596,6 +695,9 @@
             </td>
             <td>
                <a href="keyboards/LAREX/PUA-13.txt" target="_blank">PUA-13</a>
+            </td>
+            <td>
+               <a href="keyboards/qurator-neat/PUA-13.txt" target="_blank">PUA-13</a>
             </td>
             <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=47"
                                 target="_blank">Browse
@@ -613,6 +715,9 @@
             <td>
                <a href="keyboards/LAREX/PUA-14.txt" target="_blank">PUA-14</a>
             </td>
+            <td>
+               <a href="keyboards/qurator-neat/PUA-14.txt" target="_blank">PUA-14</a>
+            </td>
             <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=84"
                                 target="_blank">Browse
                                 charts</a></td>
@@ -628,6 +733,9 @@
             </td>
             <td>
                <a href="keyboards/LAREX/PUA-15.txt" target="_blank">PUA-15</a>
+            </td>
+            <td>
+               <a href="keyboards/qurator-neat/PUA-15.txt" target="_blank">PUA-15</a>
             </td>
             <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=29"
                                 target="_blank">Browse
@@ -645,6 +753,9 @@
             <td>
                <a href="keyboards/LAREX/PUA-16.txt" target="_blank">PUA-16</a>
             </td>
+            <td>
+               <a href="keyboards/qurator-neat/PUA-16.txt" target="_blank">PUA-16</a>
+            </td>
             <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=22"
                                 target="_blank">Browse
                                 charts</a></td>
@@ -660,6 +771,9 @@
             </td>
             <td>
                <a href="keyboards/LAREX/PUA-17.txt" target="_blank">PUA-17</a>
+            </td>
+            <td>
+               <a href="keyboards/qurator-neat/PUA-17.txt" target="_blank">PUA-17</a>
             </td>
             <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=12"
                                 target="_blank">Browse
@@ -677,6 +791,9 @@
             <td>
                <a href="keyboards/LAREX/PUA-18.txt" target="_blank">PUA-18</a>
             </td>
+            <td>
+               <a href="keyboards/qurator-neat/PUA-18.txt" target="_blank">PUA-18</a>
+            </td>
             <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=21"
                                 target="_blank">Browse
                                 charts</a></td>
@@ -693,6 +810,9 @@
             <td>
                <a href="keyboards/LAREX/PUA-19.txt" target="_blank">PUA-19</a>
             </td>
+            <td>
+               <a href="keyboards/qurator-neat/PUA-19.txt" target="_blank">PUA-19</a>
+            </td>
             <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=20"
                                 target="_blank">Browse
                                 charts</a></td>
@@ -707,6 +827,9 @@
             </td>
             <td>
                <a href="keyboards/LAREX/PUA-2.txt" target="_blank">PUA-2</a>
+            </td>
+            <td>
+               <a href="keyboards/qurator-neat/PUA-2.txt" target="_blank">PUA-2</a>
             </td>
             <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=51"
                                 target="_blank">Browse
@@ -724,6 +847,9 @@
             <td>
                <a href="keyboards/LAREX/PUA-20.txt" target="_blank">PUA-20</a>
             </td>
+            <td>
+               <a href="keyboards/qurator-neat/PUA-20.txt" target="_blank">PUA-20</a>
+            </td>
             <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=9"
                                 target="_blank">Browse
                                 charts</a></td>
@@ -739,6 +865,9 @@
             </td>
             <td>
                <a href="keyboards/LAREX/PUA-21.txt" target="_blank">PUA-21</a>
+            </td>
+            <td>
+               <a href="keyboards/qurator-neat/PUA-21.txt" target="_blank">PUA-21</a>
             </td>
             <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=6"
                                 target="_blank">Browse
@@ -756,6 +885,9 @@
             <td>
                <a href="keyboards/LAREX/PUA-22.txt" target="_blank">PUA-22</a>
             </td>
+            <td>
+               <a href="keyboards/qurator-neat/PUA-22.txt" target="_blank">PUA-22</a>
+            </td>
             <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=24"
                                 target="_blank">Browse
                                 charts</a></td>
@@ -771,6 +903,9 @@
             </td>
             <td>
                <a href="keyboards/LAREX/PUA-23.txt" target="_blank">PUA-23</a>
+            </td>
+            <td>
+               <a href="keyboards/qurator-neat/PUA-23.txt" target="_blank">PUA-23</a>
             </td>
             <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=26"
                                 target="_blank">Browse
@@ -788,6 +923,9 @@
             <td>
                <a href="keyboards/LAREX/PUA-24.txt" target="_blank">PUA-24</a>
             </td>
+            <td>
+               <a href="keyboards/qurator-neat/PUA-24.txt" target="_blank">PUA-24</a>
+            </td>
             <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=44"
                                 target="_blank">Browse
                                 charts</a></td>
@@ -803,6 +941,9 @@
             </td>
             <td>
                <a href="keyboards/LAREX/PUA-25.txt" target="_blank">PUA-25</a>
+            </td>
+            <td>
+               <a href="keyboards/qurator-neat/PUA-25.txt" target="_blank">PUA-25</a>
             </td>
             <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=39"
                                 target="_blank">Browse
@@ -820,6 +961,9 @@
             <td>
                <a href="keyboards/LAREX/PUA-26.txt" target="_blank">PUA-26</a>
             </td>
+            <td>
+               <a href="keyboards/qurator-neat/PUA-26.txt" target="_blank">PUA-26</a>
+            </td>
             <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=25"
                                 target="_blank">Browse
                                 charts</a></td>
@@ -835,6 +979,9 @@
             </td>
             <td>
                <a href="keyboards/LAREX/PUA-27.txt" target="_blank">PUA-27</a>
+            </td>
+            <td>
+               <a href="keyboards/qurator-neat/PUA-27.txt" target="_blank">PUA-27</a>
             </td>
             <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=46"
                                 target="_blank">Browse
@@ -852,6 +999,9 @@
             <td>
                <a href="keyboards/LAREX/PUA-28.txt" target="_blank">PUA-28</a>
             </td>
+            <td>
+               <a href="keyboards/qurator-neat/PUA-28.txt" target="_blank">PUA-28</a>
+            </td>
             <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=52"
                                 target="_blank">Browse
                                 charts</a></td>
@@ -868,6 +1018,9 @@
             <td>
                <a href="keyboards/LAREX/PUA-29.txt" target="_blank">PUA-29</a>
             </td>
+            <td>
+               <a href="keyboards/qurator-neat/PUA-29.txt" target="_blank">PUA-29</a>
+            </td>
             <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=55"
                                 target="_blank">Browse
                                 charts</a></td>
@@ -882,6 +1035,9 @@
             </td>
             <td>
                <a href="keyboards/LAREX/PUA-3.txt" target="_blank">PUA-3</a>
+            </td>
+            <td>
+               <a href="keyboards/qurator-neat/PUA-3.txt" target="_blank">PUA-3</a>
             </td>
             <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=2"
                                 target="_blank">Browse
@@ -899,6 +1055,9 @@
             <td>
                <a href="keyboards/LAREX/PUA-30.txt" target="_blank">PUA-30</a>
             </td>
+            <td>
+               <a href="keyboards/qurator-neat/PUA-30.txt" target="_blank">PUA-30</a>
+            </td>
             <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=54"
                                 target="_blank">Browse
                                 charts</a></td>
@@ -914,6 +1073,9 @@
             </td>
             <td>
                <a href="keyboards/LAREX/PUA-31.txt" target="_blank">PUA-31</a>
+            </td>
+            <td>
+               <a href="keyboards/qurator-neat/PUA-31.txt" target="_blank">PUA-31</a>
             </td>
             <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=27"
                                 target="_blank">Browse
@@ -931,6 +1093,9 @@
             <td>
                <a href="keyboards/LAREX/PUA-32.txt" target="_blank">PUA-32</a>
             </td>
+            <td>
+               <a href="keyboards/qurator-neat/PUA-32.txt" target="_blank">PUA-32</a>
+            </td>
             <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=13"
                                 target="_blank">Browse
                                 charts</a></td>
@@ -946,6 +1111,9 @@
             </td>
             <td>
                <a href="keyboards/LAREX/PUA-33.txt" target="_blank">PUA-33</a>
+            </td>
+            <td>
+               <a href="keyboards/qurator-neat/PUA-33.txt" target="_blank">PUA-33</a>
             </td>
             <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=35"
                                 target="_blank">Browse
@@ -963,6 +1131,9 @@
             <td>
                <a href="keyboards/LAREX/PUA-34.txt" target="_blank">PUA-34</a>
             </td>
+            <td>
+               <a href="keyboards/qurator-neat/PUA-34.txt" target="_blank">PUA-34</a>
+            </td>
             <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=50"
                                 target="_blank">Browse
                                 charts</a></td>
@@ -978,6 +1149,9 @@
             </td>
             <td>
                <a href="keyboards/LAREX/PUA-35.txt" target="_blank">PUA-35</a>
+            </td>
+            <td>
+               <a href="keyboards/qurator-neat/PUA-35.txt" target="_blank">PUA-35</a>
             </td>
             <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=48"
                                 target="_blank">Browse
@@ -995,6 +1169,9 @@
             <td>
                <a href="keyboards/LAREX/PUA-36.txt" target="_blank">PUA-36</a>
             </td>
+            <td>
+               <a href="keyboards/qurator-neat/PUA-36.txt" target="_blank">PUA-36</a>
+            </td>
             <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=11"
                                 target="_blank">Browse
                                 charts</a></td>
@@ -1010,6 +1187,9 @@
             </td>
             <td>
                <a href="keyboards/LAREX/PUA-37.txt" target="_blank">PUA-37</a>
+            </td>
+            <td>
+               <a href="keyboards/qurator-neat/PUA-37.txt" target="_blank">PUA-37</a>
             </td>
             <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=37"
                                 target="_blank">Browse
@@ -1027,6 +1207,9 @@
             <td>
                <a href="keyboards/LAREX/PUA-38.txt" target="_blank">PUA-38</a>
             </td>
+            <td>
+               <a href="keyboards/qurator-neat/PUA-38.txt" target="_blank">PUA-38</a>
+            </td>
             <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=32"
                                 target="_blank">Browse
                                 charts</a></td>
@@ -1043,6 +1226,9 @@
             <td>
                <a href="keyboards/LAREX/PUA-39.txt" target="_blank">PUA-39</a>
             </td>
+            <td>
+               <a href="keyboards/qurator-neat/PUA-39.txt" target="_blank">PUA-39</a>
+            </td>
             <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=33"
                                 target="_blank">Browse
                                 charts</a></td>
@@ -1057,6 +1243,9 @@
             </td>
             <td>
                <a href="keyboards/LAREX/PUA-4.txt" target="_blank">PUA-4</a>
+            </td>
+            <td>
+               <a href="keyboards/qurator-neat/PUA-4.txt" target="_blank">PUA-4</a>
             </td>
             <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=63"
                                 target="_blank">Browse
@@ -1074,6 +1263,9 @@
             <td>
                <a href="keyboards/LAREX/PUA-40.txt" target="_blank">PUA-40</a>
             </td>
+            <td>
+               <a href="keyboards/qurator-neat/PUA-40.txt" target="_blank">PUA-40</a>
+            </td>
             <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=34"
                                 target="_blank">Browse
                                 charts</a></td>
@@ -1089,6 +1281,9 @@
             </td>
             <td>
                <a href="keyboards/LAREX/PUA-41.txt" target="_blank">PUA-41</a>
+            </td>
+            <td>
+               <a href="keyboards/qurator-neat/PUA-41.txt" target="_blank">PUA-41</a>
             </td>
             <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=14"
                                 target="_blank">Browse
@@ -1106,6 +1301,9 @@
             <td>
                <a href="keyboards/LAREX/PUA-42.txt" target="_blank">PUA-42</a>
             </td>
+            <td>
+               <a href="keyboards/qurator-neat/PUA-42.txt" target="_blank">PUA-42</a>
+            </td>
             <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=10"
                                 target="_blank">Browse
                                 charts</a></td>
@@ -1121,6 +1319,9 @@
             </td>
             <td>
                <a href="keyboards/LAREX/PUA-43.txt" target="_blank">PUA-43</a>
+            </td>
+            <td>
+               <a href="keyboards/qurator-neat/PUA-43.txt" target="_blank">PUA-43</a>
             </td>
             <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=31"
                                 target="_blank">Browse
@@ -1138,6 +1339,9 @@
             <td>
                <a href="keyboards/LAREX/PUA-44.txt" target="_blank">PUA-44</a>
             </td>
+            <td>
+               <a href="keyboards/qurator-neat/PUA-44.txt" target="_blank">PUA-44</a>
+            </td>
             <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=38"
                                 target="_blank">Browse
                                 charts</a></td>
@@ -1153,6 +1357,9 @@
             </td>
             <td>
                <a href="keyboards/LAREX/PUA-45.txt" target="_blank">PUA-45</a>
+            </td>
+            <td>
+               <a href="keyboards/qurator-neat/PUA-45.txt" target="_blank">PUA-45</a>
             </td>
             <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=15"
                                 target="_blank">Browse
@@ -1170,6 +1377,9 @@
             <td>
                <a href="keyboards/LAREX/PUA-46.txt" target="_blank">PUA-46</a>
             </td>
+            <td>
+               <a href="keyboards/qurator-neat/PUA-46.txt" target="_blank">PUA-46</a>
+            </td>
             <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=16"
                                 target="_blank">Browse
                                 charts</a></td>
@@ -1185,6 +1395,9 @@
             </td>
             <td>
                <a href="keyboards/LAREX/PUA-47.txt" target="_blank">PUA-47</a>
+            </td>
+            <td>
+               <a href="keyboards/qurator-neat/PUA-47.txt" target="_blank">PUA-47</a>
             </td>
             <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=17"
                                 target="_blank">Browse
@@ -1202,6 +1415,9 @@
             <td>
                <a href="keyboards/LAREX/PUA-48.txt" target="_blank">PUA-48</a>
             </td>
+            <td>
+               <a href="keyboards/qurator-neat/PUA-48.txt" target="_blank">PUA-48</a>
+            </td>
             <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=36"
                                 target="_blank">Browse
                                 charts</a></td>
@@ -1216,6 +1432,9 @@
             </td>
             <td>
                <a href="keyboards/LAREX/PUA-5.txt" target="_blank">PUA-5</a>
+            </td>
+            <td>
+               <a href="keyboards/qurator-neat/PUA-5.txt" target="_blank">PUA-5</a>
             </td>
             <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=42"
                                 target="_blank">Browse
@@ -1233,6 +1452,9 @@
             <td>
                <a href="keyboards/LAREX/PUA-51.txt" target="_blank">PUA-51</a>
             </td>
+            <td>
+               <a href="keyboards/qurator-neat/PUA-51.txt" target="_blank">PUA-51</a>
+            </td>
             <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=83"
                                 target="_blank">Browse
                                 charts</a></td>
@@ -1247,6 +1469,9 @@
             </td>
             <td>
                <a href="keyboards/LAREX/PUA-6.txt" target="_blank">PUA-6</a>
+            </td>
+            <td>
+               <a href="keyboards/qurator-neat/PUA-6.txt" target="_blank">PUA-6</a>
             </td>
             <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=61"
                                 target="_blank">Browse
@@ -1263,6 +1488,9 @@
             <td>
                <a href="keyboards/LAREX/PUA-7.txt" target="_blank">PUA-7</a>
             </td>
+            <td>
+               <a href="keyboards/qurator-neat/PUA-7.txt" target="_blank">PUA-7</a>
+            </td>
             <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=60"
                                 target="_blank">Browse
                                 charts</a></td>
@@ -1278,6 +1506,9 @@
             <td>
                <a href="keyboards/LAREX/PUA-8.txt" target="_blank">PUA-8</a>
             </td>
+            <td>
+               <a href="keyboards/qurator-neat/PUA-8.txt" target="_blank">PUA-8</a>
+            </td>
             <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=71"
                                 target="_blank">Browse
                                 charts</a></td>
@@ -1292,6 +1523,9 @@
             </td>
             <td>
                <a href="keyboards/LAREX/PUA-9.txt" target="_blank">PUA-9</a>
+            </td>
+            <td>
+               <a href="keyboards/qurator-neat/PUA-9.txt" target="_blank">PUA-9</a>
             </td>
             <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=67"
                                 target="_blank">Browse
@@ -1309,6 +1543,9 @@
             <td>
                <a href="keyboards/LAREX/PhonExt.txt" target="_blank">PhonExt</a>
             </td>
+            <td>
+               <a href="keyboards/qurator-neat/PhonExt.txt" target="_blank">PhonExt</a>
+            </td>
             <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=3"
                                 target="_blank">Browse
                                 charts</a></td>
@@ -1323,6 +1560,9 @@
             </td>
             <td>
                <a href="keyboards/LAREX/Run.txt" target="_blank">Run</a>
+            </td>
+            <td>
+               <a href="keyboards/qurator-neat/Run.txt" target="_blank">Run</a>
             </td>
             <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=65"
                                 target="_blank">Browse
@@ -1340,6 +1580,9 @@
             <td>
                <a href="keyboards/LAREX/SpModLet.txt" target="_blank">SpModLet</a>
             </td>
+            <td>
+               <a href="keyboards/qurator-neat/SpModLet.txt" target="_blank">SpModLet</a>
+            </td>
             <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=56"
                                 target="_blank">Browse
                                 charts</a></td>
@@ -1355,6 +1598,9 @@
             </td>
             <td>
                <a href="keyboards/LAREX/SupSub.txt" target="_blank">SupSub</a>
+            </td>
+            <td>
+               <a href="keyboards/qurator-neat/SupSub.txt" target="_blank">SupSub</a>
             </td>
             <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=81"
                                 target="_blank">Browse
@@ -1372,6 +1618,9 @@
             <td>
                <a href="keyboards/LAREX/SupplMathOp.txt" target="_blank">SupplMathOp</a>
             </td>
+            <td>
+               <a href="keyboards/qurator-neat/SupplMathOp.txt" target="_blank">SupplMathOp</a>
+            </td>
             <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=68"
                                 target="_blank">Browse
                                 charts</a></td>
@@ -1387,6 +1636,9 @@
             </td>
             <td>
                <a href="keyboards/LAREX/SupplPunct.txt" target="_blank">SupplPunct</a>
+            </td>
+            <td>
+               <a href="keyboards/qurator-neat/SupplPunct.txt" target="_blank">SupplPunct</a>
             </td>
             <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=69"
                                 target="_blank">Browse
