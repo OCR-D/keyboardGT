@@ -1,0 +1,6 @@
+
+            'AlphPresForm': [
+                
+                    "\uFB00 \uFB01 \uFB02 \uFB03 \uFB04",
+                    "\uFB05\uFB06 {bksp}"]
+            

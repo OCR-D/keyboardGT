@@ -1,0 +1,24 @@
+
+            'LatExtD': [
+                
+                    "\uA732 \uA733 \uA734 \uA735 \uA736 \uA737 \uA738 \uA739 \uA73A \uA73B \uA73C \uA73D",
+                    "\uA771 \uA779 \uA77A",
+                    "\uA730 \uA77B \uA77C \uA7FB",
+                    "\uA77D \uA77E \uA77F",
+                    "\uA7FE",
+                    "\uA740 \uA741 \uA742 \uA743 \uA744 \uA745",
+                    "\uA746 \uA747 \uA748 \uA749 \uA772 \uA780 \uA781",
+                    "\uA773 \uA7FD \uA7FF",
+                    "\uA774",
+                    "\uA74C \uA74D \uA74E \uA74F",
+                    "\uA750 \uA751 \uA752 \uA753 \uA754 \uA755 \uA7FC",
+                    "\uA756 \uA757 \uA758 \uA759",
+                    "\uA75A \uA75B \uA775 \uA776 \uA782 \uA783",
+                    "\uA731 \uA784 \uA785",
+                    "\uA777 \uA786 \uA787",
+                    "\uA75E \uA75F \uA768 \uA769",
+                    "\uA760 \uA761",
+                    "\uA762 \uA763",
+                    "\uA73E \uA73F \uA74A \uA74B \uA75C \uA75D \uA76A \uA76B \uA76C \uA76D \uA76E \uA76F \uA770 \uA778",
+                    "\uA764\uA765\uA766\uA767 {bksp}"]
+            

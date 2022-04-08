@@ -1,0 +1,19 @@
+
+            'PUA-31': [
+                
+                    "\uE02C \uE42C \uE42D \uE42E \uE435 \uE8E0",
+                    "\uF056 \uF057 \uF059 \uF05A \uF05D",
+                    "\uF096 \uF097 \uF099 \uF09A \uF09B \uF09F \uF0A7 \uF0A8 \uF0AA \uF0AB \uF0AE",
+                    "\uE0E1 \uE4E1 \uE4E2 \uE4E3 \uE4F1 \uE4F2",
+                    "\uF065 \uF066 \uF067 \uF068 \uF069 \uF06A \uF06D \uF06E",
+                    "\uE54A \uE54B \uE732 \uE8E5 \uE8E6",
+                    "\uE8E7",
+                    "\uF075 \uF076 \uF077 \uF079 \uF07A \uF07B \uF07D \uF07F",
+                    "\uE8E8",
+                    "\uE244 \uE246 \uE643 \uE644 \uE645 \uE646 \uE647 \uE8E9",
+                    "\uE8EA",
+                    "\uE32B \uE32D \uE72B \uE72C \uE72D \uE8EB \uE8EC \uE8ED",
+                    "\uE353 \uE753 \uE754 \uE771 \uE8F0 \uE8F2 \uE8F3",
+                    "\uE781",
+                    "\uF086\uF087\uF089\uF08A\uF08E {bksp}"]
+            

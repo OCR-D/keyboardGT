@@ -1,0 +1,7 @@
+
+            'PUA-23': [
+                
+                    "\uE03F \uE43F",
+                    "\uEBEE \uEBEF",
+                    "\uE376\uE776 {bksp}"]
+            

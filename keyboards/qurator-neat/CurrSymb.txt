@@ -1,0 +1,5 @@
+
+            'CurrSymb': [
+                
+                    "\u20B0 {bksp}"]
+            

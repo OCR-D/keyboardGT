@@ -1,0 +1,31 @@
+
+            'PUA-3': [
+                
+                    "\uEAF0 \uEAF1 \uEAF2 \uEEE0 \uEFDE \uEFDF",
+                    "\uEEE1",
+                    "\uEEE2",
+                    "\uEEE3 \uEEE4 \uEEE5",
+                    "\uEAF3 \uEEE6",
+                    "\uEEE7 \uEEFF",
+                    "\uEEE8",
+                    "\uEEE9",
+                    "\uEEEA \uEEFD",
+                    "\uEEEB \uEEFE",
+                    "\uEEEC",
+                    "\uEEED",
+                    "\uEEEE",
+                    "\uEEEF",
+                    "\uEEF0 \uEFDD",
+                    "\uEEF1",
+                    "\uEEF2",
+                    "\uEEF3",
+                    "\uEEDF \uEEF4",
+                    "\uEEF5",
+                    "\uEEF7",
+                    "\uEEF8",
+                    "\uEEF9",
+                    "\uEEFA",
+                    "\uEEFB",
+                    "\uEEFC",
+                    "\uEEF6 {bksp}"]
+            

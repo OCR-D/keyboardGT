@@ -1,0 +1,5 @@
+
+            'GeomShap': [
+                
+                    "\u25AA\u25AB\u25B9\u25C3\u25CC {bksp}"]
+            

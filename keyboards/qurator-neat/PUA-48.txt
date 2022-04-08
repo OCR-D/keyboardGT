@@ -1,0 +1,6 @@
+
+            'PUA-48': [
+                
+                    "\uE0EC \uE4EC",
+                    "\uEBFA\uEBFB {bksp}"]
+            

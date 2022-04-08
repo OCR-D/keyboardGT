@@ -1,0 +1,10 @@
+
+            'PUA-32': [
+                
+                    "\uEBF4 \uEBF5 \uEFDB \uEFDC",
+                    "\uE0C8 \uE4C8",
+                    "\uEBF6 \uEBF7",
+                    "\uEBF8 \uEBF9 \uEBFC \uEBFD",
+                    "\uEBFE \uEBFF",
+                    "\uE384\uE784 {bksp}"]
+            

@@ -1,0 +1,10 @@
+
+            'PUA-46': [
+                
+                    "\uE010 \uE03D \uE410 \uE43D",
+                    "\uE0B7 \uE4B7",
+                    "\uE137 \uE537",
+                    "\uE21B \uE253 \uE260 \uE61B \uE653 \uE660",
+                    "\uE30B \uE70B",
+                    "\uE375\uE775 {bksp}"]
+            

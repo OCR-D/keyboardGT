@@ -1,0 +1,10 @@
+
+            'PUA-20': [
+                
+                    "\uE042 \uE442 \uE8D5 \uEFFE \uEFFF",
+                    "\uEBE2 \uEBE3",
+                    "\uE8D7 \uEBE4 \uEBE5",
+                    "\uEBE6 \uEBE7",
+                    "\uE342 \uE742",
+                    "\uEBE8\uEBE9 {bksp}"]
+            
