@@ -3,9 +3,13 @@
 The Aletheia document image analysis system, Transkribus and LAREX offer the possibility to install additional virtual keyboards or to customize them.
 This repository offers about 80 keyboards based on the [MUFI snapshot](https://mufi.info/m.php?p=mufiexport) for download on the [Github page](https://tboenig.github.io/keyboardGT/overview.html).
 
+## Download your Keyboard
+
+You can download the suitable keyboard here.
+### 🖮  https://tboenig.github.io/keyboardGT/overview.html 🖮
 
 
-## Keyboard Production
+## In-house Keyboard Production
 
 The production of the keyboards is done automatically. 
 An XSLT stylesheet and a Github action workflow are used.
