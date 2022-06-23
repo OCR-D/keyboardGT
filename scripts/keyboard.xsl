@@ -213,11 +213,11 @@ Names
                         <line>
                             <xsl:for-each select="fn:current-group()">
                                 {
-                                "number": <xsl:number value="./position()" format="1" />
+                                <sp/>
                                 "row": 1,
                                 "column": 3,
                                 "character": "<xsl:value-of select="fn:string[@key = 'mufichar']"/>
-                                 }<sp/>
+                                 }
                             </xsl:for-each>
                         </line>
                     </xsl:for-each-group>
