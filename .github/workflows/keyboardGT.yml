@@ -30,6 +30,7 @@ jobs:
         mkdir ghout/keyboards/transkribus
         mkdir ghout/keyboards/LAREX
         mkdir ghout/keyboards/qurator-neat
+        mkdir ghout/keyboards/escriptorium
         mkdir ghout/doc
         mkdir keyboards
     
