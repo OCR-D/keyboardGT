@@ -8,51 +8,58 @@
                 
                 
                                 {
-                                "number": 1
+                                
+        number: 2 
                                 "row": 1,
                                 "column": 3,
                                 "character": "ff
                                  }
-        number: 2 
+                            
                                 {
-                                "number": 1
+                                
+        number: 4 
                                 "row": 1,
                                 "column": 3,
                                 "character": "fi
                                  }
-        number: 4 
+                            
                                 {
-                                "number": 1
+                                
+        number: 6 
                                 "row": 1,
                                 "column": 3,
                                 "character": "fl
                                  }
-        number: 6 
+                            
                                 {
-                                "number": 1
+                                
+        number: 8 
                                 "row": 1,
                                 "column": 3,
                                 "character": "ﬃ
                                  }
-        number: 8 
+                            
                                 {
-                                "number": 1
+                                
+        number: 10
                                 "row": 1,
                                 "column": 3,
                                 "character": "ﬄ
                                  }
-        number: 10,
+                            ,
                                 {
-                                "number": 1
+                                
                                 "row": 1,
                                 "column": 3,
                                 "character": "ſt
                                  }
+                            
                                 {
-                                "number": 1
+                                
                                 "row": 1,
                                 "column": 3,
                                 "character": "st
                                  }
+                            
                 ]}
             

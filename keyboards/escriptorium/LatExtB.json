@@ -8,323 +8,369 @@
                 
                 
                                 {
-                                "number": 1
+                                
+        number: 2 
                                 "row": 1,
                                 "column": 3,
                                 "character": "Ǣ
                                  }
-        number: 2 
+                            
                                 {
-                                "number": 1
+                                
+        number: 4 
                                 "row": 1,
                                 "column": 3,
                                 "character": "ǣ
                                  }
-        number: 4 
+                            
                                 {
-                                "number": 1
+                                
+        number: 6 
                                 "row": 1,
                                 "column": 3,
                                 "character": "Ǽ
                                  }
-        number: 6 
+                            
                                 {
-                                "number": 1
+                                
+        number: 8 
                                 "row": 1,
                                 "column": 3,
                                 "character": "ǽ
                                  }
-        number: 8 
+                            
                                 {
-                                "number": 1
+                                
+        number: 10 
                                 "row": 1,
                                 "column": 3,
                                 "character": "Ȧ
                                  }
-        number: 10 
+                            
                                 {
-                                "number": 1
+                                
+        number: 12
                                 "row": 1,
                                 "column": 3,
                                 "character": "ȧ
                                  }
-        number: 12,
+                            ,
                                 {
-                                "number": 1
+                                
+        number: 2
                                 "row": 1,
                                 "column": 3,
                                 "character": "ƀ
                                  }
-        number: 2,
+                            ,
                                 {
-                                "number": 1
+                                
+        number: 2 
                                 "row": 1,
                                 "column": 3,
                                 "character": "Ǥ
                                  }
-        number: 2 
+                            
                                 {
-                                "number": 1
+                                
+        number: 4 
                                 "row": 1,
                                 "column": 3,
                                 "character": "ǥ
                                  }
-        number: 4 
+                            
                                 {
-                                "number": 1
+                                
+        number: 6 
                                 "row": 1,
                                 "column": 3,
                                 "character": "Ǵ
                                  }
-        number: 6 
+                            
                                 {
-                                "number": 1
+                                
+        number: 8
                                 "row": 1,
                                 "column": 3,
                                 "character": "ǵ
                                  }
-        number: 8,
+                            ,
                                 {
-                                "number": 1
+                                
+        number: 2 
                                 "row": 1,
                                 "column": 3,
                                 "character": "ƕ
                                  }
-        number: 2 
+                            
                                 {
-                                "number": 1
+                                
+        number: 4
                                 "row": 1,
                                 "column": 3,
                                 "character": "Ƕ
                                  }
-        number: 4,
+                            ,
                                 {
-                                "number": 1
+                                
+        number: 2 
                                 "row": 1,
                                 "column": 3,
                                 "character": "ȷ
                                  }
-        number: 2 
+                            
                                 {
-                                "number": 1
+                                
+        number: 4 
                                 "row": 1,
                                 "column": 3,
                                 "character": "Ɉ
                                  }
-        number: 4 
+                            
                                 {
-                                "number": 1
+                                
+        number: 6
                                 "row": 1,
                                 "column": 3,
                                 "character": "ɉ
                                  }
-        number: 6,
+                            ,
                                 {
-                                "number": 1
+                                
+        number: 2
                                 "row": 1,
                                 "column": 3,
                                 "character": "ƙ
                                  }
-        number: 2,
+                            ,
                                 {
-                                "number": 1
+                                
+        number: 2
                                 "row": 1,
                                 "column": 3,
                                 "character": "ƚ
                                  }
-        number: 2,
+                            ,
                                 {
-                                "number": 1
+                                
+        number: 2
                                 "row": 1,
                                 "column": 3,
                                 "character": "Ɯ
                                  }
-        number: 2,
+                            ,
                                 {
-                                "number": 1
+                                
+        number: 2
                                 "row": 1,
                                 "column": 3,
                                 "character": "ƞ
                                  }
-        number: 2,
+                            ,
                                 {
-                                "number": 1
+                                
+        number: 2 
                                 "row": 1,
                                 "column": 3,
                                 "character": "Ǒ
                                  }
-        number: 2 
+                            
                                 {
-                                "number": 1
+                                
+        number: 4 
                                 "row": 1,
                                 "column": 3,
                                 "character": "ǒ
                                  }
-        number: 4 
+                            
                                 {
-                                "number": 1
+                                
+        number: 6 
                                 "row": 1,
                                 "column": 3,
                                 "character": "Ǫ
                                  }
-        number: 6 
+                            
                                 {
-                                "number": 1
+                                
+        number: 8 
                                 "row": 1,
                                 "column": 3,
                                 "character": "ǫ
                                  }
-        number: 8 
+                            
                                 {
-                                "number": 1
+                                
+        number: 10 
                                 "row": 1,
                                 "column": 3,
                                 "character": "Ǭ
                                  }
-        number: 10 
+                            
                                 {
-                                "number": 1
+                                
+        number: 12 
                                 "row": 1,
                                 "column": 3,
                                 "character": "ǭ
                                  }
-        number: 12 
+                            
                                 {
-                                "number": 1
+                                
+        number: 14 
                                 "row": 1,
                                 "column": 3,
                                 "character": "Ǿ
                                  }
-        number: 14 
+                            
                                 {
-                                "number": 1
+                                
+        number: 16 
                                 "row": 1,
                                 "column": 3,
                                 "character": "ǿ
                                  }
-        number: 16 
+                            
                                 {
-                                "number": 1
+                                
+        number: 18 
                                 "row": 1,
                                 "column": 3,
                                 "character": "Ȫ
                                  }
-        number: 18 
+                            
                                 {
-                                "number": 1
+                                
+        number: 20 
                                 "row": 1,
                                 "column": 3,
                                 "character": "ȫ
                                  }
-        number: 20 
+                            
                                 {
-                                "number": 1
+                                
+        number: 22 
                                 "row": 1,
                                 "column": 3,
                                 "character": "Ȯ
                                  }
-        number: 22 
+                            
                                 {
-                                "number": 1
+                                
+        number: 24
                                 "row": 1,
                                 "column": 3,
                                 "character": "ȯ
                                  }
-        number: 24,
+                            ,
                                 {
-                                "number": 1
+                                
+        number: 2
                                 "row": 1,
                                 "column": 3,
                                 "character": "Ʀ
                                  }
-        number: 2,
+                            ,
                                 {
-                                "number": 1
+                                
+        number: 2 
                                 "row": 1,
                                 "column": 3,
                                 "character": "Ǔ
                                  }
-        number: 2 
+                            
                                 {
-                                "number": 1
+                                
+        number: 4 
                                 "row": 1,
                                 "column": 3,
                                 "character": "ǔ
                                  }
-        number: 4 
+                            
                                 {
-                                "number": 1
+                                
+        number: 6 
                                 "row": 1,
                                 "column": 3,
                                 "character": "Ǖ
                                  }
-        number: 6 
+                            
                                 {
-                                "number": 1
+                                
+        number: 8
                                 "row": 1,
                                 "column": 3,
                                 "character": "ǖ
                                  }
-        number: 8,
+                            ,
                                 {
-                                "number": 1
+                                
+        number: 2 
                                 "row": 1,
                                 "column": 3,
                                 "character": "ƿ
                                  }
-        number: 2 
+                            
                                 {
-                                "number": 1
+                                
+        number: 4
                                 "row": 1,
                                 "column": 3,
                                 "character": "Ƿ
                                  }
-        number: 4,
+                            ,
                                 {
-                                "number": 1
+                                
+        number: 2 
                                 "row": 1,
                                 "column": 3,
                                 "character": "Ȳ
                                  }
-        number: 2 
+                            
                                 {
-                                "number": 1
+                                
+        number: 4
                                 "row": 1,
                                 "column": 3,
                                 "character": "ȳ
                                  }
-        number: 4,
+                            ,
                                 {
-                                "number": 1
+                                
+        number: 2 
                                 "row": 1,
                                 "column": 3,
                                 "character": "Ƶ
                                  }
-        number: 2 
+                            
                                 {
-                                "number": 1
+                                
+        number: 4
                                 "row": 1,
                                 "column": 3,
                                 "character": "ƶ
                                  }
-        number: 4,
+                            ,
                                 {
-                                "number": 1
+                                
                                 "row": 1,
                                 "column": 3,
                                 "character": "Ʒ
                                  }
+                            
                                 {
-                                "number": 1
+                                
                                 "row": 1,
                                 "column": 3,
                                 "character": "Ȝ
                                  }
+                            
                                 {
-                                "number": 1
+                                
                                 "row": 1,
                                 "column": 3,
                                 "character": "ȝ
                                  }
+                            
                 ]}
             

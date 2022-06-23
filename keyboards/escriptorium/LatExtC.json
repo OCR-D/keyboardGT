@@ -8,24 +8,27 @@
                 
                 
                                 {
-                                "number": 1
+                                
+        number: 2 
                                 "row": 1,
                                 "column": 3,
                                 "character": "Ⱶ
                                  }
-        number: 2 
+                            
                                 {
-                                "number": 1
+                                
+        number: 4
                                 "row": 1,
                                 "column": 3,
                                 "character": "ⱶ
                                  }
-        number: 4,
+                            ,
                                 {
-                                "number": 1
+                                
                                 "row": 1,
                                 "column": 3,
                                 "character": "ⱽ
                                  }
+                            
                 ]}
             

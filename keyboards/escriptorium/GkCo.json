@@ -8,114 +8,130 @@
                 
                 
                                 {
-                                "number": 1
+                                
+        number: 2 
                                 "row": 1,
                                 "column": 3,
                                 "character": "α
                                  }
-        number: 2 
+                            
                                 {
-                                "number": 1
+                                
+        number: 4 
                                 "row": 1,
                                 "column": 3,
                                 "character": "β
                                  }
-        number: 4 
+                            
                                 {
-                                "number": 1
+                                
+        number: 6 
                                 "row": 1,
                                 "column": 3,
                                 "character": "γ
                                  }
-        number: 6 
+                            
                                 {
-                                "number": 1
+                                
+        number: 8 
                                 "row": 1,
                                 "column": 3,
                                 "character": "δ
                                  }
-        number: 8 
+                            
                                 {
-                                "number": 1
+                                
+        number: 10 
                                 "row": 1,
                                 "column": 3,
                                 "character": "ε
                                  }
-        number: 10 
+                            
                                 {
-                                "number": 1
+                                
+        number: 12 
                                 "row": 1,
                                 "column": 3,
                                 "character": "ζ
                                  }
-        number: 12 
+                            
                                 {
-                                "number": 1
+                                
+        number: 14 
                                 "row": 1,
                                 "column": 3,
                                 "character": "η
                                  }
-        number: 14 
+                            
                                 {
-                                "number": 1
+                                
+        number: 16 
                                 "row": 1,
                                 "column": 3,
                                 "character": "ι
                                  }
-        number: 16 
+                            
                                 {
-                                "number": 1
+                                
+        number: 18 
                                 "row": 1,
                                 "column": 3,
                                 "character": "κ
                                  }
-        number: 18 
+                            
                                 {
-                                "number": 1
+                                
+        number: 20 
                                 "row": 1,
                                 "column": 3,
                                 "character": "λ
                                  }
-        number: 20 
+                            
                                 {
-                                "number": 1
+                                
+        number: 22 
                                 "row": 1,
                                 "column": 3,
                                 "character": "μ
                                  }
-        number: 22 
+                            
                                 {
-                                "number": 1
+                                
+        number: 24 
                                 "row": 1,
                                 "column": 3,
                                 "character": "ν
                                  }
-        number: 24 
+                            
                                 {
-                                "number": 1
+                                
+        number: 26 
                                 "row": 1,
                                 "column": 3,
                                 "character": "ξ
                                  }
-        number: 26 
+                            
                                 {
-                                "number": 1
+                                
+        number: 28
                                 "row": 1,
                                 "column": 3,
                                 "character": "σ
                                  }
-        number: 28,
+                            ,
                                 {
-                                "number": 1
+                                
                                 "row": 1,
                                 "column": 3,
                                 "character": "Θ
                                  }
+                            
                                 {
-                                "number": 1
+                                
                                 "row": 1,
                                 "column": 3,
                                 "character": "θ
                                  }
+                            
                 ]}
             
