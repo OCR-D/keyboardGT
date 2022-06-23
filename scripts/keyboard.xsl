@@ -207,10 +207,10 @@ Names
                 "characters": [
                 
                 
-                <xsl:variable name="keys">
+                <xsl:variable name="keys"><line>
                     <xsl:for-each-group select="fn:current-group()" group-by="fn:string[@key = 'alpha']">
                         <xsl:sort order="ascending" select="fn:string[@key = 'alpha']"/>
-                        <line>
+                        
                             <xsl:for-each select="fn:current-group()">
                                 {
                                 <sp/>
@@ -219,9 +219,9 @@ Names
                                 "character": "<xsl:value-of select="fn:string[@key = 'mufichar']"/>
                                  }
                             </xsl:for-each>
-                        </line>
+                        
                     </xsl:for-each-group>
-                </xsl:variable>
+                </line></xsl:variable>
                 <xsl:message select="$keys"/>
                 <xsl:for-each select="$keys/line[fn:position() &lt; last()]">
                     <xsl:apply-templates/><xsl:text disable-output-escaping="yes">,&#xD;</xsl:text>
