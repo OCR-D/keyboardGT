@@ -83,7 +83,7 @@
          </div>
          <div class="column">
             <h3>Links:</h3>
-            <a href="https://github.com/tboenig/keyboardGT/releases/download/v99/keyboardGT-v99.zip">
+            <a href="https://github.com/tboenig/keyboardGT/releases/download/v100/keyboardGT-v100.zip">
                     keyboard archiv as zip</a>
          </div>
       </div>
@@ -117,6 +117,12 @@
                 Download the <strong>keyboard text files</strong> and copy the files to the appropriate directory.
             </p>
    </details>
+   <details>
+      <summary>For escriptorium</summary>
+      <p>
+                Download the <strong>keyboard text files</strong> and copy or import the files to the appropriate directory.
+            </p>
+   </details>
    <hr/>
    <table id="table_id">
       <thead>
@@ -130,6 +136,8 @@
                <span class="big">⌨</span> Virtual Keyboard Layouts<br/>for LAREX</th>
             <th>
                <span class="big">⌨</span> Virtual Keyboard Layouts<br/>for QURATOR-neat</th>
+            <th>
+               <span class="big">⌨</span> Virtual Keyboard Layouts<br/>for escriptorium</th>
             <th>
                <span class="big">💁</span> Browse by code chart<br/>(Link to MUFI)</th>
          </tr>
