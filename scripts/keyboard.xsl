@@ -200,7 +200,7 @@ Names
         <xsl:for-each-group select="$MUFIEXPORT//fn:map" group-by="fn:string[@key = 'range']">
             <xsl:sort select="fn:current-grouping-key()"/>
             <xsl:result-document href="ghout/keyboards/escriptorium/{fn:current-grouping-key()}.json">
-                
+                {
                 "version": "0.1",
                 "name": "<xsl:value-of select="fn:current-grouping-key()"/>",
                 "author": "tboenig boenig@bbaw.de",
@@ -216,7 +216,8 @@ Names
                 <xsl:for-each select="$keys/line[fn:position() &lt; last()]">
                     "<xsl:apply-templates/><xsl:text disable-output-escaping="yes">",&#xD;</xsl:text>
                 </xsl:for-each>
-                "<xsl:value-of select="$keys/line[position()=last()]"/> {bksp}"]
+                "<xsl:value-of select="$keys/line[position()=last()]"/>"
+                ]}
             </xsl:result-document>
         </xsl:for-each-group>
     </xsl:template>
