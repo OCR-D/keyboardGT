@@ -1,5 +1,5 @@
 
-                
+                {
                 "version": "0.1",
                 "name": "PUA-19",
                 "author": "tboenig boenig@bbaw.de",
@@ -24,5 +24,6 @@
                     "\uE7C2 \uEF2C",
                     "\uEF2D",
                     "\uE3E6 \uE7E6",
-                "\uE39F\uE79F {bksp}"]
+                "\uE39F\uE79F"
+                ]}
             

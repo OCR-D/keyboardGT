@@ -1,5 +1,5 @@
 
-                
+                {
                 "version": "0.1",
                 "name": "Run",
                 "author": "tboenig boenig@bbaw.de",
@@ -15,5 +15,6 @@
                     "\u16A5",
                     "\u16A3 \u16A4",
                     "\u16D8",
-                "\u16A6 {bksp}"]
+                "\u16A6"
+                ]}
             

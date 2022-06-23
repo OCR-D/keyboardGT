@@ -1,5 +1,5 @@
 
-                
+                {
                 "version": "0.1",
                 "name": "Lat1Suppl",
                 "author": "tboenig boenig@bbaw.de",
@@ -22,5 +22,6 @@
                     "\u00A1 \u00A6 \u00AB \u00B7 \u00BB \u00BF",
                     "\u00A8 \u00AF \u00B4 \u00B8",
                     "\u00A2 \u00A3 \u00A4 \u00A5 \u00A7 \u00A9 \u00AC \u00AE \u00B0 \u00B1 \u00B5 \u00B6 \u00D7 \u00F7",
-                "\u00DE\u00FE {bksp}"]
+                "\u00DE\u00FE"
+                ]}
             

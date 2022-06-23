@@ -1,5 +1,5 @@
 
-                
+                {
                 "version": "0.1",
                 "name": "LatExtC",
                 "author": "tboenig boenig@bbaw.de",
@@ -8,5 +8,6 @@
                 
                 
                     "\u2C75 \u2C76",
-                "\u2C7D {bksp}"]
+                "\u2C7D"
+                ]}
             

@@ -1,5 +1,5 @@
 
-                
+                {
                 "version": "0.1",
                 "name": "PUA-51",
                 "author": "tboenig boenig@bbaw.de",
@@ -24,5 +24,6 @@
                     "\uF126 \uF127 \uF128",
                     "\uF199",
                     "\uF232",
-                "\uF233 {bksp}"]
+                "\uF233"
+                ]}
             

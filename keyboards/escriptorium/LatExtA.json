@@ -1,5 +1,5 @@
 
-                
+                {
                 "version": "0.1",
                 "name": "LatExtA",
                 "author": "tboenig boenig@bbaw.de",
@@ -22,5 +22,6 @@
                     "\u016A \u016B \u016C \u016D \u016E \u016F \u0170 \u0171 \u0172 \u0173",
                     "\u0174 \u0175",
                     "\u0176 \u0177 \u0178",
-                "\u017B\u017C {bksp}"]
+                "\u017B\u017C"
+                ]}
             

@@ -1,5 +1,5 @@
 
-                
+                {
                 "version": "0.1",
                 "name": "Dingbats",
                 "author": "tboenig boenig@bbaw.de",
@@ -7,5 +7,6 @@
                 
                 
                 
-                "\u271D\u2766\u2767 {bksp}"]
+                "\u271D\u2766\u2767"
+                ]}
             

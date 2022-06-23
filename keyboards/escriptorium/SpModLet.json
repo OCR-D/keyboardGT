@@ -1,5 +1,5 @@
 
-                
+                {
                 "version": "0.1",
                 "name": "SpModLet",
                 "author": "tboenig boenig@bbaw.de",
@@ -8,5 +8,6 @@
                 
                 
                     "\u02E3",
-                "\u02BC\u02C8\u02D8\u02D9\u02DA\u02DB\u02DC\u02DD {bksp}"]
+                "\u02BC\u02C8\u02D8\u02D9\u02DA\u02DB\u02DC\u02DD"
+                ]}
             

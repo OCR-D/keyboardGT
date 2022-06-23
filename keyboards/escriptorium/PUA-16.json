@@ -1,5 +1,5 @@
 
-                
+                {
                 "version": "0.1",
                 "name": "PUA-16",
                 "author": "tboenig boenig@bbaw.de",
@@ -19,5 +19,6 @@
                     "\uEBAF",
                     "\uE2E2 \uE6E2",
                     "\uE33A \uE73A \uEBBA \uEBBB",
-                "\uE737 {bksp}"]
+                "\uE737"
+                ]}
             

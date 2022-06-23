@@ -1,5 +1,5 @@
 
-                
+                {
                 "version": "0.1",
                 "name": "PhonExt",
                 "author": "tboenig boenig@bbaw.de",
@@ -22,5 +22,6 @@
                     "\u1D20",
                     "\u1D21",
                     "\u1D22",
-                "\u1D35 {bksp}"]
+                "\u1D35"
+                ]}
             

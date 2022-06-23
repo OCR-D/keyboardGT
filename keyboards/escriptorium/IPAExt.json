@@ -1,5 +1,5 @@
 
-                
+                {
                 "version": "0.1",
                 "name": "IPAExt",
                 "author": "tboenig boenig@bbaw.de",
@@ -21,5 +21,6 @@
                     "\u027C \u0280",
                     "\u0289",
                     "\u028F",
-                "\u0292 {bksp}"]
+                "\u0292"
+                ]}
             

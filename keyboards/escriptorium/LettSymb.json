@@ -1,5 +1,5 @@
 
-                
+                {
                 "version": "0.1",
                 "name": "LettSymb",
                 "author": "tboenig boenig@bbaw.de",
@@ -11,5 +11,6 @@
                     "\u211E \u211F",
                     "\u2123",
                     "\u2114",
-                "\u2108\u2125 {bksp}"]
+                "\u2108\u2125"
+                ]}
             

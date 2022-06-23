@@ -1,5 +1,5 @@
 
-                
+                {
                 "version": "0.1",
                 "name": "Arrows",
                 "author": "tboenig boenig@bbaw.de",
@@ -7,5 +7,6 @@
                 
                 
                 
-                "\u2190\u2191\u2192\u2193 {bksp}"]
+                "\u2190\u2191\u2192\u2193"
+                ]}
             

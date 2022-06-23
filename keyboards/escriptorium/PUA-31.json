@@ -1,5 +1,5 @@
 
-                
+                {
                 "version": "0.1",
                 "name": "PUA-31",
                 "author": "tboenig boenig@bbaw.de",
@@ -21,5 +21,6 @@
                     "\uE32B \uE32D \uE72B \uE72C \uE72D \uE8EB \uE8EC \uE8ED",
                     "\uE353 \uE753 \uE754 \uE771 \uE8F0 \uE8F2 \uE8F3",
                     "\uE781",
-                "\uF086\uF087\uF089\uF08A\uF08E {bksp}"]
+                "\uF086\uF087\uF089\uF08A\uF08E"
+                ]}
             

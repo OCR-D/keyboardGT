@@ -1,5 +1,5 @@
 
-                
+                {
                 "version": "0.1",
                 "name": "LatExtAdd",
                 "author": "tboenig boenig@bbaw.de",
@@ -27,5 +27,6 @@
                     "\u1E7E \u1E7F \u1EFC \u1EFD",
                     "\u1E80 \u1E81 \u1E82 \u1E83 \u1E84 \u1E85 \u1E86 \u1E87 \u1E88 \u1E89 \u1E98",
                     "\u1E8E \u1E8F \u1E99 \u1EF2 \u1EF3 \u1EF4 \u1EF5 \u1EF6 \u1EF7 \u1EFE \u1EFF",
-                "\u1E92\u1E93 {bksp}"]
+                "\u1E92\u1E93"
+                ]}
             

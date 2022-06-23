@@ -1,5 +1,5 @@
 
-                
+                {
                 "version": "0.1",
                 "name": "PUA-2",
                 "author": "tboenig boenig@bbaw.de",
@@ -9,5 +9,6 @@
                 
                     "\uEF0C",
                     "\uEF11",
-                "\uEF15 {bksp}"]
+                "\uEF15"
+                ]}
             

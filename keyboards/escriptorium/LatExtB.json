@@ -1,5 +1,5 @@
 
-                
+                {
                 "version": "0.1",
                 "name": "LatExtB",
                 "author": "tboenig boenig@bbaw.de",
@@ -22,5 +22,6 @@
                     "\u01BF \u01F7",
                     "\u0232 \u0233",
                     "\u01B5 \u01B6",
-                "\u01B7\u021C\u021D {bksp}"]
+                "\u01B7\u021C\u021D"
+                ]}
             

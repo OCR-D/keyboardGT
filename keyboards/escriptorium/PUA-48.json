@@ -1,5 +1,5 @@
 
-                
+                {
                 "version": "0.1",
                 "name": "PUA-48",
                 "author": "tboenig boenig@bbaw.de",
@@ -8,5 +8,6 @@
                 
                 
                     "\uE0EC \uE4EC",
-                "\uEBFA\uEBFB {bksp}"]
+                "\uEBFA\uEBFB"
+                ]}
             

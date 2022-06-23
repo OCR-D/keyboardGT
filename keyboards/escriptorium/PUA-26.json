@@ -1,5 +1,5 @@
 
-                
+                {
                 "version": "0.1",
                 "name": "PUA-26",
                 "author": "tboenig boenig@bbaw.de",
@@ -10,5 +10,6 @@
                     "\uE8D1",
                     "\uE4CF",
                     "\uE637",
-                "\uE743 {bksp}"]
+                "\uE743"
+                ]}
             

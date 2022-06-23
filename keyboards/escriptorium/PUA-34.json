@@ -1,5 +1,5 @@
 
-                
+                {
                 "version": "0.1",
                 "name": "PUA-34",
                 "author": "tboenig boenig@bbaw.de",
@@ -7,5 +7,6 @@
                 
                 
                 
-                "\uE62C {bksp}"]
+                "\uE62C"
+                ]}
             

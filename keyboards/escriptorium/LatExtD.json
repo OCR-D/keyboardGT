@@ -1,5 +1,5 @@
 
-                
+                {
                 "version": "0.1",
                 "name": "LatExtD",
                 "author": "tboenig boenig@bbaw.de",
@@ -26,5 +26,6 @@
                     "\uA760 \uA761",
                     "\uA762 \uA763",
                     "\uA73E \uA73F \uA74A \uA74B \uA75C \uA75D \uA76A \uA76B \uA76C \uA76D \uA76E \uA76F \uA770 \uA778",
-                "\uA764\uA765\uA766\uA767 {bksp}"]
+                "\uA764\uA765\uA766\uA767"
+                ]}
             
