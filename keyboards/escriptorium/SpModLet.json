@@ -7,7 +7,52 @@
                 
                 
                 
-                    "\u02E3",
-                "\u02BC\u02C8\u02D8\u02D9\u02DA\u02DB\u02DC\u02DD"
+                    "
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "ˣ"
+                                }",
+                "
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "ʼ"
+                                }
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "ˈ"
+                                }
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "˘"
+                                }
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "˙"
+                                }
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "˚"
+                                }
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "˛"
+                                }
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "˜"
+                                }
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "˝"
+                                }"
                 ]}
             

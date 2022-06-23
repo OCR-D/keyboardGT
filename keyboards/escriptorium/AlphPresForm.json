@@ -7,7 +7,42 @@
                 
                 
                 
-                    "\uFB00 \uFB01 \uFB02 \uFB03 \uFB04",
-                "\uFB05\uFB06"
+                    "
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "ff"
+                                } 
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "fi"
+                                } 
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "fl"
+                                } 
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "ﬃ"
+                                } 
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "ﬄ"
+                                }",
+                "
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "ſt"
+                                }
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "st"
+                                }"
                 ]}
             

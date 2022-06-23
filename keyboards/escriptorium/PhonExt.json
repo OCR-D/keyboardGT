@@ -7,21 +7,116 @@
                 
                 
                 
-                    "\u1D00 \u1D01",
-                    "\u1D04",
-                    "\u1D05 \u1D06",
-                    "\u1D07",
-                    "\u1D79",
-                    "\u1D0A",
-                    "\u1D0B",
-                    "\u1D0D",
-                    "\u1D0F",
-                    "\u1D18",
-                    "\u1D1B",
-                    "\u1D1C \u1D6B",
-                    "\u1D20",
-                    "\u1D21",
-                    "\u1D22",
-                "\u1D35"
+                    "
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "ᴀ"
+                                } 
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "ᴁ"
+                                }",
+                    "
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "ᴄ"
+                                }",
+                    "
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "ᴅ"
+                                } 
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "ᴆ"
+                                }",
+                    "
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "ᴇ"
+                                }",
+                    "
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "ᵹ"
+                                }",
+                    "
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "ᴊ"
+                                }",
+                    "
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "ᴋ"
+                                }",
+                    "
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "ᴍ"
+                                }",
+                    "
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "ᴏ"
+                                }",
+                    "
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "ᴘ"
+                                }",
+                    "
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "ᴛ"
+                                }",
+                    "
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "ᴜ"
+                                } 
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "ᵫ"
+                                }",
+                    "
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "ᴠ"
+                                }",
+                    "
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "ᴡ"
+                                }",
+                    "
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "ᴢ"
+                                }",
+                "
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "ᴵ"
+                                }"
                 ]}
             

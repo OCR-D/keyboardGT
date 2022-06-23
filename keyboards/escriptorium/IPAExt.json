@@ -7,20 +7,125 @@
                 
                 
                 
-                    "\u0299",
-                    "\u0256",
-                    "\u0259",
-                    "\u0261 \u0262",
-                    "\u0266 \u029C",
-                    "\u0268 \u026A",
-                    "\u025F",
-                    "\u029F",
-                    "\u026F",
-                    "\u0272 \u0274",
-                    "\u0254 \u0276",
-                    "\u027C \u0280",
-                    "\u0289",
-                    "\u028F",
-                "\u0292"
+                    "
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "ʙ"
+                                }",
+                    "
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "ɖ"
+                                }",
+                    "
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "ə"
+                                }",
+                    "
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "ɡ"
+                                } 
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "ɢ"
+                                }",
+                    "
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "ɦ"
+                                } 
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "ʜ"
+                                }",
+                    "
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "ɨ"
+                                } 
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "ɪ"
+                                }",
+                    "
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "ɟ"
+                                }",
+                    "
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "ʟ"
+                                }",
+                    "
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "ɯ"
+                                }",
+                    "
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "ɲ"
+                                } 
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "ɴ"
+                                }",
+                    "
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "ɔ"
+                                } 
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "ɶ"
+                                }",
+                    "
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "ɼ"
+                                } 
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "ʀ"
+                                }",
+                    "
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "ʉ"
+                                }",
+                    "
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "ʏ"
+                                }",
+                "
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "ʒ"
+                                }"
                 ]}
             

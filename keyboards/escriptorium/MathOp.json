@@ -7,8 +7,58 @@
                 
                 
                 
-                    "\u2234 \u2235 \u2237 \u22D7",
-                    "\u223B \u2248",
-                "\u2212\u221E\u2227\u2260"
+                    "
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "∴"
+                                } 
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "∵"
+                                } 
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "∷"
+                                } 
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "⋗"
+                                }",
+                    "
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "∻"
+                                } 
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "≈"
+                                }",
+                "
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "−"
+                                }
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "∞"
+                                }
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "∧"
+                                }
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "≠"
+                                }"
                 ]}
             

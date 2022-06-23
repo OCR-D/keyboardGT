@@ -7,6 +7,26 @@
                 
                 
                 
-                "\u2190\u2191\u2192\u2193"
+                "
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "←"
+                                }
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "↑"
+                                }
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "→"
+                                }
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "↓"
+                                }"
                 ]}
             

@@ -7,10 +7,50 @@
                 
                 
                 
-                    "\u2132 \u214E",
-                    "\u211E \u211F",
-                    "\u2123",
-                    "\u2114",
-                "\u2108\u2125"
+                    "
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "Ⅎ"
+                                } 
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "ⅎ"
+                                }",
+                    "
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "℞"
+                                } 
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "℟"
+                                }",
+                    "
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "℣"
+                                }",
+                    "
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "℔"
+                                }",
+                "
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "℈"
+                                }
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "℥"
+                                }"
                 ]}
             

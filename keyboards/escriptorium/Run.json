@@ -7,14 +7,64 @@
                 
                 
                 
-                    "\u16A8",
-                    "\u16A7",
-                    "\u16A0",
-                    "\u16A2",
-                    "\u16A1",
-                    "\u16A5",
-                    "\u16A3 \u16A4",
-                    "\u16D8",
-                "\u16A6"
+                    "
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "ᚨ"
+                                }",
+                    "
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "ᚧ"
+                                }",
+                    "
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "ᚠ"
+                                }",
+                    "
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "ᚢ"
+                                }",
+                    "
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "ᚡ"
+                                }",
+                    "
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "ᚥ"
+                                }",
+                    "
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "ᚣ"
+                                } 
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "ᚤ"
+                                }",
+                    "
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "ᛘ"
+                                }",
+                "
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "ᚦ"
+                                }"
                 ]}
             

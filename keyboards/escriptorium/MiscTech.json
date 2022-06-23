@@ -7,6 +7,26 @@
                 
                 
                 
-                "\u23D1\u23D2\u23D3\u23D4"
+                "
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "⏑"
+                                }
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "⏒"
+                                }
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "⏓"
+                                }
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "⏔"
+                                }"
                 ]}
             

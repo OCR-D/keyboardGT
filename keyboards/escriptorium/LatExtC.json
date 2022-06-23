@@ -7,7 +7,22 @@
                 
                 
                 
-                    "\u2C75 \u2C76",
-                "\u2C7D"
+                    "
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "Ⱶ"
+                                } 
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "ⱶ"
+                                }",
+                "
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "ⱽ"
+                                }"
                 ]}
             

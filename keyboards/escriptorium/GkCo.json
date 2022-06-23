@@ -7,7 +7,87 @@
                 
                 
                 
-                    "\u03B1 \u03B2 \u03B3 \u03B4 \u03B5 \u03B6 \u03B7 \u03B9 \u03BA \u03BB \u03BC \u03BD \u03BE \u03C3",
-                "\u0398\u03B8"
+                    "
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "α"
+                                } 
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "β"
+                                } 
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "γ"
+                                } 
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "δ"
+                                } 
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "ε"
+                                } 
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "ζ"
+                                } 
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "η"
+                                } 
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "ι"
+                                } 
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "κ"
+                                } 
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "λ"
+                                } 
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "μ"
+                                } 
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "ν"
+                                } 
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "ξ"
+                                } 
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "σ"
+                                }",
+                "
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "Θ"
+                                }
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "θ"
+                                }"
                 ]}
             

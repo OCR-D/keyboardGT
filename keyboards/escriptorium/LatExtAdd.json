@@ -7,26 +7,546 @@
                 
                 
                 
-                    "\u1EA0 \u1EA1 \u1EA2 \u1EA3 \u1EAE \u1EAF",
-                    "\u1E02 \u1E03 \u1E04 \u1E05",
-                    "\u1E0A \u1E0B \u1E0C \u1E0D \u1E9F",
-                    "\u1E16 \u1E17 \u1EB8 \u1EB9",
-                    "\u1E1E \u1E1F",
-                    "\u1E22 \u1E23 \u1E24 \u1E25",
-                    "\u1EC8 \u1EC9 \u1ECA \u1ECB",
-                    "\u1E30 \u1E31 \u1E32 \u1E33",
-                    "\u1E36 \u1E37 \u1EFA \u1EFB",
-                    "\u1E3E \u1E3F \u1E40 \u1E41 \u1E42 \u1E43",
-                    "\u1E44 \u1E45 \u1E46 \u1E47",
-                    "\u1E52 \u1E53 \u1ECC \u1ECD \u1ECE \u1ECF",
-                    "\u1E54 \u1E55 \u1E56 \u1E57",
-                    "\u1E58 \u1E59 \u1E5A \u1E5B",
-                    "\u1E60 \u1E61 \u1E62 \u1E63 \u1E9C \u1E9D \u1E9E",
-                    "\u1E6A \u1E6B \u1E6C \u1E6D",
-                    "\u1EE4 \u1EE5 \u1EE6 \u1EE7",
-                    "\u1E7E \u1E7F \u1EFC \u1EFD",
-                    "\u1E80 \u1E81 \u1E82 \u1E83 \u1E84 \u1E85 \u1E86 \u1E87 \u1E88 \u1E89 \u1E98",
-                    "\u1E8E \u1E8F \u1E99 \u1EF2 \u1EF3 \u1EF4 \u1EF5 \u1EF6 \u1EF7 \u1EFE \u1EFF",
-                "\u1E92\u1E93"
+                    "
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "Ạ"
+                                } 
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "ạ"
+                                } 
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "Ả"
+                                } 
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "ả"
+                                } 
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "Ắ"
+                                } 
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "ắ"
+                                }",
+                    "
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "Ḃ"
+                                } 
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "ḃ"
+                                } 
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "Ḅ"
+                                } 
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "ḅ"
+                                }",
+                    "
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "Ḋ"
+                                } 
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "ḋ"
+                                } 
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "Ḍ"
+                                } 
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "ḍ"
+                                } 
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "ẟ"
+                                }",
+                    "
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "Ḗ"
+                                } 
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "ḗ"
+                                } 
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "Ẹ"
+                                } 
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "ẹ"
+                                }",
+                    "
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "Ḟ"
+                                } 
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "ḟ"
+                                }",
+                    "
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "Ḣ"
+                                } 
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "ḣ"
+                                } 
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "Ḥ"
+                                } 
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "ḥ"
+                                }",
+                    "
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "Ỉ"
+                                } 
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "ỉ"
+                                } 
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "Ị"
+                                } 
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "ị"
+                                }",
+                    "
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "Ḱ"
+                                } 
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "ḱ"
+                                } 
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "Ḳ"
+                                } 
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "ḳ"
+                                }",
+                    "
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "Ḷ"
+                                } 
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "ḷ"
+                                } 
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "Ỻ"
+                                } 
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "ỻ"
+                                }",
+                    "
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "Ḿ"
+                                } 
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "ḿ"
+                                } 
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "Ṁ"
+                                } 
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "ṁ"
+                                } 
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "Ṃ"
+                                } 
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "ṃ"
+                                }",
+                    "
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "Ṅ"
+                                } 
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "ṅ"
+                                } 
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "Ṇ"
+                                } 
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "ṇ"
+                                }",
+                    "
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "Ṓ"
+                                } 
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "ṓ"
+                                } 
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "Ọ"
+                                } 
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "ọ"
+                                } 
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "Ỏ"
+                                } 
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "ỏ"
+                                }",
+                    "
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "Ṕ"
+                                } 
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "ṕ"
+                                } 
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "Ṗ"
+                                } 
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "ṗ"
+                                }",
+                    "
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "Ṙ"
+                                } 
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "ṙ"
+                                } 
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "Ṛ"
+                                } 
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "ṛ"
+                                }",
+                    "
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "Ṡ"
+                                } 
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "ṡ"
+                                } 
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "Ṣ"
+                                } 
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "ṣ"
+                                } 
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "ẜ"
+                                } 
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "ẝ"
+                                } 
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "ẞ"
+                                }",
+                    "
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "Ṫ"
+                                } 
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "ṫ"
+                                } 
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "Ṭ"
+                                } 
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "ṭ"
+                                }",
+                    "
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "Ụ"
+                                } 
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "ụ"
+                                } 
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "Ủ"
+                                } 
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "ủ"
+                                }",
+                    "
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "Ṿ"
+                                } 
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "ṿ"
+                                } 
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "Ỽ"
+                                } 
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "ỽ"
+                                }",
+                    "
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "Ẁ"
+                                } 
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "ẁ"
+                                } 
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "Ẃ"
+                                } 
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "ẃ"
+                                } 
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "Ẅ"
+                                } 
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "ẅ"
+                                } 
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "Ẇ"
+                                } 
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "ẇ"
+                                } 
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "Ẉ"
+                                } 
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "ẉ"
+                                } 
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "ẘ"
+                                }",
+                    "
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "Ẏ"
+                                } 
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "ẏ"
+                                } 
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "ẙ"
+                                } 
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "Ỳ"
+                                } 
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "ỳ"
+                                } 
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "Ỵ"
+                                } 
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "ỵ"
+                                } 
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "Ỷ"
+                                } 
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "ỷ"
+                                } 
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "Ỿ"
+                                } 
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "ỿ"
+                                }",
+                "
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "Ẓ"
+                                }
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "ẓ"
+                                }"
                 ]}
             

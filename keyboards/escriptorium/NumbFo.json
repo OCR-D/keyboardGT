@@ -7,7 +7,32 @@
                 
                 
                 
-                    "\u2184",
-                "\u2180\u2181\u2182\u2183"
+                    "
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "ↄ"
+                                }",
+                "
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "ↀ"
+                                }
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "ↁ"
+                                }
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "ↂ"
+                                }
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "Ↄ"
+                                }"
                 ]}
             

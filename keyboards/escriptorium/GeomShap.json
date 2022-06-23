@@ -7,6 +7,31 @@
                 
                 
                 
-                "\u25AA\u25AB\u25B9\u25C3\u25CC"
+                "
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "▪"
+                                }
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "▫"
+                                }
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "▹"
+                                }
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "◃"
+                                }
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "◌"
+                                }"
                 ]}
             
