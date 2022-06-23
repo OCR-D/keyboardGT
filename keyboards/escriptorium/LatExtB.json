@@ -10,6 +10,7 @@
                                 {
                                 
                                 "number:" 281
+                                "number2:" 1
                                 "row": 1,
                                 "column": 3,
                                 "character": "Ǣ
@@ -18,6 +19,7 @@
                                 {
                                 
                                 "number:" 282
+                                "number2:" 2
                                 "row": 1,
                                 "column": 3,
                                 "character": "ǣ
@@ -26,6 +28,7 @@
                                 {
                                 
                                 "number:" 293
+                                "number2:" 3
                                 "row": 1,
                                 "column": 3,
                                 "character": "Ǽ
@@ -34,6 +37,7 @@
                                 {
                                 
                                 "number:" 294
+                                "number2:" 4
                                 "row": 1,
                                 "column": 3,
                                 "character": "ǽ
@@ -42,6 +46,7 @@
                                 {
                                 
                                 "number:" 299
+                                "number2:" 5
                                 "row": 1,
                                 "column": 3,
                                 "character": "Ȧ
@@ -50,6 +55,7 @@
                                 {
                                 
                                 "number:" 300
+                                "number2:" 6
                                 "row": 1,
                                 "column": 3,
                                 "character": "ȧ
@@ -58,6 +64,7 @@
                                 {
                                 
                                 "number:" 264
+                                "number2:" 1
                                 "row": 1,
                                 "column": 3,
                                 "character": "ƀ
@@ -66,6 +73,7 @@
                                 {
                                 
                                 "number:" 283
+                                "number2:" 1
                                 "row": 1,
                                 "column": 3,
                                 "character": "Ǥ
@@ -74,6 +82,7 @@
                                 {
                                 
                                 "number:" 284
+                                "number2:" 2
                                 "row": 1,
                                 "column": 3,
                                 "character": "ǥ
@@ -82,6 +91,7 @@
                                 {
                                 
                                 "number:" 289
+                                "number2:" 3
                                 "row": 1,
                                 "column": 3,
                                 "character": "Ǵ
@@ -90,6 +100,7 @@
                                 {
                                 
                                 "number:" 290
+                                "number2:" 4
                                 "row": 1,
                                 "column": 3,
                                 "character": "ǵ
@@ -98,6 +109,7 @@
                                 {
                                 
                                 "number:" 265
+                                "number2:" 1
                                 "row": 1,
                                 "column": 3,
                                 "character": "ƕ
@@ -106,6 +118,7 @@
                                 {
                                 
                                 "number:" 291
+                                "number2:" 2
                                 "row": 1,
                                 "column": 3,
                                 "character": "Ƕ
@@ -114,6 +127,7 @@
                                 {
                                 
                                 "number:" 307
+                                "number2:" 1
                                 "row": 1,
                                 "column": 3,
                                 "character": "ȷ
@@ -122,6 +136,7 @@
                                 {
                                 
                                 "number:" 308
+                                "number2:" 2
                                 "row": 1,
                                 "column": 3,
                                 "character": "Ɉ
@@ -130,6 +145,7 @@
                                 {
                                 
                                 "number:" 309
+                                "number2:" 3
                                 "row": 1,
                                 "column": 3,
                                 "character": "ɉ
@@ -138,6 +154,7 @@
                                 {
                                 
                                 "number:" 266
+                                "number2:" 1
                                 "row": 1,
                                 "column": 3,
                                 "character": "ƙ
@@ -146,6 +163,7 @@
                                 {
                                 
                                 "number:" 267
+                                "number2:" 1
                                 "row": 1,
                                 "column": 3,
                                 "character": "ƚ
@@ -154,6 +172,7 @@
                                 {
                                 
                                 "number:" 268
+                                "number2:" 1
                                 "row": 1,
                                 "column": 3,
                                 "character": "Ɯ
@@ -162,6 +181,7 @@
                                 {
                                 
                                 "number:" 269
+                                "number2:" 1
                                 "row": 1,
                                 "column": 3,
                                 "character": "ƞ
@@ -170,6 +190,7 @@
                                 {
                                 
                                 "number:" 275
+                                "number2:" 1
                                 "row": 1,
                                 "column": 3,
                                 "character": "Ǒ
@@ -178,6 +199,7 @@
                                 {
                                 
                                 "number:" 276
+                                "number2:" 2
                                 "row": 1,
                                 "column": 3,
                                 "character": "ǒ
@@ -186,6 +208,7 @@
                                 {
                                 
                                 "number:" 285
+                                "number2:" 3
                                 "row": 1,
                                 "column": 3,
                                 "character": "Ǫ
@@ -194,6 +217,7 @@
                                 {
                                 
                                 "number:" 286
+                                "number2:" 4
                                 "row": 1,
                                 "column": 3,
                                 "character": "ǫ
@@ -202,6 +226,7 @@
                                 {
                                 
                                 "number:" 287
+                                "number2:" 5
                                 "row": 1,
                                 "column": 3,
                                 "character": "Ǭ
@@ -210,6 +235,7 @@
                                 {
                                 
                                 "number:" 288
+                                "number2:" 6
                                 "row": 1,
                                 "column": 3,
                                 "character": "ǭ
@@ -218,6 +244,7 @@
                                 {
                                 
                                 "number:" 295
+                                "number2:" 7
                                 "row": 1,
                                 "column": 3,
                                 "character": "Ǿ
@@ -226,6 +253,7 @@
                                 {
                                 
                                 "number:" 296
+                                "number2:" 8
                                 "row": 1,
                                 "column": 3,
                                 "character": "ǿ
@@ -234,6 +262,7 @@
                                 {
                                 
                                 "number:" 301
+                                "number2:" 9
                                 "row": 1,
                                 "column": 3,
                                 "character": "Ȫ
@@ -242,6 +271,7 @@
                                 {
                                 
                                 "number:" 302
+                                "number2:" 10
                                 "row": 1,
                                 "column": 3,
                                 "character": "ȫ
@@ -250,6 +280,7 @@
                                 {
                                 
                                 "number:" 303
+                                "number2:" 11
                                 "row": 1,
                                 "column": 3,
                                 "character": "Ȯ
@@ -258,6 +289,7 @@
                                 {
                                 
                                 "number:" 304
+                                "number2:" 12
                                 "row": 1,
                                 "column": 3,
                                 "character": "ȯ
@@ -266,6 +298,7 @@
                                 {
                                 
                                 "number:" 270
+                                "number2:" 1
                                 "row": 1,
                                 "column": 3,
                                 "character": "Ʀ
@@ -274,6 +307,7 @@
                                 {
                                 
                                 "number:" 277
+                                "number2:" 1
                                 "row": 1,
                                 "column": 3,
                                 "character": "Ǔ
@@ -282,6 +316,7 @@
                                 {
                                 
                                 "number:" 278
+                                "number2:" 2
                                 "row": 1,
                                 "column": 3,
                                 "character": "ǔ
@@ -290,6 +325,7 @@
                                 {
                                 
                                 "number:" 279
+                                "number2:" 3
                                 "row": 1,
                                 "column": 3,
                                 "character": "Ǖ
@@ -298,6 +334,7 @@
                                 {
                                 
                                 "number:" 280
+                                "number2:" 4
                                 "row": 1,
                                 "column": 3,
                                 "character": "ǖ
@@ -306,6 +343,7 @@
                                 {
                                 
                                 "number:" 274
+                                "number2:" 1
                                 "row": 1,
                                 "column": 3,
                                 "character": "ƿ
@@ -314,6 +352,7 @@
                                 {
                                 
                                 "number:" 292
+                                "number2:" 2
                                 "row": 1,
                                 "column": 3,
                                 "character": "Ƿ
@@ -322,6 +361,7 @@
                                 {
                                 
                                 "number:" 305
+                                "number2:" 1
                                 "row": 1,
                                 "column": 3,
                                 "character": "Ȳ
@@ -330,6 +370,7 @@
                                 {
                                 
                                 "number:" 306
+                                "number2:" 2
                                 "row": 1,
                                 "column": 3,
                                 "character": "ȳ
@@ -338,6 +379,7 @@
                                 {
                                 
                                 "number:" 271
+                                "number2:" 1
                                 "row": 1,
                                 "column": 3,
                                 "character": "Ƶ
@@ -346,6 +388,7 @@
                                 {
                                 
                                 "number:" 272
+                                "number2:" 2
                                 "row": 1,
                                 "column": 3,
                                 "character": "ƶ
@@ -354,6 +397,7 @@
                                 {
                                 
                                 "number:" 273
+                                "number2:" 1
                                 "row": 1,
                                 "column": 3,
                                 "character": "Ʒ
@@ -362,6 +406,7 @@
                                 {
                                 
                                 "number:" 297
+                                "number2:" 2
                                 "row": 1,
                                 "column": 3,
                                 "character": "Ȝ
@@ -370,6 +415,7 @@
                                 {
                                 
                                 "number:" 298
+                                "number2:" 3
                                 "row": 1,
                                 "column": 3,
                                 "character": "ȝ

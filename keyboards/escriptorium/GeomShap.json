@@ -10,6 +10,7 @@
                                 {
                                 
                                 "number:" 657
+                                "number2:" 1
                                 "row": 1,
                                 "column": 3,
                                 "character": "▪
@@ -18,6 +19,7 @@
                                 {
                                 
                                 "number:" 658
+                                "number2:" 2
                                 "row": 1,
                                 "column": 3,
                                 "character": "▫
@@ -26,6 +28,7 @@
                                 {
                                 
                                 "number:" 659
+                                "number2:" 3
                                 "row": 1,
                                 "column": 3,
                                 "character": "▹
@@ -34,6 +37,7 @@
                                 {
                                 
                                 "number:" 660
+                                "number2:" 4
                                 "row": 1,
                                 "column": 3,
                                 "character": "◃
@@ -42,6 +46,7 @@
                                 {
                                 
                                 "number:" 661
+                                "number2:" 5
                                 "row": 1,
                                 "column": 3,
                                 "character": "◌

@@ -10,6 +10,7 @@
                                 {
                                 
                                 "number:" 381
+                                "number2:" 1
                                 "row": 1,
                                 "column": 3,
                                 "character": "α
@@ -18,6 +19,7 @@
                                 {
                                 
                                 "number:" 382
+                                "number2:" 2
                                 "row": 1,
                                 "column": 3,
                                 "character": "β
@@ -26,6 +28,7 @@
                                 {
                                 
                                 "number:" 383
+                                "number2:" 3
                                 "row": 1,
                                 "column": 3,
                                 "character": "γ
@@ -34,6 +37,7 @@
                                 {
                                 
                                 "number:" 384
+                                "number2:" 4
                                 "row": 1,
                                 "column": 3,
                                 "character": "δ
@@ -42,6 +46,7 @@
                                 {
                                 
                                 "number:" 385
+                                "number2:" 5
                                 "row": 1,
                                 "column": 3,
                                 "character": "ε
@@ -50,6 +55,7 @@
                                 {
                                 
                                 "number:" 386
+                                "number2:" 6
                                 "row": 1,
                                 "column": 3,
                                 "character": "ζ
@@ -58,6 +64,7 @@
                                 {
                                 
                                 "number:" 387
+                                "number2:" 7
                                 "row": 1,
                                 "column": 3,
                                 "character": "η
@@ -66,6 +73,7 @@
                                 {
                                 
                                 "number:" 389
+                                "number2:" 8
                                 "row": 1,
                                 "column": 3,
                                 "character": "ι
@@ -74,6 +82,7 @@
                                 {
                                 
                                 "number:" 390
+                                "number2:" 9
                                 "row": 1,
                                 "column": 3,
                                 "character": "κ
@@ -82,6 +91,7 @@
                                 {
                                 
                                 "number:" 391
+                                "number2:" 10
                                 "row": 1,
                                 "column": 3,
                                 "character": "λ
@@ -90,6 +100,7 @@
                                 {
                                 
                                 "number:" 392
+                                "number2:" 11
                                 "row": 1,
                                 "column": 3,
                                 "character": "μ
@@ -98,6 +109,7 @@
                                 {
                                 
                                 "number:" 393
+                                "number2:" 12
                                 "row": 1,
                                 "column": 3,
                                 "character": "ν
@@ -106,6 +118,7 @@
                                 {
                                 
                                 "number:" 394
+                                "number2:" 13
                                 "row": 1,
                                 "column": 3,
                                 "character": "ξ
@@ -114,6 +127,7 @@
                                 {
                                 
                                 "number:" 395
+                                "number2:" 14
                                 "row": 1,
                                 "column": 3,
                                 "character": "σ
@@ -122,6 +136,7 @@
                                 {
                                 
                                 "number:" 380
+                                "number2:" 1
                                 "row": 1,
                                 "column": 3,
                                 "character": "Θ
@@ -130,6 +145,7 @@
                                 {
                                 
                                 "number:" 388
+                                "number2:" 2
                                 "row": 1,
                                 "column": 3,
                                 "character": "θ

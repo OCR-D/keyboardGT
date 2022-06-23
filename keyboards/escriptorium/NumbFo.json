@@ -10,6 +10,7 @@
                                 {
                                 
                                 "number:" 638
+                                "number2:" 1
                                 "row": 1,
                                 "column": 3,
                                 "character": "ↄ
@@ -18,6 +19,7 @@
                                 {
                                 
                                 "number:" 634
+                                "number2:" 1
                                 "row": 1,
                                 "column": 3,
                                 "character": "ↀ
@@ -26,6 +28,7 @@
                                 {
                                 
                                 "number:" 635
+                                "number2:" 2
                                 "row": 1,
                                 "column": 3,
                                 "character": "ↁ
@@ -34,6 +37,7 @@
                                 {
                                 
                                 "number:" 636
+                                "number2:" 3
                                 "row": 1,
                                 "column": 3,
                                 "character": "ↂ
@@ -42,6 +46,7 @@
                                 {
                                 
                                 "number:" 637
+                                "number2:" 4
                                 "row": 1,
                                 "column": 3,
                                 "character": "Ↄ

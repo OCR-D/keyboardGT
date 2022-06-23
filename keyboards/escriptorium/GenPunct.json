@@ -10,6 +10,7 @@
                                 {
                                 
                                 "number:" 556
+                                "number2:" 1
                                 "row": 1,
                                 "column": 3,
                                 "character": " 
@@ -18,6 +19,7 @@
                                 {
                                 
                                 "number:" 557
+                                "number2:" 2
                                 "row": 1,
                                 "column": 3,
                                 "character": " 
@@ -26,6 +28,7 @@
                                 {
                                 
                                 "number:" 558
+                                "number2:" 3
                                 "row": 1,
                                 "column": 3,
                                 "character": " 
@@ -34,6 +37,7 @@
                                 {
                                 
                                 "number:" 559
+                                "number2:" 4
                                 "row": 1,
                                 "column": 3,
                                 "character": " 
@@ -42,6 +46,7 @@
                                 {
                                 
                                 "number:" 560
+                                "number2:" 5
                                 "row": 1,
                                 "column": 3,
                                 "character": " 
@@ -50,6 +55,7 @@
                                 {
                                 
                                 "number:" 561
+                                "number2:" 6
                                 "row": 1,
                                 "column": 3,
                                 "character": " 
@@ -58,6 +64,7 @@
                                 {
                                 
                                 "number:" 562
+                                "number2:" 7
                                 "row": 1,
                                 "column": 3,
                                 "character": " 
@@ -66,6 +73,7 @@
                                 {
                                 
                                 "number:" 563
+                                "number2:" 8
                                 "row": 1,
                                 "column": 3,
                                 "character": " 
@@ -74,6 +82,7 @@
                                 {
                                 
                                 "number:" 564
+                                "number2:" 9
                                 "row": 1,
                                 "column": 3,
                                 "character": " 
@@ -82,6 +91,7 @@
                                 {
                                 
                                 "number:" 565
+                                "number2:" 10
                                 "row": 1,
                                 "column": 3,
                                 "character": " 
@@ -90,6 +100,7 @@
                                 {
                                 
                                 "number:" 566
+                                "number2:" 11
                                 "row": 1,
                                 "column": 3,
                                 "character": " 
@@ -98,6 +109,7 @@
                                 {
                                 
                                 "number:" 567
+                                "number2:" 12
                                 "row": 1,
                                 "column": 3,
                                 "character": "​
@@ -106,6 +118,7 @@
                                 {
                                 
                                 "number:" 591
+                                "number2:" 13
                                 "row": 1,
                                 "column": 3,
                                 "character": " 
@@ -114,6 +127,7 @@
                                 {
                                 
                                 "number:" 585
+                                "number2:" 1
                                 "row": 1,
                                 "column": 3,
                                 "character": "•
@@ -122,6 +136,7 @@
                                 {
                                 
                                 "number:" 586
+                                "number2:" 2
                                 "row": 1,
                                 "column": 3,
                                 "character": "‣
@@ -130,6 +145,7 @@
                                 {
                                 
                                 "number:" 568
+                                "number2:" 1
                                 "row": 1,
                                 "column": 3,
                                 "character": "‐
@@ -138,6 +154,7 @@
                                 {
                                 
                                 "number:" 569
+                                "number2:" 2
                                 "row": 1,
                                 "column": 3,
                                 "character": "‑
@@ -146,6 +163,7 @@
                                 {
                                 
                                 "number:" 570
+                                "number2:" 3
                                 "row": 1,
                                 "column": 3,
                                 "character": "‒
@@ -154,6 +172,7 @@
                                 {
                                 
                                 "number:" 571
+                                "number2:" 4
                                 "row": 1,
                                 "column": 3,
                                 "character": "–
@@ -162,6 +181,7 @@
                                 {
                                 
                                 "number:" 572
+                                "number2:" 5
                                 "row": 1,
                                 "column": 3,
                                 "character": "—
@@ -170,6 +190,7 @@
                                 {
                                 
                                 "number:" 573
+                                "number2:" 6
                                 "row": 1,
                                 "column": 3,
                                 "character": "―
@@ -178,6 +199,7 @@
                                 {
                                 
                                 "number:" 574
+                                "number2:" 7
                                 "row": 1,
                                 "column": 3,
                                 "character": "‖
@@ -186,6 +208,7 @@
                                 {
                                 
                                 "number:" 575
+                                "number2:" 8
                                 "row": 1,
                                 "column": 3,
                                 "character": "‘
@@ -194,6 +217,7 @@
                                 {
                                 
                                 "number:" 576
+                                "number2:" 9
                                 "row": 1,
                                 "column": 3,
                                 "character": "’
@@ -202,6 +226,7 @@
                                 {
                                 
                                 "number:" 577
+                                "number2:" 10
                                 "row": 1,
                                 "column": 3,
                                 "character": "‚
@@ -210,6 +235,7 @@
                                 {
                                 
                                 "number:" 578
+                                "number2:" 11
                                 "row": 1,
                                 "column": 3,
                                 "character": "‛
@@ -218,6 +244,7 @@
                                 {
                                 
                                 "number:" 579
+                                "number2:" 12
                                 "row": 1,
                                 "column": 3,
                                 "character": "“
@@ -226,6 +253,7 @@
                                 {
                                 
                                 "number:" 580
+                                "number2:" 13
                                 "row": 1,
                                 "column": 3,
                                 "character": "”
@@ -234,6 +262,7 @@
                                 {
                                 
                                 "number:" 581
+                                "number2:" 14
                                 "row": 1,
                                 "column": 3,
                                 "character": "„
@@ -242,6 +271,7 @@
                                 {
                                 
                                 "number:" 582
+                                "number2:" 15
                                 "row": 1,
                                 "column": 3,
                                 "character": "‟
@@ -250,6 +280,7 @@
                                 {
                                 
                                 "number:" 587
+                                "number2:" 16
                                 "row": 1,
                                 "column": 3,
                                 "character": "․
@@ -258,6 +289,7 @@
                                 {
                                 
                                 "number:" 588
+                                "number2:" 17
                                 "row": 1,
                                 "column": 3,
                                 "character": "..
@@ -266,6 +298,7 @@
                                 {
                                 
                                 "number:" 589
+                                "number2:" 18
                                 "row": 1,
                                 "column": 3,
                                 "character": "…
@@ -274,6 +307,7 @@
                                 {
                                 
                                 "number:" 590
+                                "number2:" 19
                                 "row": 1,
                                 "column": 3,
                                 "character": "‧
@@ -282,6 +316,7 @@
                                 {
                                 
                                 "number:" 593
+                                "number2:" 20
                                 "row": 1,
                                 "column": 3,
                                 "character": "′
@@ -290,6 +325,7 @@
                                 {
                                 
                                 "number:" 594
+                                "number2:" 21
                                 "row": 1,
                                 "column": 3,
                                 "character": "′′
@@ -298,6 +334,7 @@
                                 {
                                 
                                 "number:" 595
+                                "number2:" 22
                                 "row": 1,
                                 "column": 3,
                                 "character": "‹
@@ -306,6 +343,7 @@
                                 {
                                 
                                 "number:" 596
+                                "number2:" 23
                                 "row": 1,
                                 "column": 3,
                                 "character": "›
@@ -314,6 +352,7 @@
                                 {
                                 
                                 "number:" 599
+                                "number2:" 24
                                 "row": 1,
                                 "column": 3,
                                 "character": "⁄
@@ -322,6 +361,7 @@
                                 {
                                 
                                 "number:" 600
+                                "number2:" 25
                                 "row": 1,
                                 "column": 3,
                                 "character": "⁅
@@ -330,6 +370,7 @@
                                 {
                                 
                                 "number:" 601
+                                "number2:" 26
                                 "row": 1,
                                 "column": 3,
                                 "character": "⁆
@@ -338,6 +379,7 @@
                                 {
                                 
                                 "number:" 604
+                                "number2:" 27
                                 "row": 1,
                                 "column": 3,
                                 "character": "⁖
@@ -346,6 +388,7 @@
                                 {
                                 
                                 "number:" 605
+                                "number2:" 28
                                 "row": 1,
                                 "column": 3,
                                 "character": "⁘
@@ -354,6 +397,7 @@
                                 {
                                 
                                 "number:" 662
+                                "number2:" 29
                                 "row": 1,
                                 "column": 3,
                                 "character": "●
@@ -362,6 +406,7 @@
                                 {
                                 
                                 "number:" 602
+                                "number2:" 1
                                 "row": 1,
                                 "column": 3,
                                 "character": "⁊
@@ -370,6 +415,7 @@
                                 {
                                 
                                 "number:" 583
+                                "number2:" 1
                                 "row": 1,
                                 "column": 3,
                                 "character": "†
@@ -378,6 +424,7 @@
                                 {
                                 
                                 "number:" 584
+                                "number2:" 2
                                 "row": 1,
                                 "column": 3,
                                 "character": "‡
@@ -386,6 +433,7 @@
                                 {
                                 
                                 "number:" 592
+                                "number2:" 3
                                 "row": 1,
                                 "column": 3,
                                 "character": "‰
@@ -394,6 +442,7 @@
                                 {
                                 
                                 "number:" 597
+                                "number2:" 4
                                 "row": 1,
                                 "column": 3,
                                 "character": "※
@@ -402,6 +451,7 @@
                                 {
                                 
                                 "number:" 598
+                                "number2:" 5
                                 "row": 1,
                                 "column": 3,
                                 "character": "⁂
@@ -410,6 +460,7 @@
                                 {
                                 
                                 "number:" 603
+                                "number2:" 6
                                 "row": 1,
                                 "column": 3,
                                 "character": "⁋
@@ -418,6 +469,7 @@
                                 {
                                 
                                 "number:" 606
+                                "number2:" 7
                                 "row": 1,
                                 "column": 3,
                                 "character": "⁜
