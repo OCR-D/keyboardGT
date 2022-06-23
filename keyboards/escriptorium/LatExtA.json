@@ -9,7 +9,6 @@
                 
                                 {
                                 
-        number: 2 
                                 "row": 1,
                                 "column": 3,
                                 "character": "Ā
@@ -17,7 +16,6 @@
                             
                                 {
                                 
-        number: 4 
                                 "row": 1,
                                 "column": 3,
                                 "character": "ā
@@ -25,7 +23,6 @@
                             
                                 {
                                 
-        number: 6 
                                 "row": 1,
                                 "column": 3,
                                 "character": "Ă
@@ -33,7 +30,6 @@
                             
                                 {
                                 
-        number: 8 
                                 "row": 1,
                                 "column": 3,
                                 "character": "ă
@@ -41,7 +37,6 @@
                             
                                 {
                                 
-        number: 10 
                                 "row": 1,
                                 "column": 3,
                                 "character": "Ą
@@ -49,15 +44,13 @@
                             
                                 {
                                 
-        number: 12
                                 "row": 1,
                                 "column": 3,
                                 "character": "ą
                                  }
-                            ,
+                            
                                 {
                                 
-        number: 2 
                                 "row": 1,
                                 "column": 3,
                                 "character": "Ć
@@ -65,7 +58,6 @@
                             
                                 {
                                 
-        number: 4 
                                 "row": 1,
                                 "column": 3,
                                 "character": "ć
@@ -73,7 +65,6 @@
                             
                                 {
                                 
-        number: 6 
                                 "row": 1,
                                 "column": 3,
                                 "character": "Ċ
@@ -81,15 +72,13 @@
                             
                                 {
                                 
-        number: 8
                                 "row": 1,
                                 "column": 3,
                                 "character": "ċ
                                  }
-                            ,
+                            
                                 {
                                 
-        number: 2 
                                 "row": 1,
                                 "column": 3,
                                 "character": "Đ
@@ -97,15 +86,13 @@
                             
                                 {
                                 
-        number: 4
                                 "row": 1,
                                 "column": 3,
                                 "character": "đ
                                  }
-                            ,
+                            
                                 {
                                 
-        number: 2 
                                 "row": 1,
                                 "column": 3,
                                 "character": "Ē
@@ -113,7 +100,6 @@
                             
                                 {
                                 
-        number: 4 
                                 "row": 1,
                                 "column": 3,
                                 "character": "ē
@@ -121,7 +107,6 @@
                             
                                 {
                                 
-        number: 6 
                                 "row": 1,
                                 "column": 3,
                                 "character": "Ĕ
@@ -129,7 +114,6 @@
                             
                                 {
                                 
-        number: 8 
                                 "row": 1,
                                 "column": 3,
                                 "character": "ĕ
@@ -137,7 +121,6 @@
                             
                                 {
                                 
-        number: 10 
                                 "row": 1,
                                 "column": 3,
                                 "character": "Ė
@@ -145,7 +128,6 @@
                             
                                 {
                                 
-        number: 12 
                                 "row": 1,
                                 "column": 3,
                                 "character": "ė
@@ -153,7 +135,6 @@
                             
                                 {
                                 
-        number: 14 
                                 "row": 1,
                                 "column": 3,
                                 "character": "Ę
@@ -161,15 +142,13 @@
                             
                                 {
                                 
-        number: 16
                                 "row": 1,
                                 "column": 3,
                                 "character": "ę
                                  }
-                            ,
+                            
                                 {
                                 
-        number: 2 
                                 "row": 1,
                                 "column": 3,
                                 "character": "Ġ
@@ -177,23 +156,20 @@
                             
                                 {
                                 
-        number: 4
                                 "row": 1,
                                 "column": 3,
                                 "character": "ġ
                                  }
-                            ,
+                            
                                 {
                                 
-        number: 2
                                 "row": 1,
                                 "column": 3,
                                 "character": "ħ
                                  }
-                            ,
+                            
                                 {
                                 
-        number: 2 
                                 "row": 1,
                                 "column": 3,
                                 "character": "Ī
@@ -201,7 +177,6 @@
                             
                                 {
                                 
-        number: 4 
                                 "row": 1,
                                 "column": 3,
                                 "character": "ī
@@ -209,7 +184,6 @@
                             
                                 {
                                 
-        number: 6 
                                 "row": 1,
                                 "column": 3,
                                 "character": "Ĭ
@@ -217,7 +191,6 @@
                             
                                 {
                                 
-        number: 8 
                                 "row": 1,
                                 "column": 3,
                                 "character": "ĭ
@@ -225,7 +198,6 @@
                             
                                 {
                                 
-        number: 10 
                                 "row": 1,
                                 "column": 3,
                                 "character": "Į
@@ -233,7 +205,6 @@
                             
                                 {
                                 
-        number: 12 
                                 "row": 1,
                                 "column": 3,
                                 "character": "į
@@ -241,7 +212,6 @@
                             
                                 {
                                 
-        number: 14 
                                 "row": 1,
                                 "column": 3,
                                 "character": "İ
@@ -249,7 +219,6 @@
                             
                                 {
                                 
-        number: 16 
                                 "row": 1,
                                 "column": 3,
                                 "character": "ı
@@ -257,7 +226,6 @@
                             
                                 {
                                 
-        number: 18 
                                 "row": 1,
                                 "column": 3,
                                 "character": "IJ
@@ -265,15 +233,13 @@
                             
                                 {
                                 
-        number: 20
                                 "row": 1,
                                 "column": 3,
                                 "character": "ij
                                  }
-                            ,
+                            
                                 {
                                 
-        number: 2 
                                 "row": 1,
                                 "column": 3,
                                 "character": "Ĺ
@@ -281,7 +247,6 @@
                             
                                 {
                                 
-        number: 4 
                                 "row": 1,
                                 "column": 3,
                                 "character": "ĺ
@@ -289,7 +254,6 @@
                             
                                 {
                                 
-        number: 6 
                                 "row": 1,
                                 "column": 3,
                                 "character": "Ł
@@ -297,15 +261,13 @@
                             
                                 {
                                 
-        number: 8
                                 "row": 1,
                                 "column": 3,
                                 "character": "ł
                                  }
-                            ,
+                            
                                 {
                                 
-        number: 2 
                                 "row": 1,
                                 "column": 3,
                                 "character": "Ń
@@ -313,7 +275,6 @@
                             
                                 {
                                 
-        number: 4 
                                 "row": 1,
                                 "column": 3,
                                 "character": "ń
@@ -321,7 +282,6 @@
                             
                                 {
                                 
-        number: 6 
                                 "row": 1,
                                 "column": 3,
                                 "character": "Ŋ
@@ -329,15 +289,13 @@
                             
                                 {
                                 
-        number: 8
                                 "row": 1,
                                 "column": 3,
                                 "character": "ŋ
                                  }
-                            ,
+                            
                                 {
                                 
-        number: 2 
                                 "row": 1,
                                 "column": 3,
                                 "character": "Ō
@@ -345,7 +303,6 @@
                             
                                 {
                                 
-        number: 4 
                                 "row": 1,
                                 "column": 3,
                                 "character": "ō
@@ -353,7 +310,6 @@
                             
                                 {
                                 
-        number: 6 
                                 "row": 1,
                                 "column": 3,
                                 "character": "Ŏ
@@ -361,7 +317,6 @@
                             
                                 {
                                 
-        number: 8 
                                 "row": 1,
                                 "column": 3,
                                 "character": "ŏ
@@ -369,7 +324,6 @@
                             
                                 {
                                 
-        number: 10 
                                 "row": 1,
                                 "column": 3,
                                 "character": "Ő
@@ -377,7 +331,6 @@
                             
                                 {
                                 
-        number: 12 
                                 "row": 1,
                                 "column": 3,
                                 "character": "ő
@@ -385,7 +338,6 @@
                             
                                 {
                                 
-        number: 14 
                                 "row": 1,
                                 "column": 3,
                                 "character": "Œ
@@ -393,15 +345,13 @@
                             
                                 {
                                 
-        number: 16
                                 "row": 1,
                                 "column": 3,
                                 "character": "œ
                                  }
-                            ,
+                            
                                 {
                                 
-        number: 2 
                                 "row": 1,
                                 "column": 3,
                                 "character": "Ŕ
@@ -409,15 +359,13 @@
                             
                                 {
                                 
-        number: 4
                                 "row": 1,
                                 "column": 3,
                                 "character": "ŕ
                                  }
-                            ,
+                            
                                 {
                                 
-        number: 2 
                                 "row": 1,
                                 "column": 3,
                                 "character": "Ś
@@ -425,7 +373,6 @@
                             
                                 {
                                 
-        number: 4 
                                 "row": 1,
                                 "column": 3,
                                 "character": "ś
@@ -433,15 +380,13 @@
                             
                                 {
                                 
-        number: 6
                                 "row": 1,
                                 "column": 3,
                                 "character": "ſ
                                  }
-                            ,
+                            
                                 {
                                 
-        number: 2 
                                 "row": 1,
                                 "column": 3,
                                 "character": "Ū
@@ -449,7 +394,6 @@
                             
                                 {
                                 
-        number: 4 
                                 "row": 1,
                                 "column": 3,
                                 "character": "ū
@@ -457,7 +401,6 @@
                             
                                 {
                                 
-        number: 6 
                                 "row": 1,
                                 "column": 3,
                                 "character": "Ŭ
@@ -465,7 +408,6 @@
                             
                                 {
                                 
-        number: 8 
                                 "row": 1,
                                 "column": 3,
                                 "character": "ŭ
@@ -473,7 +415,6 @@
                             
                                 {
                                 
-        number: 10 
                                 "row": 1,
                                 "column": 3,
                                 "character": "Ů
@@ -481,7 +422,6 @@
                             
                                 {
                                 
-        number: 12 
                                 "row": 1,
                                 "column": 3,
                                 "character": "ů
@@ -489,7 +429,6 @@
                             
                                 {
                                 
-        number: 14 
                                 "row": 1,
                                 "column": 3,
                                 "character": "Ű
@@ -497,7 +436,6 @@
                             
                                 {
                                 
-        number: 16 
                                 "row": 1,
                                 "column": 3,
                                 "character": "ű
@@ -505,7 +443,6 @@
                             
                                 {
                                 
-        number: 18 
                                 "row": 1,
                                 "column": 3,
                                 "character": "Ų
@@ -513,15 +450,13 @@
                             
                                 {
                                 
-        number: 20
                                 "row": 1,
                                 "column": 3,
                                 "character": "ų
                                  }
-                            ,
+                            
                                 {
                                 
-        number: 2 
                                 "row": 1,
                                 "column": 3,
                                 "character": "Ŵ
@@ -529,15 +464,13 @@
                             
                                 {
                                 
-        number: 4
                                 "row": 1,
                                 "column": 3,
                                 "character": "ŵ
                                  }
-                            ,
+                            
                                 {
                                 
-        number: 2 
                                 "row": 1,
                                 "column": 3,
                                 "character": "Ŷ
@@ -545,7 +478,6 @@
                             
                                 {
                                 
-        number: 4 
                                 "row": 1,
                                 "column": 3,
                                 "character": "ŷ
@@ -553,12 +485,11 @@
                             
                                 {
                                 
-        number: 6
                                 "row": 1,
                                 "column": 3,
                                 "character": "Ÿ
                                  }
-                            ,
+                            
                                 {
                                 
                                 "row": 1,

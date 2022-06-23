@@ -9,7 +9,6 @@
                 
                                 {
                                 
-        number: 2 
                                 "row": 1,
                                 "column": 3,
                                 "character": "ff
@@ -17,7 +16,6 @@
                             
                                 {
                                 
-        number: 4 
                                 "row": 1,
                                 "column": 3,
                                 "character": "fi
@@ -25,7 +23,6 @@
                             
                                 {
                                 
-        number: 6 
                                 "row": 1,
                                 "column": 3,
                                 "character": "fl
@@ -33,7 +30,6 @@
                             
                                 {
                                 
-        number: 8 
                                 "row": 1,
                                 "column": 3,
                                 "character": "ﬃ
@@ -41,12 +37,11 @@
                             
                                 {
                                 
-        number: 10
                                 "row": 1,
                                 "column": 3,
                                 "character": "ﬄ
                                  }
-                            ,
+                            
                                 {
                                 
                                 "row": 1,

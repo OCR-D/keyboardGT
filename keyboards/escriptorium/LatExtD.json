@@ -9,7 +9,6 @@
                 
                                 {
                                 
-        number: 2 
                                 "row": 1,
                                 "column": 3,
                                 "character": "Ꜳ
@@ -17,7 +16,6 @@
                             
                                 {
                                 
-        number: 4 
                                 "row": 1,
                                 "column": 3,
                                 "character": "ꜳ
@@ -25,7 +23,6 @@
                             
                                 {
                                 
-        number: 6 
                                 "row": 1,
                                 "column": 3,
                                 "character": "Ꜵ
@@ -33,7 +30,6 @@
                             
                                 {
                                 
-        number: 8 
                                 "row": 1,
                                 "column": 3,
                                 "character": "ꜵ
@@ -41,7 +37,6 @@
                             
                                 {
                                 
-        number: 10 
                                 "row": 1,
                                 "column": 3,
                                 "character": "Ꜷ
@@ -49,7 +44,6 @@
                             
                                 {
                                 
-        number: 12 
                                 "row": 1,
                                 "column": 3,
                                 "character": "ꜷ
@@ -57,7 +51,6 @@
                             
                                 {
                                 
-        number: 14 
                                 "row": 1,
                                 "column": 3,
                                 "character": "Ꜹ
@@ -65,7 +58,6 @@
                             
                                 {
                                 
-        number: 16 
                                 "row": 1,
                                 "column": 3,
                                 "character": "ꜹ
@@ -73,7 +65,6 @@
                             
                                 {
                                 
-        number: 18 
                                 "row": 1,
                                 "column": 3,
                                 "character": "Ꜻ
@@ -81,7 +72,6 @@
                             
                                 {
                                 
-        number: 20 
                                 "row": 1,
                                 "column": 3,
                                 "character": "ꜻ
@@ -89,7 +79,6 @@
                             
                                 {
                                 
-        number: 22 
                                 "row": 1,
                                 "column": 3,
                                 "character": "Ꜽ
@@ -97,15 +86,13 @@
                             
                                 {
                                 
-        number: 24
                                 "row": 1,
                                 "column": 3,
                                 "character": "ꜽ
                                  }
-                            ,
+                            
                                 {
                                 
-        number: 2 
                                 "row": 1,
                                 "column": 3,
                                 "character": "ꝱ
@@ -113,7 +100,6 @@
                             
                                 {
                                 
-        number: 4 
                                 "row": 1,
                                 "column": 3,
                                 "character": "Ꝺ
@@ -121,15 +107,13 @@
                             
                                 {
                                 
-        number: 6
                                 "row": 1,
                                 "column": 3,
                                 "character": "ꝺ
                                  }
-                            ,
+                            
                                 {
                                 
-        number: 2 
                                 "row": 1,
                                 "column": 3,
                                 "character": "ꜰ
@@ -137,7 +121,6 @@
                             
                                 {
                                 
-        number: 4 
                                 "row": 1,
                                 "column": 3,
                                 "character": "Ꝼ
@@ -145,7 +128,6 @@
                             
                                 {
                                 
-        number: 6 
                                 "row": 1,
                                 "column": 3,
                                 "character": "ꝼ
@@ -153,15 +135,13 @@
                             
                                 {
                                 
-        number: 8
                                 "row": 1,
                                 "column": 3,
                                 "character": "ꟻ
                                  }
-                            ,
+                            
                                 {
                                 
-        number: 2 
                                 "row": 1,
                                 "column": 3,
                                 "character": "Ᵹ
@@ -169,7 +149,6 @@
                             
                                 {
                                 
-        number: 4 
                                 "row": 1,
                                 "column": 3,
                                 "character": "Ꝿ
@@ -177,23 +156,20 @@
                             
                                 {
                                 
-        number: 6
                                 "row": 1,
                                 "column": 3,
                                 "character": "ꝿ
                                  }
-                            ,
+                            
                                 {
                                 
-        number: 2
                                 "row": 1,
                                 "column": 3,
                                 "character": "ꟾ
                                  }
-                            ,
+                            
                                 {
                                 
-        number: 2 
                                 "row": 1,
                                 "column": 3,
                                 "character": "Ꝁ
@@ -201,7 +177,6 @@
                             
                                 {
                                 
-        number: 4 
                                 "row": 1,
                                 "column": 3,
                                 "character": "ꝁ
@@ -209,7 +184,6 @@
                             
                                 {
                                 
-        number: 6 
                                 "row": 1,
                                 "column": 3,
                                 "character": "Ꝃ
@@ -217,7 +191,6 @@
                             
                                 {
                                 
-        number: 8 
                                 "row": 1,
                                 "column": 3,
                                 "character": "ꝃ
@@ -225,7 +198,6 @@
                             
                                 {
                                 
-        number: 10 
                                 "row": 1,
                                 "column": 3,
                                 "character": "Ꝅ
@@ -233,15 +205,13 @@
                             
                                 {
                                 
-        number: 12
                                 "row": 1,
                                 "column": 3,
                                 "character": "ꝅ
                                  }
-                            ,
+                            
                                 {
                                 
-        number: 2 
                                 "row": 1,
                                 "column": 3,
                                 "character": "Ꝇ
@@ -249,7 +219,6 @@
                             
                                 {
                                 
-        number: 4 
                                 "row": 1,
                                 "column": 3,
                                 "character": "ꝇ
@@ -257,7 +226,6 @@
                             
                                 {
                                 
-        number: 6 
                                 "row": 1,
                                 "column": 3,
                                 "character": "Ꝉ
@@ -265,7 +233,6 @@
                             
                                 {
                                 
-        number: 8 
                                 "row": 1,
                                 "column": 3,
                                 "character": "ꝉ
@@ -273,7 +240,6 @@
                             
                                 {
                                 
-        number: 10 
                                 "row": 1,
                                 "column": 3,
                                 "character": "ꝲ
@@ -281,7 +247,6 @@
                             
                                 {
                                 
-        number: 12 
                                 "row": 1,
                                 "column": 3,
                                 "character": "Ꞁ
@@ -289,15 +254,13 @@
                             
                                 {
                                 
-        number: 14
                                 "row": 1,
                                 "column": 3,
                                 "character": "ꞁ
                                  }
-                            ,
+                            
                                 {
                                 
-        number: 2 
                                 "row": 1,
                                 "column": 3,
                                 "character": "ꝳ
@@ -305,7 +268,6 @@
                             
                                 {
                                 
-        number: 4 
                                 "row": 1,
                                 "column": 3,
                                 "character": "ꟽ
@@ -313,23 +275,20 @@
                             
                                 {
                                 
-        number: 6
                                 "row": 1,
                                 "column": 3,
                                 "character": "ꟿ
                                  }
-                            ,
+                            
                                 {
                                 
-        number: 2
                                 "row": 1,
                                 "column": 3,
                                 "character": "ꝴ
                                  }
-                            ,
+                            
                                 {
                                 
-        number: 2 
                                 "row": 1,
                                 "column": 3,
                                 "character": "Ꝍ
@@ -337,7 +296,6 @@
                             
                                 {
                                 
-        number: 4 
                                 "row": 1,
                                 "column": 3,
                                 "character": "ꝍ
@@ -345,7 +303,6 @@
                             
                                 {
                                 
-        number: 6 
                                 "row": 1,
                                 "column": 3,
                                 "character": "Ꝏ
@@ -353,15 +310,13 @@
                             
                                 {
                                 
-        number: 8
                                 "row": 1,
                                 "column": 3,
                                 "character": "ꝏ
                                  }
-                            ,
+                            
                                 {
                                 
-        number: 2 
                                 "row": 1,
                                 "column": 3,
                                 "character": "Ꝑ
@@ -369,7 +324,6 @@
                             
                                 {
                                 
-        number: 4 
                                 "row": 1,
                                 "column": 3,
                                 "character": "ꝑ
@@ -377,7 +331,6 @@
                             
                                 {
                                 
-        number: 6 
                                 "row": 1,
                                 "column": 3,
                                 "character": "Ꝓ
@@ -385,7 +338,6 @@
                             
                                 {
                                 
-        number: 8 
                                 "row": 1,
                                 "column": 3,
                                 "character": "ꝓ
@@ -393,7 +345,6 @@
                             
                                 {
                                 
-        number: 10 
                                 "row": 1,
                                 "column": 3,
                                 "character": "Ꝕ
@@ -401,7 +352,6 @@
                             
                                 {
                                 
-        number: 12 
                                 "row": 1,
                                 "column": 3,
                                 "character": "ꝕ
@@ -409,15 +359,13 @@
                             
                                 {
                                 
-        number: 14
                                 "row": 1,
                                 "column": 3,
                                 "character": "ꟼ
                                  }
-                            ,
+                            
                                 {
                                 
-        number: 2 
                                 "row": 1,
                                 "column": 3,
                                 "character": "Ꝗ
@@ -425,7 +373,6 @@
                             
                                 {
                                 
-        number: 4 
                                 "row": 1,
                                 "column": 3,
                                 "character": "ꝗ
@@ -433,7 +380,6 @@
                             
                                 {
                                 
-        number: 6 
                                 "row": 1,
                                 "column": 3,
                                 "character": "Ꝙ
@@ -441,15 +387,13 @@
                             
                                 {
                                 
-        number: 8
                                 "row": 1,
                                 "column": 3,
                                 "character": "ꝙ
                                  }
-                            ,
+                            
                                 {
                                 
-        number: 2 
                                 "row": 1,
                                 "column": 3,
                                 "character": "Ꝛ
@@ -457,7 +401,6 @@
                             
                                 {
                                 
-        number: 4 
                                 "row": 1,
                                 "column": 3,
                                 "character": "ꝛ
@@ -465,7 +408,6 @@
                             
                                 {
                                 
-        number: 6 
                                 "row": 1,
                                 "column": 3,
                                 "character": "ꝵ
@@ -473,7 +415,6 @@
                             
                                 {
                                 
-        number: 8 
                                 "row": 1,
                                 "column": 3,
                                 "character": "ꝶ
@@ -481,7 +422,6 @@
                             
                                 {
                                 
-        number: 10 
                                 "row": 1,
                                 "column": 3,
                                 "character": "Ꞃ
@@ -489,15 +429,13 @@
                             
                                 {
                                 
-        number: 12
                                 "row": 1,
                                 "column": 3,
                                 "character": "ꞃ
                                  }
-                            ,
+                            
                                 {
                                 
-        number: 2 
                                 "row": 1,
                                 "column": 3,
                                 "character": "ꜱ
@@ -505,7 +443,6 @@
                             
                                 {
                                 
-        number: 4 
                                 "row": 1,
                                 "column": 3,
                                 "character": "Ꞅ
@@ -513,15 +450,13 @@
                             
                                 {
                                 
-        number: 6
                                 "row": 1,
                                 "column": 3,
                                 "character": "ꞅ
                                  }
-                            ,
+                            
                                 {
                                 
-        number: 2 
                                 "row": 1,
                                 "column": 3,
                                 "character": "ꝷ
@@ -529,7 +464,6 @@
                             
                                 {
                                 
-        number: 4 
                                 "row": 1,
                                 "column": 3,
                                 "character": "Ꞇ
@@ -537,15 +471,13 @@
                             
                                 {
                                 
-        number: 6
                                 "row": 1,
                                 "column": 3,
                                 "character": "ꞇ
                                  }
-                            ,
+                            
                                 {
                                 
-        number: 2 
                                 "row": 1,
                                 "column": 3,
                                 "character": "Ꝟ
@@ -553,7 +485,6 @@
                             
                                 {
                                 
-        number: 4 
                                 "row": 1,
                                 "column": 3,
                                 "character": "ꝟ
@@ -561,7 +492,6 @@
                             
                                 {
                                 
-        number: 6 
                                 "row": 1,
                                 "column": 3,
                                 "character": "Ꝩ
@@ -569,15 +499,13 @@
                             
                                 {
                                 
-        number: 8
                                 "row": 1,
                                 "column": 3,
                                 "character": "ꝩ
                                  }
-                            ,
+                            
                                 {
                                 
-        number: 2 
                                 "row": 1,
                                 "column": 3,
                                 "character": "Ꝡ
@@ -585,15 +513,13 @@
                             
                                 {
                                 
-        number: 4
                                 "row": 1,
                                 "column": 3,
                                 "character": "ꝡ
                                  }
-                            ,
+                            
                                 {
                                 
-        number: 2 
                                 "row": 1,
                                 "column": 3,
                                 "character": "Ꝣ
@@ -601,15 +527,13 @@
                             
                                 {
                                 
-        number: 4
                                 "row": 1,
                                 "column": 3,
                                 "character": "ꝣ
                                  }
-                            ,
+                            
                                 {
                                 
-        number: 2 
                                 "row": 1,
                                 "column": 3,
                                 "character": "Ꜿ
@@ -617,7 +541,6 @@
                             
                                 {
                                 
-        number: 4 
                                 "row": 1,
                                 "column": 3,
                                 "character": "ꜿ
@@ -625,7 +548,6 @@
                             
                                 {
                                 
-        number: 6 
                                 "row": 1,
                                 "column": 3,
                                 "character": "Ꝋ
@@ -633,7 +555,6 @@
                             
                                 {
                                 
-        number: 8 
                                 "row": 1,
                                 "column": 3,
                                 "character": "ꝋ
@@ -641,7 +562,6 @@
                             
                                 {
                                 
-        number: 10 
                                 "row": 1,
                                 "column": 3,
                                 "character": "Ꝝ
@@ -649,7 +569,6 @@
                             
                                 {
                                 
-        number: 12 
                                 "row": 1,
                                 "column": 3,
                                 "character": "ꝝ
@@ -657,7 +576,6 @@
                             
                                 {
                                 
-        number: 14 
                                 "row": 1,
                                 "column": 3,
                                 "character": "Ꝫ
@@ -665,7 +583,6 @@
                             
                                 {
                                 
-        number: 16 
                                 "row": 1,
                                 "column": 3,
                                 "character": "ꝫ
@@ -673,7 +590,6 @@
                             
                                 {
                                 
-        number: 18 
                                 "row": 1,
                                 "column": 3,
                                 "character": "Ꝭ
@@ -681,7 +597,6 @@
                             
                                 {
                                 
-        number: 20 
                                 "row": 1,
                                 "column": 3,
                                 "character": "ꝭ
@@ -689,7 +604,6 @@
                             
                                 {
                                 
-        number: 22 
                                 "row": 1,
                                 "column": 3,
                                 "character": "Ꝯ
@@ -697,7 +611,6 @@
                             
                                 {
                                 
-        number: 24 
                                 "row": 1,
                                 "column": 3,
                                 "character": "ꝯ
@@ -705,7 +618,6 @@
                             
                                 {
                                 
-        number: 26 
                                 "row": 1,
                                 "column": 3,
                                 "character": "ꝰ
@@ -713,12 +625,11 @@
                             
                                 {
                                 
-        number: 28
                                 "row": 1,
                                 "column": 3,
                                 "character": "ꝸ
                                  }
-                            ,
+                            
                                 {
                                 
                                 "row": 1,

@@ -9,7 +9,6 @@
                 
                                 {
                                 
-        number: 2 
                                 "row": 1,
                                 "column": 3,
                                 "character": "
@@ -17,7 +16,6 @@
                             
                                 {
                                 
-        number: 4 
                                 "row": 1,
                                 "column": 3,
                                 "character": "
@@ -25,15 +23,13 @@
                             
                                 {
                                 
-        number: 6
                                 "row": 1,
                                 "column": 3,
                                 "character": "
                                  }
-                            ,
+                            
                                 {
                                 
-        number: 2 
                                 "row": 1,
                                 "column": 3,
                                 "character": "
@@ -41,12 +37,11 @@
                             
                                 {
                                 
-        number: 4
                                 "row": 1,
                                 "column": 3,
                                 "character": "
                                  }
-                            ,
+                            
                                 {
                                 
                                 "row": 1,
