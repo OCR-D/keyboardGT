@@ -226,7 +226,7 @@ Names
                 </line></xsl:variable>
                 <xsl:message select="$keys"/>
                 <xsl:for-each select="$keys/line[fn:position() &lt; last()]">
-                    <xsl:apply-templates/><xsl:text disable-output-escaping="yes">,&#xD;</xsl:text>
+                    <xsl:apply-templates/><!--<xsl:text disable-output-escaping="yes">,&#xD;</xsl:text>-->
                 </xsl:for-each>
                 <xsl:value-of select="$keys/line[position()=last()]"/>
                 ]}
@@ -309,7 +309,7 @@ Names
     
     
     <xsl:template match="//sp">
-        number: <xsl:number count="." format="1" />
+        number3: <xsl:number value="position()" format="1" />
         <xsl:choose>
             <xsl:when test="following-sibling::sp">
                 <xsl:text> </xsl:text>
