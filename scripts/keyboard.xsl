@@ -52,6 +52,20 @@
         </xsl:element>
     </xsl:template>
 
+<!-- 
+Keyboards
+    kb  = Keyborad Aletheia
+    tkb = Keyborad Transkribus
+    lkb = Keyborad Larex
+    qkb = Keyboard Qurator-neat
+    ekb = Keyboard escriptorium
+
+
+Names
+    kb-table Keyboard Table (listed the different Keyboards)
+
+    -->
+
 
     <xsl:template match="$MUFIEXPORT//fn:array" name="kb">
         <xsl:for-each-group select="$MUFIEXPORT//fn:map" group-by="fn:string[@key = 'range']">
@@ -159,11 +173,6 @@
     </xsl:template>
     
     
-    
-    
-    
-    
-    
     <xsl:template match="$MUFIEXPORT//fn:array" name="qkb">
         <xsl:for-each-group select="$MUFIEXPORT//fn:map" group-by="fn:string[@key = 'range']">
             <xsl:sort select="fn:current-grouping-key()"/>
@@ -183,6 +192,77 @@
         </xsl:for-each-group>
     </xsl:template>
     
+    
+    <xsl:template match="$MUFIEXPORT//fn:array" name="ekb">
+    <!-- 
+    {
+    "version": "0.1",
+    "name": "demo",
+    "author": "Teklia <team@teklia.com>",
+    "characters": [
+        {
+            "row": 0,
+            "column": 0,
+            "character": "ᗅ",
+            "keyboard_code": 65
+        },
+        {
+            "row": 0,
+            "column": 2,
+            "character": "ᑕ",
+            "keyboard_code": 67
+        },
+        {
+            "row": 0,
+            "column": 3,
+            "character": "ᗞ",
+            "keyboard_code": 68
+        },
+        {
+            "row": 1,
+            "column": 1,
+            "character": "ᗷ",
+            "keyboard_code": null
+        },
+        {
+            "row": 1,
+            "column": 3,
+            "character": "⅐"
+        }
+    ]
+}
+    -->
+        <xsl:for-each-group select="$MUFIEXPORT//fn:map" group-by="fn:string[@key = 'range']">
+            <xsl:sort select="fn:current-grouping-key()"/>
+            <xsl:result-document href="ghout/keyboards/escriptorium/{fn:current-grouping-key()}.json">
+                
+                "version": "0.1",
+                "name": "<xsl:value-of select="fn:current-grouping-key()"/>",
+                "author": "tboenig boenig@bbaw.de",
+                "characters": [
+                {
+                <xsl:variable name="keys">
+                    <xsl:for-each-group select="fn:current-group()" group-by="fn:string[@key = 'alpha']">
+                        <xsl:sort order="ascending" select="fn:string[@key = 'alpha']"/>
+                        <line><xsl:for-each select="fn:current-group()">\u<xsl:value-of select="fn:string[@key = 'codepoint']"/><sp/></xsl:for-each></line>
+                    </xsl:for-each-group>
+                </xsl:variable>
+                
+                <xsl:for-each select="$keys/line[fn:position() &lt; last()]">
+                    "<xsl:apply-templates/><xsl:text disable-output-escaping="yes">",&#xD;</xsl:text>
+                </xsl:for-each>
+                "<xsl:value-of select="$keys/line[position()=last()]"/> {bksp}"]}
+            </xsl:result-document>
+    
+    
+    
+    
+    </xsl:template>
+    
+    
+    
+    
+    
     <xsl:template match="sp">
         <xsl:choose>
             <xsl:when test="following-sibling::sp">
@@ -197,6 +277,7 @@
     
 
     <xsl:template match="$MUFIEXPORT//fn:array" name="kb-table">
+        <xsl:message select="$MUFIEXPORT"/>
         <link rel="stylesheet" href="table_hide.css"/>
         <link rel="stylesheet" type="text/css"
             href="https://cdn.datatables.net/1.11.4/css/jquery.dataTables.css"/>
@@ -379,6 +460,15 @@
                                 <xsl:value-of select="fn:current-grouping-key()"/>
                             </xsl:element>
                         </xsl:element>
+                        <xsl:element name="td">
+                            <xsl:element name="a">
+                                <xsl:attribute name="href">keyboards/escriptorium/<xsl:value-of
+                                    select="fn:current-grouping-key()"/>.json</xsl:attribute>
+                                <xsl:attribute name="target">_blank</xsl:attribute>
+                                <xsl:value-of select="fn:current-grouping-key()"/>
+                            </xsl:element>
+                        </xsl:element>
+
                         <xsl:element name="td">
                                 <xsl:text disable-output-escaping="yes">&lt;a href="</xsl:text><xsl:value-of
                                     select="$link" disable-output-escaping="yes"/>"
