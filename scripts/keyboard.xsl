@@ -213,7 +213,7 @@ Names
                         
                             <xsl:for-each select="fn:current-group()">
                                 {
-                                <sp>a</sp>
+                                <sp/>
                                 "number:" <xsl:number value="position()" format="1" />
                                 "row": 1,
                                 "column": 3,
@@ -225,7 +225,7 @@ Names
                 </line></xsl:variable>
                 <xsl:message select="$keys"/>
                 <xsl:for-each select="$keys/line[fn:position() &lt; last()]">
-                    number3: <xsl:number value="$keys/line/sp/position()" format="1" />
+                    number3: <xsl:number value="sp[position()]" format="1" />
                     <xsl:apply-templates/><!--<xsl:text disable-output-escaping="yes">,&#xD;</xsl:text>-->
                 </xsl:for-each>
                 <xsl:value-of select="$keys/line[position()=last()]"/>
