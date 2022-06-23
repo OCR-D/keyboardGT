@@ -2,23 +2,23 @@
             'PUA-20': [
                 
                     "\uE042
-        number3: 2 \uE442
-        number3: 4 \uE8D5
-        number3: 6 \uEFFE
-        number3: 8 \uEFFF
+        number3: 2\uE442
+        number3: 4\uE8D5
+        number3: 6\uEFFE
+        number3: 8\uEFFF
         number3: 10",
                     "\uEBE2
-        number3: 2 \uEBE3
+        number3: 2\uEBE3
         number3: 4",
                     "\uE8D7
-        number3: 2 \uEBE4
-        number3: 4 \uEBE5
+        number3: 2\uEBE4
+        number3: 4\uEBE5
         number3: 6",
                     "\uEBE6
-        number3: 2 \uEBE7
+        number3: 2\uEBE7
         number3: 4",
                     "\uE342
-        number3: 2 \uE742
+        number3: 2\uE742
         number3: 4",
                     "\uEBE8\uEBE9 {bksp}"]
             

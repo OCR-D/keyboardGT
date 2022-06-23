@@ -2,26 +2,26 @@
             'PUA-21': [
                 
                     "\uE033
-        number3: 2 \uE433
-        number3: 4 \uEBEA
-        number3: 6 \uEBEB
+        number3: 2\uE433
+        number3: 4\uEBEA
+        number3: 6\uEBEB
         number3: 8",
                     "\uE0E9
-        number3: 2 \uE4E9
+        number3: 2\uE4E9
         number3: 4",
                     "\uE12A
-        number3: 2 \uE52A
+        number3: 2\uE52A
         number3: 4",
                     "\uE163
-        number3: 2 \uE563
+        number3: 2\uE563
         number3: 4",
                     "\uE3D3
-        number3: 2 \uE3D4
-        number3: 4 \uE7D3
-        number3: 6 \uE7D4
+        number3: 2\uE3D4
+        number3: 4\uE7D3
+        number3: 6\uE7D4
         number3: 8",
                     "\uE331
-        number3: 2 \uE731
+        number3: 2\uE731
         number3: 4",
                     "\uE385\uE785 {bksp}"]
             

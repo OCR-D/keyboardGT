@@ -2,92 +2,92 @@
             'PUA-31': [
                 
                     "\uE02C
-        number3: 2 \uE42C
-        number3: 4 \uE42D
-        number3: 6 \uE42E
-        number3: 8 \uE435
-        number3: 10 \uE8E0
+        number3: 2\uE42C
+        number3: 4\uE42D
+        number3: 6\uE42E
+        number3: 8\uE435
+        number3: 10\uE8E0
         number3: 12",
                     "\uF056
-        number3: 2 \uF057
-        number3: 4 \uF059
-        number3: 6 \uF05A
-        number3: 8 \uF05D
+        number3: 2\uF057
+        number3: 4\uF059
+        number3: 6\uF05A
+        number3: 8\uF05D
         number3: 10",
                     "\uF096
-        number3: 2 \uF097
-        number3: 4 \uF099
-        number3: 6 \uF09A
-        number3: 8 \uF09B
-        number3: 10 \uF09F
-        number3: 12 \uF0A7
-        number3: 14 \uF0A8
-        number3: 16 \uF0AA
-        number3: 18 \uF0AB
-        number3: 20 \uF0AE
+        number3: 2\uF097
+        number3: 4\uF099
+        number3: 6\uF09A
+        number3: 8\uF09B
+        number3: 10\uF09F
+        number3: 12\uF0A7
+        number3: 14\uF0A8
+        number3: 16\uF0AA
+        number3: 18\uF0AB
+        number3: 20\uF0AE
         number3: 22",
                     "\uE0E1
-        number3: 2 \uE4E1
-        number3: 4 \uE4E2
-        number3: 6 \uE4E3
-        number3: 8 \uE4F1
-        number3: 10 \uE4F2
+        number3: 2\uE4E1
+        number3: 4\uE4E2
+        number3: 6\uE4E3
+        number3: 8\uE4F1
+        number3: 10\uE4F2
         number3: 12",
                     "\uF065
-        number3: 2 \uF066
-        number3: 4 \uF067
-        number3: 6 \uF068
-        number3: 8 \uF069
-        number3: 10 \uF06A
-        number3: 12 \uF06D
-        number3: 14 \uF06E
+        number3: 2\uF066
+        number3: 4\uF067
+        number3: 6\uF068
+        number3: 8\uF069
+        number3: 10\uF06A
+        number3: 12\uF06D
+        number3: 14\uF06E
         number3: 16",
                     "\uE54A
-        number3: 2 \uE54B
-        number3: 4 \uE732
-        number3: 6 \uE8E5
-        number3: 8 \uE8E6
+        number3: 2\uE54B
+        number3: 4\uE732
+        number3: 6\uE8E5
+        number3: 8\uE8E6
         number3: 10",
                     "\uE8E7
         number3: 2",
                     "\uF075
-        number3: 2 \uF076
-        number3: 4 \uF077
-        number3: 6 \uF079
-        number3: 8 \uF07A
-        number3: 10 \uF07B
-        number3: 12 \uF07D
-        number3: 14 \uF07F
+        number3: 2\uF076
+        number3: 4\uF077
+        number3: 6\uF079
+        number3: 8\uF07A
+        number3: 10\uF07B
+        number3: 12\uF07D
+        number3: 14\uF07F
         number3: 16",
                     "\uE8E8
         number3: 2",
                     "\uE244
-        number3: 2 \uE246
-        number3: 4 \uE643
-        number3: 6 \uE644
-        number3: 8 \uE645
-        number3: 10 \uE646
-        number3: 12 \uE647
-        number3: 14 \uE8E9
+        number3: 2\uE246
+        number3: 4\uE643
+        number3: 6\uE644
+        number3: 8\uE645
+        number3: 10\uE646
+        number3: 12\uE647
+        number3: 14\uE8E9
         number3: 16",
                     "\uE8EA
         number3: 2",
                     "\uE32B
-        number3: 2 \uE32D
-        number3: 4 \uE72B
-        number3: 6 \uE72C
-        number3: 8 \uE72D
-        number3: 10 \uE8EB
-        number3: 12 \uE8EC
-        number3: 14 \uE8ED
+        number3: 2\uE32D
+        number3: 4\uE72B
+        number3: 6\uE72C
+        number3: 8\uE72D
+        number3: 10\uE8EB
+        number3: 12\uE8EC
+        number3: 14\uE8ED
         number3: 16",
                     "\uE353
-        number3: 2 \uE753
-        number3: 4 \uE754
-        number3: 6 \uE771
-        number3: 8 \uE8F0
-        number3: 10 \uE8F2
-        number3: 12 \uE8F3
+        number3: 2\uE753
+        number3: 4\uE754
+        number3: 6\uE771
+        number3: 8\uE8F0
+        number3: 10\uE8F2
+        number3: 12\uE8F3
         number3: 14",
                     "\uE781
         number3: 2",

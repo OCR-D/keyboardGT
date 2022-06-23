@@ -2,88 +2,88 @@
             'LatExtA': [
                 
                     "\u0100
-        number3: 2 \u0101
-        number3: 4 \u0102
-        number3: 6 \u0103
-        number3: 8 \u0104
-        number3: 10 \u0105
+        number3: 2\u0101
+        number3: 4\u0102
+        number3: 6\u0103
+        number3: 8\u0104
+        number3: 10\u0105
         number3: 12",
                     "\u0106
-        number3: 2 \u0107
-        number3: 4 \u010A
-        number3: 6 \u010B
+        number3: 2\u0107
+        number3: 4\u010A
+        number3: 6\u010B
         number3: 8",
                     "\u0110
-        number3: 2 \u0111
+        number3: 2\u0111
         number3: 4",
                     "\u0112
-        number3: 2 \u0113
-        number3: 4 \u0114
-        number3: 6 \u0115
-        number3: 8 \u0116
-        number3: 10 \u0117
-        number3: 12 \u0118
-        number3: 14 \u0119
+        number3: 2\u0113
+        number3: 4\u0114
+        number3: 6\u0115
+        number3: 8\u0116
+        number3: 10\u0117
+        number3: 12\u0118
+        number3: 14\u0119
         number3: 16",
                     "\u0120
-        number3: 2 \u0121
+        number3: 2\u0121
         number3: 4",
                     "\u0127
         number3: 2",
                     "\u012A
-        number3: 2 \u012B
-        number3: 4 \u012C
-        number3: 6 \u012D
-        number3: 8 \u012E
-        number3: 10 \u012F
-        number3: 12 \u0130
-        number3: 14 \u0131
-        number3: 16 \u0132
-        number3: 18 \u0133
+        number3: 2\u012B
+        number3: 4\u012C
+        number3: 6\u012D
+        number3: 8\u012E
+        number3: 10\u012F
+        number3: 12\u0130
+        number3: 14\u0131
+        number3: 16\u0132
+        number3: 18\u0133
         number3: 20",
                     "\u0139
-        number3: 2 \u013A
-        number3: 4 \u0141
-        number3: 6 \u0142
+        number3: 2\u013A
+        number3: 4\u0141
+        number3: 6\u0142
         number3: 8",
                     "\u0143
-        number3: 2 \u0144
-        number3: 4 \u014A
-        number3: 6 \u014B
+        number3: 2\u0144
+        number3: 4\u014A
+        number3: 6\u014B
         number3: 8",
                     "\u014C
-        number3: 2 \u014D
-        number3: 4 \u014E
-        number3: 6 \u014F
-        number3: 8 \u0150
-        number3: 10 \u0151
-        number3: 12 \u0152
-        number3: 14 \u0153
+        number3: 2\u014D
+        number3: 4\u014E
+        number3: 6\u014F
+        number3: 8\u0150
+        number3: 10\u0151
+        number3: 12\u0152
+        number3: 14\u0153
         number3: 16",
                     "\u0154
-        number3: 2 \u0155
+        number3: 2\u0155
         number3: 4",
                     "\u015A
-        number3: 2 \u015B
-        number3: 4 \u017F
+        number3: 2\u015B
+        number3: 4\u017F
         number3: 6",
                     "\u016A
-        number3: 2 \u016B
-        number3: 4 \u016C
-        number3: 6 \u016D
-        number3: 8 \u016E
-        number3: 10 \u016F
-        number3: 12 \u0170
-        number3: 14 \u0171
-        number3: 16 \u0172
-        number3: 18 \u0173
+        number3: 2\u016B
+        number3: 4\u016C
+        number3: 6\u016D
+        number3: 8\u016E
+        number3: 10\u016F
+        number3: 12\u0170
+        number3: 14\u0171
+        number3: 16\u0172
+        number3: 18\u0173
         number3: 20",
                     "\u0174
-        number3: 2 \u0175
+        number3: 2\u0175
         number3: 4",
                     "\u0176
-        number3: 2 \u0177
-        number3: 4 \u0178
+        number3: 2\u0177
+        number3: 4\u0178
         number3: 6",
                     "\u017B\u017C {bksp}"]
             

@@ -6,36 +6,36 @@
                     "\uE8DF
         number3: 2",
                     "\uE7C7
-        number3: 2 \uEBAD
+        number3: 2\uEBAD
         number3: 4",
                     "\uE8A1
-        number3: 2 \uE8DD
+        number3: 2\uE8DD
         number3: 4",
                     "\uE8A2
         number3: 2",
                     "\uE7C8
-        number3: 2 \uEBAE
+        number3: 2\uEBAE
         number3: 4",
                     "\uE8DE
         number3: 2",
                     "\uE8DC
         number3: 2",
                     "\uE8B3
-        number3: 2 \uE8B4
-        number3: 4 \uE8BF
+        number3: 2\uE8B4
+        number3: 4\uE8BF
         number3: 6",
                     "\uE7E4
         number3: 2",
                     "\uE8B7
-        number3: 2 \uE8B8
+        number3: 2\uE8B8
         number3: 4",
                     "\uE8BA
-        number3: 2 \uE8BB
-        number3: 4 \uE8BC
+        number3: 2\uE8BB
+        number3: 4\uE8BC
         number3: 6",
                     "\uE8BD
-        number3: 2 \uE8BE
-        number3: 4 \uE8CE
+        number3: 2\uE8BE
+        number3: 4\uE8CE
         number3: 6",
                     "\uE8DB
         number3: 2",

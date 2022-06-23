@@ -14,7 +14,7 @@
                     "\u16A5
         number3: 2",
                     "\u16A3
-        number3: 2 \u16A4
+        number3: 2\u16A4
         number3: 4",
                     "\u16D8
         number3: 2",

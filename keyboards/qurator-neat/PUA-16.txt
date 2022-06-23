@@ -2,54 +2,54 @@
             'PUA-16': [
                 
                     "\uEBB0
-        number3: 2 \uEBB1
-        number3: 4 \uEFE0
-        number3: 6 \uEFE1
-        number3: 8 \uEFE2
-        number3: 10 \uEFE3
-        number3: 12 \uEFE4
-        number3: 14 \uEFE5
-        number3: 16 \uEFE6
-        number3: 18 \uEFE7
+        number3: 2\uEBB1
+        number3: 4\uEFE0
+        number3: 6\uEFE1
+        number3: 8\uEFE2
+        number3: 10\uEFE3
+        number3: 12\uEFE4
+        number3: 14\uEFE5
+        number3: 16\uEFE6
+        number3: 18\uEFE7
         number3: 20",
                     "\uE044
-        number3: 2 \uE444
+        number3: 2\uE444
         number3: 4",
                     "\uE077
-        number3: 2 \uE477
-        number3: 4 \uEBB2
+        number3: 2\uE477
+        number3: 4\uEBB2
         number3: 6",
                     "\uE0F0
-        number3: 2 \uE4F0
-        number3: 4 \uEBB3
-        number3: 6 \uEBB4
+        number3: 2\uE4F0
+        number3: 4\uEBB3
+        number3: 6\uEBB4
         number3: 8",
                     "\uE116
-        number3: 2 \uE516
+        number3: 2\uE516
         number3: 4",
                     "\uE153
-        number3: 2 \uE553
+        number3: 2\uE553
         number3: 4",
                     "\uEBB5
-        number3: 2 \uEBB6
-        number3: 4 \uF23E
+        number3: 2\uEBB6
+        number3: 4\uF23E
         number3: 6",
                     "\uE259
-        number3: 2 \uE659
-        number3: 4 \uEFE8
-        number3: 6 \uEFE9
+        number3: 2\uE659
+        number3: 4\uEFE8
+        number3: 6\uEFE9
         number3: 8",
                     "\uEBB9
         number3: 2",
                     "\uEBAF
         number3: 2",
                     "\uE2E2
-        number3: 2 \uE6E2
+        number3: 2\uE6E2
         number3: 4",
                     "\uE33A
-        number3: 2 \uE73A
-        number3: 4 \uEBBA
-        number3: 6 \uEBBB
+        number3: 2\uE73A
+        number3: 4\uEBBA
+        number3: 6\uEBBB
         number3: 8",
                     "\uE737 {bksp}"]
             

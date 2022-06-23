@@ -8,41 +8,41 @@
                     "\uF7B5
         number3: 2",
                     "\uE491
-        number3: 2 \uF7B6
+        number3: 2\uF7B6
         number3: 4",
                     "\uE0BC
-        number3: 2 \uE4BC
+        number3: 2\uE4BC
         number3: 4",
                     "\uE517
         number3: 2",
                     "\uE150
-        number3: 2 \uE550
+        number3: 2\uE550
         number3: 4",
                     "\uE152
-        number3: 2 \uE154
-        number3: 4 \uE552
-        number3: 6 \uE554
+        number3: 2\uE154
+        number3: 4\uE552
+        number3: 6\uE554
         number3: 8",
                     "\uE7C3
         number3: 2",
                     "\uE58C
-        number3: 2 \uE596
-        number3: 4 \uE5B1
-        number3: 6 \uF7B4
+        number3: 2\uE596
+        number3: 4\uE5B1
+        number3: 6\uF7B4
         number3: 8",
                     "\uE1B8
-        number3: 2 \uE1D2
-        number3: 4 \uE5B8
-        number3: 6 \uE5D2
+        number3: 2\uE1D2
+        number3: 4\uE5B8
+        number3: 6\uE5D2
         number3: 8",
                     "\uE1DC
-        number3: 2 \uE5DC
+        number3: 2\uE5DC
         number3: 4",
                     "\uE252
-        number3: 2 \uE25D
-        number3: 4 \uE652
-        number3: 6 \uE65D
-        number3: 8 \uE7CC
+        number3: 2\uE25D
+        number3: 4\uE652
+        number3: 6\uE65D
+        number3: 8\uE7CC
         number3: 10",
                     "\uE665
         number3: 2",
@@ -51,18 +51,18 @@
                     "\uE79E
         number3: 2",
                     "\uE34D
-        number3: 2 \uE74D
-        number3: 4 \uF7B2
+        number3: 2\uE74D
+        number3: 4\uF7B2
         number3: 6",
                     "\uE357
-        number3: 2 \uE757
+        number3: 2\uE757
         number3: 4",
                     "\uF7B3
         number3: 2",
                     "\uF00A
-        number3: 2 \uF00B
-        number3: 4 \uF00C
-        number3: 6 \uF00D
+        number3: 2\uF00B
+        number3: 4\uF00C
+        number3: 6\uF00D
         number3: 8",
                     "\uF23F
         number3: 2",

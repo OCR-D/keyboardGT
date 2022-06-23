@@ -2,19 +2,19 @@
             'PUA-22': [
                 
                     "\uE040
-        number3: 2 \uE440
-        number3: 4 \uEBF0
-        number3: 6 \uEBF1
+        number3: 2\uE440
+        number3: 4\uEBF0
+        number3: 6\uEBF1
         number3: 8",
                     "\uE076
-        number3: 2 \uE476
+        number3: 2\uE476
         number3: 4",
                     "\uE8AD
         number3: 2",
                     "\uE255
-        number3: 2 \uE262
-        number3: 4 \uE655
-        number3: 6 \uE662
+        number3: 2\uE262
+        number3: 4\uE655
+        number3: 6\uE662
         number3: 8",
                     "\uE2EE\uE6EE {bksp}"]
             

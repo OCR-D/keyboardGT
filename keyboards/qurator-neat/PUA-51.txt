@@ -2,69 +2,69 @@
             'PUA-51': [
                 
                     "\uF13A
-        number3: 2 \uF200
-        number3: 4 \uF201
-        number3: 6 \uF202
-        number3: 8 \uF203
-        number3: 10 \uF214
-        number3: 12 \uF215
+        number3: 2\uF200
+        number3: 4\uF201
+        number3: 6\uF202
+        number3: 8\uF203
+        number3: 10\uF214
+        number3: 12\uF215
         number3: 14",
                     "\uF106
-        number3: 2 \uF198
+        number3: 2\uF198
         number3: 4",
                     "\uEEC6
-        number3: 2 \uF193
+        number3: 2\uF193
         number3: 4",
                     "\uF10A
-        number3: 2 \uF217
-        number3: 4 \uF218
-        number3: 6 \uF219
-        number3: 8 \uF21A
+        number3: 2\uF217
+        number3: 4\uF218
+        number3: 6\uF219
+        number3: 8\uF21A
         number3: 10",
                     "\uF194
-        number3: 2 \uF207
-        number3: 4 \uF21B
-        number3: 6 \uF21C
+        number3: 2\uF207
+        number3: 4\uF21B
+        number3: 6\uF21C
         number3: 8",
                     "\uF10E
-        number3: 2 \uF196
-        number3: 4 \uF21D
-        number3: 6 \uF21E
-        number3: 8 \uF21F
+        number3: 2\uF196
+        number3: 4\uF21D
+        number3: 6\uF21E
+        number3: 8\uF21F
         number3: 10",
                     "\uF110
-        number3: 2 \uF23A
+        number3: 2\uF23A
         number3: 4",
                     "\uF220
         number3: 2",
                     "\uF195
-        number3: 2 \uF208
-        number3: 4 \uF209
-        number3: 6 \uF221
+        number3: 2\uF208
+        number3: 4\uF209
+        number3: 6\uF221
         number3: 8",
                     "\uF222
         number3: 2",
                     "\uF11A
-        number3: 2 \uF223
-        number3: 4 \uF224
-        number3: 6 \uF225
-        number3: 8 \uF226
-        number3: 10 \uF23C
-        number3: 12 \uF23D
+        number3: 2\uF223
+        number3: 4\uF224
+        number3: 6\uF225
+        number3: 8\uF226
+        number3: 10\uF23C
+        number3: 12\uF23D
         number3: 14",
                     "\uF19A
-        number3: 2 \uF228
-        number3: 4 \uF229
-        number3: 6 \uF22A
-        number3: 8 \uF22B
+        number3: 2\uF228
+        number3: 4\uF229
+        number3: 6\uF22A
+        number3: 8\uF22B
         number3: 10",
                     "\uF22C
         number3: 2",
                     "\uF19B
         number3: 2",
                     "\uF126
-        number3: 2 \uF127
-        number3: 4 \uF128
+        number3: 2\uF127
+        number3: 4\uF128
         number3: 6",
                     "\uF199
         number3: 2",

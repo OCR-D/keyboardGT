@@ -2,22 +2,22 @@
             'SupSub': [
                 
                     "\u2070
-        number3: 2 \u2074
-        number3: 4 \u2075
-        number3: 6 \u2076
-        number3: 8 \u2077
-        number3: 10 \u2078
-        number3: 12 \u2079
-        number3: 14 \u2080
-        number3: 16 \u2081
-        number3: 18 \u2082
-        number3: 20 \u2083
-        number3: 22 \u2084
-        number3: 24 \u2085
-        number3: 26 \u2086
-        number3: 28 \u2087
-        number3: 30 \u2088
-        number3: 32 \u2089
+        number3: 2\u2074
+        number3: 4\u2075
+        number3: 6\u2076
+        number3: 8\u2077
+        number3: 10\u2078
+        number3: 12\u2079
+        number3: 14\u2080
+        number3: 16\u2081
+        number3: 18\u2082
+        number3: 20\u2083
+        number3: 22\u2084
+        number3: 24\u2085
+        number3: 26\u2086
+        number3: 28\u2087
+        number3: 30\u2088
+        number3: 32\u2089
         number3: 34",
                     "\u207B {bksp}"]
             

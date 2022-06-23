@@ -8,13 +8,13 @@
                     "\u0259
         number3: 2",
                     "\u0261
-        number3: 2 \u0262
+        number3: 2\u0262
         number3: 4",
                     "\u0266
-        number3: 2 \u029C
+        number3: 2\u029C
         number3: 4",
                     "\u0268
-        number3: 2 \u026A
+        number3: 2\u026A
         number3: 4",
                     "\u025F
         number3: 2",
@@ -23,13 +23,13 @@
                     "\u026F
         number3: 2",
                     "\u0272
-        number3: 2 \u0274
+        number3: 2\u0274
         number3: 4",
                     "\u0254
-        number3: 2 \u0276
+        number3: 2\u0276
         number3: 4",
                     "\u027C
-        number3: 2 \u0280
+        number3: 2\u0280
         number3: 4",
                     "\u0289
         number3: 2",

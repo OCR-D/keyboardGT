@@ -2,113 +2,113 @@
             'Lat1Suppl': [
                 
                     "\u00AA
-        number3: 2 \u00C0
-        number3: 4 \u00C1
-        number3: 6 \u00C2
-        number3: 8 \u00C3
-        number3: 10 \u00C4
-        number3: 12 \u00C5
-        number3: 14 \u00C6
-        number3: 16 \u00E0
-        number3: 18 \u00E1
-        number3: 20 \u00E2
-        number3: 22 \u00E3
-        number3: 24 \u00E4
-        number3: 26 \u00E5
-        number3: 28 \u00E6
+        number3: 2\u00C0
+        number3: 4\u00C1
+        number3: 6\u00C2
+        number3: 8\u00C3
+        number3: 10\u00C4
+        number3: 12\u00C5
+        number3: 14\u00C6
+        number3: 16\u00E0
+        number3: 18\u00E1
+        number3: 20\u00E2
+        number3: 22\u00E3
+        number3: 24\u00E4
+        number3: 26\u00E5
+        number3: 28\u00E6
         number3: 30",
                     "\u00C7
-        number3: 2 \u00E7
+        number3: 2\u00E7
         number3: 4",
                     "\u00D0
-        number3: 2 \u00F0
+        number3: 2\u00F0
         number3: 4",
                     "\u00C8
-        number3: 2 \u00C9
-        number3: 4 \u00CA
-        number3: 6 \u00CB
-        number3: 8 \u00E8
-        number3: 10 \u00E9
-        number3: 12 \u00EA
-        number3: 14 \u00EB
+        number3: 2\u00C9
+        number3: 4\u00CA
+        number3: 6\u00CB
+        number3: 8\u00E8
+        number3: 10\u00E9
+        number3: 12\u00EA
+        number3: 14\u00EB
         number3: 16",
                     "\u00CC
-        number3: 2 \u00CD
-        number3: 4 \u00CE
-        number3: 6 \u00CF
-        number3: 8 \u00EC
-        number3: 10 \u00ED
-        number3: 12 \u00EE
-        number3: 14 \u00EF
+        number3: 2\u00CD
+        number3: 4\u00CE
+        number3: 6\u00CF
+        number3: 8\u00EC
+        number3: 10\u00ED
+        number3: 12\u00EE
+        number3: 14\u00EF
         number3: 16",
                     "\u00D1
-        number3: 2 \u00F1
+        number3: 2\u00F1
         number3: 4",
                     "\u00BA
-        number3: 2 \u00D2
-        number3: 4 \u00D3
-        number3: 6 \u00D4
-        number3: 8 \u00D5
-        number3: 10 \u00D6
-        number3: 12 \u00D8
-        number3: 14 \u00F2
-        number3: 16 \u00F3
-        number3: 18 \u00F4
-        number3: 20 \u00F5
-        number3: 22 \u00F6
-        number3: 24 \u00F8
+        number3: 2\u00D2
+        number3: 4\u00D3
+        number3: 6\u00D4
+        number3: 8\u00D5
+        number3: 10\u00D6
+        number3: 12\u00D8
+        number3: 14\u00F2
+        number3: 16\u00F3
+        number3: 18\u00F4
+        number3: 20\u00F5
+        number3: 22\u00F6
+        number3: 24\u00F8
         number3: 26",
                     "\u00DF
         number3: 2",
                     "\u00D9
-        number3: 2 \u00DA
-        number3: 4 \u00DB
-        number3: 6 \u00DC
-        number3: 8 \u00F9
-        number3: 10 \u00FA
-        number3: 12 \u00FB
-        number3: 14 \u00FC
+        number3: 2\u00DA
+        number3: 4\u00DB
+        number3: 6\u00DC
+        number3: 8\u00F9
+        number3: 10\u00FA
+        number3: 12\u00FB
+        number3: 14\u00FC
         number3: 16",
                     "\u00DD
-        number3: 2 \u00FD
-        number3: 4 \u00FF
+        number3: 2\u00FD
+        number3: 4\u00FF
         number3: 6",
                     "\u00A0
-        number3: 2 \u00AD
+        number3: 2\u00AD
         number3: 4",
                     "\u00B2
-        number3: 2 \u00B3
-        number3: 4 \u00B9
-        number3: 6 \u00BC
-        number3: 8 \u00BD
-        number3: 10 \u00BE
+        number3: 2\u00B3
+        number3: 4\u00B9
+        number3: 6\u00BC
+        number3: 8\u00BD
+        number3: 10\u00BE
         number3: 12",
                     "\u00A1
-        number3: 2 \u00A6
-        number3: 4 \u00AB
-        number3: 6 \u00B7
-        number3: 8 \u00BB
-        number3: 10 \u00BF
+        number3: 2\u00A6
+        number3: 4\u00AB
+        number3: 6\u00B7
+        number3: 8\u00BB
+        number3: 10\u00BF
         number3: 12",
                     "\u00A8
-        number3: 2 \u00AF
-        number3: 4 \u00B4
-        number3: 6 \u00B8
+        number3: 2\u00AF
+        number3: 4\u00B4
+        number3: 6\u00B8
         number3: 8",
                     "\u00A2
-        number3: 2 \u00A3
-        number3: 4 \u00A4
-        number3: 6 \u00A5
-        number3: 8 \u00A7
-        number3: 10 \u00A9
-        number3: 12 \u00AC
-        number3: 14 \u00AE
-        number3: 16 \u00B0
-        number3: 18 \u00B1
-        number3: 20 \u00B5
-        number3: 22 \u00B6
-        number3: 24 \u00D7
-        number3: 26 \u00F7
+        number3: 2\u00A3
+        number3: 4\u00A4
+        number3: 6\u00A5
+        number3: 8\u00A7
+        number3: 10\u00A9
+        number3: 12\u00AC
+        number3: 14\u00AE
+        number3: 16\u00B0
+        number3: 18\u00B1
+        number3: 20\u00B5
+        number3: 22\u00B6
+        number3: 24\u00D7
+        number3: 26\u00F7
         number3: 28",
                     "\u00DE\u00FE {bksp}"]
             

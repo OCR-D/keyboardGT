@@ -2,12 +2,12 @@
             'PhonExt': [
                 
                     "\u1D00
-        number3: 2 \u1D01
+        number3: 2\u1D01
         number3: 4",
                     "\u1D04
         number3: 2",
                     "\u1D05
-        number3: 2 \u1D06
+        number3: 2\u1D06
         number3: 4",
                     "\u1D07
         number3: 2",
@@ -26,7 +26,7 @@
                     "\u1D1B
         number3: 2",
                     "\u1D1C
-        number3: 2 \u1D6B
+        number3: 2\u1D6B
         number3: 4",
                     "\u1D20
         number3: 2",

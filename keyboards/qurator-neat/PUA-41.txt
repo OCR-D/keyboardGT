@@ -4,7 +4,7 @@
                     "\uE41A
         number3: 2",
                     "\uE22D
-        number3: 2 \uE62D
+        number3: 2\uE62D
         number3: 4",
                     "\uE317\uE717 {bksp}"]
             
