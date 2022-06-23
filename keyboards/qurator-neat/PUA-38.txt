@@ -2,7 +2,7 @@
             'PUA-38': [
                 
                     "\uE0EB
-        number: 2 \uE4EB
-        number: 4",
+        number3: 2 \uE4EB
+        number3: 4",
                     "\uEBDE\uEBDF {bksp}"]
             

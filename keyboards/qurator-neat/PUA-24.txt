@@ -2,6 +2,6 @@
             'PUA-24': [
                 
                     "\uE548
-        number: 2",
+        number3: 2",
                     "\uE727 {bksp}"]
             

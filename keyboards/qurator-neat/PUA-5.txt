@@ -2,42 +2,42 @@
             'PUA-5': [
                 
                     "\uE8DA
-        number: 2",
+        number3: 2",
                     "\uE8DF
-        number: 2",
+        number3: 2",
                     "\uE7C7
-        number: 2 \uEBAD
-        number: 4",
+        number3: 2 \uEBAD
+        number3: 4",
                     "\uE8A1
-        number: 2 \uE8DD
-        number: 4",
+        number3: 2 \uE8DD
+        number3: 4",
                     "\uE8A2
-        number: 2",
+        number3: 2",
                     "\uE7C8
-        number: 2 \uEBAE
-        number: 4",
+        number3: 2 \uEBAE
+        number3: 4",
                     "\uE8DE
-        number: 2",
+        number3: 2",
                     "\uE8DC
-        number: 2",
+        number3: 2",
                     "\uE8B3
-        number: 2 \uE8B4
-        number: 4 \uE8BF
-        number: 6",
+        number3: 2 \uE8B4
+        number3: 4 \uE8BF
+        number3: 6",
                     "\uE7E4
-        number: 2",
+        number3: 2",
                     "\uE8B7
-        number: 2 \uE8B8
-        number: 4",
+        number3: 2 \uE8B8
+        number3: 4",
                     "\uE8BA
-        number: 2 \uE8BB
-        number: 4 \uE8BC
-        number: 6",
+        number3: 2 \uE8BB
+        number3: 4 \uE8BC
+        number3: 6",
                     "\uE8BD
-        number: 2 \uE8BE
-        number: 4 \uE8CE
-        number: 6",
+        number3: 2 \uE8BE
+        number3: 4 \uE8CE
+        number3: 6",
                     "\uE8DB
-        number: 2",
+        number3: 2",
                     "\uE337\uE734\uE735\uF149 {bksp}"]
             

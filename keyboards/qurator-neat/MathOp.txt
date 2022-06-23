@@ -2,12 +2,12 @@
             'MathOp': [
                 
                     "\u2234
-        number: 2 \u2235
-        number: 4 \u2237
-        number: 6 \u22D7
-        number: 8",
+        number3: 2 \u2235
+        number3: 4 \u2237
+        number3: 6 \u22D7
+        number3: 8",
                     "\u223B
-        number: 2 \u2248
-        number: 4",
+        number3: 2 \u2248
+        number3: 4",
                     "\u2212\u221E\u2227\u2260 {bksp}"]
             

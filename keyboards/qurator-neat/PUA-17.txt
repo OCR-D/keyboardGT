@@ -2,43 +2,43 @@
             'PUA-17': [
                 
                     "\uE025
-        number: 2 \uE041
-        number: 4 \uE425
-        number: 6 \uE441
-        number: 8 \uEBC0
-        number: 10 \uEBC1
-        number: 12 \uEBC2
-        number: 14 \uEBC3
-        number: 16 \uEFEA
-        number: 18 \uEFEB
-        number: 20",
+        number3: 2 \uE041
+        number3: 4 \uE425
+        number3: 6 \uE441
+        number3: 8 \uEBC0
+        number3: 10 \uEBC1
+        number3: 12 \uEBC2
+        number3: 14 \uEBC3
+        number3: 16 \uEFEA
+        number3: 18 \uEFEB
+        number3: 20",
                     "\uE0D1
-        number: 2 \uE4D1
-        number: 4",
+        number3: 2 \uE4D1
+        number3: 4",
                     "\uE143
-        number: 2 \uE543
-        number: 4",
+        number3: 2 \uE543
+        number3: 4",
                     "\uE162
-        number: 2 \uE562
-        number: 4",
+        number3: 2 \uE562
+        number3: 4",
                     "\uEBC6
-        number: 2 \uEBC7
-        number: 4 \uEBC8
-        number: 6 \uEBC9
-        number: 8 \uEFEC
-        number: 10 \uEFED
-        number: 12",
+        number3: 2 \uEBC7
+        number3: 4 \uEBC8
+        number3: 6 \uEBC9
+        number3: 8 \uEFEC
+        number3: 10 \uEFED
+        number3: 12",
                     "\uE268
-        number: 2 \uE668
-        number: 4",
+        number3: 2 \uE668
+        number3: 4",
                     "\uEFD8
-        number: 2 \uEFD9
-        number: 4",
+        number3: 2 \uEFD9
+        number3: 4",
                     "\uE34B
-        number: 2 \uE74B
-        number: 4",
+        number3: 2 \uE74B
+        number3: 4",
                     "\uE350
-        number: 2 \uE750
-        number: 4",
+        number3: 2 \uE750
+        number3: 4",
                     "\uE37C\uE77C\uEBCA\uEBCB {bksp}"]
             

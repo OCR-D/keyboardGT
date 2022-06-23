@@ -2,10 +2,10 @@
             'PUA-26': [
                 
                     "\uE8D1
-        number: 2",
+        number3: 2",
                     "\uE4CF
-        number: 2",
+        number3: 2",
                     "\uE637
-        number: 2",
+        number3: 2",
                     "\uE743 {bksp}"]
             

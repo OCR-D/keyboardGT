@@ -2,23 +2,23 @@
             'PUA-32': [
                 
                     "\uEBF4
-        number: 2 \uEBF5
-        number: 4 \uEFDB
-        number: 6 \uEFDC
-        number: 8",
+        number3: 2 \uEBF5
+        number3: 4 \uEFDB
+        number3: 6 \uEFDC
+        number3: 8",
                     "\uE0C8
-        number: 2 \uE4C8
-        number: 4",
+        number3: 2 \uE4C8
+        number3: 4",
                     "\uEBF6
-        number: 2 \uEBF7
-        number: 4",
+        number3: 2 \uEBF7
+        number3: 4",
                     "\uEBF8
-        number: 2 \uEBF9
-        number: 4 \uEBFC
-        number: 6 \uEBFD
-        number: 8",
+        number3: 2 \uEBF9
+        number3: 4 \uEBFC
+        number3: 6 \uEBFD
+        number3: 8",
                     "\uEBFE
-        number: 2 \uEBFF
-        number: 4",
+        number3: 2 \uEBFF
+        number3: 4",
                     "\uE384\uE784 {bksp}"]
             

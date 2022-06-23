@@ -2,25 +2,25 @@
             'PUA-46': [
                 
                     "\uE010
-        number: 2 \uE03D
-        number: 4 \uE410
-        number: 6 \uE43D
-        number: 8",
+        number3: 2 \uE03D
+        number3: 4 \uE410
+        number3: 6 \uE43D
+        number3: 8",
                     "\uE0B7
-        number: 2 \uE4B7
-        number: 4",
+        number3: 2 \uE4B7
+        number3: 4",
                     "\uE137
-        number: 2 \uE537
-        number: 4",
+        number3: 2 \uE537
+        number3: 4",
                     "\uE21B
-        number: 2 \uE253
-        number: 4 \uE260
-        number: 6 \uE61B
-        number: 8 \uE653
-        number: 10 \uE660
-        number: 12",
+        number3: 2 \uE253
+        number3: 4 \uE260
+        number3: 6 \uE61B
+        number3: 8 \uE653
+        number3: 10 \uE660
+        number3: 12",
                     "\uE30B
-        number: 2 \uE70B
-        number: 4",
+        number3: 2 \uE70B
+        number3: 4",
                     "\uE375\uE775 {bksp}"]
             

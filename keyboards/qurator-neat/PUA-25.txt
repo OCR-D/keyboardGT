@@ -2,9 +2,9 @@
             'PUA-25': [
                 
                     "\uEBBD
-        number: 2 \uEBBE
-        number: 4",
+        number3: 2 \uEBBE
+        number3: 4",
                     "\uE5D7
-        number: 2",
+        number3: 2",
                     "\uE33B\uE73B {bksp}"]
             

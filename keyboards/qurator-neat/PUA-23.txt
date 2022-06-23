@@ -2,10 +2,10 @@
             'PUA-23': [
                 
                     "\uE03F
-        number: 2 \uE43F
-        number: 4",
+        number3: 2 \uE43F
+        number3: 4",
                     "\uEBEE
-        number: 2 \uEBEF
-        number: 4",
+        number3: 2 \uEBEF
+        number3: 4",
                     "\uE376\uE776 {bksp}"]
             

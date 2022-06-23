@@ -2,6 +2,6 @@
             'NumbFo': [
                 
                     "\u2184
-        number: 2",
+        number3: 2",
                     "\u2180\u2181\u2182\u2183 {bksp}"]
             
