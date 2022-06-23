@@ -228,6 +228,7 @@ Names
                     number3: <xsl:number value="sp[position()]" format="1" />
                     <xsl:apply-templates/><!--<xsl:text disable-output-escaping="yes">,&#xD;</xsl:text>-->
                 </xsl:for-each>
+                number3: <xsl:number value="sp[position()]" format="1" />
                 <xsl:value-of select="$keys/line[position()=last()]"/>
                 ]}
             </xsl:result-document>
