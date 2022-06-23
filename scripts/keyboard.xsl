@@ -306,7 +306,7 @@ Names
     
     
     
-    <xsl:template match="sp">
+    <xsl:template match="//sp">
         number: <xsl:number count="." format="1" />
         <xsl:choose>
             <xsl:when test="following-sibling::sp">
