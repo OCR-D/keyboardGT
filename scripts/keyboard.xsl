@@ -215,6 +215,7 @@ Names
                                 {
                                 <sp/>
                                 "number:" <xsl:number count="." format="1" />
+                                "number2:" <xsl:number value="position()" format="1" />
                                 "row": 1,
                                 "column": 3,
                                 "character": "<xsl:value-of select="fn:string[@key = 'mufichar']"/>
