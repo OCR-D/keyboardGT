@@ -8,36 +8,32 @@
                 
                 
                                 {
-                                
-                                "number:" 666
-                                "number2:" 1
+                                a
+                                "number:" 1
                                 "row": 1,
                                 "column": 3,
                                 "character": "⟦
                                  }
                             
                                 {
-                                
-                                "number:" 667
-                                "number2:" 2
+                                a
+                                "number:" 2
                                 "row": 1,
                                 "column": 3,
                                 "character": "⟧
                                  }
                             
                                 {
-                                
-                                "number:" 668
-                                "number2:" 3
+                                a
+                                "number:" 3
                                 "row": 1,
                                 "column": 3,
                                 "character": "⟨
                                  }
                             
                                 {
-                                
-                                "number:" 669
-                                "number2:" 4
+                                a
+                                "number:" 4
                                 "row": 1,
                                 "column": 3,
                                 "character": "⟩
