@@ -213,6 +213,7 @@ Names
                         <line><xsl:for-each select="fn:current-group()">\u<xsl:value-of select="fn:string[@key = 'codepoint']"/><sp/></xsl:for-each></line>
                     </xsl:for-each-group>
                 </xsl:variable>
+                <xsl:message select="$keys"/>
                 <xsl:for-each select="$keys/line[fn:position() &lt; last()]">
                     "<xsl:apply-templates/><xsl:text disable-output-escaping="yes">",&#xD;</xsl:text>
                 </xsl:for-each>
@@ -310,7 +311,7 @@ Names
     
 
     <xsl:template match="$MUFIEXPORT//fn:array" name="kb-table">
-        <xsl:message select="$MUFIEXPORT"/>
+        
         <link rel="stylesheet" href="table_hide.css"/>
         <link rel="stylesheet" type="text/css"
             href="https://cdn.datatables.net/1.11.4/css/jquery.dataTables.css"/>
