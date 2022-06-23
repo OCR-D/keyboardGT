@@ -46,6 +46,9 @@
             <xsl:if test="$output = 'qkeyboards'">
                 <xsl:call-template name="qkb"/>
             </xsl:if>
+            <xsl:if test="$output = 'ekeyboards'">
+                <xsl:call-template name="ekb"/>
+            </xsl:if>
             <xsl:if test="$output = 'keytable'">
                 <xsl:call-template name="kb-table"/>
             </xsl:if>
@@ -191,6 +194,35 @@ Names
             </xsl:result-document>
         </xsl:for-each-group>
     </xsl:template>
+    
+    
+    <xsl:template match="$MUFIEXPORT//fn:array" name="ekb">
+        <xsl:for-each-group select="$MUFIEXPORT//fn:map" group-by="fn:string[@key = 'range']">
+            <xsl:sort select="fn:current-grouping-key()"/>
+            <xsl:result-document href="ghout/keyboards/escriptorium/{fn:current-grouping-key()}.json">
+                
+                "version": "0.1",
+                "name": "<xsl:value-of select="fn:current-grouping-key()"/>",
+                "author": "tboenig boenig@bbaw.de",
+                "characters": [
+                
+                
+                <xsl:variable name="keys">
+                    <xsl:for-each-group select="fn:current-group()" group-by="fn:string[@key = 'alpha']">
+                        <xsl:sort order="ascending" select="fn:string[@key = 'alpha']"/>
+                        <line><xsl:for-each select="fn:current-group()">\u<xsl:value-of select="fn:string[@key = 'codepoint']"/><sp/></xsl:for-each></line>
+                    </xsl:for-each-group>
+                </xsl:variable>
+                <xsl:for-each select="$keys/line[fn:position() &lt; last()]">
+                    "<xsl:apply-templates/><xsl:text disable-output-escaping="yes">",&#xD;</xsl:text>
+                </xsl:for-each>
+                "<xsl:value-of select="$keys/line[position()=last()]"/> {bksp}"]
+            </xsl:result-document>
+        </xsl:for-each-group>
+    </xsl:template>
+    
+    
+    
     
     
     <!--<xsl:template match="$MUFIEXPORT//fn:array" name="ekb">
