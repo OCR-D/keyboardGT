@@ -402,6 +402,13 @@ Names
             </xsl:element>
         </xsl:element>
         
+        <xsl:element name="details">
+            <xsl:element name="summary">For escriptorium</xsl:element>
+            <xsl:element name="p">
+                Download the <strong>keyboard text files</strong> and copy or import the files to the appropriate directory.
+            </xsl:element>
+        </xsl:element>
+        
         <hr/>
         
         <xsl:element name="table">
@@ -413,6 +420,7 @@ Names
                     <xsl:element name="th"><span class="big">&#x2328;</span> Virtual Keyboard Layouts<br/>for Transkribus</xsl:element>
                     <xsl:element name="th"><span class="big">&#x2328;</span> Virtual Keyboard Layouts<br/>for LAREX</xsl:element>
                     <xsl:element name="th"><span class="big">&#x2328;</span> Virtual Keyboard Layouts<br/>for QURATOR-neat</xsl:element>
+                    <xsl:element name="th"><span class="big">&#x2328;</span> Virtual Keyboard Layouts<br/>for escriptorium</xsl:element>
                     <xsl:element name="th"><span class="big">&#x1F481;</span> Browse by code chart<br/>(Link to MUFI)</xsl:element>
                 </xsl:element>
               </xsl:element>
