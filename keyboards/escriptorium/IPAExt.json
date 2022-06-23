@@ -7,125 +7,151 @@
                 
                 
                 
-                    "
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "ʙ"
-                                }",
-                    "
+                                "character": "ʙ
+                                 }
+        number: 2,
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "ɖ"
-                                }",
-                    "
+                                "character": "ɖ
+                                 }
+        number: 2,
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "ə"
-                                }",
-                    "
+                                "character": "ə
+                                 }
+        number: 2,
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "ɡ"
-                                } 
+                                "character": "ɡ
+                                 }
+        number: 2 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "ɢ"
-                                }",
-                    "
+                                "character": "ɢ
+                                 }
+        number: 4,
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "ɦ"
-                                } 
+                                "character": "ɦ
+                                 }
+        number: 2 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "ʜ"
-                                }",
-                    "
+                                "character": "ʜ
+                                 }
+        number: 4,
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "ɨ"
-                                } 
+                                "character": "ɨ
+                                 }
+        number: 2 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "ɪ"
-                                }",
-                    "
+                                "character": "ɪ
+                                 }
+        number: 4,
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "ɟ"
-                                }",
-                    "
+                                "character": "ɟ
+                                 }
+        number: 2,
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "ʟ"
-                                }",
-                    "
+                                "character": "ʟ
+                                 }
+        number: 2,
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "ɯ"
-                                }",
-                    "
+                                "character": "ɯ
+                                 }
+        number: 2,
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "ɲ"
-                                } 
+                                "character": "ɲ
+                                 }
+        number: 2 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "ɴ"
-                                }",
-                    "
+                                "character": "ɴ
+                                 }
+        number: 4,
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "ɔ"
-                                } 
+                                "character": "ɔ
+                                 }
+        number: 2 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "ɶ"
-                                }",
-                    "
+                                "character": "ɶ
+                                 }
+        number: 4,
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "ɼ"
-                                } 
+                                "character": "ɼ
+                                 }
+        number: 2 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "ʀ"
-                                }",
-                    "
+                                "character": "ʀ
+                                 }
+        number: 4,
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "ʉ"
-                                }",
-                    "
+                                "character": "ʉ
+                                 }
+        number: 2,
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "ʏ"
-                                }",
-                "
+                                "character": "ʏ
+                                 }
+        number: 2,
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "ʒ"
-                                }"
+                                "character": "ʒ
+                                 }
                 ]}
             

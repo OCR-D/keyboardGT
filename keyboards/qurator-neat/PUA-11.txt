@@ -1,7 +1,11 @@
 
             'PUA-11': [
                 
-                    "\uF2FE \uF2FF",
-                    "\uF1BE \uF1BF",
+                    "\uF2FE
+        number: 2 \uF2FF
+        number: 4",
+                    "\uF1BE
+        number: 2 \uF1BF
+        number: 4",
                     "\uF1BD {bksp}"]
             

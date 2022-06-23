@@ -1,7 +1,10 @@
 
             'PUA-14': [
                 
-                    "\uF238 \uF239",
-                    "\uEADC",
+                    "\uF238
+        number: 2 \uF239
+        number: 4",
+                    "\uEADC
+        number: 2",
                     "\uEADD\uEADE {bksp}"]
             

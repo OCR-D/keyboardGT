@@ -1,7 +1,9 @@
 
             'PUA-13': [
                 
-                    "\uE7B2",
-                    "\uE74E",
+                    "\uE7B2
+        number: 2",
+                    "\uE74E
+        number: 2",
                     "\uE77B {bksp}"]
             

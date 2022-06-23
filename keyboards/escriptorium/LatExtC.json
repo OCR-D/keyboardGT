@@ -7,22 +7,25 @@
                 
                 
                 
-                    "
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "Ⱶ"
-                                } 
+                                "character": "Ⱶ
+                                 }
+        number: 2 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "ⱶ"
-                                }",
-                "
+                                "character": "ⱶ
+                                 }
+        number: 4,
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "ⱽ"
-                                }"
+                                "character": "ⱽ
+                                 }
                 ]}
             

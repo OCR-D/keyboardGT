@@ -1,6 +1,8 @@
 
             'PUA-37': [
                 
-                    "\uE0EA \uE4EA",
+                    "\uE0EA
+        number: 2 \uE4EA
+        number: 4",
                     "\uEBC4\uEBC5 {bksp}"]
             

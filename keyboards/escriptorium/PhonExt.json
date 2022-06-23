@@ -7,116 +7,137 @@
                 
                 
                 
-                    "
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "ᴀ"
-                                } 
+                                "character": "ᴀ
+                                 }
+        number: 2 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "ᴁ"
-                                }",
-                    "
+                                "character": "ᴁ
+                                 }
+        number: 4,
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "ᴄ"
-                                }",
-                    "
+                                "character": "ᴄ
+                                 }
+        number: 2,
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "ᴅ"
-                                } 
+                                "character": "ᴅ
+                                 }
+        number: 2 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "ᴆ"
-                                }",
-                    "
+                                "character": "ᴆ
+                                 }
+        number: 4,
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "ᴇ"
-                                }",
-                    "
+                                "character": "ᴇ
+                                 }
+        number: 2,
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "ᵹ"
-                                }",
-                    "
+                                "character": "ᵹ
+                                 }
+        number: 2,
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "ᴊ"
-                                }",
-                    "
+                                "character": "ᴊ
+                                 }
+        number: 2,
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "ᴋ"
-                                }",
-                    "
+                                "character": "ᴋ
+                                 }
+        number: 2,
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "ᴍ"
-                                }",
-                    "
+                                "character": "ᴍ
+                                 }
+        number: 2,
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "ᴏ"
-                                }",
-                    "
+                                "character": "ᴏ
+                                 }
+        number: 2,
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "ᴘ"
-                                }",
-                    "
+                                "character": "ᴘ
+                                 }
+        number: 2,
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "ᴛ"
-                                }",
-                    "
+                                "character": "ᴛ
+                                 }
+        number: 2,
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "ᴜ"
-                                } 
+                                "character": "ᴜ
+                                 }
+        number: 2 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "ᵫ"
-                                }",
-                    "
+                                "character": "ᵫ
+                                 }
+        number: 4,
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "ᴠ"
-                                }",
-                    "
+                                "character": "ᴠ
+                                 }
+        number: 2,
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "ᴡ"
-                                }",
-                    "
+                                "character": "ᴡ
+                                 }
+        number: 2,
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "ᴢ"
-                                }",
-                "
+                                "character": "ᴢ
+                                 }
+        number: 2,
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "ᴵ"
-                                }"
+                                "character": "ᴵ
+                                 }
                 ]}
             

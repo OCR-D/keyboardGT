@@ -1,6 +1,8 @@
 
             'PUA-39': [
                 
-                    "\uE0E8 \uE4E8",
+                    "\uE0E8
+        number: 2 \uE4E8
+        number: 4",
                     "\uE208\uE608 {bksp}"]
             

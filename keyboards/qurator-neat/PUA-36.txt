@@ -1,7 +1,12 @@
 
             'PUA-36': [
                 
-                    "\uE004 \uE404 \uE8D3",
-                    "\uE099 \uE499",
+                    "\uE004
+        number: 2 \uE404
+        number: 4 \uE8D3
+        number: 6",
+                    "\uE099
+        number: 2 \uE499
+        number: 4",
                     "\uE20C\uE257\uE60C\uE657 {bksp}"]
             

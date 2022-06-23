@@ -7,501 +7,675 @@
                 
                 
                 
-                    "
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "ª"
-                                } 
+                                "character": "ª
+                                 }
+        number: 2 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "À"
-                                } 
+                                "character": "À
+                                 }
+        number: 4 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "Á"
-                                } 
+                                "character": "Á
+                                 }
+        number: 6 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "Â"
-                                } 
+                                "character": "Â
+                                 }
+        number: 8 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "Ã"
-                                } 
+                                "character": "Ã
+                                 }
+        number: 10 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "Ä"
-                                } 
+                                "character": "Ä
+                                 }
+        number: 12 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "Å"
-                                } 
+                                "character": "Å
+                                 }
+        number: 14 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "Æ"
-                                } 
+                                "character": "Æ
+                                 }
+        number: 16 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "à"
-                                } 
+                                "character": "à
+                                 }
+        number: 18 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "á"
-                                } 
+                                "character": "á
+                                 }
+        number: 20 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "â"
-                                } 
+                                "character": "â
+                                 }
+        number: 22 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "ã"
-                                } 
+                                "character": "ã
+                                 }
+        number: 24 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "ä"
-                                } 
+                                "character": "ä
+                                 }
+        number: 26 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "å"
-                                } 
+                                "character": "å
+                                 }
+        number: 28 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "æ"
-                                }",
-                    "
+                                "character": "æ
+                                 }
+        number: 30,
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "Ç"
-                                } 
+                                "character": "Ç
+                                 }
+        number: 2 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "ç"
-                                }",
-                    "
+                                "character": "ç
+                                 }
+        number: 4,
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "Ð"
-                                } 
+                                "character": "Ð
+                                 }
+        number: 2 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "ð"
-                                }",
-                    "
+                                "character": "ð
+                                 }
+        number: 4,
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "È"
-                                } 
+                                "character": "È
+                                 }
+        number: 2 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "É"
-                                } 
+                                "character": "É
+                                 }
+        number: 4 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "Ê"
-                                } 
+                                "character": "Ê
+                                 }
+        number: 6 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "Ë"
-                                } 
+                                "character": "Ë
+                                 }
+        number: 8 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "è"
-                                } 
+                                "character": "è
+                                 }
+        number: 10 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "é"
-                                } 
+                                "character": "é
+                                 }
+        number: 12 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "ê"
-                                } 
+                                "character": "ê
+                                 }
+        number: 14 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "ë"
-                                }",
-                    "
+                                "character": "ë
+                                 }
+        number: 16,
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "Ì"
-                                } 
+                                "character": "Ì
+                                 }
+        number: 2 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "Í"
-                                } 
+                                "character": "Í
+                                 }
+        number: 4 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "Î"
-                                } 
+                                "character": "Î
+                                 }
+        number: 6 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "Ï"
-                                } 
+                                "character": "Ï
+                                 }
+        number: 8 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "ì"
-                                } 
+                                "character": "ì
+                                 }
+        number: 10 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "í"
-                                } 
+                                "character": "í
+                                 }
+        number: 12 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "î"
-                                } 
+                                "character": "î
+                                 }
+        number: 14 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "ï"
-                                }",
-                    "
+                                "character": "ï
+                                 }
+        number: 16,
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "Ñ"
-                                } 
+                                "character": "Ñ
+                                 }
+        number: 2 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "ñ"
-                                }",
-                    "
+                                "character": "ñ
+                                 }
+        number: 4,
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "º"
-                                } 
+                                "character": "º
+                                 }
+        number: 2 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "Ò"
-                                } 
+                                "character": "Ò
+                                 }
+        number: 4 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "Ó"
-                                } 
+                                "character": "Ó
+                                 }
+        number: 6 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "Ô"
-                                } 
+                                "character": "Ô
+                                 }
+        number: 8 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "Õ"
-                                } 
+                                "character": "Õ
+                                 }
+        number: 10 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "Ö"
-                                } 
+                                "character": "Ö
+                                 }
+        number: 12 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "Ø"
-                                } 
+                                "character": "Ø
+                                 }
+        number: 14 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "ò"
-                                } 
+                                "character": "ò
+                                 }
+        number: 16 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "ó"
-                                } 
+                                "character": "ó
+                                 }
+        number: 18 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "ô"
-                                } 
+                                "character": "ô
+                                 }
+        number: 20 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "õ"
-                                } 
+                                "character": "õ
+                                 }
+        number: 22 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "ö"
-                                } 
+                                "character": "ö
+                                 }
+        number: 24 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "ø"
-                                }",
-                    "
+                                "character": "ø
+                                 }
+        number: 26,
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "ß"
-                                }",
-                    "
+                                "character": "ß
+                                 }
+        number: 2,
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "Ù"
-                                } 
+                                "character": "Ù
+                                 }
+        number: 2 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "Ú"
-                                } 
+                                "character": "Ú
+                                 }
+        number: 4 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "Û"
-                                } 
+                                "character": "Û
+                                 }
+        number: 6 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "Ü"
-                                } 
+                                "character": "Ü
+                                 }
+        number: 8 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "ù"
-                                } 
+                                "character": "ù
+                                 }
+        number: 10 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "ú"
-                                } 
+                                "character": "ú
+                                 }
+        number: 12 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "û"
-                                } 
+                                "character": "û
+                                 }
+        number: 14 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "ü"
-                                }",
-                    "
+                                "character": "ü
+                                 }
+        number: 16,
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "Ý"
-                                } 
+                                "character": "Ý
+                                 }
+        number: 2 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "ý"
-                                } 
+                                "character": "ý
+                                 }
+        number: 4 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "ÿ"
-                                }",
-                    "
+                                "character": "ÿ
+                                 }
+        number: 6,
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": " "
-                                } 
+                                "character": " 
+                                 }
+        number: 2 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "­"
-                                }",
-                    "
+                                "character": "­
+                                 }
+        number: 4,
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "²"
-                                } 
+                                "character": "²
+                                 }
+        number: 2 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "³"
-                                } 
+                                "character": "³
+                                 }
+        number: 4 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "¹"
-                                } 
+                                "character": "¹
+                                 }
+        number: 6 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "¼"
-                                } 
+                                "character": "¼
+                                 }
+        number: 8 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "½"
-                                } 
+                                "character": "½
+                                 }
+        number: 10 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "¾"
-                                }",
-                    "
+                                "character": "¾
+                                 }
+        number: 12,
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "¡"
-                                } 
+                                "character": "¡
+                                 }
+        number: 2 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "¦"
-                                } 
+                                "character": "¦
+                                 }
+        number: 4 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "«"
-                                } 
+                                "character": "«
+                                 }
+        number: 6 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "·"
-                                } 
+                                "character": "·
+                                 }
+        number: 8 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "»"
-                                } 
+                                "character": "»
+                                 }
+        number: 10 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "¿"
-                                }",
-                    "
+                                "character": "¿
+                                 }
+        number: 12,
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "¨"
-                                } 
+                                "character": "¨
+                                 }
+        number: 2 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "¯"
-                                } 
+                                "character": "¯
+                                 }
+        number: 4 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "´"
-                                } 
+                                "character": "´
+                                 }
+        number: 6 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "¸"
-                                }",
-                    "
+                                "character": "¸
+                                 }
+        number: 8,
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "¢"
-                                } 
+                                "character": "¢
+                                 }
+        number: 2 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "£"
-                                } 
+                                "character": "£
+                                 }
+        number: 4 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "¤"
-                                } 
+                                "character": "¤
+                                 }
+        number: 6 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "¥"
-                                } 
+                                "character": "¥
+                                 }
+        number: 8 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "§"
-                                } 
+                                "character": "§
+                                 }
+        number: 10 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "©"
-                                } 
+                                "character": "©
+                                 }
+        number: 12 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "¬"
-                                } 
+                                "character": "¬
+                                 }
+        number: 14 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "®"
-                                } 
+                                "character": "®
+                                 }
+        number: 16 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "°"
-                                } 
+                                "character": "°
+                                 }
+        number: 18 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "±"
-                                } 
+                                "character": "±
+                                 }
+        number: 20 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "μ"
-                                } 
+                                "character": "μ
+                                 }
+        number: 22 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "¶"
-                                } 
+                                "character": "¶
+                                 }
+        number: 24 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "×"
-                                } 
+                                "character": "×
+                                 }
+        number: 26 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "÷"
-                                }",
-                "
+                                "character": "÷
+                                 }
+        number: 28,
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "Þ"
-                                }
+                                "character": "Þ
+                                 }
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "þ"
-                                }"
+                                "character": "þ
+                                 }
                 ]}
             

@@ -7,50 +7,59 @@
                 
                 
                 
-                    "
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "Ⅎ"
-                                } 
+                                "character": "Ⅎ
+                                 }
+        number: 2 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "ⅎ"
-                                }",
-                    "
+                                "character": "ⅎ
+                                 }
+        number: 4,
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "℞"
-                                } 
+                                "character": "℞
+                                 }
+        number: 2 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "℟"
-                                }",
-                    "
+                                "character": "℟
+                                 }
+        number: 4,
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "℣"
-                                }",
-                    "
+                                "character": "℣
+                                 }
+        number: 2,
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "℔"
-                                }",
-                "
+                                "character": "℔
+                                 }
+        number: 2,
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "℈"
-                                }
+                                "character": "℈
+                                 }
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "℥"
-                                }"
+                                "character": "℥
+                                 }
                 ]}
             

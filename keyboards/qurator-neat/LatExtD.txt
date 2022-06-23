@@ -1,24 +1,113 @@
 
             'LatExtD': [
                 
-                    "\uA732 \uA733 \uA734 \uA735 \uA736 \uA737 \uA738 \uA739 \uA73A \uA73B \uA73C \uA73D",
-                    "\uA771 \uA779 \uA77A",
-                    "\uA730 \uA77B \uA77C \uA7FB",
-                    "\uA77D \uA77E \uA77F",
-                    "\uA7FE",
-                    "\uA740 \uA741 \uA742 \uA743 \uA744 \uA745",
-                    "\uA746 \uA747 \uA748 \uA749 \uA772 \uA780 \uA781",
-                    "\uA773 \uA7FD \uA7FF",
-                    "\uA774",
-                    "\uA74C \uA74D \uA74E \uA74F",
-                    "\uA750 \uA751 \uA752 \uA753 \uA754 \uA755 \uA7FC",
-                    "\uA756 \uA757 \uA758 \uA759",
-                    "\uA75A \uA75B \uA775 \uA776 \uA782 \uA783",
-                    "\uA731 \uA784 \uA785",
-                    "\uA777 \uA786 \uA787",
-                    "\uA75E \uA75F \uA768 \uA769",
-                    "\uA760 \uA761",
-                    "\uA762 \uA763",
-                    "\uA73E \uA73F \uA74A \uA74B \uA75C \uA75D \uA76A \uA76B \uA76C \uA76D \uA76E \uA76F \uA770 \uA778",
+                    "\uA732
+        number: 2 \uA733
+        number: 4 \uA734
+        number: 6 \uA735
+        number: 8 \uA736
+        number: 10 \uA737
+        number: 12 \uA738
+        number: 14 \uA739
+        number: 16 \uA73A
+        number: 18 \uA73B
+        number: 20 \uA73C
+        number: 22 \uA73D
+        number: 24",
+                    "\uA771
+        number: 2 \uA779
+        number: 4 \uA77A
+        number: 6",
+                    "\uA730
+        number: 2 \uA77B
+        number: 4 \uA77C
+        number: 6 \uA7FB
+        number: 8",
+                    "\uA77D
+        number: 2 \uA77E
+        number: 4 \uA77F
+        number: 6",
+                    "\uA7FE
+        number: 2",
+                    "\uA740
+        number: 2 \uA741
+        number: 4 \uA742
+        number: 6 \uA743
+        number: 8 \uA744
+        number: 10 \uA745
+        number: 12",
+                    "\uA746
+        number: 2 \uA747
+        number: 4 \uA748
+        number: 6 \uA749
+        number: 8 \uA772
+        number: 10 \uA780
+        number: 12 \uA781
+        number: 14",
+                    "\uA773
+        number: 2 \uA7FD
+        number: 4 \uA7FF
+        number: 6",
+                    "\uA774
+        number: 2",
+                    "\uA74C
+        number: 2 \uA74D
+        number: 4 \uA74E
+        number: 6 \uA74F
+        number: 8",
+                    "\uA750
+        number: 2 \uA751
+        number: 4 \uA752
+        number: 6 \uA753
+        number: 8 \uA754
+        number: 10 \uA755
+        number: 12 \uA7FC
+        number: 14",
+                    "\uA756
+        number: 2 \uA757
+        number: 4 \uA758
+        number: 6 \uA759
+        number: 8",
+                    "\uA75A
+        number: 2 \uA75B
+        number: 4 \uA775
+        number: 6 \uA776
+        number: 8 \uA782
+        number: 10 \uA783
+        number: 12",
+                    "\uA731
+        number: 2 \uA784
+        number: 4 \uA785
+        number: 6",
+                    "\uA777
+        number: 2 \uA786
+        number: 4 \uA787
+        number: 6",
+                    "\uA75E
+        number: 2 \uA75F
+        number: 4 \uA768
+        number: 6 \uA769
+        number: 8",
+                    "\uA760
+        number: 2 \uA761
+        number: 4",
+                    "\uA762
+        number: 2 \uA763
+        number: 4",
+                    "\uA73E
+        number: 2 \uA73F
+        number: 4 \uA74A
+        number: 6 \uA74B
+        number: 8 \uA75C
+        number: 10 \uA75D
+        number: 12 \uA76A
+        number: 14 \uA76B
+        number: 16 \uA76C
+        number: 18 \uA76D
+        number: 20 \uA76E
+        number: 22 \uA76F
+        number: 24 \uA770
+        number: 26 \uA778
+        number: 28",
                     "\uA764\uA765\uA766\uA767 {bksp}"]
             

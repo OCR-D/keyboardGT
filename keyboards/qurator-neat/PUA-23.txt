@@ -1,7 +1,11 @@
 
             'PUA-23': [
                 
-                    "\uE03F \uE43F",
-                    "\uEBEE \uEBEF",
+                    "\uE03F
+        number: 2 \uE43F
+        number: 4",
+                    "\uEBEE
+        number: 2 \uEBEF
+        number: 4",
                     "\uE376\uE776 {bksp}"]
             

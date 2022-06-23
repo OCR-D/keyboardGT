@@ -1,6 +1,20 @@
 
             'GkCo': [
                 
-                    "\u03B1 \u03B2 \u03B3 \u03B4 \u03B5 \u03B6 \u03B7 \u03B9 \u03BA \u03BB \u03BC \u03BD \u03BE \u03C3",
+                    "\u03B1
+        number: 2 \u03B2
+        number: 4 \u03B3
+        number: 6 \u03B4
+        number: 8 \u03B5
+        number: 10 \u03B6
+        number: 12 \u03B7
+        number: 14 \u03B9
+        number: 16 \u03BA
+        number: 18 \u03BB
+        number: 20 \u03BC
+        number: 22 \u03BD
+        number: 24 \u03BE
+        number: 26 \u03C3
+        number: 28",
                     "\u0398\u03B8 {bksp}"]
             

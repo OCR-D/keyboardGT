@@ -7,87 +7,115 @@
                 
                 
                 
-                    "
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "α"
-                                } 
+                                "character": "α
+                                 }
+        number: 2 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "β"
-                                } 
+                                "character": "β
+                                 }
+        number: 4 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "γ"
-                                } 
+                                "character": "γ
+                                 }
+        number: 6 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "δ"
-                                } 
+                                "character": "δ
+                                 }
+        number: 8 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "ε"
-                                } 
+                                "character": "ε
+                                 }
+        number: 10 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "ζ"
-                                } 
+                                "character": "ζ
+                                 }
+        number: 12 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "η"
-                                } 
+                                "character": "η
+                                 }
+        number: 14 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "ι"
-                                } 
+                                "character": "ι
+                                 }
+        number: 16 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "κ"
-                                } 
+                                "character": "κ
+                                 }
+        number: 18 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "λ"
-                                } 
+                                "character": "λ
+                                 }
+        number: 20 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "μ"
-                                } 
+                                "character": "μ
+                                 }
+        number: 22 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "ν"
-                                } 
+                                "character": "ν
+                                 }
+        number: 24 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "ξ"
-                                } 
+                                "character": "ξ
+                                 }
+        number: 26 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "σ"
-                                }",
-                "
+                                "character": "σ
+                                 }
+        number: 28,
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "Θ"
-                                }
+                                "character": "Θ
+                                 }
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "θ"
-                                }"
+                                "character": "θ
+                                 }
                 ]}
             

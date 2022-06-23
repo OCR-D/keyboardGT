@@ -7,97 +7,130 @@
                 
                 
                 
-                    "
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "⁰"
-                                } 
+                                "character": "⁰
+                                 }
+        number: 2 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "⁴"
-                                } 
+                                "character": "⁴
+                                 }
+        number: 4 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "⁵"
-                                } 
+                                "character": "⁵
+                                 }
+        number: 6 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "⁶"
-                                } 
+                                "character": "⁶
+                                 }
+        number: 8 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "⁷"
-                                } 
+                                "character": "⁷
+                                 }
+        number: 10 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "⁸"
-                                } 
+                                "character": "⁸
+                                 }
+        number: 12 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "⁹"
-                                } 
+                                "character": "⁹
+                                 }
+        number: 14 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "₀"
-                                } 
+                                "character": "₀
+                                 }
+        number: 16 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "₁"
-                                } 
+                                "character": "₁
+                                 }
+        number: 18 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "₂"
-                                } 
+                                "character": "₂
+                                 }
+        number: 20 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "₃"
-                                } 
+                                "character": "₃
+                                 }
+        number: 22 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "₄"
-                                } 
+                                "character": "₄
+                                 }
+        number: 24 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "₅"
-                                } 
+                                "character": "₅
+                                 }
+        number: 26 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "₆"
-                                } 
+                                "character": "₆
+                                 }
+        number: 28 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "₇"
-                                } 
+                                "character": "₇
+                                 }
+        number: 30 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "₈"
-                                } 
+                                "character": "₈
+                                 }
+        number: 32 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "₉"
-                                }",
-                "
+                                "character": "₉
+                                 }
+        number: 34,
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "⁻"
-                                }"
+                                "character": "⁻
+                                 }
                 ]}
             

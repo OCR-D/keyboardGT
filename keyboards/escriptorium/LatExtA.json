@@ -7,376 +7,500 @@
                 
                 
                 
-                    "
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "Ā"
-                                } 
+                                "character": "Ā
+                                 }
+        number: 2 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "ā"
-                                } 
+                                "character": "ā
+                                 }
+        number: 4 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "Ă"
-                                } 
+                                "character": "Ă
+                                 }
+        number: 6 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "ă"
-                                } 
+                                "character": "ă
+                                 }
+        number: 8 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "Ą"
-                                } 
+                                "character": "Ą
+                                 }
+        number: 10 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "ą"
-                                }",
-                    "
+                                "character": "ą
+                                 }
+        number: 12,
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "Ć"
-                                } 
+                                "character": "Ć
+                                 }
+        number: 2 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "ć"
-                                } 
+                                "character": "ć
+                                 }
+        number: 4 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "Ċ"
-                                } 
+                                "character": "Ċ
+                                 }
+        number: 6 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "ċ"
-                                }",
-                    "
+                                "character": "ċ
+                                 }
+        number: 8,
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "Đ"
-                                } 
+                                "character": "Đ
+                                 }
+        number: 2 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "đ"
-                                }",
-                    "
+                                "character": "đ
+                                 }
+        number: 4,
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "Ē"
-                                } 
+                                "character": "Ē
+                                 }
+        number: 2 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "ē"
-                                } 
+                                "character": "ē
+                                 }
+        number: 4 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "Ĕ"
-                                } 
+                                "character": "Ĕ
+                                 }
+        number: 6 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "ĕ"
-                                } 
+                                "character": "ĕ
+                                 }
+        number: 8 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "Ė"
-                                } 
+                                "character": "Ė
+                                 }
+        number: 10 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "ė"
-                                } 
+                                "character": "ė
+                                 }
+        number: 12 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "Ę"
-                                } 
+                                "character": "Ę
+                                 }
+        number: 14 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "ę"
-                                }",
-                    "
+                                "character": "ę
+                                 }
+        number: 16,
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "Ġ"
-                                } 
+                                "character": "Ġ
+                                 }
+        number: 2 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "ġ"
-                                }",
-                    "
+                                "character": "ġ
+                                 }
+        number: 4,
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "ħ"
-                                }",
-                    "
+                                "character": "ħ
+                                 }
+        number: 2,
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "Ī"
-                                } 
+                                "character": "Ī
+                                 }
+        number: 2 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "ī"
-                                } 
+                                "character": "ī
+                                 }
+        number: 4 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "Ĭ"
-                                } 
+                                "character": "Ĭ
+                                 }
+        number: 6 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "ĭ"
-                                } 
+                                "character": "ĭ
+                                 }
+        number: 8 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "Į"
-                                } 
+                                "character": "Į
+                                 }
+        number: 10 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "į"
-                                } 
+                                "character": "į
+                                 }
+        number: 12 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "İ"
-                                } 
+                                "character": "İ
+                                 }
+        number: 14 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "ı"
-                                } 
+                                "character": "ı
+                                 }
+        number: 16 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "IJ"
-                                } 
+                                "character": "IJ
+                                 }
+        number: 18 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "ij"
-                                }",
-                    "
+                                "character": "ij
+                                 }
+        number: 20,
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "Ĺ"
-                                } 
+                                "character": "Ĺ
+                                 }
+        number: 2 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "ĺ"
-                                } 
+                                "character": "ĺ
+                                 }
+        number: 4 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "Ł"
-                                } 
+                                "character": "Ł
+                                 }
+        number: 6 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "ł"
-                                }",
-                    "
+                                "character": "ł
+                                 }
+        number: 8,
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "Ń"
-                                } 
+                                "character": "Ń
+                                 }
+        number: 2 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "ń"
-                                } 
+                                "character": "ń
+                                 }
+        number: 4 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "Ŋ"
-                                } 
+                                "character": "Ŋ
+                                 }
+        number: 6 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "ŋ"
-                                }",
-                    "
+                                "character": "ŋ
+                                 }
+        number: 8,
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "Ō"
-                                } 
+                                "character": "Ō
+                                 }
+        number: 2 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "ō"
-                                } 
+                                "character": "ō
+                                 }
+        number: 4 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "Ŏ"
-                                } 
+                                "character": "Ŏ
+                                 }
+        number: 6 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "ŏ"
-                                } 
+                                "character": "ŏ
+                                 }
+        number: 8 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "Ő"
-                                } 
+                                "character": "Ő
+                                 }
+        number: 10 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "ő"
-                                } 
+                                "character": "ő
+                                 }
+        number: 12 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "Œ"
-                                } 
+                                "character": "Œ
+                                 }
+        number: 14 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "œ"
-                                }",
-                    "
+                                "character": "œ
+                                 }
+        number: 16,
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "Ŕ"
-                                } 
+                                "character": "Ŕ
+                                 }
+        number: 2 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "ŕ"
-                                }",
-                    "
+                                "character": "ŕ
+                                 }
+        number: 4,
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "Ś"
-                                } 
+                                "character": "Ś
+                                 }
+        number: 2 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "ś"
-                                } 
+                                "character": "ś
+                                 }
+        number: 4 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "ſ"
-                                }",
-                    "
+                                "character": "ſ
+                                 }
+        number: 6,
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "Ū"
-                                } 
+                                "character": "Ū
+                                 }
+        number: 2 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "ū"
-                                } 
+                                "character": "ū
+                                 }
+        number: 4 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "Ŭ"
-                                } 
+                                "character": "Ŭ
+                                 }
+        number: 6 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "ŭ"
-                                } 
+                                "character": "ŭ
+                                 }
+        number: 8 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "Ů"
-                                } 
+                                "character": "Ů
+                                 }
+        number: 10 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "ů"
-                                } 
+                                "character": "ů
+                                 }
+        number: 12 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "Ű"
-                                } 
+                                "character": "Ű
+                                 }
+        number: 14 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "ű"
-                                } 
+                                "character": "ű
+                                 }
+        number: 16 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "Ų"
-                                } 
+                                "character": "Ų
+                                 }
+        number: 18 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "ų"
-                                }",
-                    "
+                                "character": "ų
+                                 }
+        number: 20,
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "Ŵ"
-                                } 
+                                "character": "Ŵ
+                                 }
+        number: 2 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "ŵ"
-                                }",
-                    "
+                                "character": "ŵ
+                                 }
+        number: 4,
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "Ŷ"
-                                } 
+                                "character": "Ŷ
+                                 }
+        number: 2 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "ŷ"
-                                } 
+                                "character": "ŷ
+                                 }
+        number: 4 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "Ÿ"
-                                }",
-                "
+                                "character": "Ÿ
+                                 }
+        number: 6,
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "Ż"
-                                }
+                                "character": "Ż
+                                 }
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "ż"
-                                }"
+                                "character": "ż
+                                 }
                 ]}
             

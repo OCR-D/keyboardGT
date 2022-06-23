@@ -1,7 +1,13 @@
 
             'MathOp': [
                 
-                    "\u2234 \u2235 \u2237 \u22D7",
-                    "\u223B \u2248",
+                    "\u2234
+        number: 2 \u2235
+        number: 4 \u2237
+        number: 6 \u22D7
+        number: 8",
+                    "\u223B
+        number: 2 \u2248
+        number: 4",
                     "\u2212\u221E\u2227\u2260 {bksp}"]
             

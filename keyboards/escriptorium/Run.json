@@ -7,64 +7,74 @@
                 
                 
                 
-                    "
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "ᚨ"
-                                }",
-                    "
+                                "character": "ᚨ
+                                 }
+        number: 2,
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "ᚧ"
-                                }",
-                    "
+                                "character": "ᚧ
+                                 }
+        number: 2,
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "ᚠ"
-                                }",
-                    "
+                                "character": "ᚠ
+                                 }
+        number: 2,
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "ᚢ"
-                                }",
-                    "
+                                "character": "ᚢ
+                                 }
+        number: 2,
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "ᚡ"
-                                }",
-                    "
+                                "character": "ᚡ
+                                 }
+        number: 2,
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "ᚥ"
-                                }",
-                    "
+                                "character": "ᚥ
+                                 }
+        number: 2,
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "ᚣ"
-                                } 
+                                "character": "ᚣ
+                                 }
+        number: 2 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "ᚤ"
-                                }",
-                    "
+                                "character": "ᚤ
+                                 }
+        number: 4,
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "ᛘ"
-                                }",
-                "
+                                "character": "ᛘ
+                                 }
+        number: 2,
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "ᚦ"
-                                }"
+                                "character": "ᚦ
+                                 }
                 ]}
             

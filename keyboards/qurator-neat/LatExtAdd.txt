@@ -1,25 +1,127 @@
 
             'LatExtAdd': [
                 
-                    "\u1EA0 \u1EA1 \u1EA2 \u1EA3 \u1EAE \u1EAF",
-                    "\u1E02 \u1E03 \u1E04 \u1E05",
-                    "\u1E0A \u1E0B \u1E0C \u1E0D \u1E9F",
-                    "\u1E16 \u1E17 \u1EB8 \u1EB9",
-                    "\u1E1E \u1E1F",
-                    "\u1E22 \u1E23 \u1E24 \u1E25",
-                    "\u1EC8 \u1EC9 \u1ECA \u1ECB",
-                    "\u1E30 \u1E31 \u1E32 \u1E33",
-                    "\u1E36 \u1E37 \u1EFA \u1EFB",
-                    "\u1E3E \u1E3F \u1E40 \u1E41 \u1E42 \u1E43",
-                    "\u1E44 \u1E45 \u1E46 \u1E47",
-                    "\u1E52 \u1E53 \u1ECC \u1ECD \u1ECE \u1ECF",
-                    "\u1E54 \u1E55 \u1E56 \u1E57",
-                    "\u1E58 \u1E59 \u1E5A \u1E5B",
-                    "\u1E60 \u1E61 \u1E62 \u1E63 \u1E9C \u1E9D \u1E9E",
-                    "\u1E6A \u1E6B \u1E6C \u1E6D",
-                    "\u1EE4 \u1EE5 \u1EE6 \u1EE7",
-                    "\u1E7E \u1E7F \u1EFC \u1EFD",
-                    "\u1E80 \u1E81 \u1E82 \u1E83 \u1E84 \u1E85 \u1E86 \u1E87 \u1E88 \u1E89 \u1E98",
-                    "\u1E8E \u1E8F \u1E99 \u1EF2 \u1EF3 \u1EF4 \u1EF5 \u1EF6 \u1EF7 \u1EFE \u1EFF",
+                    "\u1EA0
+        number: 2 \u1EA1
+        number: 4 \u1EA2
+        number: 6 \u1EA3
+        number: 8 \u1EAE
+        number: 10 \u1EAF
+        number: 12",
+                    "\u1E02
+        number: 2 \u1E03
+        number: 4 \u1E04
+        number: 6 \u1E05
+        number: 8",
+                    "\u1E0A
+        number: 2 \u1E0B
+        number: 4 \u1E0C
+        number: 6 \u1E0D
+        number: 8 \u1E9F
+        number: 10",
+                    "\u1E16
+        number: 2 \u1E17
+        number: 4 \u1EB8
+        number: 6 \u1EB9
+        number: 8",
+                    "\u1E1E
+        number: 2 \u1E1F
+        number: 4",
+                    "\u1E22
+        number: 2 \u1E23
+        number: 4 \u1E24
+        number: 6 \u1E25
+        number: 8",
+                    "\u1EC8
+        number: 2 \u1EC9
+        number: 4 \u1ECA
+        number: 6 \u1ECB
+        number: 8",
+                    "\u1E30
+        number: 2 \u1E31
+        number: 4 \u1E32
+        number: 6 \u1E33
+        number: 8",
+                    "\u1E36
+        number: 2 \u1E37
+        number: 4 \u1EFA
+        number: 6 \u1EFB
+        number: 8",
+                    "\u1E3E
+        number: 2 \u1E3F
+        number: 4 \u1E40
+        number: 6 \u1E41
+        number: 8 \u1E42
+        number: 10 \u1E43
+        number: 12",
+                    "\u1E44
+        number: 2 \u1E45
+        number: 4 \u1E46
+        number: 6 \u1E47
+        number: 8",
+                    "\u1E52
+        number: 2 \u1E53
+        number: 4 \u1ECC
+        number: 6 \u1ECD
+        number: 8 \u1ECE
+        number: 10 \u1ECF
+        number: 12",
+                    "\u1E54
+        number: 2 \u1E55
+        number: 4 \u1E56
+        number: 6 \u1E57
+        number: 8",
+                    "\u1E58
+        number: 2 \u1E59
+        number: 4 \u1E5A
+        number: 6 \u1E5B
+        number: 8",
+                    "\u1E60
+        number: 2 \u1E61
+        number: 4 \u1E62
+        number: 6 \u1E63
+        number: 8 \u1E9C
+        number: 10 \u1E9D
+        number: 12 \u1E9E
+        number: 14",
+                    "\u1E6A
+        number: 2 \u1E6B
+        number: 4 \u1E6C
+        number: 6 \u1E6D
+        number: 8",
+                    "\u1EE4
+        number: 2 \u1EE5
+        number: 4 \u1EE6
+        number: 6 \u1EE7
+        number: 8",
+                    "\u1E7E
+        number: 2 \u1E7F
+        number: 4 \u1EFC
+        number: 6 \u1EFD
+        number: 8",
+                    "\u1E80
+        number: 2 \u1E81
+        number: 4 \u1E82
+        number: 6 \u1E83
+        number: 8 \u1E84
+        number: 10 \u1E85
+        number: 12 \u1E86
+        number: 14 \u1E87
+        number: 16 \u1E88
+        number: 18 \u1E89
+        number: 20 \u1E98
+        number: 22",
+                    "\u1E8E
+        number: 2 \u1E8F
+        number: 4 \u1E99
+        number: 6 \u1EF2
+        number: 8 \u1EF3
+        number: 10 \u1EF4
+        number: 12 \u1EF5
+        number: 14 \u1EF6
+        number: 16 \u1EF7
+        number: 18 \u1EFE
+        number: 20 \u1EFF
+        number: 22",
                     "\u1E92\u1E93 {bksp}"]
             

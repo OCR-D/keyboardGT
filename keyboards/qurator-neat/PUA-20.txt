@@ -1,10 +1,24 @@
 
             'PUA-20': [
                 
-                    "\uE042 \uE442 \uE8D5 \uEFFE \uEFFF",
-                    "\uEBE2 \uEBE3",
-                    "\uE8D7 \uEBE4 \uEBE5",
-                    "\uEBE6 \uEBE7",
-                    "\uE342 \uE742",
+                    "\uE042
+        number: 2 \uE442
+        number: 4 \uE8D5
+        number: 6 \uEFFE
+        number: 8 \uEFFF
+        number: 10",
+                    "\uEBE2
+        number: 2 \uEBE3
+        number: 4",
+                    "\uE8D7
+        number: 2 \uEBE4
+        number: 4 \uEBE5
+        number: 6",
+                    "\uEBE6
+        number: 2 \uEBE7
+        number: 4",
+                    "\uE342
+        number: 2 \uE742
+        number: 4",
                     "\uEBE8\uEBE9 {bksp}"]
             

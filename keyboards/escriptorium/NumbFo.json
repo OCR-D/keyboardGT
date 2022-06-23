@@ -7,32 +7,36 @@
                 
                 
                 
-                    "
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "ↄ"
-                                }",
-                "
+                                "character": "ↄ
+                                 }
+        number: 2,
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "ↀ"
-                                }
+                                "character": "ↀ
+                                 }
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "ↁ"
-                                }
+                                "character": "ↁ
+                                 }
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "ↂ"
-                                }
+                                "character": "ↂ
+                                 }
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "Ↄ"
-                                }"
+                                "character": "Ↄ
+                                 }
                 ]}
             

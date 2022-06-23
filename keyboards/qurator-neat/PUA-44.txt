@@ -1,6 +1,7 @@
 
             'PUA-44': [
                 
-                    "\uE49F",
+                    "\uE49F
+        number: 2",
                     "\uE60E {bksp}"]
             

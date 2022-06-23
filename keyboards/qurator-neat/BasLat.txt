@@ -1,35 +1,124 @@
 
             'BasLat': [
                 
-                    "\u0041 \u0061",
-                    "\u0042 \u0062",
-                    "\u0043 \u0063",
-                    "\u0044 \u0064",
-                    "\u0045 \u0065",
-                    "\u0046 \u0066",
-                    "\u0047 \u0067",
-                    "\u0048 \u0068",
-                    "\u0049 \u0069",
-                    "\u004A \u006A",
-                    "\u004B \u006B",
-                    "\u004C \u006C",
-                    "\u004D \u006D",
-                    "\u004E \u006E",
-                    "\u004F \u006F",
-                    "\u0050 \u0070",
-                    "\u0051 \u0071",
-                    "\u0052 \u0072",
-                    "\u0053 \u0073",
-                    "\u0054 \u0074",
-                    "\u0055 \u0075",
-                    "\u0056 \u0076",
-                    "\u0057 \u0077",
-                    "\u0058 \u0078",
-                    "\u0059 \u0079",
-                    "\u005A \u007A",
-                    "\u0020 \u007F",
-                    "\u0030 \u0031 \u0032 \u0033 \u0034 \u0035 \u0036 \u0037 \u0038 \u0039",
-                    "\u0021 \u0022 \u0027 \u0028 \u0029 \u002C \u002D \u002F \u003A \u003C \u003E \u003F \u005B \u005C \u005D \u005F \u007B \u007C \u007D",
-                    "\u0026 \u002E \u003B \u005E \u0060 \u007E",
+                    "\u0041
+        number: 2 \u0061
+        number: 4",
+                    "\u0042
+        number: 2 \u0062
+        number: 4",
+                    "\u0043
+        number: 2 \u0063
+        number: 4",
+                    "\u0044
+        number: 2 \u0064
+        number: 4",
+                    "\u0045
+        number: 2 \u0065
+        number: 4",
+                    "\u0046
+        number: 2 \u0066
+        number: 4",
+                    "\u0047
+        number: 2 \u0067
+        number: 4",
+                    "\u0048
+        number: 2 \u0068
+        number: 4",
+                    "\u0049
+        number: 2 \u0069
+        number: 4",
+                    "\u004A
+        number: 2 \u006A
+        number: 4",
+                    "\u004B
+        number: 2 \u006B
+        number: 4",
+                    "\u004C
+        number: 2 \u006C
+        number: 4",
+                    "\u004D
+        number: 2 \u006D
+        number: 4",
+                    "\u004E
+        number: 2 \u006E
+        number: 4",
+                    "\u004F
+        number: 2 \u006F
+        number: 4",
+                    "\u0050
+        number: 2 \u0070
+        number: 4",
+                    "\u0051
+        number: 2 \u0071
+        number: 4",
+                    "\u0052
+        number: 2 \u0072
+        number: 4",
+                    "\u0053
+        number: 2 \u0073
+        number: 4",
+                    "\u0054
+        number: 2 \u0074
+        number: 4",
+                    "\u0055
+        number: 2 \u0075
+        number: 4",
+                    "\u0056
+        number: 2 \u0076
+        number: 4",
+                    "\u0057
+        number: 2 \u0077
+        number: 4",
+                    "\u0058
+        number: 2 \u0078
+        number: 4",
+                    "\u0059
+        number: 2 \u0079
+        number: 4",
+                    "\u005A
+        number: 2 \u007A
+        number: 4",
+                    "\u0020
+        number: 2 \u007F
+        number: 4",
+                    "\u0030
+        number: 2 \u0031
+        number: 4 \u0032
+        number: 6 \u0033
+        number: 8 \u0034
+        number: 10 \u0035
+        number: 12 \u0036
+        number: 14 \u0037
+        number: 16 \u0038
+        number: 18 \u0039
+        number: 20",
+                    "\u0021
+        number: 2 \u0022
+        number: 4 \u0027
+        number: 6 \u0028
+        number: 8 \u0029
+        number: 10 \u002C
+        number: 12 \u002D
+        number: 14 \u002F
+        number: 16 \u003A
+        number: 18 \u003C
+        number: 20 \u003E
+        number: 22 \u003F
+        number: 24 \u005B
+        number: 26 \u005C
+        number: 28 \u005D
+        number: 30 \u005F
+        number: 32 \u007B
+        number: 34 \u007C
+        number: 36 \u007D
+        number: 38",
+                    "\u0026
+        number: 2 \u002E
+        number: 4 \u003B
+        number: 6 \u005E
+        number: 8 \u0060
+        number: 10 \u007E
+        number: 12",
                     "\u0023\u0024\u0025\u002A\u002B\u003D\u0040 {bksp}"]
             

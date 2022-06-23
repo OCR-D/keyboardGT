@@ -1,6 +1,8 @@
 
             'PUA-30': [
                 
-                    "\uE324 \uE724",
+                    "\uE324
+        number: 2 \uE724
+        number: 4",
                     "\uE34E\uE74F {bksp}"]
             

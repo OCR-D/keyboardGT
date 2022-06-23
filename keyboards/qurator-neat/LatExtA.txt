@@ -1,20 +1,89 @@
 
             'LatExtA': [
                 
-                    "\u0100 \u0101 \u0102 \u0103 \u0104 \u0105",
-                    "\u0106 \u0107 \u010A \u010B",
-                    "\u0110 \u0111",
-                    "\u0112 \u0113 \u0114 \u0115 \u0116 \u0117 \u0118 \u0119",
-                    "\u0120 \u0121",
-                    "\u0127",
-                    "\u012A \u012B \u012C \u012D \u012E \u012F \u0130 \u0131 \u0132 \u0133",
-                    "\u0139 \u013A \u0141 \u0142",
-                    "\u0143 \u0144 \u014A \u014B",
-                    "\u014C \u014D \u014E \u014F \u0150 \u0151 \u0152 \u0153",
-                    "\u0154 \u0155",
-                    "\u015A \u015B \u017F",
-                    "\u016A \u016B \u016C \u016D \u016E \u016F \u0170 \u0171 \u0172 \u0173",
-                    "\u0174 \u0175",
-                    "\u0176 \u0177 \u0178",
+                    "\u0100
+        number: 2 \u0101
+        number: 4 \u0102
+        number: 6 \u0103
+        number: 8 \u0104
+        number: 10 \u0105
+        number: 12",
+                    "\u0106
+        number: 2 \u0107
+        number: 4 \u010A
+        number: 6 \u010B
+        number: 8",
+                    "\u0110
+        number: 2 \u0111
+        number: 4",
+                    "\u0112
+        number: 2 \u0113
+        number: 4 \u0114
+        number: 6 \u0115
+        number: 8 \u0116
+        number: 10 \u0117
+        number: 12 \u0118
+        number: 14 \u0119
+        number: 16",
+                    "\u0120
+        number: 2 \u0121
+        number: 4",
+                    "\u0127
+        number: 2",
+                    "\u012A
+        number: 2 \u012B
+        number: 4 \u012C
+        number: 6 \u012D
+        number: 8 \u012E
+        number: 10 \u012F
+        number: 12 \u0130
+        number: 14 \u0131
+        number: 16 \u0132
+        number: 18 \u0133
+        number: 20",
+                    "\u0139
+        number: 2 \u013A
+        number: 4 \u0141
+        number: 6 \u0142
+        number: 8",
+                    "\u0143
+        number: 2 \u0144
+        number: 4 \u014A
+        number: 6 \u014B
+        number: 8",
+                    "\u014C
+        number: 2 \u014D
+        number: 4 \u014E
+        number: 6 \u014F
+        number: 8 \u0150
+        number: 10 \u0151
+        number: 12 \u0152
+        number: 14 \u0153
+        number: 16",
+                    "\u0154
+        number: 2 \u0155
+        number: 4",
+                    "\u015A
+        number: 2 \u015B
+        number: 4 \u017F
+        number: 6",
+                    "\u016A
+        number: 2 \u016B
+        number: 4 \u016C
+        number: 6 \u016D
+        number: 8 \u016E
+        number: 10 \u016F
+        number: 12 \u0170
+        number: 14 \u0171
+        number: 16 \u0172
+        number: 18 \u0173
+        number: 20",
+                    "\u0174
+        number: 2 \u0175
+        number: 4",
+                    "\u0176
+        number: 2 \u0177
+        number: 4 \u0178
+        number: 6",
                     "\u017B\u017C {bksp}"]
             

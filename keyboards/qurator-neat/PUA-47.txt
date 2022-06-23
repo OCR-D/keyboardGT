@@ -1,9 +1,19 @@
 
             'PUA-47': [
                 
-                    "\uE00A \uE03A \uE40A \uE43A",
-                    "\uE135 \uE535",
-                    "\uEBEC \uEBED",
-                    "\uE309 \uE709",
+                    "\uE00A
+        number: 2 \uE03A
+        number: 4 \uE40A
+        number: 6 \uE43A
+        number: 8",
+                    "\uE135
+        number: 2 \uE535
+        number: 4",
+                    "\uEBEC
+        number: 2 \uEBED
+        number: 4",
+                    "\uE309
+        number: 2 \uE709
+        number: 4",
                     "\uE373\uE773 {bksp}"]
             

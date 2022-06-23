@@ -7,42 +7,52 @@
                 
                 
                 
-                    "
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "ff"
-                                } 
+                                "character": "ff
+                                 }
+        number: 2 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "fi"
-                                } 
+                                "character": "fi
+                                 }
+        number: 4 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "fl"
-                                } 
+                                "character": "fl
+                                 }
+        number: 6 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "ﬃ"
-                                } 
+                                "character": "ﬃ
+                                 }
+        number: 8 
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "ﬄ"
-                                }",
-                "
+                                "character": "ﬄ
+                                 }
+        number: 10,
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "ſt"
-                                }
+                                "character": "ſt
+                                 }
                                 {
+                                "number": 1
                                 "row": 1,
                                 "column": 3,
-                                "character": "st"
-                                }"
+                                "character": "st
+                                 }
                 ]}
             

@@ -1,6 +1,23 @@
 
             'SupSub': [
                 
-                    "\u2070 \u2074 \u2075 \u2076 \u2077 \u2078 \u2079 \u2080 \u2081 \u2082 \u2083 \u2084 \u2085 \u2086 \u2087 \u2088 \u2089",
+                    "\u2070
+        number: 2 \u2074
+        number: 4 \u2075
+        number: 6 \u2076
+        number: 8 \u2077
+        number: 10 \u2078
+        number: 12 \u2079
+        number: 14 \u2080
+        number: 16 \u2081
+        number: 18 \u2082
+        number: 20 \u2083
+        number: 22 \u2084
+        number: 24 \u2085
+        number: 26 \u2086
+        number: 28 \u2087
+        number: 30 \u2088
+        number: 32 \u2089
+        number: 34",
                     "\u207B {bksp}"]
             

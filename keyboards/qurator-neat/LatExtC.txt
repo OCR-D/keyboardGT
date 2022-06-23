@@ -1,6 +1,8 @@
 
             'LatExtC': [
                 
-                    "\u2C75 \u2C76",
+                    "\u2C75
+        number: 2 \u2C76
+        number: 4",
                     "\u2C7D {bksp}"]
             
