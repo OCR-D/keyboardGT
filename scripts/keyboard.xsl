@@ -193,8 +193,8 @@ Names
     </xsl:template>
     
     
-    <xsl:template match="$MUFIEXPORT//fn:array" name="ekb">
-    <!-- 
+    <!--<xsl:template match="$MUFIEXPORT//fn:array" name="ekb">
+    <!-\- 
     {
     "version": "0.1",
     "name": "demo",
@@ -231,7 +231,7 @@ Names
         }
     ]
 }
-    -->
+    -\->
         <xsl:for-each-group select="$MUFIEXPORT//fn:map" group-by="fn:string[@key = 'range']">
             <xsl:sort select="fn:current-grouping-key()"/>
             <xsl:result-document href="ghout/keyboards/escriptorium/{fn:current-grouping-key()}.json">
@@ -257,7 +257,7 @@ Names
     
     
     
-    </xsl:template>
+    </xsl:template>-->
     
     
     
