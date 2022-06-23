@@ -210,7 +210,15 @@ Names
                 <xsl:variable name="keys">
                     <xsl:for-each-group select="fn:current-group()" group-by="fn:string[@key = 'alpha']">
                         <xsl:sort order="ascending" select="fn:string[@key = 'alpha']"/>
-                        <line><xsl:for-each select="fn:current-group()">\u<xsl:value-of select="fn:string[@key = 'codepoint']"/><sp/></xsl:for-each></line>
+                        <line>
+                            <xsl:for-each select="fn:current-group()">
+                                {
+                                "row": 1,
+                                "column": 3,
+                                "character": "<xsl:value-of select="fn:string[@key = 'mufichar']"/>"
+                                }<sp/>
+                            </xsl:for-each>
+                        </line>
                     </xsl:for-each-group>
                 </xsl:variable>
                 <xsl:message select="$keys"/>
