@@ -318,12 +318,7 @@ Names
     <xsl:template match="number">
         <xsl:for-each select=".">
             <xsl:variable name="nr"><xsl:number/></xsl:variable>
-            "row": 1,
-            "column": 3,
-            
-            
-            
-            number: <xsl:number/>
+            number: <xsl:value-of select="$nr[fn:position()= .]"/><xsl:number/>
         </xsl:for-each>
         
     </xsl:template>
