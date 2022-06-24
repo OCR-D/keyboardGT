@@ -318,6 +318,30 @@ Names
     <xsl:template match="number">
         <xsl:for-each select=".">
             <xsl:variable name="nr"><xsl:number/></xsl:variable>
+            <xsl:choose>
+                <xsl:when test="$nr div 20 &lt; 1">"row": 0,</xsl:when>
+                <xsl:otherwise>
+                    <xsl:choose>
+                        <xsl:when test="$nr div 20 &lt; 2">"row": 1,</xsl:when>
+                        <xsl:otherwise>
+                            <xsl:choose>
+                                <xsl:when test="$nr div 20 &lt; 3">"row": 2,</xsl:when>
+                                <xsl:otherwise>
+                                    <xsl:choose>
+                                        <xsl:when test="$nr div 20 &lt; 4">"row": 3,</xsl:when>
+                                        <xsl:otherwise>
+                                            <xsl:choose>
+                                                <xsl:when test="$nr div 20 &lt; 5">"row": 4,</xsl:when>
+                                            </xsl:choose>
+                                        </xsl:otherwise>
+                                    </xsl:choose>
+                                </xsl:otherwise>
+                                
+                            </xsl:choose>
+                        </xsl:otherwise>
+                    </xsl:choose>
+                </xsl:otherwise>
+            </xsl:choose>
             <xsl:if test="$nr div 20 &lt; 1">"row": 0,</xsl:if>
             
             
