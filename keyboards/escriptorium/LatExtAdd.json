@@ -9,8 +9,8 @@
                 
                                 {
                                 
-                    "nr": 1
-                    "row": -1,
+                    
+                    "row": 0,
                     "column:" 0,
                                 "character": "Ạ
                                  }
@@ -169,7 +169,7 @@
                             
                                 {
                                 
-                    "nr": 21
+                    
                     "row": 0,
                     "column:" 20,
                                 "character": "ḟ
@@ -329,7 +329,7 @@
                             
                                 {
                                 
-                    "nr": 41
+                    
                     "row": 1,
                     "column:" 40,
                                 "character": "ṁ
@@ -489,7 +489,7 @@
                             
                                 {
                                 
-                    "nr": 61
+                    
                     "row": 2,
                     "column:" 60,
                                 "character": "ṛ
@@ -649,7 +649,7 @@
                             
                                 {
                                 
-                    "nr": 81
+                    
                     "row": 3,
                     "column:" 80,
                                 "character": "Ẁ
@@ -809,7 +809,7 @@
                             
                                 {
                                 
-                    "nr": 101
+                    
                     "row": 4,
                     "column:" 100,
                                 "character": "Ỿ
