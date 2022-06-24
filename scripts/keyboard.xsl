@@ -319,15 +319,14 @@ Names
         <xsl:for-each select=".">
             <xsl:variable name="nr"><xsl:number/></xsl:variable>
             <xsl:variable name="nnr" select="substring-before(string($nr div 20), '.')"></xsl:variable>
-            "rowy": 
+            <xsl:variable name="out_nr">
             <xsl:choose>
-                <xsl:when test="$nnr = ''"><xsl:value-of select="$nr div 20"/></xsl:when>
-                <xsl:otherwise><xsl:value-of select="$nnr"/></xsl:otherwise>
+                <xsl:when test="$nnr = ''">"row": <xsl:value-of select="$nr div 20"/>,</xsl:when>
+                <xsl:otherwise>"row": <xsl:value-of select="$nnr"/>,</xsl:otherwise>
             </xsl:choose>
-            <xsl:if test="$nnr = ''"></xsl:if>
-            
-            <xsl:value-of select="to"/>,
-            <xsl:choose>
+            </xsl:variable>
+            <xsl:value-of select="$out_nr"/>,
+            <!--<xsl:choose>
                 <xsl:when test="$nr div 20 &lt; 1">"row": 0,</xsl:when>
                 <xsl:otherwise>
                     <xsl:choose>
@@ -350,7 +349,7 @@ Names
                         </xsl:otherwise>
                     </xsl:choose>
                 </xsl:otherwise>
-            </xsl:choose>
+            </xsl:choose>-->
            </xsl:for-each>
         
     </xsl:template>
