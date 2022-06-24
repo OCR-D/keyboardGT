@@ -10,7 +10,7 @@
                                 {
                                 
                     "nr": 1
-                    "row": 0,
+                    "row": -1,
                     "column:" 0,
                                 "character": "Ā
                                  }
@@ -170,7 +170,7 @@
                                 {
                                 
                     "nr": 21
-                    "row": 1,
+                    "row": 0,
                     "column:" 20,
                                 "character": "Ġ
                                  }
@@ -330,7 +330,7 @@
                                 {
                                 
                     "nr": 41
-                    "row": 2,
+                    "row": 1,
                     "column:" 40,
                                 "character": "ŋ
                                  }
@@ -490,7 +490,7 @@
                                 {
                                 
                     "nr": 61
-                    "row": 3,
+                    "row": 2,
                     "column:" 60,
                                 "character": "Ű
                                  }

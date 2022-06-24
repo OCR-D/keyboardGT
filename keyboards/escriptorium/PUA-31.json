@@ -10,7 +10,7 @@
                                 {
                                 
                     "nr": 1
-                    "row": 0,
+                    "row": -1,
                     "column:" 0,
                                 "character": "
                                  }
@@ -170,7 +170,7 @@
                                 {
                                 
                     "nr": 21
-                    "row": 1,
+                    "row": 0,
                     "column:" 20,
                                 "character": "
                                  }
@@ -330,7 +330,7 @@
                                 {
                                 
                     "nr": 41
-                    "row": 2,
+                    "row": 1,
                     "column:" 40,
                                 "character": "
                                  }
@@ -490,7 +490,7 @@
                                 {
                                 
                     "nr": 61
-                    "row": 3,
+                    "row": 2,
                     "column:" 60,
                                 "character": "
                                  }
@@ -650,7 +650,7 @@
                                 {
                                 
                     "nr": 81
-                    "row": 4,
+                    "row": 3,
                     "column:" 80,
                                 "character": "
                                  }
