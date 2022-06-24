@@ -318,7 +318,7 @@ Names
     <xsl:template match="number">
         <xsl:for-each select=".">
             <xsl:variable name="nr"><xsl:number/></xsl:variable>
-            number: <xsl:value-of select="$nr"/><xsl:number/>
+            number: <xsl:value-of select="$nr - 1"/>
         </xsl:for-each>
         
     </xsl:template>
