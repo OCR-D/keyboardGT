@@ -319,8 +319,8 @@ Names
         <xsl:for-each select=".">
             <xsl:variable name="nr"><xsl:number/></xsl:variable>
             <xsl:variable name="divnr" select="$nr div 20"/>
-            <xsl:variable name="nnr" select="substring-before(string($divnr), ',')"></xsl:variable>
-            "rowy": <xsl:value-of select="$divnr"/>
+            <xsl:variable name="nnr" select="substring-before(string($divnr), '.')"></xsl:variable>
+            "rowy": <xsl:value-of select="$divnr"/> und <xsl:value-of select="$nnr"/>
             <xsl:value-of select="to"/>,
             <xsl:choose>
                 <xsl:when test="$nr div 20 &lt; 1">"row": 0,</xsl:when>
