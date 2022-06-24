@@ -327,7 +327,7 @@ Names
                     "column": <xsl:value-of select="($nr) - number($nnr) * 10"/>,</xsl:when>
                 <xsl:otherwise>
                     "row": <xsl:value-of select="$nnr"/>,
-                    "column": <xsl:value-of select="($nr - 1) - number($nnr) * 10"/>,
+                    "column": <xsl:value-of select="($nr) - number($nnr) * 10"/>,
                 </xsl:otherwise>
             </xsl:choose>
             </xsl:variable>
