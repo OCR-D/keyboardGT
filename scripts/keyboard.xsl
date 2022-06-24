@@ -224,12 +224,12 @@ Names
                     </xsl:for-each-group>
                 </line></xsl:variable>
                 <xsl:message select="$keys"/>
-                <xsl:for-each select="$keys/line[fn:position() &lt; last()]">
-                    number3: <xsl:number value="sp[position()]" format="1" />
-                    <xsl:apply-templates/><!--<xsl:text disable-output-escaping="yes">,&#xD;</xsl:text>-->
+                <xsl:for-each select="$keys/line">
+                    
+                    <xsl:apply-templates/>
                 </xsl:for-each>
-                number3: <xsl:number value="sp[position()]" format="1" />
-                <xsl:value-of select="$keys/line[position()=last()]"/>
+                
+                
                 ]}
             </xsl:result-document>
         </xsl:for-each-group>
