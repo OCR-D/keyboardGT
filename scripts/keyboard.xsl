@@ -318,6 +318,10 @@ Names
     <xsl:template match="number">
         <xsl:for-each select=".">
             <xsl:variable name="nr"><xsl:number/></xsl:variable>
+            <xsl:if test="$nr/20 &lt; 1">"row": 0,</xsl:if>
+            
+            
+            
             number: <xsl:value-of select="$nr - 1"/>
         </xsl:for-each>
         
