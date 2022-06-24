@@ -162,7 +162,7 @@
                                 {
                                 
                     "row": 1,
-                    "column": 10,
+                    "column": NaN,
                                 "character": "
                                  }
                             
@@ -321,7 +321,7 @@
                                 {
                                 
                     "row": 2,
-                    "column": 20,
+                    "column": NaN,
                                 "character": "
                                  }
                             
@@ -480,7 +480,7 @@
                                 {
                                 
                     "row": 3,
-                    "column": 30,
+                    "column": NaN,
                                 "character": "
                                  }
                             
@@ -639,7 +639,7 @@
                                 {
                                 
                     "row": 4,
-                    "column": 40,
+                    "column": NaN,
                                 "character": "
                                  }
                             
