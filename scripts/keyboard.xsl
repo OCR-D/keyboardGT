@@ -319,12 +319,12 @@ Names
         <xsl:for-each select=".">
             <xsl:variable name="nr"><xsl:number/></xsl:variable>
             <xsl:variable name="nnr" select="substring-before(string(($nr - 1) div 20), '.')"></xsl:variable>
-            <xsl:variable name="o_nnr" select="$nnr"/>
+            
             <xsl:variable name="out_row_colum">
             <xsl:choose>
                 <xsl:when test="$nnr = ''">
-                    "nr": <xsl:number/>
-                    "row": <xsl:value-of select="(($nr - 1) div 20) - 1"/>,
+                    
+                    "row": <xsl:value-of select="if (((($nr - 1) div 20) - 1) &lt; 0) then (($nr - 1) div 20) else ((($nr - 1) div 20) - 1)"/>,
                     "column:" <xsl:value-of select="$nr -1"/>,</xsl:when>
                 <xsl:otherwise>
                     "row": <xsl:value-of select="$nnr"/>,
