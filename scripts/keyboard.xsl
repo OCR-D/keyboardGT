@@ -342,12 +342,7 @@ Names
                     </xsl:choose>
                 </xsl:otherwise>
             </xsl:choose>
-            <xsl:if test="$nr div 20 &lt; 1">"row": 0,</xsl:if>
-            
-            
-            
-            number: <xsl:value-of select="$nr - 1"/>
-        </xsl:for-each>
+           </xsl:for-each>
         
     </xsl:template>
     
