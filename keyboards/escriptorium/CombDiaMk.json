@@ -9,9 +9,12 @@
                 
                                 {
                                 
-                    
-                    "row": 0,
+                    "row": 0
                     "column:" 0,
+                    "column2:" -10,
+                
+                
+                
                                 "character": "◌̀
                                  }
                             
@@ -169,9 +172,12 @@
                             
                                 {
                                 
-                    
-                    "row": 0,
+                    "row": 0
                     "column:" 20,
+                    "column2:" -190,
+                
+                
+                
                                 "character": "◌̶
                                  }
                             

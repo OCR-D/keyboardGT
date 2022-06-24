@@ -9,9 +9,12 @@
                 
                                 {
                                 
-                    
-                    "row": 0,
+                    "row": 0
                     "column:" 0,
+                    "column2:" -10,
+                
+                
+                
                                 "character": "ª
                                  }
                             
@@ -169,9 +172,12 @@
                             
                                 {
                                 
-                    
-                    "row": 0,
+                    "row": 0
                     "column:" 20,
+                    "column2:" -190,
+                
+                
+                
                                 "character": "É
                                  }
                             
@@ -329,9 +335,12 @@
                             
                                 {
                                 
-                    
-                    "row": 1,
+                    "row": 1
                     "column:" 40,
+                    "column2:" -370,
+                
+                
+                
                                 "character": "Ô
                                  }
                             
@@ -489,9 +498,12 @@
                             
                                 {
                                 
-                    
-                    "row": 2,
+                    "row": 2
                     "column:" 60,
+                    "column2:" -550,
+                
+                
+                
                                 "character": "ý
                                  }
                             
@@ -649,9 +661,12 @@
                             
                                 {
                                 
-                    
-                    "row": 3,
+                    "row": 3
                     "column:" 80,
+                    "column2:" -730,
+                
+                
+                
                                 "character": "¢
                                  }
                             
