@@ -319,7 +319,7 @@ Names
     </xsl:template>
     
     <xsl:template match="number">
-        number:" <xsl:number value="position()" format="1" />
+        number:" <xsl:number count="." level="any" format="1" />
     </xsl:template>
     
     
