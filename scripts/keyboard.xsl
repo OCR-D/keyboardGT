@@ -324,7 +324,7 @@ Names
             <xsl:choose>
                 <xsl:when test="$nnr = ''">
                     "row": <xsl:value-of select="$nr div 20"/>,
-                    "column": <xsl:value-of select="($nr) - number($nr div 20) * 10"/>,</xsl:when>
+                    "column": <xsl:value-of select="($nr) - number($nnr) * 10"/>,</xsl:when>
                 <xsl:otherwise>
                     "row": <xsl:value-of select="$nnr"/>,
                     "column": <xsl:value-of select="($nr - 1) - number($nnr) * 10"/>,
