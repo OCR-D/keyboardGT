@@ -11,7 +11,7 @@
                                 
                     "row": 0
                     "column:" 0,
-                    "column2:" -10,
+                    "column2:" 0,
                 
                 
                 
@@ -174,7 +174,7 @@
                                 
                     "row": 0
                     "column:" 20,
-                    "column2:" -190,
+                    "column2:" 20,
                 
                 
                 
@@ -337,7 +337,7 @@
                                 
                     "row": 1
                     "column:" 40,
-                    "column2:" -370,
+                    "column2:" 30,
                 
                 
                 
@@ -500,7 +500,7 @@
                                 
                     "row": 2
                     "column:" 60,
-                    "column2:" -550,
+                    "column2:" 40,
                 
                 
                 
