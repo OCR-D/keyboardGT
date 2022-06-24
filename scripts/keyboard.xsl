@@ -318,6 +318,11 @@ Names
     <xsl:template match="number">
         <xsl:for-each select=".">
             <xsl:variable name="nr"><xsl:number/></xsl:variable>
+            <xsl:variable name="divnr" select="fn:substring-before($nr, ',')"></xsl:variable>
+                
+                
+            "rowy": <xsl:value-of select="$divnr"/>
+            <xsl:value-of select="to"/>,
             <xsl:choose>
                 <xsl:when test="$nr div 20 &lt; 1">"row": 0,</xsl:when>
                 <xsl:otherwise>
