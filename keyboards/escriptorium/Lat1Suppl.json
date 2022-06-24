@@ -9,7 +9,7 @@
                 
                                 {
                                 
-                    "row": 0.95,
+                    "row": 0,
                     "column:" 0,
                                 "character": "ª
                                  }
@@ -168,7 +168,7 @@
                             
                                 {
                                 
-                    "row": 20.95,
+                    "row": 1,
                     "column:" 20,
                                 "character": "É
                                  }
@@ -327,7 +327,7 @@
                             
                                 {
                                 
-                    "row": 40.95,
+                    "row": 2,
                     "column:" 40,
                                 "character": "Ô
                                  }
@@ -486,7 +486,7 @@
                             
                                 {
                                 
-                    "row": 60.95,
+                    "row": 3,
                     "column:" 60,
                                 "character": "ý
                                  }
@@ -645,7 +645,7 @@
                             
                                 {
                                 
-                    "row": 80.95,
+                    "row": 4,
                     "column:" 80,
                                 "character": "¢
                                  }

@@ -9,7 +9,7 @@
                 
                                 {
                                 
-                    "row": 0.95,
+                    "row": 0,
                     "column:" 0,
                                 "character": " 
                                  }
@@ -168,7 +168,7 @@
                             
                                 {
                                 
-                    "row": 20.95,
+                    "row": 1,
                     "column:" 20,
                                 "character": "―
                                  }
@@ -327,7 +327,7 @@
                             
                                 {
                                 
-                    "row": 40.95,
+                    "row": 2,
                     "column:" 40,
                                 "character": "⁆
                                  }
