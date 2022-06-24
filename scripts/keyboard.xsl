@@ -319,7 +319,10 @@ Names
     </xsl:template>
     
     <xsl:template match="number">
-        number:" <xsl:number value="position()"/>
+        <xsl:for-each select=".">
+            number: <xsl:number/>
+        </xsl:for-each>
+        
     </xsl:template>
     
     
