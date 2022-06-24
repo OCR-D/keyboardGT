@@ -1,22 +1,13 @@
 
             'Run': [
                 
-                    "\u16A8
-        number3: 2",
-                    "\u16A7
-        number3: 2",
-                    "\u16A0
-        number3: 2",
-                    "\u16A2
-        number3: 2",
-                    "\u16A1
-        number3: 2",
-                    "\u16A5
-        number3: 2",
-                    "\u16A3
-        number3: 2\u16A4
-        number3: 4",
-                    "\u16D8
-        number3: 2",
+                    "\u16A8",
+                    "\u16A7",
+                    "\u16A0",
+                    "\u16A2",
+                    "\u16A1",
+                    "\u16A5",
+                    "\u16A3 \u16A4",
+                    "\u16D8",
                     "\u16A6 {bksp}"]
             

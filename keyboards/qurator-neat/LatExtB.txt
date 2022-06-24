@@ -1,63 +1,20 @@
 
             'LatExtB': [
                 
-                    "\u01E2
-        number3: 2\u01E3
-        number3: 4\u01FC
-        number3: 6\u01FD
-        number3: 8\u0226
-        number3: 10\u0227
-        number3: 12",
-                    "\u0180
-        number3: 2",
-                    "\u01E4
-        number3: 2\u01E5
-        number3: 4\u01F4
-        number3: 6\u01F5
-        number3: 8",
-                    "\u0195
-        number3: 2\u01F6
-        number3: 4",
-                    "\u0237
-        number3: 2\u0248
-        number3: 4\u0249
-        number3: 6",
-                    "\u0199
-        number3: 2",
-                    "\u019A
-        number3: 2",
-                    "\u019C
-        number3: 2",
-                    "\u019E
-        number3: 2",
-                    "\u01D1
-        number3: 2\u01D2
-        number3: 4\u01EA
-        number3: 6\u01EB
-        number3: 8\u01EC
-        number3: 10\u01ED
-        number3: 12\u01FE
-        number3: 14\u01FF
-        number3: 16\u022A
-        number3: 18\u022B
-        number3: 20\u022E
-        number3: 22\u022F
-        number3: 24",
-                    "\u01A6
-        number3: 2",
-                    "\u01D3
-        number3: 2\u01D4
-        number3: 4\u01D5
-        number3: 6\u01D6
-        number3: 8",
-                    "\u01BF
-        number3: 2\u01F7
-        number3: 4",
-                    "\u0232
-        number3: 2\u0233
-        number3: 4",
-                    "\u01B5
-        number3: 2\u01B6
-        number3: 4",
+                    "\u01E2 \u01E3 \u01FC \u01FD \u0226 \u0227",
+                    "\u0180",
+                    "\u01E4 \u01E5 \u01F4 \u01F5",
+                    "\u0195 \u01F6",
+                    "\u0237 \u0248 \u0249",
+                    "\u0199",
+                    "\u019A",
+                    "\u019C",
+                    "\u019E",
+                    "\u01D1 \u01D2 \u01EA \u01EB \u01EC \u01ED \u01FE \u01FF \u022A \u022B \u022E \u022F",
+                    "\u01A6",
+                    "\u01D3 \u01D4 \u01D5 \u01D6",
+                    "\u01BF \u01F7",
+                    "\u0232 \u0233",
+                    "\u01B5 \u01B6",
                     "\u01B7\u021C\u021D {bksp}"]
             

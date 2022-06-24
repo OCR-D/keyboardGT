@@ -1,15 +1,9 @@
 
             'LettSymb': [
                 
-                    "\u2132
-        number3: 2\u214E
-        number3: 4",
-                    "\u211E
-        number3: 2\u211F
-        number3: 4",
-                    "\u2123
-        number3: 2",
-                    "\u2114
-        number3: 2",
+                    "\u2132 \u214E",
+                    "\u211E \u211F",
+                    "\u2123",
+                    "\u2114",
                     "\u2108\u2125 {bksp}"]
             

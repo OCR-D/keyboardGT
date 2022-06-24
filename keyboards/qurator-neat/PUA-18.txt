@@ -1,58 +1,23 @@
 
             'PUA-18': [
                 
-                    "\uE043
-        number3: 2\uE443
-        number3: 4\uEFEE
-        number3: 6\uEFEF
-        number3: 8\uEFF0
-        number3: 10\uEFF1
-        number3: 12",
-                    "\uEBD0
-        number3: 2",
-                    "\uEBD1
-        number3: 2\uEBD2
-        number3: 4",
-                    "\uEBD3
-        number3: 2\uEBD4
-        number3: 4\uEBD5
-        number3: 6\uEBD6
-        number3: 8\uEBD7
-        number3: 10",
-                    "\uEF20
-        number3: 2",
-                    "\uEBDA
-        number3: 2",
-                    "\uE15C
-        number3: 2",
-                    "\uE168
-        number3: 2\uE568
-        number3: 4\uEBDB
-        number3: 6",
-                    "\uE19E
-        number3: 2\uE59E
-        number3: 4\uEBDC
-        number3: 6",
-                    "\uEBDD
-        number3: 2",
-                    "\uEF21
-        number3: 2",
-                    "\uEBCD
-        number3: 2\uEBCE
-        number3: 4",
-                    "\uEBCF
-        number3: 2",
-                    "\uE282
-        number3: 2\uE682
-        number3: 4",
-                    "\uEF22
-        number3: 2",
-                    "\uEF23
-        number3: 2",
-                    "\uEF24
-        number3: 2",
-                    "\uE315
-        number3: 2\uE715
-        number3: 4",
+                    "\uE043 \uE443 \uEFEE \uEFEF \uEFF0 \uEFF1",
+                    "\uEBD0",
+                    "\uEBD1 \uEBD2",
+                    "\uEBD3 \uEBD4 \uEBD5 \uEBD6 \uEBD7",
+                    "\uEF20",
+                    "\uEBDA",
+                    "\uE15C",
+                    "\uE168 \uE568 \uEBDB",
+                    "\uE19E \uE59E \uEBDC",
+                    "\uEBDD",
+                    "\uEF21",
+                    "\uEBCD \uEBCE",
+                    "\uEBCF",
+                    "\uE282 \uE682",
+                    "\uEF22",
+                    "\uEF23",
+                    "\uEF24",
+                    "\uE315 \uE715",
                     "\uE34C\uE3E7\uE74C\uE7E7 {bksp}"]
             

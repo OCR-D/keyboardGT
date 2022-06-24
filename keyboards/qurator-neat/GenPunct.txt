@@ -1,54 +1,9 @@
 
             'GenPunct': [
                 
-                    "\u2000
-        number3: 2\u2001
-        number3: 4\u2002
-        number3: 6\u2003
-        number3: 8\u2004
-        number3: 10\u2005
-        number3: 12\u2006
-        number3: 14\u2007
-        number3: 16\u2008
-        number3: 18\u2009
-        number3: 20\u200A
-        number3: 22\u200B
-        number3: 24\u202F
-        number3: 26",
-                    "\u2022
-        number3: 2\u2023
-        number3: 4",
-                    "\u2010
-        number3: 2\u2011
-        number3: 4\u2012
-        number3: 6\u2013
-        number3: 8\u2014
-        number3: 10\u2015
-        number3: 12\u2016
-        number3: 14\u2018
-        number3: 16\u2019
-        number3: 18\u201A
-        number3: 20\u201B
-        number3: 22\u201C
-        number3: 24\u201D
-        number3: 26\u201E
-        number3: 28\u201F
-        number3: 30\u2024
-        number3: 32\u2025
-        number3: 34\u2026
-        number3: 36\u2027
-        number3: 38\u2032
-        number3: 40\u2033
-        number3: 42\u2039
-        number3: 44\u203A
-        number3: 46\u2044
-        number3: 48\u2045
-        number3: 50\u2046
-        number3: 52\u2056
-        number3: 54\u2058
-        number3: 56\u25CF
-        number3: 58",
-                    "\u204A
-        number3: 2",
+                    "\u2000 \u2001 \u2002 \u2003 \u2004 \u2005 \u2006 \u2007 \u2008 \u2009 \u200A \u200B \u202F",
+                    "\u2022 \u2023",
+                    "\u2010 \u2011 \u2012 \u2013 \u2014 \u2015 \u2016 \u2018 \u2019 \u201A \u201B \u201C \u201D \u201E \u201F \u2024 \u2025 \u2026 \u2027 \u2032 \u2033 \u2039 \u203A \u2044 \u2045 \u2046 \u2056 \u2058 \u25CF",
+                    "\u204A",
                     "\u2020\u2021\u2030\u203B\u2042\u204B\u205C {bksp}"]
             

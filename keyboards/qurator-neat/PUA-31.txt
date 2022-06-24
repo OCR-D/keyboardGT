@@ -1,95 +1,19 @@
 
             'PUA-31': [
                 
-                    "\uE02C
-        number3: 2\uE42C
-        number3: 4\uE42D
-        number3: 6\uE42E
-        number3: 8\uE435
-        number3: 10\uE8E0
-        number3: 12",
-                    "\uF056
-        number3: 2\uF057
-        number3: 4\uF059
-        number3: 6\uF05A
-        number3: 8\uF05D
-        number3: 10",
-                    "\uF096
-        number3: 2\uF097
-        number3: 4\uF099
-        number3: 6\uF09A
-        number3: 8\uF09B
-        number3: 10\uF09F
-        number3: 12\uF0A7
-        number3: 14\uF0A8
-        number3: 16\uF0AA
-        number3: 18\uF0AB
-        number3: 20\uF0AE
-        number3: 22",
-                    "\uE0E1
-        number3: 2\uE4E1
-        number3: 4\uE4E2
-        number3: 6\uE4E3
-        number3: 8\uE4F1
-        number3: 10\uE4F2
-        number3: 12",
-                    "\uF065
-        number3: 2\uF066
-        number3: 4\uF067
-        number3: 6\uF068
-        number3: 8\uF069
-        number3: 10\uF06A
-        number3: 12\uF06D
-        number3: 14\uF06E
-        number3: 16",
-                    "\uE54A
-        number3: 2\uE54B
-        number3: 4\uE732
-        number3: 6\uE8E5
-        number3: 8\uE8E6
-        number3: 10",
-                    "\uE8E7
-        number3: 2",
-                    "\uF075
-        number3: 2\uF076
-        number3: 4\uF077
-        number3: 6\uF079
-        number3: 8\uF07A
-        number3: 10\uF07B
-        number3: 12\uF07D
-        number3: 14\uF07F
-        number3: 16",
-                    "\uE8E8
-        number3: 2",
-                    "\uE244
-        number3: 2\uE246
-        number3: 4\uE643
-        number3: 6\uE644
-        number3: 8\uE645
-        number3: 10\uE646
-        number3: 12\uE647
-        number3: 14\uE8E9
-        number3: 16",
-                    "\uE8EA
-        number3: 2",
-                    "\uE32B
-        number3: 2\uE32D
-        number3: 4\uE72B
-        number3: 6\uE72C
-        number3: 8\uE72D
-        number3: 10\uE8EB
-        number3: 12\uE8EC
-        number3: 14\uE8ED
-        number3: 16",
-                    "\uE353
-        number3: 2\uE753
-        number3: 4\uE754
-        number3: 6\uE771
-        number3: 8\uE8F0
-        number3: 10\uE8F2
-        number3: 12\uE8F3
-        number3: 14",
-                    "\uE781
-        number3: 2",
+                    "\uE02C \uE42C \uE42D \uE42E \uE435 \uE8E0",
+                    "\uF056 \uF057 \uF059 \uF05A \uF05D",
+                    "\uF096 \uF097 \uF099 \uF09A \uF09B \uF09F \uF0A7 \uF0A8 \uF0AA \uF0AB \uF0AE",
+                    "\uE0E1 \uE4E1 \uE4E2 \uE4E3 \uE4F1 \uE4F2",
+                    "\uF065 \uF066 \uF067 \uF068 \uF069 \uF06A \uF06D \uF06E",
+                    "\uE54A \uE54B \uE732 \uE8E5 \uE8E6",
+                    "\uE8E7",
+                    "\uF075 \uF076 \uF077 \uF079 \uF07A \uF07B \uF07D \uF07F",
+                    "\uE8E8",
+                    "\uE244 \uE246 \uE643 \uE644 \uE645 \uE646 \uE647 \uE8E9",
+                    "\uE8EA",
+                    "\uE32B \uE32D \uE72B \uE72C \uE72D \uE8EB \uE8EC \uE8ED",
+                    "\uE353 \uE753 \uE754 \uE771 \uE8F0 \uE8F2 \uE8F3",
+                    "\uE781",
                     "\uF086\uF087\uF089\uF08A\uF08E {bksp}"]
             

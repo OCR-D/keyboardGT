@@ -1,11 +1,8 @@
 
             'PUA-26': [
                 
-                    "\uE8D1
-        number3: 2",
-                    "\uE4CF
-        number3: 2",
-                    "\uE637
-        number3: 2",
+                    "\uE8D1",
+                    "\uE4CF",
+                    "\uE637",
                     "\uE743 {bksp}"]
             

@@ -1,127 +1,25 @@
 
             'LatExtAdd': [
                 
-                    "\u1EA0
-        number3: 2\u1EA1
-        number3: 4\u1EA2
-        number3: 6\u1EA3
-        number3: 8\u1EAE
-        number3: 10\u1EAF
-        number3: 12",
-                    "\u1E02
-        number3: 2\u1E03
-        number3: 4\u1E04
-        number3: 6\u1E05
-        number3: 8",
-                    "\u1E0A
-        number3: 2\u1E0B
-        number3: 4\u1E0C
-        number3: 6\u1E0D
-        number3: 8\u1E9F
-        number3: 10",
-                    "\u1E16
-        number3: 2\u1E17
-        number3: 4\u1EB8
-        number3: 6\u1EB9
-        number3: 8",
-                    "\u1E1E
-        number3: 2\u1E1F
-        number3: 4",
-                    "\u1E22
-        number3: 2\u1E23
-        number3: 4\u1E24
-        number3: 6\u1E25
-        number3: 8",
-                    "\u1EC8
-        number3: 2\u1EC9
-        number3: 4\u1ECA
-        number3: 6\u1ECB
-        number3: 8",
-                    "\u1E30
-        number3: 2\u1E31
-        number3: 4\u1E32
-        number3: 6\u1E33
-        number3: 8",
-                    "\u1E36
-        number3: 2\u1E37
-        number3: 4\u1EFA
-        number3: 6\u1EFB
-        number3: 8",
-                    "\u1E3E
-        number3: 2\u1E3F
-        number3: 4\u1E40
-        number3: 6\u1E41
-        number3: 8\u1E42
-        number3: 10\u1E43
-        number3: 12",
-                    "\u1E44
-        number3: 2\u1E45
-        number3: 4\u1E46
-        number3: 6\u1E47
-        number3: 8",
-                    "\u1E52
-        number3: 2\u1E53
-        number3: 4\u1ECC
-        number3: 6\u1ECD
-        number3: 8\u1ECE
-        number3: 10\u1ECF
-        number3: 12",
-                    "\u1E54
-        number3: 2\u1E55
-        number3: 4\u1E56
-        number3: 6\u1E57
-        number3: 8",
-                    "\u1E58
-        number3: 2\u1E59
-        number3: 4\u1E5A
-        number3: 6\u1E5B
-        number3: 8",
-                    "\u1E60
-        number3: 2\u1E61
-        number3: 4\u1E62
-        number3: 6\u1E63
-        number3: 8\u1E9C
-        number3: 10\u1E9D
-        number3: 12\u1E9E
-        number3: 14",
-                    "\u1E6A
-        number3: 2\u1E6B
-        number3: 4\u1E6C
-        number3: 6\u1E6D
-        number3: 8",
-                    "\u1EE4
-        number3: 2\u1EE5
-        number3: 4\u1EE6
-        number3: 6\u1EE7
-        number3: 8",
-                    "\u1E7E
-        number3: 2\u1E7F
-        number3: 4\u1EFC
-        number3: 6\u1EFD
-        number3: 8",
-                    "\u1E80
-        number3: 2\u1E81
-        number3: 4\u1E82
-        number3: 6\u1E83
-        number3: 8\u1E84
-        number3: 10\u1E85
-        number3: 12\u1E86
-        number3: 14\u1E87
-        number3: 16\u1E88
-        number3: 18\u1E89
-        number3: 20\u1E98
-        number3: 22",
-                    "\u1E8E
-        number3: 2\u1E8F
-        number3: 4\u1E99
-        number3: 6\u1EF2
-        number3: 8\u1EF3
-        number3: 10\u1EF4
-        number3: 12\u1EF5
-        number3: 14\u1EF6
-        number3: 16\u1EF7
-        number3: 18\u1EFE
-        number3: 20\u1EFF
-        number3: 22",
+                    "\u1EA0 \u1EA1 \u1EA2 \u1EA3 \u1EAE \u1EAF",
+                    "\u1E02 \u1E03 \u1E04 \u1E05",
+                    "\u1E0A \u1E0B \u1E0C \u1E0D \u1E9F",
+                    "\u1E16 \u1E17 \u1EB8 \u1EB9",
+                    "\u1E1E \u1E1F",
+                    "\u1E22 \u1E23 \u1E24 \u1E25",
+                    "\u1EC8 \u1EC9 \u1ECA \u1ECB",
+                    "\u1E30 \u1E31 \u1E32 \u1E33",
+                    "\u1E36 \u1E37 \u1EFA \u1EFB",
+                    "\u1E3E \u1E3F \u1E40 \u1E41 \u1E42 \u1E43",
+                    "\u1E44 \u1E45 \u1E46 \u1E47",
+                    "\u1E52 \u1E53 \u1ECC \u1ECD \u1ECE \u1ECF",
+                    "\u1E54 \u1E55 \u1E56 \u1E57",
+                    "\u1E58 \u1E59 \u1E5A \u1E5B",
+                    "\u1E60 \u1E61 \u1E62 \u1E63 \u1E9C \u1E9D \u1E9E",
+                    "\u1E6A \u1E6B \u1E6C \u1E6D",
+                    "\u1EE4 \u1EE5 \u1EE6 \u1EE7",
+                    "\u1E7E \u1E7F \u1EFC \u1EFD",
+                    "\u1E80 \u1E81 \u1E82 \u1E83 \u1E84 \u1E85 \u1E86 \u1E87 \u1E88 \u1E89 \u1E98",
+                    "\u1E8E \u1E8F \u1E99 \u1EF2 \u1EF3 \u1EF4 \u1EF5 \u1EF6 \u1EF7 \u1EFE \u1EFF",
                     "\u1E92\u1E93 {bksp}"]
             

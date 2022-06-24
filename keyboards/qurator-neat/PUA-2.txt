@@ -1,9 +1,7 @@
 
             'PUA-2': [
                 
-                    "\uEF0C
-        number3: 2",
-                    "\uEF11
-        number3: 2",
+                    "\uEF0C",
+                    "\uEF11",
                     "\uEF15 {bksp}"]
             

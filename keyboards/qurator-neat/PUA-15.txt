@@ -1,70 +1,26 @@
 
             'PUA-15': [
                 
-                    "\uF800
-        number3: 2",
-                    "\uE44D
-        number3: 2",
-                    "\uF7B5
-        number3: 2",
-                    "\uE491
-        number3: 2\uF7B6
-        number3: 4",
-                    "\uE0BC
-        number3: 2\uE4BC
-        number3: 4",
-                    "\uE517
-        number3: 2",
-                    "\uE150
-        number3: 2\uE550
-        number3: 4",
-                    "\uE152
-        number3: 2\uE154
-        number3: 4\uE552
-        number3: 6\uE554
-        number3: 8",
-                    "\uE7C3
-        number3: 2",
-                    "\uE58C
-        number3: 2\uE596
-        number3: 4\uE5B1
-        number3: 6\uF7B4
-        number3: 8",
-                    "\uE1B8
-        number3: 2\uE1D2
-        number3: 4\uE5B8
-        number3: 6\uE5D2
-        number3: 8",
-                    "\uE1DC
-        number3: 2\uE5DC
-        number3: 4",
-                    "\uE252
-        number3: 2\uE25D
-        number3: 4\uE652
-        number3: 6\uE65D
-        number3: 8\uE7CC
-        number3: 10",
-                    "\uE665
-        number3: 2",
-                    "\uE681
-        number3: 2",
-                    "\uE79E
-        number3: 2",
-                    "\uE34D
-        number3: 2\uE74D
-        number3: 4\uF7B2
-        number3: 6",
-                    "\uE357
-        number3: 2\uE757
-        number3: 4",
-                    "\uF7B3
-        number3: 2",
-                    "\uF00A
-        number3: 2\uF00B
-        number3: 4\uF00C
-        number3: 6\uF00D
-        number3: 8",
-                    "\uF23F
-        number3: 2",
+                    "\uF800",
+                    "\uE44D",
+                    "\uF7B5",
+                    "\uE491 \uF7B6",
+                    "\uE0BC \uE4BC",
+                    "\uE517",
+                    "\uE150 \uE550",
+                    "\uE152 \uE154 \uE552 \uE554",
+                    "\uE7C3",
+                    "\uE58C \uE596 \uE5B1 \uF7B4",
+                    "\uE1B8 \uE1D2 \uE5B8 \uE5D2",
+                    "\uE1DC \uE5DC",
+                    "\uE252 \uE25D \uE652 \uE65D \uE7CC",
+                    "\uE665",
+                    "\uE681",
+                    "\uE79E",
+                    "\uE34D \uE74D \uF7B2",
+                    "\uE357 \uE757",
+                    "\uF7B3",
+                    "\uF00A \uF00B \uF00C \uF00D",
+                    "\uF23F",
                     "\uE7A2 {bksp}"]
             

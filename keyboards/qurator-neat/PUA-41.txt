@@ -1,10 +1,7 @@
 
             'PUA-41': [
                 
-                    "\uE41A
-        number3: 2",
-                    "\uE22D
-        number3: 2\uE62D
-        number3: 4",
+                    "\uE41A",
+                    "\uE22D \uE62D",
                     "\uE317\uE717 {bksp}"]
             

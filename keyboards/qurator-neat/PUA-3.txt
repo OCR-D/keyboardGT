@@ -1,70 +1,31 @@
 
             'PUA-3': [
                 
-                    "\uEAF0
-        number3: 2\uEAF1
-        number3: 4\uEAF2
-        number3: 6\uEEE0
-        number3: 8\uEFDE
-        number3: 10\uEFDF
-        number3: 12",
-                    "\uEEE1
-        number3: 2",
-                    "\uEEE2
-        number3: 2",
-                    "\uEEE3
-        number3: 2\uEEE4
-        number3: 4\uEEE5
-        number3: 6",
-                    "\uEAF3
-        number3: 2\uEEE6
-        number3: 4",
-                    "\uEEE7
-        number3: 2\uEEFF
-        number3: 4",
-                    "\uEEE8
-        number3: 2",
-                    "\uEEE9
-        number3: 2",
-                    "\uEEEA
-        number3: 2\uEEFD
-        number3: 4",
-                    "\uEEEB
-        number3: 2\uEEFE
-        number3: 4",
-                    "\uEEEC
-        number3: 2",
-                    "\uEEED
-        number3: 2",
-                    "\uEEEE
-        number3: 2",
-                    "\uEEEF
-        number3: 2",
-                    "\uEEF0
-        number3: 2\uEFDD
-        number3: 4",
-                    "\uEEF1
-        number3: 2",
-                    "\uEEF2
-        number3: 2",
-                    "\uEEF3
-        number3: 2",
-                    "\uEEDF
-        number3: 2\uEEF4
-        number3: 4",
-                    "\uEEF5
-        number3: 2",
-                    "\uEEF7
-        number3: 2",
-                    "\uEEF8
-        number3: 2",
-                    "\uEEF9
-        number3: 2",
-                    "\uEEFA
-        number3: 2",
-                    "\uEEFB
-        number3: 2",
-                    "\uEEFC
-        number3: 2",
+                    "\uEAF0 \uEAF1 \uEAF2 \uEEE0 \uEFDE \uEFDF",
+                    "\uEEE1",
+                    "\uEEE2",
+                    "\uEEE3 \uEEE4 \uEEE5",
+                    "\uEAF3 \uEEE6",
+                    "\uEEE7 \uEEFF",
+                    "\uEEE8",
+                    "\uEEE9",
+                    "\uEEEA \uEEFD",
+                    "\uEEEB \uEEFE",
+                    "\uEEEC",
+                    "\uEEED",
+                    "\uEEEE",
+                    "\uEEEF",
+                    "\uEEF0 \uEFDD",
+                    "\uEEF1",
+                    "\uEEF2",
+                    "\uEEF3",
+                    "\uEEDF \uEEF4",
+                    "\uEEF5",
+                    "\uEEF7",
+                    "\uEEF8",
+                    "\uEEF9",
+                    "\uEEFA",
+                    "\uEEFB",
+                    "\uEEFC",
                     "\uEEF6 {bksp}"]
             

@@ -1,29 +1,6 @@
 
             'PUA-8': [
                 
-                    "\uF160
-        number3: 2\uF161
-        number3: 4\uF1E0
-        number3: 6\uF1E1
-        number3: 8\uF1E2
-        number3: 10\uF1E3
-        number3: 12\uF1E4
-        number3: 14\uF1E5
-        number3: 16\uF1E6
-        number3: 18\uF1E7
-        number3: 20\uF1E8
-        number3: 22\uF1EA
-        number3: 24\uF1EC
-        number3: 26\uF1F0
-        number3: 28\uF1F1
-        number3: 30\uF1F2
-        number3: 32\uF1F4
-        number3: 34\uF1F5
-        number3: 36\uF1F7
-        number3: 38\uF1F8
-        number3: 40\uF1F9
-        number3: 42\uF1FA
-        number3: 44\uF1FB
-        number3: 46",
+                    "\uF160 \uF161 \uF1E0 \uF1E1 \uF1E2 \uF1E3 \uF1E4 \uF1E5 \uF1E6 \uF1E7 \uF1E8 \uF1EA \uF1EC \uF1F0 \uF1F1 \uF1F2 \uF1F4 \uF1F5 \uF1F7 \uF1F8 \uF1F9 \uF1FA \uF1FB",
                     "\uF1D2 {bksp}"]
             

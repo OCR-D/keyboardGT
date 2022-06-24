@@ -1,39 +1,19 @@
 
             'IPAExt': [
                 
-                    "\u0299
-        number3: 2",
-                    "\u0256
-        number3: 2",
-                    "\u0259
-        number3: 2",
-                    "\u0261
-        number3: 2\u0262
-        number3: 4",
-                    "\u0266
-        number3: 2\u029C
-        number3: 4",
-                    "\u0268
-        number3: 2\u026A
-        number3: 4",
-                    "\u025F
-        number3: 2",
-                    "\u029F
-        number3: 2",
-                    "\u026F
-        number3: 2",
-                    "\u0272
-        number3: 2\u0274
-        number3: 4",
-                    "\u0254
-        number3: 2\u0276
-        number3: 4",
-                    "\u027C
-        number3: 2\u0280
-        number3: 4",
-                    "\u0289
-        number3: 2",
-                    "\u028F
-        number3: 2",
+                    "\u0299",
+                    "\u0256",
+                    "\u0259",
+                    "\u0261 \u0262",
+                    "\u0266 \u029C",
+                    "\u0268 \u026A",
+                    "\u025F",
+                    "\u029F",
+                    "\u026F",
+                    "\u0272 \u0274",
+                    "\u0254 \u0276",
+                    "\u027C \u0280",
+                    "\u0289",
+                    "\u028F",
                     "\u0292 {bksp}"]
             

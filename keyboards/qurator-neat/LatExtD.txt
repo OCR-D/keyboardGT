@@ -1,113 +1,24 @@
 
             'LatExtD': [
                 
-                    "\uA732
-        number3: 2\uA733
-        number3: 4\uA734
-        number3: 6\uA735
-        number3: 8\uA736
-        number3: 10\uA737
-        number3: 12\uA738
-        number3: 14\uA739
-        number3: 16\uA73A
-        number3: 18\uA73B
-        number3: 20\uA73C
-        number3: 22\uA73D
-        number3: 24",
-                    "\uA771
-        number3: 2\uA779
-        number3: 4\uA77A
-        number3: 6",
-                    "\uA730
-        number3: 2\uA77B
-        number3: 4\uA77C
-        number3: 6\uA7FB
-        number3: 8",
-                    "\uA77D
-        number3: 2\uA77E
-        number3: 4\uA77F
-        number3: 6",
-                    "\uA7FE
-        number3: 2",
-                    "\uA740
-        number3: 2\uA741
-        number3: 4\uA742
-        number3: 6\uA743
-        number3: 8\uA744
-        number3: 10\uA745
-        number3: 12",
-                    "\uA746
-        number3: 2\uA747
-        number3: 4\uA748
-        number3: 6\uA749
-        number3: 8\uA772
-        number3: 10\uA780
-        number3: 12\uA781
-        number3: 14",
-                    "\uA773
-        number3: 2\uA7FD
-        number3: 4\uA7FF
-        number3: 6",
-                    "\uA774
-        number3: 2",
-                    "\uA74C
-        number3: 2\uA74D
-        number3: 4\uA74E
-        number3: 6\uA74F
-        number3: 8",
-                    "\uA750
-        number3: 2\uA751
-        number3: 4\uA752
-        number3: 6\uA753
-        number3: 8\uA754
-        number3: 10\uA755
-        number3: 12\uA7FC
-        number3: 14",
-                    "\uA756
-        number3: 2\uA757
-        number3: 4\uA758
-        number3: 6\uA759
-        number3: 8",
-                    "\uA75A
-        number3: 2\uA75B
-        number3: 4\uA775
-        number3: 6\uA776
-        number3: 8\uA782
-        number3: 10\uA783
-        number3: 12",
-                    "\uA731
-        number3: 2\uA784
-        number3: 4\uA785
-        number3: 6",
-                    "\uA777
-        number3: 2\uA786
-        number3: 4\uA787
-        number3: 6",
-                    "\uA75E
-        number3: 2\uA75F
-        number3: 4\uA768
-        number3: 6\uA769
-        number3: 8",
-                    "\uA760
-        number3: 2\uA761
-        number3: 4",
-                    "\uA762
-        number3: 2\uA763
-        number3: 4",
-                    "\uA73E
-        number3: 2\uA73F
-        number3: 4\uA74A
-        number3: 6\uA74B
-        number3: 8\uA75C
-        number3: 10\uA75D
-        number3: 12\uA76A
-        number3: 14\uA76B
-        number3: 16\uA76C
-        number3: 18\uA76D
-        number3: 20\uA76E
-        number3: 22\uA76F
-        number3: 24\uA770
-        number3: 26\uA778
-        number3: 28",
+                    "\uA732 \uA733 \uA734 \uA735 \uA736 \uA737 \uA738 \uA739 \uA73A \uA73B \uA73C \uA73D",
+                    "\uA771 \uA779 \uA77A",
+                    "\uA730 \uA77B \uA77C \uA7FB",
+                    "\uA77D \uA77E \uA77F",
+                    "\uA7FE",
+                    "\uA740 \uA741 \uA742 \uA743 \uA744 \uA745",
+                    "\uA746 \uA747 \uA748 \uA749 \uA772 \uA780 \uA781",
+                    "\uA773 \uA7FD \uA7FF",
+                    "\uA774",
+                    "\uA74C \uA74D \uA74E \uA74F",
+                    "\uA750 \uA751 \uA752 \uA753 \uA754 \uA755 \uA7FC",
+                    "\uA756 \uA757 \uA758 \uA759",
+                    "\uA75A \uA75B \uA775 \uA776 \uA782 \uA783",
+                    "\uA731 \uA784 \uA785",
+                    "\uA777 \uA786 \uA787",
+                    "\uA75E \uA75F \uA768 \uA769",
+                    "\uA760 \uA761",
+                    "\uA762 \uA763",
+                    "\uA73E \uA73F \uA74A \uA74B \uA75C \uA75D \uA76A \uA76B \uA76C \uA76D \uA76E \uA76F \uA770 \uA778",
                     "\uA764\uA765\uA766\uA767 {bksp}"]
             
