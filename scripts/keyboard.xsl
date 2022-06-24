@@ -324,13 +324,13 @@ Names
             <xsl:choose>
                 <xsl:when test="$nnr = ''">
                     "row": <xsl:value-of select="$nr div 20"/>,</xsl:when>
-                    
+                    "column:" <xsl:value-of select="$nr,
                 <xsl:otherwise>
                     "row": <xsl:value-of select="$nnr"/>,
-                    
+                    "column:" <xsl:value-of select="$nr,
                 </xsl:otherwise>
             </xsl:choose>
-                "column": <xsl:value-of select="($nr) - (number($nnr) +1) * 10"/>,
+                
             </xsl:variable>
             <xsl:value-of select="$out_row_colum"/>
             </xsl:for-each>
