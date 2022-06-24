@@ -10,952 +10,764 @@
                                 {
                                 
                     "row": 0,
-                    
+                    "column:" 1,
                 
-                "column": -9,
-            
                                 "character": "A
                                  }
                             
                                 {
                                 
                     "row": 0,
-                    
+                    "column:" 2,
                 
-                "column": -8,
-            
                                 "character": "a
                                  }
                             
                                 {
                                 
                     "row": 0,
-                    
+                    "column:" 3,
                 
-                "column": -7,
-            
                                 "character": "B
                                  }
                             
                                 {
                                 
                     "row": 0,
-                    
+                    "column:" 4,
                 
-                "column": -6,
-            
                                 "character": "b
                                  }
                             
                                 {
                                 
                     "row": 0,
-                    
+                    "column:" 5,
                 
-                "column": -5,
-            
                                 "character": "C
                                  }
                             
                                 {
                                 
                     "row": 0,
-                    
+                    "column:" 6,
                 
-                "column": -4,
-            
                                 "character": "c
                                  }
                             
                                 {
                                 
                     "row": 0,
-                    
+                    "column:" 7,
                 
-                "column": -3,
-            
                                 "character": "D
                                  }
                             
                                 {
                                 
                     "row": 0,
-                    
+                    "column:" 8,
                 
-                "column": -2,
-            
                                 "character": "d
                                  }
                             
                                 {
                                 
                     "row": 0,
-                    
+                    "column:" 9,
                 
-                "column": -1,
-            
                                 "character": "E
                                  }
                             
                                 {
                                 
                     "row": 0,
-                    
+                    "column:" 10,
                 
-                "column": 0,
-            
                                 "character": "e
                                  }
                             
                                 {
                                 
                     "row": 0,
-                    
+                    "column:" 11,
                 
-                "column": 1,
-            
                                 "character": "F
                                  }
                             
                                 {
                                 
                     "row": 0,
-                    
+                    "column:" 12,
                 
-                "column": 2,
-            
                                 "character": "f
                                  }
                             
                                 {
                                 
                     "row": 0,
-                    
+                    "column:" 13,
                 
-                "column": 3,
-            
                                 "character": "G
                                  }
                             
                                 {
                                 
                     "row": 0,
-                    
+                    "column:" 14,
                 
-                "column": 4,
-            
                                 "character": "g
                                  }
                             
                                 {
                                 
                     "row": 0,
-                    
+                    "column:" 15,
                 
-                "column": 5,
-            
                                 "character": "H
                                  }
                             
                                 {
                                 
                     "row": 0,
-                    
+                    "column:" 16,
                 
-                "column": 6,
-            
                                 "character": "h
                                  }
                             
                                 {
                                 
                     "row": 0,
-                    
+                    "column:" 17,
                 
-                "column": 7,
-            
                                 "character": "I
                                  }
                             
                                 {
                                 
                     "row": 0,
-                    
+                    "column:" 18,
                 
-                "column": 8,
-            
                                 "character": "i
                                  }
                             
                                 {
                                 
                     "row": 0,
-                    
+                    "column:" 19,
                 
-                "column": 9,
-            
                                 "character": "J
                                  }
                             
                                 {
                                 
                     "row": 1,
-                "column": NaN,
-            
+                "column:" 20,
                                 "character": "j
                                  }
                             
                                 {
                                 
                     "row": 1,
-                    
+                    "column:" 21,
                 
-                "column": 1,
-            
                                 "character": "K
                                  }
                             
                                 {
                                 
                     "row": 1,
-                    
+                    "column:" 22,
                 
-                "column": 2,
-            
                                 "character": "k
                                  }
                             
                                 {
                                 
                     "row": 1,
-                    
+                    "column:" 23,
                 
-                "column": 3,
-            
                                 "character": "L
                                  }
                             
                                 {
                                 
                     "row": 1,
-                    
+                    "column:" 24,
                 
-                "column": 4,
-            
                                 "character": "l
                                  }
                             
                                 {
                                 
                     "row": 1,
-                    
+                    "column:" 25,
                 
-                "column": 5,
-            
                                 "character": "M
                                  }
                             
                                 {
                                 
                     "row": 1,
-                    
+                    "column:" 26,
                 
-                "column": 6,
-            
                                 "character": "m
                                  }
                             
                                 {
                                 
                     "row": 1,
-                    
+                    "column:" 27,
                 
-                "column": 7,
-            
                                 "character": "N
                                  }
                             
                                 {
                                 
                     "row": 1,
-                    
+                    "column:" 28,
                 
-                "column": 8,
-            
                                 "character": "n
                                  }
                             
                                 {
                                 
                     "row": 1,
-                    
+                    "column:" 29,
                 
-                "column": 9,
-            
                                 "character": "O
                                  }
                             
                                 {
                                 
                     "row": 1,
-                    
+                    "column:" 30,
                 
-                "column": 10,
-            
                                 "character": "o
                                  }
                             
                                 {
                                 
                     "row": 1,
-                    
+                    "column:" 31,
                 
-                "column": 11,
-            
                                 "character": "P
                                  }
                             
                                 {
                                 
                     "row": 1,
-                    
+                    "column:" 32,
                 
-                "column": 12,
-            
                                 "character": "p
                                  }
                             
                                 {
                                 
                     "row": 1,
-                    
+                    "column:" 33,
                 
-                "column": 13,
-            
                                 "character": "Q
                                  }
                             
                                 {
                                 
                     "row": 1,
-                    
+                    "column:" 34,
                 
-                "column": 14,
-            
                                 "character": "q
                                  }
                             
                                 {
                                 
                     "row": 1,
-                    
+                    "column:" 35,
                 
-                "column": 15,
-            
                                 "character": "R
                                  }
                             
                                 {
                                 
                     "row": 1,
-                    
+                    "column:" 36,
                 
-                "column": 16,
-            
                                 "character": "r
                                  }
                             
                                 {
                                 
                     "row": 1,
-                    
+                    "column:" 37,
                 
-                "column": 17,
-            
                                 "character": "S
                                  }
                             
                                 {
                                 
                     "row": 1,
-                    
+                    "column:" 38,
                 
-                "column": 18,
-            
                                 "character": "s
                                  }
                             
                                 {
                                 
                     "row": 1,
-                    
+                    "column:" 39,
                 
-                "column": 19,
-            
                                 "character": "T
                                  }
                             
                                 {
                                 
                     "row": 2,
-                "column": NaN,
-            
+                "column:" 40,
                                 "character": "t
                                  }
                             
                                 {
                                 
                     "row": 2,
-                    
+                    "column:" 41,
                 
-                "column": 11,
-            
                                 "character": "U
                                  }
                             
                                 {
                                 
                     "row": 2,
-                    
+                    "column:" 42,
                 
-                "column": 12,
-            
                                 "character": "u
                                  }
                             
                                 {
                                 
                     "row": 2,
-                    
+                    "column:" 43,
                 
-                "column": 13,
-            
                                 "character": "V
                                  }
                             
                                 {
                                 
                     "row": 2,
-                    
+                    "column:" 44,
                 
-                "column": 14,
-            
                                 "character": "v
                                  }
                             
                                 {
                                 
                     "row": 2,
-                    
+                    "column:" 45,
                 
-                "column": 15,
-            
                                 "character": "W
                                  }
                             
                                 {
                                 
                     "row": 2,
-                    
+                    "column:" 46,
                 
-                "column": 16,
-            
                                 "character": "w
                                  }
                             
                                 {
                                 
                     "row": 2,
-                    
+                    "column:" 47,
                 
-                "column": 17,
-            
                                 "character": "X
                                  }
                             
                                 {
                                 
                     "row": 2,
-                    
+                    "column:" 48,
                 
-                "column": 18,
-            
                                 "character": "x
                                  }
                             
                                 {
                                 
                     "row": 2,
-                    
+                    "column:" 49,
                 
-                "column": 19,
-            
                                 "character": "Y
                                  }
                             
                                 {
                                 
                     "row": 2,
-                    
+                    "column:" 50,
                 
-                "column": 20,
-            
                                 "character": "y
                                  }
                             
                                 {
                                 
                     "row": 2,
-                    
+                    "column:" 51,
                 
-                "column": 21,
-            
                                 "character": "Z
                                  }
                             
                                 {
                                 
                     "row": 2,
-                    
+                    "column:" 52,
                 
-                "column": 22,
-            
                                 "character": "z
                                  }
                             
                                 {
                                 
                     "row": 2,
-                    
+                    "column:" 53,
                 
-                "column": 23,
-            
                                 "character": " 
                                  }
                             
                                 {
                                 
                     "row": 2,
-                    
+                    "column:" 54,
                 
-                "column": 24,
-            
                                 "character": "&#x7f;
                                  }
                             
                                 {
                                 
                     "row": 2,
-                    
+                    "column:" 55,
                 
-                "column": 25,
-            
                                 "character": "0
                                  }
                             
                                 {
                                 
                     "row": 2,
-                    
+                    "column:" 56,
                 
-                "column": 26,
-            
                                 "character": "1
                                  }
                             
                                 {
                                 
                     "row": 2,
-                    
+                    "column:" 57,
                 
-                "column": 27,
-            
                                 "character": "2
                                  }
                             
                                 {
                                 
                     "row": 2,
-                    
+                    "column:" 58,
                 
-                "column": 28,
-            
                                 "character": "3
                                  }
                             
                                 {
                                 
                     "row": 2,
-                    
+                    "column:" 59,
                 
-                "column": 29,
-            
                                 "character": "4
                                  }
                             
                                 {
                                 
                     "row": 3,
-                "column": NaN,
-            
+                "column:" 60,
                                 "character": "5
                                  }
                             
                                 {
                                 
                     "row": 3,
-                    
+                    "column:" 61,
                 
-                "column": 21,
-            
                                 "character": "6
                                  }
                             
                                 {
                                 
                     "row": 3,
-                    
+                    "column:" 62,
                 
-                "column": 22,
-            
                                 "character": "7
                                  }
                             
                                 {
                                 
                     "row": 3,
-                    
+                    "column:" 63,
                 
-                "column": 23,
-            
                                 "character": "8
                                  }
                             
                                 {
                                 
                     "row": 3,
-                    
+                    "column:" 64,
                 
-                "column": 24,
-            
                                 "character": "9
                                  }
                             
                                 {
                                 
                     "row": 3,
-                    
+                    "column:" 65,
                 
-                "column": 25,
-            
                                 "character": "!
                                  }
                             
                                 {
                                 
                     "row": 3,
-                    
+                    "column:" 66,
                 
-                "column": 26,
-            
                                 "character": ""
                                  }
                             
                                 {
                                 
                     "row": 3,
-                    
+                    "column:" 67,
                 
-                "column": 27,
-            
                                 "character": "'
                                  }
                             
                                 {
                                 
                     "row": 3,
-                    
+                    "column:" 68,
                 
-                "column": 28,
-            
                                 "character": "(
                                  }
                             
                                 {
                                 
                     "row": 3,
-                    
+                    "column:" 69,
                 
-                "column": 29,
-            
                                 "character": ")
                                  }
                             
                                 {
                                 
                     "row": 3,
-                    
+                    "column:" 70,
                 
-                "column": 30,
-            
                                 "character": ",
                                  }
                             
                                 {
                                 
                     "row": 3,
-                    
+                    "column:" 71,
                 
-                "column": 31,
-            
                                 "character": "-
                                  }
                             
                                 {
                                 
                     "row": 3,
-                    
+                    "column:" 72,
                 
-                "column": 32,
-            
                                 "character": "/
                                  }
                             
                                 {
                                 
                     "row": 3,
-                    
+                    "column:" 73,
                 
-                "column": 33,
-            
                                 "character": ":
                                  }
                             
                                 {
                                 
                     "row": 3,
-                    
+                    "column:" 74,
                 
-                "column": 34,
-            
                                 "character": "&lt;
                                  }
                             
                                 {
                                 
                     "row": 3,
-                    
+                    "column:" 75,
                 
-                "column": 35,
-            
                                 "character": "&gt;
                                  }
                             
                                 {
                                 
                     "row": 3,
-                    
+                    "column:" 76,
                 
-                "column": 36,
-            
                                 "character": "?
                                  }
                             
                                 {
                                 
                     "row": 3,
-                    
+                    "column:" 77,
                 
-                "column": 37,
-            
                                 "character": "[
                                  }
                             
                                 {
                                 
                     "row": 3,
-                    
+                    "column:" 78,
                 
-                "column": 38,
-            
                                 "character": "\
                                  }
                             
                                 {
                                 
                     "row": 3,
-                    
+                    "column:" 79,
                 
-                "column": 39,
-            
                                 "character": "]
                                  }
                             
                                 {
                                 
                     "row": 4,
-                "column": NaN,
-            
+                "column:" 80,
                                 "character": "_
                                  }
                             
                                 {
                                 
                     "row": 4,
-                    
+                    "column:" 81,
                 
-                "column": 31,
-            
                                 "character": "{
                                  }
                             
                                 {
                                 
                     "row": 4,
-                    
+                    "column:" 82,
                 
-                "column": 32,
-            
                                 "character": "|
                                  }
                             
                                 {
                                 
                     "row": 4,
-                    
+                    "column:" 83,
                 
-                "column": 33,
-            
                                 "character": "}
                                  }
                             
                                 {
                                 
                     "row": 4,
-                    
+                    "column:" 84,
                 
-                "column": 34,
-            
                                 "character": "&amp;
                                  }
                             
                                 {
                                 
                     "row": 4,
-                    
+                    "column:" 85,
                 
-                "column": 35,
-            
                                 "character": ".
                                  }
                             
                                 {
                                 
                     "row": 4,
-                    
+                    "column:" 86,
                 
-                "column": 36,
-            
                                 "character": ";
                                  }
                             
                                 {
                                 
                     "row": 4,
-                    
+                    "column:" 87,
                 
-                "column": 37,
-            
                                 "character": "^
                                  }
                             
                                 {
                                 
                     "row": 4,
-                    
+                    "column:" 88,
                 
-                "column": 38,
-            
                                 "character": "`
                                  }
                             
                                 {
                                 
                     "row": 4,
-                    
+                    "column:" 89,
                 
-                "column": 39,
-            
                                 "character": "~
                                  }
                             
                                 {
                                 
                     "row": 4,
-                    
+                    "column:" 90,
                 
-                "column": 40,
-            
                                 "character": "#
                                  }
                             
                                 {
                                 
                     "row": 4,
-                    
+                    "column:" 91,
                 
-                "column": 41,
-            
                                 "character": "$
                                  }
                             
                                 {
                                 
                     "row": 4,
-                    
+                    "column:" 92,
                 
-                "column": 42,
-            
                                 "character": "%
                                  }
                             
                                 {
                                 
                     "row": 4,
-                    
+                    "column:" 93,
                 
-                "column": 43,
-            
                                 "character": "*
                                  }
                             
                                 {
                                 
                     "row": 4,
-                    
+                    "column:" 94,
                 
-                "column": 44,
-            
                                 "character": "+
                                  }
                             
                                 {
                                 
                     "row": 4,
-                    
+                    "column:" 95,
                 
-                "column": 45,
-            
                                 "character": "=
                                  }
                             
                                 {
                                 
                     "row": 4,
-                    
+                    "column:" 96,
                 
-                "column": 46,
-            
                                 "character": "@
                                  }
                             
