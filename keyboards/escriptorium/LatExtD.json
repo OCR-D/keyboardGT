@@ -9,9 +9,8 @@
                 
                                 {
                                 
-                    "row": 0,
+                    "row": 0.05,
                     "column:" 0,
-                
                                 "character": "Ꜳ
                                  }
                             
@@ -161,16 +160,16 @@
                             
                                 {
                                 
-                    "row": 1,
+                    "row": 0,
                     "column:" 19,
+                
                                 "character": "Ᵹ
                                  }
                             
                                 {
                                 
-                    "row": 1,
+                    "row": 1.05,
                     "column:" 20,
-                
                                 "character": "Ꝿ
                                  }
                             
@@ -320,16 +319,16 @@
                             
                                 {
                                 
-                    "row": 2,
+                    "row": 1,
                     "column:" 39,
+                
                                 "character": "ꝴ
                                  }
                             
                                 {
                                 
-                    "row": 2,
+                    "row": 2.05,
                     "column:" 40,
-                
                                 "character": "Ꝍ
                                  }
                             
@@ -479,16 +478,16 @@
                             
                                 {
                                 
-                    "row": 3,
+                    "row": 2,
                     "column:" 59,
+                
                                 "character": "Ꞃ
                                  }
                             
                                 {
                                 
-                    "row": 3,
+                    "row": 3.05,
                     "column:" 60,
-                
                                 "character": "ꞃ
                                  }
                             
@@ -638,16 +637,16 @@
                             
                                 {
                                 
-                    "row": 4,
+                    "row": 3,
                     "column:" 79,
+                
                                 "character": "Ꝝ
                                  }
                             
                                 {
                                 
-                    "row": 4,
+                    "row": 4.05,
                     "column:" 80,
-                
                                 "character": "ꝝ
                                  }
                             

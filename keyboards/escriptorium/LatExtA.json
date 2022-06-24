@@ -9,9 +9,8 @@
                 
                                 {
                                 
-                    "row": 0,
+                    "row": 0.05,
                     "column:" 0,
-                
                                 "character": "Ā
                                  }
                             
@@ -161,16 +160,16 @@
                             
                                 {
                                 
-                    "row": 1,
+                    "row": 0,
                     "column:" 19,
+                
                                 "character": "ę
                                  }
                             
                                 {
                                 
-                    "row": 1,
+                    "row": 1.05,
                     "column:" 20,
-                
                                 "character": "Ġ
                                  }
                             
@@ -320,16 +319,16 @@
                             
                                 {
                                 
-                    "row": 2,
+                    "row": 1,
                     "column:" 39,
+                
                                 "character": "Ŋ
                                  }
                             
                                 {
                                 
-                    "row": 2,
+                    "row": 2.05,
                     "column:" 40,
-                
                                 "character": "ŋ
                                  }
                             
@@ -479,16 +478,16 @@
                             
                                 {
                                 
-                    "row": 3,
+                    "row": 2,
                     "column:" 59,
+                
                                 "character": "ů
                                  }
                             
                                 {
                                 
-                    "row": 3,
+                    "row": 3.05,
                     "column:" 60,
-                
                                 "character": "Ű
                                  }
                             
