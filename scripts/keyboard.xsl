@@ -310,13 +310,12 @@ Names
     
     
     <xsl:template match="sp">
-        number3: <xsl:number value="position()" format="1" />
-        <!--<xsl:choose>
+        <xsl:choose>
             <xsl:when test="following-sibling::sp">
                 <xsl:text> </xsl:text>
             </xsl:when>
             <xsl:otherwise></xsl:otherwise>
-        </xsl:choose>-->
+        </xsl:choose>
     </xsl:template>
     
     
