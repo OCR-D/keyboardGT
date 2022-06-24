@@ -319,38 +319,19 @@ Names
         <xsl:for-each select=".">
             <xsl:variable name="nr"><xsl:number/></xsl:variable>
             <xsl:variable name="nnr" select="substring-before(string($nr div 20), '.')"></xsl:variable>
-            <xsl:variable name="out_nr">
+            <xsl:variable name="out_row_colum">
             <xsl:choose>
-                <xsl:when test="$nnr = ''">"row": <xsl:value-of select="$nr div 20"/>,</xsl:when>
-                <xsl:otherwise>"row": <xsl:value-of select="$nnr"/>,</xsl:otherwise>
+                <xsl:when test="$nnr = ''">
+                    "row": <xsl:value-of select="$nr div 20"/>,
+                    "column": <xsl:value-of select="$nr - (($nr div 20) * 10)"/>,</xsl:when>
+                <xsl:otherwise>
+                    "row": <xsl:value-of select="$nnr"/>,
+                    "column": ,
+                </xsl:otherwise>
             </xsl:choose>
             </xsl:variable>
-            <xsl:value-of select="$out_nr"/>,
-            <!--<xsl:choose>
-                <xsl:when test="$nr div 20 &lt; 1">"row": 0,</xsl:when>
-                <xsl:otherwise>
-                    <xsl:choose>
-                        <xsl:when test="$nr div 20 &lt; 2">"row": 1,</xsl:when>
-                        <xsl:otherwise>
-                            <xsl:choose>
-                                <xsl:when test="$nr div 20 &lt; 3">"row": 2,</xsl:when>
-                                <xsl:otherwise>
-                                    <xsl:choose>
-                                        <xsl:when test="$nr div 20 &lt; 4">"row": 3,</xsl:when>
-                                        <xsl:otherwise>
-                                            <xsl:choose>
-                                                <xsl:when test="$nr div 20 &lt; 5">"row": 4,</xsl:when>
-                                            </xsl:choose>
-                                        </xsl:otherwise>
-                                    </xsl:choose>
-                                </xsl:otherwise>
-                                
-                            </xsl:choose>
-                        </xsl:otherwise>
-                    </xsl:choose>
-                </xsl:otherwise>
-            </xsl:choose>-->
-           </xsl:for-each>
+            <xsl:value-of select="$out_row_colum"/>
+            </xsl:for-each>
         
     </xsl:template>
     
