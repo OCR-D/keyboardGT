@@ -319,7 +319,7 @@ Names
     </xsl:template>
     
     <xsl:template match="number">
-        Hallo
+        number:" <xsl:number value="position()" format="1" />
     </xsl:template>
     
     
