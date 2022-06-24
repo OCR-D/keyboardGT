@@ -9,6 +9,7 @@
                 
                                 {
                                 
+                    "nr": 1
                     "row": 0,
                     "column:" 0,
                                 "character": "ª
@@ -168,6 +169,7 @@
                             
                                 {
                                 
+                    "nr": 21
                     "row": 1,
                     "column:" 20,
                                 "character": "É
@@ -327,6 +329,7 @@
                             
                                 {
                                 
+                    "nr": 41
                     "row": 2,
                     "column:" 40,
                                 "character": "Ô
@@ -486,6 +489,7 @@
                             
                                 {
                                 
+                    "nr": 61
                     "row": 3,
                     "column:" 60,
                                 "character": "ý
@@ -645,6 +649,7 @@
                             
                                 {
                                 
+                    "nr": 81
                     "row": 4,
                     "column:" 80,
                                 "character": "¢
