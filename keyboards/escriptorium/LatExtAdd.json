@@ -12,7 +12,7 @@
                     "row": 0,
                     
                 
-                "column": 1,
+                "column": -9,
             
                                 "character": "Ạ
                                  }
@@ -22,7 +22,7 @@
                     "row": 0,
                     
                 
-                "column": 2,
+                "column": -8,
             
                                 "character": "ạ
                                  }
@@ -32,7 +32,7 @@
                     "row": 0,
                     
                 
-                "column": 3,
+                "column": -7,
             
                                 "character": "Ả
                                  }
@@ -42,7 +42,7 @@
                     "row": 0,
                     
                 
-                "column": 4,
+                "column": -6,
             
                                 "character": "ả
                                  }
@@ -52,7 +52,7 @@
                     "row": 0,
                     
                 
-                "column": 5,
+                "column": -5,
             
                                 "character": "Ắ
                                  }
@@ -62,7 +62,7 @@
                     "row": 0,
                     
                 
-                "column": 6,
+                "column": -4,
             
                                 "character": "ắ
                                  }
@@ -72,7 +72,7 @@
                     "row": 0,
                     
                 
-                "column": 7,
+                "column": -3,
             
                                 "character": "Ḃ
                                  }
@@ -82,7 +82,7 @@
                     "row": 0,
                     
                 
-                "column": 8,
+                "column": -2,
             
                                 "character": "ḃ
                                  }
@@ -92,7 +92,7 @@
                     "row": 0,
                     
                 
-                "column": 9,
+                "column": -1,
             
                                 "character": "Ḅ
                                  }
@@ -102,7 +102,7 @@
                     "row": 0,
                     
                 
-                "column": 10,
+                "column": 0,
             
                                 "character": "ḅ
                                  }
@@ -112,7 +112,7 @@
                     "row": 0,
                     
                 
-                "column": 11,
+                "column": 1,
             
                                 "character": "Ḋ
                                  }
@@ -122,7 +122,7 @@
                     "row": 0,
                     
                 
-                "column": 12,
+                "column": 2,
             
                                 "character": "ḋ
                                  }
@@ -132,7 +132,7 @@
                     "row": 0,
                     
                 
-                "column": 13,
+                "column": 3,
             
                                 "character": "Ḍ
                                  }
@@ -142,7 +142,7 @@
                     "row": 0,
                     
                 
-                "column": 14,
+                "column": 4,
             
                                 "character": "ḍ
                                  }
@@ -152,7 +152,7 @@
                     "row": 0,
                     
                 
-                "column": 15,
+                "column": 5,
             
                                 "character": "ẟ
                                  }
@@ -162,7 +162,7 @@
                     "row": 0,
                     
                 
-                "column": 16,
+                "column": 6,
             
                                 "character": "Ḗ
                                  }
@@ -172,7 +172,7 @@
                     "row": 0,
                     
                 
-                "column": 17,
+                "column": 7,
             
                                 "character": "ḗ
                                  }
@@ -182,7 +182,7 @@
                     "row": 0,
                     
                 
-                "column": 18,
+                "column": 8,
             
                                 "character": "Ẹ
                                  }
@@ -192,7 +192,7 @@
                     "row": 0,
                     
                 
-                "column": 19,
+                "column": 9,
             
                                 "character": "ẹ
                                  }
@@ -408,7 +408,7 @@
                     "row": 2,
                     
                 
-                "column": 1,
+                "column": 11,
             
                                 "character": "ṁ
                                  }
@@ -418,7 +418,7 @@
                     "row": 2,
                     
                 
-                "column": 2,
+                "column": 12,
             
                                 "character": "Ṃ
                                  }
@@ -428,7 +428,7 @@
                     "row": 2,
                     
                 
-                "column": 3,
+                "column": 13,
             
                                 "character": "ṃ
                                  }
@@ -438,7 +438,7 @@
                     "row": 2,
                     
                 
-                "column": 4,
+                "column": 14,
             
                                 "character": "Ṅ
                                  }
@@ -448,7 +448,7 @@
                     "row": 2,
                     
                 
-                "column": 5,
+                "column": 15,
             
                                 "character": "ṅ
                                  }
@@ -458,7 +458,7 @@
                     "row": 2,
                     
                 
-                "column": 6,
+                "column": 16,
             
                                 "character": "Ṇ
                                  }
@@ -468,7 +468,7 @@
                     "row": 2,
                     
                 
-                "column": 7,
+                "column": 17,
             
                                 "character": "ṇ
                                  }
@@ -478,7 +478,7 @@
                     "row": 2,
                     
                 
-                "column": 8,
+                "column": 18,
             
                                 "character": "Ṓ
                                  }
@@ -488,7 +488,7 @@
                     "row": 2,
                     
                 
-                "column": 9,
+                "column": 19,
             
                                 "character": "ṓ
                                  }
@@ -498,7 +498,7 @@
                     "row": 2,
                     
                 
-                "column": 10,
+                "column": 20,
             
                                 "character": "Ọ
                                  }
@@ -508,7 +508,7 @@
                     "row": 2,
                     
                 
-                "column": 11,
+                "column": 21,
             
                                 "character": "ọ
                                  }
@@ -518,7 +518,7 @@
                     "row": 2,
                     
                 
-                "column": 12,
+                "column": 22,
             
                                 "character": "Ỏ
                                  }
@@ -528,7 +528,7 @@
                     "row": 2,
                     
                 
-                "column": 13,
+                "column": 23,
             
                                 "character": "ỏ
                                  }
@@ -538,7 +538,7 @@
                     "row": 2,
                     
                 
-                "column": 14,
+                "column": 24,
             
                                 "character": "Ṕ
                                  }
@@ -548,7 +548,7 @@
                     "row": 2,
                     
                 
-                "column": 15,
+                "column": 25,
             
                                 "character": "ṕ
                                  }
@@ -558,7 +558,7 @@
                     "row": 2,
                     
                 
-                "column": 16,
+                "column": 26,
             
                                 "character": "Ṗ
                                  }
@@ -568,7 +568,7 @@
                     "row": 2,
                     
                 
-                "column": 17,
+                "column": 27,
             
                                 "character": "ṗ
                                  }
@@ -578,7 +578,7 @@
                     "row": 2,
                     
                 
-                "column": 18,
+                "column": 28,
             
                                 "character": "Ṙ
                                  }
@@ -588,7 +588,7 @@
                     "row": 2,
                     
                 
-                "column": 19,
+                "column": 29,
             
                                 "character": "ṙ
                                  }
@@ -606,7 +606,7 @@
                     "row": 3,
                     
                 
-                "column": 1,
+                "column": 21,
             
                                 "character": "ṛ
                                  }
@@ -616,7 +616,7 @@
                     "row": 3,
                     
                 
-                "column": 2,
+                "column": 22,
             
                                 "character": "Ṡ
                                  }
@@ -626,7 +626,7 @@
                     "row": 3,
                     
                 
-                "column": 3,
+                "column": 23,
             
                                 "character": "ṡ
                                  }
@@ -636,7 +636,7 @@
                     "row": 3,
                     
                 
-                "column": 4,
+                "column": 24,
             
                                 "character": "Ṣ
                                  }
@@ -646,7 +646,7 @@
                     "row": 3,
                     
                 
-                "column": 5,
+                "column": 25,
             
                                 "character": "ṣ
                                  }
@@ -656,7 +656,7 @@
                     "row": 3,
                     
                 
-                "column": 6,
+                "column": 26,
             
                                 "character": "ẜ
                                  }
@@ -666,7 +666,7 @@
                     "row": 3,
                     
                 
-                "column": 7,
+                "column": 27,
             
                                 "character": "ẝ
                                  }
@@ -676,7 +676,7 @@
                     "row": 3,
                     
                 
-                "column": 8,
+                "column": 28,
             
                                 "character": "ẞ
                                  }
@@ -686,7 +686,7 @@
                     "row": 3,
                     
                 
-                "column": 9,
+                "column": 29,
             
                                 "character": "Ṫ
                                  }
@@ -696,7 +696,7 @@
                     "row": 3,
                     
                 
-                "column": 10,
+                "column": 30,
             
                                 "character": "ṫ
                                  }
@@ -706,7 +706,7 @@
                     "row": 3,
                     
                 
-                "column": 11,
+                "column": 31,
             
                                 "character": "Ṭ
                                  }
@@ -716,7 +716,7 @@
                     "row": 3,
                     
                 
-                "column": 12,
+                "column": 32,
             
                                 "character": "ṭ
                                  }
@@ -726,7 +726,7 @@
                     "row": 3,
                     
                 
-                "column": 13,
+                "column": 33,
             
                                 "character": "Ụ
                                  }
@@ -736,7 +736,7 @@
                     "row": 3,
                     
                 
-                "column": 14,
+                "column": 34,
             
                                 "character": "ụ
                                  }
@@ -746,7 +746,7 @@
                     "row": 3,
                     
                 
-                "column": 15,
+                "column": 35,
             
                                 "character": "Ủ
                                  }
@@ -756,7 +756,7 @@
                     "row": 3,
                     
                 
-                "column": 16,
+                "column": 36,
             
                                 "character": "ủ
                                  }
@@ -766,7 +766,7 @@
                     "row": 3,
                     
                 
-                "column": 17,
+                "column": 37,
             
                                 "character": "Ṿ
                                  }
@@ -776,7 +776,7 @@
                     "row": 3,
                     
                 
-                "column": 18,
+                "column": 38,
             
                                 "character": "ṿ
                                  }
@@ -786,7 +786,7 @@
                     "row": 3,
                     
                 
-                "column": 19,
+                "column": 39,
             
                                 "character": "Ỽ
                                  }
@@ -804,7 +804,7 @@
                     "row": 4,
                     
                 
-                "column": 1,
+                "column": 31,
             
                                 "character": "Ẁ
                                  }
@@ -814,7 +814,7 @@
                     "row": 4,
                     
                 
-                "column": 2,
+                "column": 32,
             
                                 "character": "ẁ
                                  }
@@ -824,7 +824,7 @@
                     "row": 4,
                     
                 
-                "column": 3,
+                "column": 33,
             
                                 "character": "Ẃ
                                  }
@@ -834,7 +834,7 @@
                     "row": 4,
                     
                 
-                "column": 4,
+                "column": 34,
             
                                 "character": "ẃ
                                  }
@@ -844,7 +844,7 @@
                     "row": 4,
                     
                 
-                "column": 5,
+                "column": 35,
             
                                 "character": "Ẅ
                                  }
@@ -854,7 +854,7 @@
                     "row": 4,
                     
                 
-                "column": 6,
+                "column": 36,
             
                                 "character": "ẅ
                                  }
@@ -864,7 +864,7 @@
                     "row": 4,
                     
                 
-                "column": 7,
+                "column": 37,
             
                                 "character": "Ẇ
                                  }
@@ -874,7 +874,7 @@
                     "row": 4,
                     
                 
-                "column": 8,
+                "column": 38,
             
                                 "character": "ẇ
                                  }
@@ -884,7 +884,7 @@
                     "row": 4,
                     
                 
-                "column": 9,
+                "column": 39,
             
                                 "character": "Ẉ
                                  }
@@ -894,7 +894,7 @@
                     "row": 4,
                     
                 
-                "column": 10,
+                "column": 40,
             
                                 "character": "ẉ
                                  }
@@ -904,7 +904,7 @@
                     "row": 4,
                     
                 
-                "column": 11,
+                "column": 41,
             
                                 "character": "ẘ
                                  }
@@ -914,7 +914,7 @@
                     "row": 4,
                     
                 
-                "column": 12,
+                "column": 42,
             
                                 "character": "Ẏ
                                  }
@@ -924,7 +924,7 @@
                     "row": 4,
                     
                 
-                "column": 13,
+                "column": 43,
             
                                 "character": "ẏ
                                  }
@@ -934,7 +934,7 @@
                     "row": 4,
                     
                 
-                "column": 14,
+                "column": 44,
             
                                 "character": "ẙ
                                  }
@@ -944,7 +944,7 @@
                     "row": 4,
                     
                 
-                "column": 15,
+                "column": 45,
             
                                 "character": "Ỳ
                                  }
@@ -954,7 +954,7 @@
                     "row": 4,
                     
                 
-                "column": 16,
+                "column": 46,
             
                                 "character": "ỳ
                                  }
@@ -964,7 +964,7 @@
                     "row": 4,
                     
                 
-                "column": 17,
+                "column": 47,
             
                                 "character": "Ỵ
                                  }
@@ -974,7 +974,7 @@
                     "row": 4,
                     
                 
-                "column": 18,
+                "column": 48,
             
                                 "character": "ỵ
                                  }
@@ -984,7 +984,7 @@
                     "row": 4,
                     
                 
-                "column": 19,
+                "column": 49,
             
                                 "character": "Ỷ
                                  }
@@ -1002,7 +1002,7 @@
                     "row": 5,
                     
                 
-                "column": 1,
+                "column": 41,
             
                                 "character": "Ỿ
                                  }
@@ -1012,7 +1012,7 @@
                     "row": 5,
                     
                 
-                "column": 2,
+                "column": 42,
             
                                 "character": "ỿ
                                  }
@@ -1022,7 +1022,7 @@
                     "row": 5,
                     
                 
-                "column": 3,
+                "column": 43,
             
                                 "character": "Ẓ
                                  }
@@ -1032,7 +1032,7 @@
                     "row": 5,
                     
                 
-                "column": 4,
+                "column": 44,
             
                                 "character": "ẓ
                                  }

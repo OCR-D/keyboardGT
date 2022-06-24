@@ -12,7 +12,7 @@
                     "row": 0,
                     
                 
-                "column": 1,
+                "column": -9,
             
                                 "character": "α
                                  }
@@ -22,7 +22,7 @@
                     "row": 0,
                     
                 
-                "column": 2,
+                "column": -8,
             
                                 "character": "β
                                  }
@@ -32,7 +32,7 @@
                     "row": 0,
                     
                 
-                "column": 3,
+                "column": -7,
             
                                 "character": "γ
                                  }
@@ -42,7 +42,7 @@
                     "row": 0,
                     
                 
-                "column": 4,
+                "column": -6,
             
                                 "character": "δ
                                  }
@@ -52,7 +52,7 @@
                     "row": 0,
                     
                 
-                "column": 5,
+                "column": -5,
             
                                 "character": "ε
                                  }
@@ -62,7 +62,7 @@
                     "row": 0,
                     
                 
-                "column": 6,
+                "column": -4,
             
                                 "character": "ζ
                                  }
@@ -72,7 +72,7 @@
                     "row": 0,
                     
                 
-                "column": 7,
+                "column": -3,
             
                                 "character": "η
                                  }
@@ -82,7 +82,7 @@
                     "row": 0,
                     
                 
-                "column": 8,
+                "column": -2,
             
                                 "character": "ι
                                  }
@@ -92,7 +92,7 @@
                     "row": 0,
                     
                 
-                "column": 9,
+                "column": -1,
             
                                 "character": "κ
                                  }
@@ -102,7 +102,7 @@
                     "row": 0,
                     
                 
-                "column": 10,
+                "column": 0,
             
                                 "character": "λ
                                  }
@@ -112,7 +112,7 @@
                     "row": 0,
                     
                 
-                "column": 11,
+                "column": 1,
             
                                 "character": "μ
                                  }
@@ -122,7 +122,7 @@
                     "row": 0,
                     
                 
-                "column": 12,
+                "column": 2,
             
                                 "character": "ν
                                  }
@@ -132,7 +132,7 @@
                     "row": 0,
                     
                 
-                "column": 13,
+                "column": 3,
             
                                 "character": "ξ
                                  }
@@ -142,7 +142,7 @@
                     "row": 0,
                     
                 
-                "column": 14,
+                "column": 4,
             
                                 "character": "σ
                                  }
@@ -152,7 +152,7 @@
                     "row": 0,
                     
                 
-                "column": 15,
+                "column": 5,
             
                                 "character": "Θ
                                  }
@@ -162,7 +162,7 @@
                     "row": 0,
                     
                 
-                "column": 16,
+                "column": 6,
             
                                 "character": "θ
                                  }
