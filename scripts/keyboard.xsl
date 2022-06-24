@@ -214,9 +214,6 @@ Names
                             <xsl:for-each select="fn:current-group()">
                                 {
                                 <number/>
-                                <!--"number:" <xsl:number value="position()" format="1" />-->
-                                "row": 1,
-                                "column": 3,
                                 "character": "<xsl:value-of select="fn:string[@key = 'mufichar']"/>
                                  }
                             </xsl:for-each>
@@ -320,6 +317,12 @@ Names
     
     <xsl:template match="number">
         <xsl:for-each select=".">
+            <xsl:variable name="nr"><xsl:number/></xsl:variable>
+            "row": 1,
+            "column": 3,
+            
+            
+            
             number: <xsl:number/>
         </xsl:for-each>
         
