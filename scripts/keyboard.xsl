@@ -318,7 +318,7 @@ Names
     <xsl:template match="number">
         <xsl:for-each select=".">
             <xsl:variable name="nr"><xsl:number/></xsl:variable>
-            <xsl:if test="$nr/20 &lt; 1">"row": 0,</xsl:if>
+            <xsl:if test="$nr div 20 &lt; 1">"row": 0,</xsl:if>
             
             
             
