@@ -17,644 +17,644 @@
                                 {
                                 
                     "row": 0,
-                    "column": 2,
+                    "column": 1,
                 
                                 "character": "ꜳ"
                                  },
                                 {
                                 
                     "row": 0,
-                    "column": 4,
+                    "column": 2,
                 
                                 "character": "Ꜵ"
                                  },
                                 {
                                 
                     "row": 0,
-                    "column": 6,
+                    "column": 3,
                 
                                 "character": "ꜵ"
                                  },
                                 {
                                 
                     "row": 0,
-                    "column": 8,
+                    "column": 4,
                 
                                 "character": "Ꜷ"
                                  },
                                 {
                                 
                     "row": 0,
-                    "column": 10,
+                    "column": 5,
                 
                                 "character": "ꜷ"
                                  },
                                 {
                                 
                     "row": 0,
-                    "column": 12,
+                    "column": 6,
                 
                                 "character": "Ꜹ"
                                  },
                                 {
                                 
                     "row": 0,
-                    "column": 14,
+                    "column": 7,
                 
                                 "character": "ꜹ"
                                  },
                                 {
                                 
                     "row": 0,
-                    "column": 16,
+                    "column": 8,
                 
                                 "character": "Ꜻ"
                                  },
                                 {
                                 
                     "row": 0,
-                    "column": 18,
+                    "column": 9,
                 
                                 "character": "ꜻ"
+                                 },
+                                {
+                                
+                    "row": 0,
+                    "column": 10,
+                
+                                "character": "Ꜽ"
+                                 },
+                                {
+                                
+                    "row": 0,
+                    "column": 11,
+                
+                                "character": "ꜽ"
+                                 },
+                                {
+                                
+                    "row": 0,
+                    "column": 12,
+                
+                                "character": "ꝱ"
+                                 },
+                                {
+                                
+                    "row": 0,
+                    "column": 13,
+                
+                                "character": "Ꝺ"
+                                 },
+                                {
+                                
+                    "row": 0,
+                    "column": 14,
+                
+                                "character": "ꝺ"
+                                 },
+                                {
+                                
+                    "row": 0,
+                    "column": 15,
+                
+                                "character": "ꜰ"
+                                 },
+                                {
+                                
+                    "row": 0,
+                    "column": 16,
+                
+                                "character": "Ꝼ"
+                                 },
+                                {
+                                
+                    "row": 0,
+                    "column": 17,
+                
+                                "character": "ꝼ"
+                                 },
+                                {
+                                
+                    "row": 0,
+                    "column": 18,
+                
+                                "character": "ꟻ"
+                                 },
+                                {
+                                
+                    "row": 0,
+                    "column": 19,
+                
+                                "character": "Ᵹ"
                                  },
                                 {
                                 
                     "row": 1,
                     "column": 0,
                     "column2:"20*** 0
-                                "character": "Ꜽ"
+                                "character": "Ꝿ"
+                                 },
+                                {
+                                
+                    "row": 1,
+                    "column": 1,
+                
+                                "character": "ꝿ"
                                  },
                                 {
                                 
                     "row": 1,
                     "column": 2,
                 
-                                "character": "ꜽ"
+                                "character": "ꟾ"
+                                 },
+                                {
+                                
+                    "row": 1,
+                    "column": 3,
+                
+                                "character": "Ꝁ"
                                  },
                                 {
                                 
                     "row": 1,
                     "column": 4,
                 
-                                "character": "ꝱ"
+                                "character": "ꝁ"
+                                 },
+                                {
+                                
+                    "row": 1,
+                    "column": 5,
+                
+                                "character": "Ꝃ"
                                  },
                                 {
                                 
                     "row": 1,
                     "column": 6,
                 
-                                "character": "Ꝺ"
+                                "character": "ꝃ"
+                                 },
+                                {
+                                
+                    "row": 1,
+                    "column": 7,
+                
+                                "character": "Ꝅ"
                                  },
                                 {
                                 
                     "row": 1,
                     "column": 8,
                 
-                                "character": "ꝺ"
+                                "character": "ꝅ"
+                                 },
+                                {
+                                
+                    "row": 1,
+                    "column": 9,
+                
+                                "character": "Ꝇ"
                                  },
                                 {
                                 
                     "row": 1,
                     "column": 10,
                 
-                                "character": "ꜰ"
+                                "character": "ꝇ"
+                                 },
+                                {
+                                
+                    "row": 1,
+                    "column": 11,
+                
+                                "character": "Ꝉ"
                                  },
                                 {
                                 
                     "row": 1,
                     "column": 12,
                 
-                                "character": "Ꝼ"
+                                "character": "ꝉ"
+                                 },
+                                {
+                                
+                    "row": 1,
+                    "column": 13,
+                
+                                "character": "ꝲ"
                                  },
                                 {
                                 
                     "row": 1,
                     "column": 14,
                 
-                                "character": "ꝼ"
+                                "character": "Ꞁ"
+                                 },
+                                {
+                                
+                    "row": 1,
+                    "column": 15,
+                
+                                "character": "ꞁ"
                                  },
                                 {
                                 
                     "row": 1,
                     "column": 16,
                 
-                                "character": "ꟻ"
+                                "character": "ꝳ"
+                                 },
+                                {
+                                
+                    "row": 1,
+                    "column": 17,
+                
+                                "character": "ꟽ"
                                  },
                                 {
                                 
                     "row": 1,
                     "column": 18,
                 
-                                "character": "Ᵹ"
+                                "character": "ꟿ"
+                                 },
+                                {
+                                
+                    "row": 1,
+                    "column": 19,
+                
+                                "character": "ꝴ"
                                  },
                                 {
                                 
                     "row": 2,
                     "column": 0,
                     "column2:"40*** 0
-                                "character": "Ꝿ"
+                                "character": "Ꝍ"
+                                 },
+                                {
+                                
+                    "row": 2,
+                    "column": 1,
+                
+                                "character": "ꝍ"
                                  },
                                 {
                                 
                     "row": 2,
                     "column": 2,
                 
-                                "character": "ꝿ"
+                                "character": "Ꝏ"
+                                 },
+                                {
+                                
+                    "row": 2,
+                    "column": 3,
+                
+                                "character": "ꝏ"
                                  },
                                 {
                                 
                     "row": 2,
                     "column": 4,
                 
-                                "character": "ꟾ"
+                                "character": "Ꝑ"
+                                 },
+                                {
+                                
+                    "row": 2,
+                    "column": 5,
+                
+                                "character": "ꝑ"
                                  },
                                 {
                                 
                     "row": 2,
                     "column": 6,
                 
-                                "character": "Ꝁ"
+                                "character": "Ꝓ"
+                                 },
+                                {
+                                
+                    "row": 2,
+                    "column": 7,
+                
+                                "character": "ꝓ"
                                  },
                                 {
                                 
                     "row": 2,
                     "column": 8,
                 
-                                "character": "ꝁ"
+                                "character": "Ꝕ"
+                                 },
+                                {
+                                
+                    "row": 2,
+                    "column": 9,
+                
+                                "character": "ꝕ"
                                  },
                                 {
                                 
                     "row": 2,
                     "column": 10,
                 
-                                "character": "Ꝃ"
+                                "character": "ꟼ"
+                                 },
+                                {
+                                
+                    "row": 2,
+                    "column": 11,
+                
+                                "character": "Ꝗ"
                                  },
                                 {
                                 
                     "row": 2,
                     "column": 12,
                 
-                                "character": "ꝃ"
+                                "character": "ꝗ"
+                                 },
+                                {
+                                
+                    "row": 2,
+                    "column": 13,
+                
+                                "character": "Ꝙ"
                                  },
                                 {
                                 
                     "row": 2,
                     "column": 14,
                 
-                                "character": "Ꝅ"
+                                "character": "ꝙ"
+                                 },
+                                {
+                                
+                    "row": 2,
+                    "column": 15,
+                
+                                "character": "Ꝛ"
                                  },
                                 {
                                 
                     "row": 2,
                     "column": 16,
                 
-                                "character": "ꝅ"
+                                "character": "ꝛ"
+                                 },
+                                {
+                                
+                    "row": 2,
+                    "column": 17,
+                
+                                "character": "ꝵ"
                                  },
                                 {
                                 
                     "row": 2,
                     "column": 18,
                 
-                                "character": "Ꝇ"
+                                "character": "ꝶ"
+                                 },
+                                {
+                                
+                    "row": 2,
+                    "column": 19,
+                
+                                "character": "Ꞃ"
                                  },
                                 {
                                 
                     "row": 3,
                     "column": 0,
                     "column2:"60*** 0
-                                "character": "ꝇ"
+                                "character": "ꞃ"
+                                 },
+                                {
+                                
+                    "row": 3,
+                    "column": 1,
+                
+                                "character": "ꜱ"
                                  },
                                 {
                                 
                     "row": 3,
                     "column": 2,
                 
-                                "character": "Ꝉ"
+                                "character": "Ꞅ"
+                                 },
+                                {
+                                
+                    "row": 3,
+                    "column": 3,
+                
+                                "character": "ꞅ"
                                  },
                                 {
                                 
                     "row": 3,
                     "column": 4,
                 
-                                "character": "ꝉ"
+                                "character": "ꝷ"
+                                 },
+                                {
+                                
+                    "row": 3,
+                    "column": 5,
+                
+                                "character": "Ꞇ"
                                  },
                                 {
                                 
                     "row": 3,
                     "column": 6,
                 
-                                "character": "ꝲ"
+                                "character": "ꞇ"
+                                 },
+                                {
+                                
+                    "row": 3,
+                    "column": 7,
+                
+                                "character": "Ꝟ"
                                  },
                                 {
                                 
                     "row": 3,
                     "column": 8,
                 
-                                "character": "Ꞁ"
+                                "character": "ꝟ"
+                                 },
+                                {
+                                
+                    "row": 3,
+                    "column": 9,
+                
+                                "character": "Ꝩ"
                                  },
                                 {
                                 
                     "row": 3,
                     "column": 10,
                 
-                                "character": "ꞁ"
+                                "character": "ꝩ"
+                                 },
+                                {
+                                
+                    "row": 3,
+                    "column": 11,
+                
+                                "character": "Ꝡ"
                                  },
                                 {
                                 
                     "row": 3,
                     "column": 12,
                 
-                                "character": "ꝳ"
+                                "character": "ꝡ"
+                                 },
+                                {
+                                
+                    "row": 3,
+                    "column": 13,
+                
+                                "character": "Ꝣ"
                                  },
                                 {
                                 
                     "row": 3,
                     "column": 14,
                 
-                                "character": "ꟽ"
+                                "character": "ꝣ"
+                                 },
+                                {
+                                
+                    "row": 3,
+                    "column": 15,
+                
+                                "character": "Ꜿ"
                                  },
                                 {
                                 
                     "row": 3,
                     "column": 16,
                 
-                                "character": "ꟿ"
+                                "character": "ꜿ"
+                                 },
+                                {
+                                
+                    "row": 3,
+                    "column": 17,
+                
+                                "character": "Ꝋ"
                                  },
                                 {
                                 
                     "row": 3,
                     "column": 18,
                 
-                                "character": "ꝴ"
+                                "character": "ꝋ"
+                                 },
+                                {
+                                
+                    "row": 3,
+                    "column": 19,
+                
+                                "character": "Ꝝ"
                                  },
                                 {
                                 
                     "row": 4,
                     "column": 0,
                     "column2:"80*** 0
-                                "character": "Ꝍ"
-                                 },
-                                {
-                                
-                    "row": 4,
-                    "column": 2,
-                
-                                "character": "ꝍ"
-                                 },
-                                {
-                                
-                    "row": 4,
-                    "column": 4,
-                
-                                "character": "Ꝏ"
-                                 },
-                                {
-                                
-                    "row": 4,
-                    "column": 6,
-                
-                                "character": "ꝏ"
-                                 },
-                                {
-                                
-                    "row": 4,
-                    "column": 8,
-                
-                                "character": "Ꝑ"
-                                 },
-                                {
-                                
-                    "row": 4,
-                    "column": 10,
-                
-                                "character": "ꝑ"
-                                 },
-                                {
-                                
-                    "row": 4,
-                    "column": 12,
-                
-                                "character": "Ꝓ"
-                                 },
-                                {
-                                
-                    "row": 4,
-                    "column": 14,
-                
-                                "character": "ꝓ"
-                                 },
-                                {
-                                
-                    "row": 4,
-                    "column": 16,
-                
-                                "character": "Ꝕ"
-                                 },
-                                {
-                                
-                    "row": 4,
-                    "column": 18,
-                
-                                "character": "ꝕ"
-                                 },
-                                {
-                                
-                    "row": 5,
-                    "column": 0,
-                    "column2:"100*** 0
-                                "character": "ꟼ"
-                                 },
-                                {
-                                
-                    "row": 5,
-                    "column": 2,
-                
-                                "character": "Ꝗ"
-                                 },
-                                {
-                                
-                    "row": 5,
-                    "column": 4,
-                
-                                "character": "ꝗ"
-                                 },
-                                {
-                                
-                    "row": 5,
-                    "column": 6,
-                
-                                "character": "Ꝙ"
-                                 },
-                                {
-                                
-                    "row": 5,
-                    "column": 8,
-                
-                                "character": "ꝙ"
-                                 },
-                                {
-                                
-                    "row": 5,
-                    "column": 10,
-                
-                                "character": "Ꝛ"
-                                 },
-                                {
-                                
-                    "row": 5,
-                    "column": 12,
-                
-                                "character": "ꝛ"
-                                 },
-                                {
-                                
-                    "row": 5,
-                    "column": 14,
-                
-                                "character": "ꝵ"
-                                 },
-                                {
-                                
-                    "row": 5,
-                    "column": 16,
-                
-                                "character": "ꝶ"
-                                 },
-                                {
-                                
-                    "row": 5,
-                    "column": 18,
-                
-                                "character": "Ꞃ"
-                                 },
-                                {
-                                
-                    "row": 6,
-                    "column": 0,
-                    "column2:"120*** 0
-                                "character": "ꞃ"
-                                 },
-                                {
-                                
-                    "row": 6,
-                    "column": 2,
-                
-                                "character": "ꜱ"
-                                 },
-                                {
-                                
-                    "row": 6,
-                    "column": 4,
-                
-                                "character": "Ꞅ"
-                                 },
-                                {
-                                
-                    "row": 6,
-                    "column": 6,
-                
-                                "character": "ꞅ"
-                                 },
-                                {
-                                
-                    "row": 6,
-                    "column": 8,
-                
-                                "character": "ꝷ"
-                                 },
-                                {
-                                
-                    "row": 6,
-                    "column": 10,
-                
-                                "character": "Ꞇ"
-                                 },
-                                {
-                                
-                    "row": 6,
-                    "column": 12,
-                
-                                "character": "ꞇ"
-                                 },
-                                {
-                                
-                    "row": 6,
-                    "column": 14,
-                
-                                "character": "Ꝟ"
-                                 },
-                                {
-                                
-                    "row": 6,
-                    "column": 16,
-                
-                                "character": "ꝟ"
-                                 },
-                                {
-                                
-                    "row": 6,
-                    "column": 18,
-                
-                                "character": "Ꝩ"
-                                 },
-                                {
-                                
-                    "row": 7,
-                    "column": 0,
-                    "column2:"140*** 0
-                                "character": "ꝩ"
-                                 },
-                                {
-                                
-                    "row": 7,
-                    "column": 2,
-                
-                                "character": "Ꝡ"
-                                 },
-                                {
-                                
-                    "row": 7,
-                    "column": 4,
-                
-                                "character": "ꝡ"
-                                 },
-                                {
-                                
-                    "row": 7,
-                    "column": 6,
-                
-                                "character": "Ꝣ"
-                                 },
-                                {
-                                
-                    "row": 7,
-                    "column": 8,
-                
-                                "character": "ꝣ"
-                                 },
-                                {
-                                
-                    "row": 7,
-                    "column": 10,
-                
-                                "character": "Ꜿ"
-                                 },
-                                {
-                                
-                    "row": 7,
-                    "column": 12,
-                
-                                "character": "ꜿ"
-                                 },
-                                {
-                                
-                    "row": 7,
-                    "column": 14,
-                
-                                "character": "Ꝋ"
-                                 },
-                                {
-                                
-                    "row": 7,
-                    "column": 16,
-                
-                                "character": "ꝋ"
-                                 },
-                                {
-                                
-                    "row": 7,
-                    "column": 18,
-                
-                                "character": "Ꝝ"
-                                 },
-                                {
-                                
-                    "row": 8,
-                    "column": 0,
-                    "column2:"160*** 0
                                 "character": "ꝝ"
                                  },
                                 {
                                 
-                    "row": 8,
-                    "column": 2,
+                    "row": 4,
+                    "column": 1,
                 
                                 "character": "Ꝫ"
                                  },
                                 {
                                 
-                    "row": 8,
-                    "column": 4,
+                    "row": 4,
+                    "column": 2,
                 
                                 "character": "ꝫ"
                                  },
                                 {
                                 
-                    "row": 8,
-                    "column": 6,
+                    "row": 4,
+                    "column": 3,
                 
                                 "character": "Ꝭ"
                                  },
                                 {
                                 
-                    "row": 8,
-                    "column": 8,
+                    "row": 4,
+                    "column": 4,
                 
                                 "character": "ꝭ"
                                  },
                                 {
                                 
-                    "row": 8,
-                    "column": 10,
+                    "row": 4,
+                    "column": 5,
                 
                                 "character": "Ꝯ"
                                  },
                                 {
                                 
-                    "row": 8,
-                    "column": 12,
+                    "row": 4,
+                    "column": 6,
                 
                                 "character": "ꝯ"
                                  },
                                 {
                                 
-                    "row": 8,
-                    "column": 14,
+                    "row": 4,
+                    "column": 7,
                 
                                 "character": "ꝰ"
                                  },
                                 {
                                 
-                    "row": 8,
-                    "column": 16,
+                    "row": 4,
+                    "column": 8,
                 
                                 "character": "ꝸ"
                                  },
                                 {
                                 
-                    "row": 8,
-                    "column": 18,
+                    "row": 4,
+                    "column": 9,
                 
                                 "character": "Ꝥ"
                                  },
                                 {
                                 
-                    "row": 9,
-                    "column": 0,
-                    "column2:"180*** 0
+                    "row": 4,
+                    "column": 10,
+                
                                 "character": "ꝥ"
                                  },
                                 {
                                 
-                    "row": 9,
-                    "column": 2,
+                    "row": 4,
+                    "column": 11,
                 
                                 "character": "Ꝧ"
                                  },
                                 {
                                 
-                    "row": 9,
-                    "column": 4,
+                    "row": 4,
+                    "column": 12,
                 
                                 "character": "ꝧ"
                                  },
