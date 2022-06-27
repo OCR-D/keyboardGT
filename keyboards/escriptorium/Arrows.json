@@ -14,28 +14,28 @@
                 
                 
                                 "character": "←"
-                                 }<hallo>639</hallo>1###1
+                                 }
                                 {
                                 
                     "row": 0,
                     "column": 2,
                 
                                 "character": "↑"
-                                 }<hallo>640</hallo>1###2
+                                 },
                                 {
                                 
                     "row": 0,
                     "column": 4,
                 
                                 "character": "→"
-                                 }<hallo>641</hallo>1###3
+                                 },
                                 {
                                 
                     "row": 0,
                     "column": 6,
                 
                                 "character": "↓"
-                                 }<hallo>642</hallo>1###4
+                                 },
                 
                 
                 ]}
