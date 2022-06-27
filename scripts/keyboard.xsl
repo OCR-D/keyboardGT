@@ -220,20 +220,18 @@ Names
                         
                         
                         
-                        
                     </xsl:for-each-group>
                 </line></xsl:variable>
-                <xsl:message select="$keys"/>
+               
                 <xsl:for-each select="$keys/line">
-                    
-                    <!--<xsl:apply-templates/>-->
-                    
-                    <xsl:for-each select="$keys/line[fn:position() &gt; last()]">
-                        <xsl:apply-templates/><xsl:text disable-output-escaping="yes">,</xsl:text>
-                    </xsl:for-each>
-                    <xsl:value-of select="$keys/line[position()=last()]"/> {bksp}"]
-                    
-                    
+                    <xsl:choose>
+                        <xsl:when test=". = [position()=last()]">
+                            <xsl:apply-templates/>
+                        </xsl:when>
+                        <xsl:otherwise>
+                            <xsl:apply-templates/>,
+                        </xsl:otherwise>
+                    </xsl:choose><xsl:apply-templates/>
                 </xsl:for-each>
                 
                 
