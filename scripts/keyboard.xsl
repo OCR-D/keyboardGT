@@ -342,6 +342,7 @@ Names
     </xsl:template>
     
     <xsl:template match="koma">
+        <hallo><xsl:value-of select="."/></hallo>
         <xsl:for-each select=".">
             <xsl:value-of select="fn:position()"/>###<xsl:number/>
             
