@@ -9,15 +9,15 @@
                 
                                 {
                                 
-                    "row": -0,*0*
-                    "column:" 0*0*,
+                    "row": -0,
+                    "column:" 0,
                 
                                 "character": "✝
                                  }
                             
                                 {
                                 
-                    "row": 0, *1*
+                    "row": 0,
                     "column:" 1,
                 
                 
@@ -27,8 +27,8 @@
                             
                                 {
                                 
-                    "row": 0,*2*
-                    "column:" 2*2*,
+                    "row": 0,
+                    "column:" 2,
                 
                                 "character": "❧
                                  }
