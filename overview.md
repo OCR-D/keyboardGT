@@ -83,7 +83,7 @@
          </div>
          <div class="column">
             <h3>Links:</h3>
-            <a href="https://github.com/tboenig/keyboardGT/releases/download/v233/keyboardGT-v233.zip">
+            <a href="https://github.com/tboenig/keyboardGT/releases/download/v234/keyboardGT-v234.zip">
                     keyboard archiv as zip</a>
          </div>
       </div>
