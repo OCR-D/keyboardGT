@@ -342,7 +342,11 @@ Names
     </xsl:template>
     
     <xsl:template match="koma">
-        <xsl:for-each select=".">,Hallop</xsl:for-each>
+        <xsl:for-each select=".">
+            <xsl:choose>
+                <xsl:when test=".[fn:position() = last()]">Hallo</xsl:when>
+                <xsl:otherwise>,</xsl:otherwise>
+            </xsl:choose>,</xsl:for-each>
     </xsl:template>
 
     <xsl:template match="$MUFIEXPORT//fn:array" name="kb-table">
