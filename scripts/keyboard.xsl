@@ -340,29 +340,7 @@ Names
         
     </xsl:template>
     
-    <xsl:template match="koma[last()]">
-        hallo
-        
-        <!--<xsl:variable name="ttt">
-        <liste>
-        <xsl:variable name="nrk"><nummer><xsl:number format="1" start-at="1"/></nummer></xsl:variable>
-        <xsl:variable name="tt">
-        <xsl:for-each select="$nrk">
-            <xsl:sort order="ascending" select="nummer"/>
-            <xsl:value-of select="nummer"/>
-        </xsl:for-each>
-        </xsl:variable>
-        
-        
-        <xsl:for-each select=".">
-            <xsl:variable name="sumKoma" select="count(.)"/>
-            
-           <xsl:value-of select="$tt"/>
-        </xsl:for-each>
-        </liste>
-        </xsl:variable>-->
-        
-    </xsl:template>
+    <xsl:template match="koma[fn:position() &lt; last()]">,</xsl:template>
 
     <xsl:template match="$MUFIEXPORT//fn:array" name="kb-table">
         
