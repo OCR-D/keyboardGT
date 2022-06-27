@@ -317,7 +317,7 @@ Names
     
     <xsl:template match="number">
         <xsl:for-each select=".">
-            <xsl:variable name="nr"><xsl:number/></xsl:variable>
+            <xsl:variable name="nr"><xsl:number start-at="1"/></xsl:variable>
             <xsl:variable name="nnr" select="substring-before(string(($nr - 1) div 20), '.')"></xsl:variable>
             
             <xsl:variable name="out_row_colum">
