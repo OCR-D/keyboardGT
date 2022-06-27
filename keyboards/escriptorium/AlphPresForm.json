@@ -2,7 +2,7 @@
                 {
                 "version": "0.1",
                 "name": "AlphPresForm",
-                "author": "tboenig boenig@bbaw.de",
+                "author": "tboenig &lt;boenig@bbaw.de&gt;",
                 "characters": [
                 
                 
@@ -10,7 +10,7 @@
                                 {
                                 
                     "row": 0,
-                    "column:" 0,
+                    "column": 0,
                 
                 
                                 "character": "ff",
@@ -19,7 +19,7 @@
                                 {
                                 
                     "row": 0,
-                    "column:" 1,
+                    "column": 1,
                 
                                 "character": "fi",
                                  },
@@ -27,7 +27,7 @@
                                 {
                                 
                     "row": 0,
-                    "column:" 2,
+                    "column": 2,
                 
                                 "character": "fl",
                                  },
@@ -35,7 +35,7 @@
                                 {
                                 
                     "row": 0,
-                    "column:" 3,
+                    "column": 3,
                 
                                 "character": "ﬃ",
                                  },
@@ -43,7 +43,7 @@
                                 {
                                 
                     "row": 0,
-                    "column:" 4,
+                    "column": 4,
                 
                                 "character": "ﬄ",
                                  },
@@ -51,7 +51,7 @@
                                 {
                                 
                     "row": 0,
-                    "column:" 5,
+                    "column": 5,
                 
                                 "character": "ſt",
                                  },
@@ -59,7 +59,7 @@
                                 {
                                 
                     "row": 0,
-                    "column:" 6,
+                    "column": 6,
                 
                                 "character": "st",
                                  },

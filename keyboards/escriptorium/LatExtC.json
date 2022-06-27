@@ -2,7 +2,7 @@
                 {
                 "version": "0.1",
                 "name": "LatExtC",
-                "author": "tboenig boenig@bbaw.de",
+                "author": "tboenig &lt;boenig@bbaw.de&gt;",
                 "characters": [
                 
                 
@@ -10,7 +10,7 @@
                                 {
                                 
                     "row": 0,
-                    "column:" 0,
+                    "column": 0,
                 
                 
                                 "character": "Ⱶ",
@@ -19,7 +19,7 @@
                                 {
                                 
                     "row": 0,
-                    "column:" 1,
+                    "column": 1,
                 
                                 "character": "ⱶ",
                                  },
@@ -27,7 +27,7 @@
                                 {
                                 
                     "row": 0,
-                    "column:" 2,
+                    "column": 2,
                 
                                 "character": "ⱽ",
                                  },

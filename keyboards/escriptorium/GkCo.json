@@ -2,7 +2,7 @@
                 {
                 "version": "0.1",
                 "name": "GkCo",
-                "author": "tboenig boenig@bbaw.de",
+                "author": "tboenig &lt;boenig@bbaw.de&gt;",
                 "characters": [
                 
                 
@@ -10,7 +10,7 @@
                                 {
                                 
                     "row": 0,
-                    "column:" 0,
+                    "column": 0,
                 
                 
                                 "character": "α",
@@ -19,7 +19,7 @@
                                 {
                                 
                     "row": 0,
-                    "column:" 1,
+                    "column": 1,
                 
                                 "character": "β",
                                  },
@@ -27,7 +27,7 @@
                                 {
                                 
                     "row": 0,
-                    "column:" 2,
+                    "column": 2,
                 
                                 "character": "γ",
                                  },
@@ -35,7 +35,7 @@
                                 {
                                 
                     "row": 0,
-                    "column:" 3,
+                    "column": 3,
                 
                                 "character": "δ",
                                  },
@@ -43,7 +43,7 @@
                                 {
                                 
                     "row": 0,
-                    "column:" 4,
+                    "column": 4,
                 
                                 "character": "ε",
                                  },
@@ -51,7 +51,7 @@
                                 {
                                 
                     "row": 0,
-                    "column:" 5,
+                    "column": 5,
                 
                                 "character": "ζ",
                                  },
@@ -59,7 +59,7 @@
                                 {
                                 
                     "row": 0,
-                    "column:" 6,
+                    "column": 6,
                 
                                 "character": "η",
                                  },
@@ -67,7 +67,7 @@
                                 {
                                 
                     "row": 0,
-                    "column:" 7,
+                    "column": 7,
                 
                                 "character": "ι",
                                  },
@@ -75,7 +75,7 @@
                                 {
                                 
                     "row": 0,
-                    "column:" 8,
+                    "column": 8,
                 
                                 "character": "κ",
                                  },
@@ -83,7 +83,7 @@
                                 {
                                 
                     "row": 0,
-                    "column:" 9,
+                    "column": 9,
                 
                                 "character": "λ",
                                  },
@@ -91,7 +91,7 @@
                                 {
                                 
                     "row": 0,
-                    "column:" 10,
+                    "column": 10,
                 
                                 "character": "μ",
                                  },
@@ -99,7 +99,7 @@
                                 {
                                 
                     "row": 0,
-                    "column:" 11,
+                    "column": 11,
                 
                                 "character": "ν",
                                  },
@@ -107,7 +107,7 @@
                                 {
                                 
                     "row": 0,
-                    "column:" 12,
+                    "column": 12,
                 
                                 "character": "ξ",
                                  },
@@ -115,7 +115,7 @@
                                 {
                                 
                     "row": 0,
-                    "column:" 13,
+                    "column": 13,
                 
                                 "character": "σ",
                                  },
@@ -123,7 +123,7 @@
                                 {
                                 
                     "row": 0,
-                    "column:" 14,
+                    "column": 14,
                 
                                 "character": "Θ",
                                  },
@@ -131,7 +131,7 @@
                                 {
                                 
                     "row": 0,
-                    "column:" 15,
+                    "column": 15,
                 
                                 "character": "θ",
                                  },
