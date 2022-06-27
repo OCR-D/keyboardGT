@@ -9,18 +9,18 @@
                 
                                 {
                                 
-                    "row": -0,hallo1
-                    "column:" 0,
+                    "row": -0.05,hallo
+                    "column:" 1,
+                
+                
                 
                                 "character": "ʙ
                                  }
                             
                                 {
                                 
-                    "row": 0,hallo
+                    "row": 0,hallo1
                     "column:" 1,
-                
-                
                 
                                 "character": "ɖ
                                  }
@@ -171,8 +171,10 @@
                             
                                 {
                                 
-                    "row": 0,hallo1
-                    "column:" 20,
+                    "row": 0.95,hallo
+                    "column:" 1,
+                
+                
                 
                                 "character": "ʒ
                                  }
