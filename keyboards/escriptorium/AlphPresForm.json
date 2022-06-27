@@ -7,8 +7,6 @@
                 
                 
                 
-                    
-                    "
                                 {
                                 
                     "row": 0,
@@ -17,63 +15,48 @@
                 
                                 "character": "ff"
                                  }
-                                
                                 {
                                 
                     "row": 0,
-                    "column": 0,
-                
+                    "column": 2,
                 
                                 "character": "fi"
                                  }
-                                
                                 {
                                 
                     "row": 0,
-                    "column": 0,
-                
+                    "column": 4,
                 
                                 "character": "fl"
                                  }
-                                
                                 {
                                 
                     "row": 0,
-                    "column": 0,
-                
+                    "column": 6,
                 
                                 "character": "ﬃ"
                                  }
-                                
                                 {
                                 
                     "row": 0,
-                    "column": 0,
-                
+                    "column": 8,
                 
                                 "character": "ﬄ"
                                  }
-                                
                                 {
                                 
                     "row": 0,
-                    "column": 0,
-                
+                    "column": 10,
                 
                                 "character": "ſt"
                                  }
-                                
                                 {
                                 
                     "row": 0,
-                    "column": 0,
-                
+                    "column": 12,
                 
                                 "character": "st"
                                  }
-                                ++1++
-                
-                
                 
                 
                 ]}

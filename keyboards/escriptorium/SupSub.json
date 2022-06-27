@@ -7,8 +7,6 @@
                 
                 
                 
-                    
-                    "
                                 {
                                 
                     "row": 0,
@@ -17,162 +15,126 @@
                 
                                 "character": "⁰"
                                  }
-                                
                                 {
                                 
                     "row": 0,
-                    "column": 0,
-                
+                    "column": 2,
                 
                                 "character": "⁴"
                                  }
-                                
                                 {
                                 
                     "row": 0,
-                    "column": 0,
-                
+                    "column": 4,
                 
                                 "character": "⁵"
                                  }
-                                
                                 {
                                 
                     "row": 0,
-                    "column": 0,
-                
+                    "column": 6,
                 
                                 "character": "⁶"
                                  }
-                                
                                 {
                                 
                     "row": 0,
-                    "column": 0,
-                
+                    "column": 8,
                 
                                 "character": "⁷"
                                  }
-                                
                                 {
                                 
                     "row": 0,
-                    "column": 0,
-                
+                    "column": 10,
                 
                                 "character": "⁸"
                                  }
-                                
                                 {
                                 
                     "row": 0,
-                    "column": 0,
-                
+                    "column": 12,
                 
                                 "character": "⁹"
                                  }
-                                
                                 {
                                 
                     "row": 0,
-                    "column": 0,
-                
+                    "column": 14,
                 
                                 "character": "₀"
                                  }
-                                
                                 {
                                 
                     "row": 0,
-                    "column": 0,
-                
+                    "column": 16,
                 
                                 "character": "₁"
                                  }
-                                
                                 {
                                 
                     "row": 0,
-                    "column": 0,
-                
+                    "column": 18,
                 
                                 "character": "₂"
                                  }
-                                
                                 {
                                 
-                    "row": 0,
+                    "row": 1,
                     "column": 0,
                 
                 
                                 "character": "₃"
                                  }
-                                
                                 {
                                 
-                    "row": 0,
-                    "column": 0,
-                
+                    "row": 1,
+                    "column": 2,
                 
                                 "character": "₄"
                                  }
-                                
                                 {
                                 
-                    "row": 0,
-                    "column": 0,
-                
+                    "row": 1,
+                    "column": 4,
                 
                                 "character": "₅"
                                  }
-                                
                                 {
                                 
-                    "row": 0,
-                    "column": 0,
-                
+                    "row": 1,
+                    "column": 6,
                 
                                 "character": "₆"
                                  }
-                                
                                 {
                                 
-                    "row": 0,
-                    "column": 0,
-                
+                    "row": 1,
+                    "column": 8,
                 
                                 "character": "₇"
                                  }
-                                
                                 {
                                 
-                    "row": 0,
-                    "column": 0,
-                
+                    "row": 1,
+                    "column": 10,
                 
                                 "character": "₈"
                                  }
-                                
                                 {
                                 
-                    "row": 0,
-                    "column": 0,
-                
+                    "row": 1,
+                    "column": 12,
                 
                                 "character": "₉"
                                  }
-                                
                                 {
                                 
-                    "row": 0,
-                    "column": 0,
-                
+                    "row": 1,
+                    "column": 14,
                 
                                 "character": "⁻"
                                  }
-                                ++1++
-                
-                
                 
                 
                 ]}

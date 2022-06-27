@@ -7,8 +7,6 @@
                 
                 
                 
-                    
-                    "
                                 {
                                 
                     "row": 0,
@@ -17,45 +15,34 @@
                 
                                 "character": "ↄ"
                                  }
-                                
                                 {
                                 
                     "row": 0,
-                    "column": 0,
-                
+                    "column": 2,
                 
                                 "character": "ↀ"
                                  }
-                                
                                 {
                                 
                     "row": 0,
-                    "column": 0,
-                
+                    "column": 4,
                 
                                 "character": "ↁ"
                                  }
-                                
                                 {
                                 
                     "row": 0,
-                    "column": 0,
-                
+                    "column": 6,
                 
                                 "character": "ↂ"
                                  }
-                                
                                 {
                                 
                     "row": 0,
-                    "column": 0,
-                
+                    "column": 8,
                 
                                 "character": "Ↄ"
                                  }
-                                ++1++
-                
-                
                 
                 
                 ]}

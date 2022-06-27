@@ -7,8 +7,6 @@
                 
                 
                 
-                    
-                    "
                                 {
                                 
                     "row": 0,
@@ -17,171 +15,133 @@
                 
                                 "character": "ᴀ"
                                  }
-                                
                                 {
                                 
                     "row": 0,
-                    "column": 0,
-                
+                    "column": 2,
                 
                                 "character": "ᴁ"
                                  }
-                                
                                 {
                                 
                     "row": 0,
-                    "column": 0,
-                
+                    "column": 4,
                 
                                 "character": "ᴄ"
                                  }
-                                
                                 {
                                 
                     "row": 0,
-                    "column": 0,
-                
+                    "column": 6,
                 
                                 "character": "ᴅ"
                                  }
-                                
                                 {
                                 
                     "row": 0,
-                    "column": 0,
-                
+                    "column": 8,
                 
                                 "character": "ᴆ"
                                  }
-                                
                                 {
                                 
                     "row": 0,
-                    "column": 0,
-                
+                    "column": 10,
                 
                                 "character": "ᴇ"
                                  }
-                                
                                 {
                                 
                     "row": 0,
-                    "column": 0,
-                
+                    "column": 12,
                 
                                 "character": "ᵹ"
                                  }
-                                
                                 {
                                 
                     "row": 0,
-                    "column": 0,
-                
+                    "column": 14,
                 
                                 "character": "ᴊ"
                                  }
-                                
                                 {
                                 
                     "row": 0,
-                    "column": 0,
-                
+                    "column": 16,
                 
                                 "character": "ᴋ"
                                  }
-                                
                                 {
                                 
                     "row": 0,
-                    "column": 0,
-                
+                    "column": 18,
                 
                                 "character": "ᴍ"
                                  }
-                                
                                 {
                                 
-                    "row": 0,
+                    "row": 1,
                     "column": 0,
                 
                 
                                 "character": "ᴏ"
                                  }
-                                
                                 {
                                 
-                    "row": 0,
-                    "column": 0,
-                
+                    "row": 1,
+                    "column": 2,
                 
                                 "character": "ᴘ"
                                  }
-                                
                                 {
                                 
-                    "row": 0,
-                    "column": 0,
-                
+                    "row": 1,
+                    "column": 4,
                 
                                 "character": "ᴛ"
                                  }
-                                
                                 {
                                 
-                    "row": 0,
-                    "column": 0,
-                
+                    "row": 1,
+                    "column": 6,
                 
                                 "character": "ᴜ"
                                  }
-                                
                                 {
                                 
-                    "row": 0,
-                    "column": 0,
-                
+                    "row": 1,
+                    "column": 8,
                 
                                 "character": "ᵫ"
                                  }
-                                
                                 {
                                 
-                    "row": 0,
-                    "column": 0,
-                
+                    "row": 1,
+                    "column": 10,
                 
                                 "character": "ᴠ"
                                  }
-                                
                                 {
                                 
-                    "row": 0,
-                    "column": 0,
-                
+                    "row": 1,
+                    "column": 12,
                 
                                 "character": "ᴡ"
                                  }
-                                
                                 {
                                 
-                    "row": 0,
-                    "column": 0,
-                
+                    "row": 1,
+                    "column": 14,
                 
                                 "character": "ᴢ"
                                  }
-                                
                                 {
                                 
-                    "row": 0,
-                    "column": 0,
-                
+                    "row": 1,
+                    "column": 16,
                 
                                 "character": "ᴵ"
                                  }
-                                ++1++
-                
-                
                 
                 
                 ]}
