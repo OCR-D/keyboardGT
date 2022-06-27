@@ -214,7 +214,7 @@ Names
                             <xsl:for-each select="fn:current-group()">
                                 {
                                 <number/>
-                                "character": "<xsl:value-of select="fn:string[@key = 'mufichar']"/>
+                                "character": "<xsl:value-of select="fn:string[@key = 'mufichar']"/>",
                                  }
                             </xsl:for-each>
                         
