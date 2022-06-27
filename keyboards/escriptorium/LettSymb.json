@@ -9,12 +9,20 @@
                 
                                 {
                                 
+                    "row": -0,*0*
+                    "column:" -2,
+                
+                                "character": "Ⅎ
+                                 }
+                            
+                                {
+                                
                     "row": 0
                     "column:" 0,
                 
                 
                 
-                                "character": "Ⅎ
+                                "character": "ⅎ
                                  }
                             
                                 {
@@ -22,7 +30,7 @@
                     "row": 0,*2*
                     "column:" 0,
                 
-                                "character": "ⅎ
+                                "character": "℞
                                  }
                             
                                 {
@@ -30,7 +38,7 @@
                     "row": 0,*3*
                     "column:" 1,
                 
-                                "character": "℞
+                                "character": "℟
                                  }
                             
                                 {
@@ -38,7 +46,7 @@
                     "row": 0,*4*
                     "column:" 2,
                 
-                                "character": "℟
+                                "character": "℣
                                  }
                             
                                 {
@@ -46,7 +54,7 @@
                     "row": 0,*5*
                     "column:" 3,
                 
-                                "character": "℣
+                                "character": "℔
                                  }
                             
                                 {
@@ -54,21 +62,13 @@
                     "row": 0,*6*
                     "column:" 4,
                 
-                                "character": "℔
+                                "character": "℈
                                  }
                             
                                 {
                                 
                     "row": 0,*7*
                     "column:" 5,
-                
-                                "character": "℈
-                                 }
-                            
-                                {
-                                
-                    "row": 0,*8*
-                    "column:" 6,
                 
                                 "character": "℥
                                  }

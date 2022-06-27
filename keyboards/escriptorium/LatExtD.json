@@ -9,12 +9,20 @@
                 
                                 {
                                 
+                    "row": -0,*0*
+                    "column:" -2,
+                
+                                "character": "Ꜳ
+                                 }
+                            
+                                {
+                                
                     "row": 0
                     "column:" 0,
                 
                 
                 
-                                "character": "Ꜳ
+                                "character": "ꜳ
                                  }
                             
                                 {
@@ -22,7 +30,7 @@
                     "row": 0,*2*
                     "column:" 0,
                 
-                                "character": "ꜳ
+                                "character": "Ꜵ
                                  }
                             
                                 {
@@ -30,7 +38,7 @@
                     "row": 0,*3*
                     "column:" 1,
                 
-                                "character": "Ꜵ
+                                "character": "ꜵ
                                  }
                             
                                 {
@@ -38,7 +46,7 @@
                     "row": 0,*4*
                     "column:" 2,
                 
-                                "character": "ꜵ
+                                "character": "Ꜷ
                                  }
                             
                                 {
@@ -46,7 +54,7 @@
                     "row": 0,*5*
                     "column:" 3,
                 
-                                "character": "Ꜷ
+                                "character": "ꜷ
                                  }
                             
                                 {
@@ -54,7 +62,7 @@
                     "row": 0,*6*
                     "column:" 4,
                 
-                                "character": "ꜷ
+                                "character": "Ꜹ
                                  }
                             
                                 {
@@ -62,7 +70,7 @@
                     "row": 0,*7*
                     "column:" 5,
                 
-                                "character": "Ꜹ
+                                "character": "ꜹ
                                  }
                             
                                 {
@@ -70,7 +78,7 @@
                     "row": 0,*8*
                     "column:" 6,
                 
-                                "character": "ꜹ
+                                "character": "Ꜻ
                                  }
                             
                                 {
@@ -78,7 +86,7 @@
                     "row": 0,*9*
                     "column:" 7,
                 
-                                "character": "Ꜻ
+                                "character": "ꜻ
                                  }
                             
                                 {
@@ -86,7 +94,7 @@
                     "row": 0,*10*
                     "column:" 8,
                 
-                                "character": "ꜻ
+                                "character": "Ꜽ
                                  }
                             
                                 {
@@ -94,7 +102,7 @@
                     "row": 0,*11*
                     "column:" 9,
                 
-                                "character": "Ꜽ
+                                "character": "ꜽ
                                  }
                             
                                 {
@@ -102,7 +110,7 @@
                     "row": 0,*12*
                     "column:" 10,
                 
-                                "character": "ꜽ
+                                "character": "ꝱ
                                  }
                             
                                 {
@@ -110,7 +118,7 @@
                     "row": 0,*13*
                     "column:" 11,
                 
-                                "character": "ꝱ
+                                "character": "Ꝺ
                                  }
                             
                                 {
@@ -118,7 +126,7 @@
                     "row": 0,*14*
                     "column:" 12,
                 
-                                "character": "Ꝺ
+                                "character": "ꝺ
                                  }
                             
                                 {
@@ -126,7 +134,7 @@
                     "row": 0,*15*
                     "column:" 13,
                 
-                                "character": "ꝺ
+                                "character": "ꜰ
                                  }
                             
                                 {
@@ -134,7 +142,7 @@
                     "row": 0,*16*
                     "column:" 14,
                 
-                                "character": "ꜰ
+                                "character": "Ꝼ
                                  }
                             
                                 {
@@ -142,7 +150,7 @@
                     "row": 0,*17*
                     "column:" 15,
                 
-                                "character": "Ꝼ
+                                "character": "ꝼ
                                  }
                             
                                 {
@@ -150,7 +158,7 @@
                     "row": 0,*18*
                     "column:" 16,
                 
-                                "character": "ꝼ
+                                "character": "ꟻ
                                  }
                             
                                 {
@@ -158,7 +166,7 @@
                     "row": 0,*19*
                     "column:" 17,
                 
-                                "character": "ꟻ
+                                "character": "Ᵹ
                                  }
                             
                                 {
@@ -166,7 +174,7 @@
                     "row": 0,*20*
                     "column:" 18,
                 
-                                "character": "Ᵹ
+                                "character": "Ꝿ
                                  }
                             
                                 {
@@ -176,7 +184,7 @@
                 
                 
                 
-                                "character": "Ꝿ
+                                "character": "ꝿ
                                  }
                             
                                 {
@@ -184,7 +192,7 @@
                     "row": 1,*22*
                     "column:" 0,
                 
-                                "character": "ꝿ
+                                "character": "ꟾ
                                  }
                             
                                 {
@@ -192,7 +200,7 @@
                     "row": 1,*23*
                     "column:" 1,
                 
-                                "character": "ꟾ
+                                "character": "Ꝁ
                                  }
                             
                                 {
@@ -200,7 +208,7 @@
                     "row": 1,*24*
                     "column:" 2,
                 
-                                "character": "Ꝁ
+                                "character": "ꝁ
                                  }
                             
                                 {
@@ -208,7 +216,7 @@
                     "row": 1,*25*
                     "column:" 3,
                 
-                                "character": "ꝁ
+                                "character": "Ꝃ
                                  }
                             
                                 {
@@ -216,7 +224,7 @@
                     "row": 1,*26*
                     "column:" 4,
                 
-                                "character": "Ꝃ
+                                "character": "ꝃ
                                  }
                             
                                 {
@@ -224,7 +232,7 @@
                     "row": 1,*27*
                     "column:" 5,
                 
-                                "character": "ꝃ
+                                "character": "Ꝅ
                                  }
                             
                                 {
@@ -232,7 +240,7 @@
                     "row": 1,*28*
                     "column:" 6,
                 
-                                "character": "Ꝅ
+                                "character": "ꝅ
                                  }
                             
                                 {
@@ -240,7 +248,7 @@
                     "row": 1,*29*
                     "column:" 7,
                 
-                                "character": "ꝅ
+                                "character": "Ꝇ
                                  }
                             
                                 {
@@ -248,7 +256,7 @@
                     "row": 1,*30*
                     "column:" 8,
                 
-                                "character": "Ꝇ
+                                "character": "ꝇ
                                  }
                             
                                 {
@@ -256,7 +264,7 @@
                     "row": 1,*31*
                     "column:" 9,
                 
-                                "character": "ꝇ
+                                "character": "Ꝉ
                                  }
                             
                                 {
@@ -264,7 +272,7 @@
                     "row": 1,*32*
                     "column:" 10,
                 
-                                "character": "Ꝉ
+                                "character": "ꝉ
                                  }
                             
                                 {
@@ -272,7 +280,7 @@
                     "row": 1,*33*
                     "column:" 11,
                 
-                                "character": "ꝉ
+                                "character": "ꝲ
                                  }
                             
                                 {
@@ -280,7 +288,7 @@
                     "row": 1,*34*
                     "column:" 12,
                 
-                                "character": "ꝲ
+                                "character": "Ꞁ
                                  }
                             
                                 {
@@ -288,7 +296,7 @@
                     "row": 1,*35*
                     "column:" 13,
                 
-                                "character": "Ꞁ
+                                "character": "ꞁ
                                  }
                             
                                 {
@@ -296,7 +304,7 @@
                     "row": 1,*36*
                     "column:" 14,
                 
-                                "character": "ꞁ
+                                "character": "ꝳ
                                  }
                             
                                 {
@@ -304,7 +312,7 @@
                     "row": 1,*37*
                     "column:" 15,
                 
-                                "character": "ꝳ
+                                "character": "ꟽ
                                  }
                             
                                 {
@@ -312,7 +320,7 @@
                     "row": 1,*38*
                     "column:" 16,
                 
-                                "character": "ꟽ
+                                "character": "ꟿ
                                  }
                             
                                 {
@@ -320,7 +328,7 @@
                     "row": 1,*39*
                     "column:" 17,
                 
-                                "character": "ꟿ
+                                "character": "ꝴ
                                  }
                             
                                 {
@@ -328,7 +336,7 @@
                     "row": 1,*40*
                     "column:" 18,
                 
-                                "character": "ꝴ
+                                "character": "Ꝍ
                                  }
                             
                                 {
@@ -338,7 +346,7 @@
                 
                 
                 
-                                "character": "Ꝍ
+                                "character": "ꝍ
                                  }
                             
                                 {
@@ -346,7 +354,7 @@
                     "row": 2,*42*
                     "column:" 0,
                 
-                                "character": "ꝍ
+                                "character": "Ꝏ
                                  }
                             
                                 {
@@ -354,7 +362,7 @@
                     "row": 2,*43*
                     "column:" 1,
                 
-                                "character": "Ꝏ
+                                "character": "ꝏ
                                  }
                             
                                 {
@@ -362,7 +370,7 @@
                     "row": 2,*44*
                     "column:" 2,
                 
-                                "character": "ꝏ
+                                "character": "Ꝑ
                                  }
                             
                                 {
@@ -370,7 +378,7 @@
                     "row": 2,*45*
                     "column:" 3,
                 
-                                "character": "Ꝑ
+                                "character": "ꝑ
                                  }
                             
                                 {
@@ -378,7 +386,7 @@
                     "row": 2,*46*
                     "column:" 4,
                 
-                                "character": "ꝑ
+                                "character": "Ꝓ
                                  }
                             
                                 {
@@ -386,7 +394,7 @@
                     "row": 2,*47*
                     "column:" 5,
                 
-                                "character": "Ꝓ
+                                "character": "ꝓ
                                  }
                             
                                 {
@@ -394,7 +402,7 @@
                     "row": 2,*48*
                     "column:" 6,
                 
-                                "character": "ꝓ
+                                "character": "Ꝕ
                                  }
                             
                                 {
@@ -402,7 +410,7 @@
                     "row": 2,*49*
                     "column:" 7,
                 
-                                "character": "Ꝕ
+                                "character": "ꝕ
                                  }
                             
                                 {
@@ -410,7 +418,7 @@
                     "row": 2,*50*
                     "column:" 8,
                 
-                                "character": "ꝕ
+                                "character": "ꟼ
                                  }
                             
                                 {
@@ -418,7 +426,7 @@
                     "row": 2,*51*
                     "column:" 9,
                 
-                                "character": "ꟼ
+                                "character": "Ꝗ
                                  }
                             
                                 {
@@ -426,7 +434,7 @@
                     "row": 2,*52*
                     "column:" 10,
                 
-                                "character": "Ꝗ
+                                "character": "ꝗ
                                  }
                             
                                 {
@@ -434,7 +442,7 @@
                     "row": 2,*53*
                     "column:" 11,
                 
-                                "character": "ꝗ
+                                "character": "Ꝙ
                                  }
                             
                                 {
@@ -442,7 +450,7 @@
                     "row": 2,*54*
                     "column:" 12,
                 
-                                "character": "Ꝙ
+                                "character": "ꝙ
                                  }
                             
                                 {
@@ -450,7 +458,7 @@
                     "row": 2,*55*
                     "column:" 13,
                 
-                                "character": "ꝙ
+                                "character": "Ꝛ
                                  }
                             
                                 {
@@ -458,7 +466,7 @@
                     "row": 2,*56*
                     "column:" 14,
                 
-                                "character": "Ꝛ
+                                "character": "ꝛ
                                  }
                             
                                 {
@@ -466,7 +474,7 @@
                     "row": 2,*57*
                     "column:" 15,
                 
-                                "character": "ꝛ
+                                "character": "ꝵ
                                  }
                             
                                 {
@@ -474,7 +482,7 @@
                     "row": 2,*58*
                     "column:" 16,
                 
-                                "character": "ꝵ
+                                "character": "ꝶ
                                  }
                             
                                 {
@@ -482,7 +490,7 @@
                     "row": 2,*59*
                     "column:" 17,
                 
-                                "character": "ꝶ
+                                "character": "Ꞃ
                                  }
                             
                                 {
@@ -490,7 +498,7 @@
                     "row": 2,*60*
                     "column:" 18,
                 
-                                "character": "Ꞃ
+                                "character": "ꞃ
                                  }
                             
                                 {
@@ -500,7 +508,7 @@
                 
                 
                 
-                                "character": "ꞃ
+                                "character": "ꜱ
                                  }
                             
                                 {
@@ -508,7 +516,7 @@
                     "row": 3,*62*
                     "column:" 0,
                 
-                                "character": "ꜱ
+                                "character": "Ꞅ
                                  }
                             
                                 {
@@ -516,7 +524,7 @@
                     "row": 3,*63*
                     "column:" 1,
                 
-                                "character": "Ꞅ
+                                "character": "ꞅ
                                  }
                             
                                 {
@@ -524,7 +532,7 @@
                     "row": 3,*64*
                     "column:" 2,
                 
-                                "character": "ꞅ
+                                "character": "ꝷ
                                  }
                             
                                 {
@@ -532,7 +540,7 @@
                     "row": 3,*65*
                     "column:" 3,
                 
-                                "character": "ꝷ
+                                "character": "Ꞇ
                                  }
                             
                                 {
@@ -540,7 +548,7 @@
                     "row": 3,*66*
                     "column:" 4,
                 
-                                "character": "Ꞇ
+                                "character": "ꞇ
                                  }
                             
                                 {
@@ -548,7 +556,7 @@
                     "row": 3,*67*
                     "column:" 5,
                 
-                                "character": "ꞇ
+                                "character": "Ꝟ
                                  }
                             
                                 {
@@ -556,7 +564,7 @@
                     "row": 3,*68*
                     "column:" 6,
                 
-                                "character": "Ꝟ
+                                "character": "ꝟ
                                  }
                             
                                 {
@@ -564,7 +572,7 @@
                     "row": 3,*69*
                     "column:" 7,
                 
-                                "character": "ꝟ
+                                "character": "Ꝩ
                                  }
                             
                                 {
@@ -572,7 +580,7 @@
                     "row": 3,*70*
                     "column:" 8,
                 
-                                "character": "Ꝩ
+                                "character": "ꝩ
                                  }
                             
                                 {
@@ -580,7 +588,7 @@
                     "row": 3,*71*
                     "column:" 9,
                 
-                                "character": "ꝩ
+                                "character": "Ꝡ
                                  }
                             
                                 {
@@ -588,7 +596,7 @@
                     "row": 3,*72*
                     "column:" 10,
                 
-                                "character": "Ꝡ
+                                "character": "ꝡ
                                  }
                             
                                 {
@@ -596,7 +604,7 @@
                     "row": 3,*73*
                     "column:" 11,
                 
-                                "character": "ꝡ
+                                "character": "Ꝣ
                                  }
                             
                                 {
@@ -604,7 +612,7 @@
                     "row": 3,*74*
                     "column:" 12,
                 
-                                "character": "Ꝣ
+                                "character": "ꝣ
                                  }
                             
                                 {
@@ -612,7 +620,7 @@
                     "row": 3,*75*
                     "column:" 13,
                 
-                                "character": "ꝣ
+                                "character": "Ꜿ
                                  }
                             
                                 {
@@ -620,7 +628,7 @@
                     "row": 3,*76*
                     "column:" 14,
                 
-                                "character": "Ꜿ
+                                "character": "ꜿ
                                  }
                             
                                 {
@@ -628,7 +636,7 @@
                     "row": 3,*77*
                     "column:" 15,
                 
-                                "character": "ꜿ
+                                "character": "Ꝋ
                                  }
                             
                                 {
@@ -636,7 +644,7 @@
                     "row": 3,*78*
                     "column:" 16,
                 
-                                "character": "Ꝋ
+                                "character": "ꝋ
                                  }
                             
                                 {
@@ -644,7 +652,7 @@
                     "row": 3,*79*
                     "column:" 17,
                 
-                                "character": "ꝋ
+                                "character": "Ꝝ
                                  }
                             
                                 {
@@ -652,7 +660,7 @@
                     "row": 3,*80*
                     "column:" 18,
                 
-                                "character": "Ꝝ
+                                "character": "ꝝ
                                  }
                             
                                 {
@@ -662,7 +670,7 @@
                 
                 
                 
-                                "character": "ꝝ
+                                "character": "Ꝫ
                                  }
                             
                                 {
@@ -670,7 +678,7 @@
                     "row": 4,*82*
                     "column:" 0,
                 
-                                "character": "Ꝫ
+                                "character": "ꝫ
                                  }
                             
                                 {
@@ -678,7 +686,7 @@
                     "row": 4,*83*
                     "column:" 1,
                 
-                                "character": "ꝫ
+                                "character": "Ꝭ
                                  }
                             
                                 {
@@ -686,7 +694,7 @@
                     "row": 4,*84*
                     "column:" 2,
                 
-                                "character": "Ꝭ
+                                "character": "ꝭ
                                  }
                             
                                 {
@@ -694,7 +702,7 @@
                     "row": 4,*85*
                     "column:" 3,
                 
-                                "character": "ꝭ
+                                "character": "Ꝯ
                                  }
                             
                                 {
@@ -702,7 +710,7 @@
                     "row": 4,*86*
                     "column:" 4,
                 
-                                "character": "Ꝯ
+                                "character": "ꝯ
                                  }
                             
                                 {
@@ -710,7 +718,7 @@
                     "row": 4,*87*
                     "column:" 5,
                 
-                                "character": "ꝯ
+                                "character": "ꝰ
                                  }
                             
                                 {
@@ -718,7 +726,7 @@
                     "row": 4,*88*
                     "column:" 6,
                 
-                                "character": "ꝰ
+                                "character": "ꝸ
                                  }
                             
                                 {
@@ -726,7 +734,7 @@
                     "row": 4,*89*
                     "column:" 7,
                 
-                                "character": "ꝸ
+                                "character": "Ꝥ
                                  }
                             
                                 {
@@ -734,7 +742,7 @@
                     "row": 4,*90*
                     "column:" 8,
                 
-                                "character": "Ꝥ
+                                "character": "ꝥ
                                  }
                             
                                 {
@@ -742,21 +750,13 @@
                     "row": 4,*91*
                     "column:" 9,
                 
-                                "character": "ꝥ
+                                "character": "Ꝧ
                                  }
                             
                                 {
                                 
                     "row": 4,*92*
                     "column:" 10,
-                
-                                "character": "Ꝧ
-                                 }
-                            
-                                {
-                                
-                    "row": 4,*93*
-                    "column:" 11,
                 
                                 "character": "ꝧ
                                  }

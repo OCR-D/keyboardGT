@@ -9,12 +9,20 @@
                 
                                 {
                                 
+                    "row": -0,*0*
+                    "column:" -2,
+                
+                                "character": "
+                                 }
+                            
+                                {
+                                
                     "row": 0
                     "column:" 0,
                 
                 
                 
-                                "character": "
+                                "character": "
                                  }
                             
                                 {
@@ -22,7 +30,7 @@
                     "row": 0,*2*
                     "column:" 0,
                 
-                                "character": "
+                                "character": "
                                  }
                             
                                 {
@@ -30,21 +38,13 @@
                     "row": 0,*3*
                     "column:" 1,
                 
-                                "character": "
+                                "character": "
                                  }
                             
                                 {
                                 
                     "row": 0,*4*
                     "column:" 2,
-                
-                                "character": "
-                                 }
-                            
-                                {
-                                
-                    "row": 0,*5*
-                    "column:" 3,
                 
                                 "character": "
                                  }
