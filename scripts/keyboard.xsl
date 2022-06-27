@@ -341,9 +341,9 @@ Names
     </xsl:template>
     
     <xsl:template match="koma">
-        <xsl:variable name="nrk"><xsl:number format="1" start-at="1"/></xsl:variable>
+        <xsl:variable name="nrk"><nummer><xsl:number format="1" start-at="1"/></nummer></xsl:variable>
         <xsl:variable name="tt">
-        <xsl:for-each select="$nrk">
+        <xsl:for-each select="$nrk//nummer">
             <xsl:sort order="descending"/>
             <xsl:value-of select="."/>
         </xsl:for-each>
