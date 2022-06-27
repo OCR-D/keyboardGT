@@ -355,9 +355,7 @@ Names
         <xsl:for-each select=".">
             <xsl:variable name="sumKoma" select="count(.)"/>
             
-            <xsl:choose>
-                <xsl:when test="$nrk = $sumKoma"></xsl:when><xsl:otherwise>,</xsl:otherwise>
-            </xsl:choose>
+           <xsl:value-of select="$tt"/>
         </xsl:for-each>
         </liste>
         </xsl:variable>
