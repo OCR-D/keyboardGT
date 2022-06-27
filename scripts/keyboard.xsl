@@ -215,7 +215,7 @@ Names
                                 {
                                 <number/>
                                 "character": "<xsl:value-of select="fn:string[@key = 'mufichar']"/>",
-                                 }
+                                 },
                             </xsl:for-each>
                         
                     </xsl:for-each-group>
