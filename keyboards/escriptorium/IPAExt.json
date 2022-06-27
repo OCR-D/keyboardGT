@@ -2,11 +2,12 @@
                 {
                 "version": "0.1",
                 "name": "IPAExt",
-                "author": "tboenig &lt;boenig@bbaw.de&gt;",
+                "author": "tboenig <boenig@bbaw.de&gt;",
                 "characters": [
                 
                 
                 
+                    
                     "
                                 {
                                 
@@ -16,168 +17,187 @@
                 
                                 "character": "ʙ"
                                  }
-                            
+                                
                                 {
                                 
                     "row": 0,
-                    "column": 1,
+                    "column": 0,
+                
                 
                                 "character": "ɖ"
                                  }
-                            
+                                
                                 {
                                 
                     "row": 0,
-                    "column": 2,
+                    "column": 0,
+                
                 
                                 "character": "ə"
                                  }
-                            
+                                
                                 {
                                 
                     "row": 0,
-                    "column": 3,
+                    "column": 0,
+                
                 
                                 "character": "ɡ"
                                  }
-                            
+                                
                                 {
                                 
                     "row": 0,
-                    "column": 4,
+                    "column": 0,
+                
                 
                                 "character": "ɢ"
                                  }
-                            
+                                
                                 {
                                 
                     "row": 0,
-                    "column": 5,
+                    "column": 0,
+                
                 
                                 "character": "ɦ"
                                  }
-                            
+                                
                                 {
                                 
                     "row": 0,
-                    "column": 6,
+                    "column": 0,
+                
                 
                                 "character": "ʜ"
                                  }
-                            
+                                
                                 {
                                 
                     "row": 0,
-                    "column": 7,
+                    "column": 0,
+                
                 
                                 "character": "ɨ"
                                  }
-                            
+                                
                                 {
                                 
                     "row": 0,
-                    "column": 8,
+                    "column": 0,
+                
                 
                                 "character": "ɪ"
                                  }
-                            
+                                
                                 {
                                 
                     "row": 0,
-                    "column": 9,
+                    "column": 0,
+                
                 
                                 "character": "ɟ"
                                  }
-                            
+                                
                                 {
                                 
                     "row": 0,
-                    "column": 10,
+                    "column": 0,
+                
                 
                                 "character": "ʟ"
                                  }
-                            
+                                
                                 {
                                 
                     "row": 0,
-                    "column": 11,
+                    "column": 0,
+                
                 
                                 "character": "ɯ"
                                  }
-                            
+                                
                                 {
                                 
                     "row": 0,
-                    "column": 12,
+                    "column": 0,
+                
                 
                                 "character": "ɲ"
                                  }
-                            
+                                
                                 {
                                 
                     "row": 0,
-                    "column": 13,
+                    "column": 0,
+                
                 
                                 "character": "ɴ"
                                  }
-                            
+                                
                                 {
                                 
                     "row": 0,
-                    "column": 14,
+                    "column": 0,
+                
                 
                                 "character": "ɔ"
                                  }
-                            
+                                
                                 {
                                 
                     "row": 0,
-                    "column": 15,
+                    "column": 0,
+                
                 
                                 "character": "ɶ"
                                  }
-                            
+                                
                                 {
                                 
                     "row": 0,
-                    "column": 16,
+                    "column": 0,
+                
                 
                                 "character": "ɼ"
                                  }
-                            
+                                
                                 {
                                 
                     "row": 0,
-                    "column": 17,
+                    "column": 0,
+                
                 
                                 "character": "ʀ"
                                  }
-                            
+                                
                                 {
                                 
                     "row": 0,
-                    "column": 18,
+                    "column": 0,
+                
                 
                                 "character": "ʉ"
                                  }
-                            
+                                
                                 {
                                 
                     "row": 0,
-                    "column": 19,
+                    "column": 0,
+                
                 
                                 "character": "ʏ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 1,
+                    "row": 0,
                     "column": 0,
                 
                 
                                 "character": "ʒ"
                                  }
-                            ++1++
+                                ++1++
                 
                 
                 

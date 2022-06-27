@@ -2,11 +2,12 @@
                 {
                 "version": "0.1",
                 "name": "PUA-44",
-                "author": "tboenig &lt;boenig@bbaw.de&gt;",
+                "author": "tboenig <boenig@bbaw.de&gt;",
                 "characters": [
                 
                 
                 
+                    
                     "
                                 {
                                 
@@ -16,15 +17,16 @@
                 
                                 "character": ""
                                  }
-                            
+                                
                                 {
                                 
                     "row": 0,
-                    "column": 1,
+                    "column": 0,
+                
                 
                                 "character": ""
                                  }
-                            ++1++
+                                ++1++
                 
                 
                 

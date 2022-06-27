@@ -2,11 +2,12 @@
                 {
                 "version": "0.1",
                 "name": "LatExtAdd",
-                "author": "tboenig &lt;boenig@bbaw.de&gt;",
+                "author": "tboenig <boenig@bbaw.de&gt;",
                 "characters": [
                 
                 
                 
+                    
                     "
                                 {
                                 
@@ -16,836 +17,934 @@
                 
                                 "character": "Ạ"
                                  }
-                            
+                                
                                 {
                                 
                     "row": 0,
-                    "column": 1,
+                    "column": 0,
+                
                 
                                 "character": "ạ"
                                  }
-                            
+                                
                                 {
                                 
                     "row": 0,
-                    "column": 2,
+                    "column": 0,
+                
                 
                                 "character": "Ả"
                                  }
-                            
+                                
                                 {
                                 
                     "row": 0,
-                    "column": 3,
+                    "column": 0,
+                
                 
                                 "character": "ả"
                                  }
-                            
+                                
                                 {
                                 
                     "row": 0,
-                    "column": 4,
+                    "column": 0,
+                
                 
                                 "character": "Ắ"
                                  }
-                            
+                                
                                 {
                                 
                     "row": 0,
-                    "column": 5,
+                    "column": 0,
+                
                 
                                 "character": "ắ"
                                  }
-                            
+                                
                                 {
                                 
                     "row": 0,
-                    "column": 6,
+                    "column": 0,
+                
                 
                                 "character": "Ḃ"
                                  }
-                            
+                                
                                 {
                                 
                     "row": 0,
-                    "column": 7,
+                    "column": 0,
+                
                 
                                 "character": "ḃ"
                                  }
-                            
+                                
                                 {
                                 
                     "row": 0,
-                    "column": 8,
+                    "column": 0,
+                
                 
                                 "character": "Ḅ"
                                  }
-                            
+                                
                                 {
                                 
                     "row": 0,
-                    "column": 9,
+                    "column": 0,
+                
                 
                                 "character": "ḅ"
                                  }
-                            
+                                
                                 {
                                 
                     "row": 0,
-                    "column": 10,
+                    "column": 0,
+                
                 
                                 "character": "Ḋ"
                                  }
-                            
+                                
                                 {
                                 
                     "row": 0,
-                    "column": 11,
+                    "column": 0,
+                
                 
                                 "character": "ḋ"
                                  }
-                            
+                                
                                 {
                                 
                     "row": 0,
-                    "column": 12,
+                    "column": 0,
+                
                 
                                 "character": "Ḍ"
                                  }
-                            
+                                
                                 {
                                 
                     "row": 0,
-                    "column": 13,
+                    "column": 0,
+                
                 
                                 "character": "ḍ"
                                  }
-                            
+                                
                                 {
                                 
                     "row": 0,
-                    "column": 14,
+                    "column": 0,
+                
                 
                                 "character": "ẟ"
                                  }
-                            
+                                
                                 {
                                 
                     "row": 0,
-                    "column": 15,
+                    "column": 0,
+                
                 
                                 "character": "Ḗ"
                                  }
-                            
+                                
                                 {
                                 
                     "row": 0,
-                    "column": 16,
+                    "column": 0,
+                
                 
                                 "character": "ḗ"
                                  }
-                            
+                                
                                 {
                                 
                     "row": 0,
-                    "column": 17,
+                    "column": 0,
+                
                 
                                 "character": "Ẹ"
                                  }
-                            
+                                
                                 {
                                 
                     "row": 0,
-                    "column": 18,
+                    "column": 0,
+                
                 
                                 "character": "ẹ"
                                  }
-                            
+                                
                                 {
                                 
                     "row": 0,
-                    "column": 19,
+                    "column": 0,
+                
                 
                                 "character": "Ḟ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 1,
+                    "row": 0,
                     "column": 0,
                 
                 
                                 "character": "ḟ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 1,
-                    "column": 1,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "Ḣ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 1,
-                    "column": 2,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "ḣ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 1,
-                    "column": 3,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "Ḥ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 1,
-                    "column": 4,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "ḥ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 1,
-                    "column": 5,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "Ỉ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 1,
-                    "column": 6,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "ỉ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 1,
-                    "column": 7,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "Ị"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 1,
-                    "column": 8,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "ị"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 1,
-                    "column": 9,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "Ḱ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 1,
-                    "column": 10,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "ḱ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 1,
-                    "column": 11,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "Ḳ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 1,
-                    "column": 12,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "ḳ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 1,
-                    "column": 13,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "Ḷ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 1,
-                    "column": 14,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "ḷ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 1,
-                    "column": 15,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "Ỻ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 1,
-                    "column": 16,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "ỻ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 1,
-                    "column": 17,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "Ḿ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 1,
-                    "column": 18,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "ḿ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 1,
-                    "column": 19,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "Ṁ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 2,
+                    "row": 0,
                     "column": 0,
                 
                 
                                 "character": "ṁ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 2,
-                    "column": 1,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "Ṃ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 2,
-                    "column": 2,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "ṃ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 2,
-                    "column": 3,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "Ṅ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 2,
-                    "column": 4,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "ṅ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 2,
-                    "column": 5,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "Ṇ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 2,
-                    "column": 6,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "ṇ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 2,
-                    "column": 7,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "Ṓ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 2,
-                    "column": 8,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "ṓ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 2,
-                    "column": 9,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "Ọ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 2,
-                    "column": 10,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "ọ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 2,
-                    "column": 11,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "Ỏ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 2,
-                    "column": 12,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "ỏ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 2,
-                    "column": 13,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "Ṕ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 2,
-                    "column": 14,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "ṕ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 2,
-                    "column": 15,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "Ṗ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 2,
-                    "column": 16,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "ṗ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 2,
-                    "column": 17,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "Ṙ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 2,
-                    "column": 18,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "ṙ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 2,
-                    "column": 19,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "Ṛ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 3,
+                    "row": 0,
                     "column": 0,
                 
                 
                                 "character": "ṛ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 3,
-                    "column": 1,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "Ṡ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 3,
-                    "column": 2,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "ṡ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 3,
-                    "column": 3,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "Ṣ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 3,
-                    "column": 4,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "ṣ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 3,
-                    "column": 5,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "ẜ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 3,
-                    "column": 6,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "ẝ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 3,
-                    "column": 7,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "ẞ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 3,
-                    "column": 8,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "Ṫ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 3,
-                    "column": 9,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "ṫ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 3,
-                    "column": 10,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "Ṭ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 3,
-                    "column": 11,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "ṭ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 3,
-                    "column": 12,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "Ụ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 3,
-                    "column": 13,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "ụ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 3,
-                    "column": 14,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "Ủ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 3,
-                    "column": 15,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "ủ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 3,
-                    "column": 16,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "Ṿ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 3,
-                    "column": 17,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "ṿ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 3,
-                    "column": 18,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "Ỽ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 3,
-                    "column": 19,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "ỽ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 4,
+                    "row": 0,
                     "column": 0,
                 
                 
                                 "character": "Ẁ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 4,
-                    "column": 1,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "ẁ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 4,
-                    "column": 2,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "Ẃ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 4,
-                    "column": 3,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "ẃ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 4,
-                    "column": 4,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "Ẅ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 4,
-                    "column": 5,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "ẅ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 4,
-                    "column": 6,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "Ẇ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 4,
-                    "column": 7,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "ẇ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 4,
-                    "column": 8,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "Ẉ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 4,
-                    "column": 9,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "ẉ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 4,
-                    "column": 10,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "ẘ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 4,
-                    "column": 11,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "Ẏ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 4,
-                    "column": 12,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "ẏ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 4,
-                    "column": 13,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "ẙ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 4,
-                    "column": 14,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "Ỳ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 4,
-                    "column": 15,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "ỳ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 4,
-                    "column": 16,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "Ỵ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 4,
-                    "column": 17,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "ỵ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 4,
-                    "column": 18,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "Ỷ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 4,
-                    "column": 19,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "ỷ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 5,
+                    "row": 0,
                     "column": 0,
                 
                 
                                 "character": "Ỿ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 5,
-                    "column": 1,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "ỿ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 5,
-                    "column": 2,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "Ẓ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 5,
-                    "column": 3,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "ẓ"
                                  }
-                            ++1++
+                                ++1++
                 
                 
                 

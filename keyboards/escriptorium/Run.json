@@ -2,11 +2,12 @@
                 {
                 "version": "0.1",
                 "name": "Run",
-                "author": "tboenig &lt;boenig@bbaw.de&gt;",
+                "author": "tboenig <boenig@bbaw.de&gt;",
                 "characters": [
                 
                 
                 
+                    
                     "
                                 {
                                 
@@ -16,79 +17,88 @@
                 
                                 "character": "ᚨ"
                                  }
-                            
+                                
                                 {
                                 
                     "row": 0,
-                    "column": 1,
+                    "column": 0,
+                
                 
                                 "character": "ᚧ"
                                  }
-                            
+                                
                                 {
                                 
                     "row": 0,
-                    "column": 2,
+                    "column": 0,
+                
                 
                                 "character": "ᚠ"
                                  }
-                            
+                                
                                 {
                                 
                     "row": 0,
-                    "column": 3,
+                    "column": 0,
+                
                 
                                 "character": "ᚢ"
                                  }
-                            
+                                
                                 {
                                 
                     "row": 0,
-                    "column": 4,
+                    "column": 0,
+                
                 
                                 "character": "ᚡ"
                                  }
-                            
+                                
                                 {
                                 
                     "row": 0,
-                    "column": 5,
+                    "column": 0,
+                
                 
                                 "character": "ᚥ"
                                  }
-                            
+                                
                                 {
                                 
                     "row": 0,
-                    "column": 6,
+                    "column": 0,
+                
                 
                                 "character": "ᚣ"
                                  }
-                            
+                                
                                 {
                                 
                     "row": 0,
-                    "column": 7,
+                    "column": 0,
+                
                 
                                 "character": "ᚤ"
                                  }
-                            
+                                
                                 {
                                 
                     "row": 0,
-                    "column": 8,
+                    "column": 0,
+                
                 
                                 "character": "ᛘ"
                                  }
-                            
+                                
                                 {
                                 
                     "row": 0,
-                    "column": 9,
+                    "column": 0,
+                
                 
                                 "character": "ᚦ"
                                  }
-                            ++1++
+                                ++1++
                 
                 
                 

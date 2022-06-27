@@ -2,11 +2,12 @@
                 {
                 "version": "0.1",
                 "name": "LatExtD",
-                "author": "tboenig &lt;boenig@bbaw.de&gt;",
+                "author": "tboenig <boenig@bbaw.de&gt;",
                 "characters": [
                 
                 
                 
+                    
                     "
                                 {
                                 
@@ -16,747 +17,835 @@
                 
                                 "character": "Ꜳ"
                                  }
-                            
+                                
                                 {
                                 
                     "row": 0,
-                    "column": 1,
+                    "column": 0,
+                
                 
                                 "character": "ꜳ"
                                  }
-                            
+                                
                                 {
                                 
                     "row": 0,
-                    "column": 2,
+                    "column": 0,
+                
                 
                                 "character": "Ꜵ"
                                  }
-                            
+                                
                                 {
                                 
                     "row": 0,
-                    "column": 3,
+                    "column": 0,
+                
                 
                                 "character": "ꜵ"
                                  }
-                            
+                                
                                 {
                                 
                     "row": 0,
-                    "column": 4,
+                    "column": 0,
+                
                 
                                 "character": "Ꜷ"
                                  }
-                            
+                                
                                 {
                                 
                     "row": 0,
-                    "column": 5,
+                    "column": 0,
+                
                 
                                 "character": "ꜷ"
                                  }
-                            
+                                
                                 {
                                 
                     "row": 0,
-                    "column": 6,
+                    "column": 0,
+                
                 
                                 "character": "Ꜹ"
                                  }
-                            
+                                
                                 {
                                 
                     "row": 0,
-                    "column": 7,
+                    "column": 0,
+                
                 
                                 "character": "ꜹ"
                                  }
-                            
+                                
                                 {
                                 
                     "row": 0,
-                    "column": 8,
+                    "column": 0,
+                
                 
                                 "character": "Ꜻ"
                                  }
-                            
+                                
                                 {
                                 
                     "row": 0,
-                    "column": 9,
+                    "column": 0,
+                
                 
                                 "character": "ꜻ"
                                  }
-                            
+                                
                                 {
                                 
                     "row": 0,
-                    "column": 10,
+                    "column": 0,
+                
                 
                                 "character": "Ꜽ"
                                  }
-                            
+                                
                                 {
                                 
                     "row": 0,
-                    "column": 11,
+                    "column": 0,
+                
                 
                                 "character": "ꜽ"
                                  }
-                            
+                                
                                 {
                                 
                     "row": 0,
-                    "column": 12,
+                    "column": 0,
+                
                 
                                 "character": "ꝱ"
                                  }
-                            
+                                
                                 {
                                 
                     "row": 0,
-                    "column": 13,
+                    "column": 0,
+                
                 
                                 "character": "Ꝺ"
                                  }
-                            
+                                
                                 {
                                 
                     "row": 0,
-                    "column": 14,
+                    "column": 0,
+                
                 
                                 "character": "ꝺ"
                                  }
-                            
+                                
                                 {
                                 
                     "row": 0,
-                    "column": 15,
+                    "column": 0,
+                
                 
                                 "character": "ꜰ"
                                  }
-                            
+                                
                                 {
                                 
                     "row": 0,
-                    "column": 16,
+                    "column": 0,
+                
                 
                                 "character": "Ꝼ"
                                  }
-                            
+                                
                                 {
                                 
                     "row": 0,
-                    "column": 17,
+                    "column": 0,
+                
                 
                                 "character": "ꝼ"
                                  }
-                            
+                                
                                 {
                                 
                     "row": 0,
-                    "column": 18,
+                    "column": 0,
+                
                 
                                 "character": "ꟻ"
                                  }
-                            
+                                
                                 {
                                 
                     "row": 0,
-                    "column": 19,
+                    "column": 0,
+                
                 
                                 "character": "Ᵹ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 1,
+                    "row": 0,
                     "column": 0,
                 
                 
                                 "character": "Ꝿ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 1,
-                    "column": 1,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "ꝿ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 1,
-                    "column": 2,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "ꟾ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 1,
-                    "column": 3,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "Ꝁ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 1,
-                    "column": 4,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "ꝁ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 1,
-                    "column": 5,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "Ꝃ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 1,
-                    "column": 6,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "ꝃ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 1,
-                    "column": 7,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "Ꝅ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 1,
-                    "column": 8,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "ꝅ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 1,
-                    "column": 9,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "Ꝇ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 1,
-                    "column": 10,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "ꝇ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 1,
-                    "column": 11,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "Ꝉ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 1,
-                    "column": 12,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "ꝉ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 1,
-                    "column": 13,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "ꝲ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 1,
-                    "column": 14,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "Ꞁ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 1,
-                    "column": 15,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "ꞁ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 1,
-                    "column": 16,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "ꝳ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 1,
-                    "column": 17,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "ꟽ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 1,
-                    "column": 18,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "ꟿ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 1,
-                    "column": 19,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "ꝴ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 2,
+                    "row": 0,
                     "column": 0,
                 
                 
                                 "character": "Ꝍ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 2,
-                    "column": 1,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "ꝍ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 2,
-                    "column": 2,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "Ꝏ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 2,
-                    "column": 3,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "ꝏ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 2,
-                    "column": 4,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "Ꝑ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 2,
-                    "column": 5,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "ꝑ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 2,
-                    "column": 6,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "Ꝓ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 2,
-                    "column": 7,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "ꝓ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 2,
-                    "column": 8,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "Ꝕ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 2,
-                    "column": 9,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "ꝕ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 2,
-                    "column": 10,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "ꟼ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 2,
-                    "column": 11,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "Ꝗ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 2,
-                    "column": 12,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "ꝗ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 2,
-                    "column": 13,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "Ꝙ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 2,
-                    "column": 14,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "ꝙ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 2,
-                    "column": 15,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "Ꝛ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 2,
-                    "column": 16,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "ꝛ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 2,
-                    "column": 17,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "ꝵ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 2,
-                    "column": 18,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "ꝶ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 2,
-                    "column": 19,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "Ꞃ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 3,
+                    "row": 0,
                     "column": 0,
                 
                 
                                 "character": "ꞃ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 3,
-                    "column": 1,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "ꜱ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 3,
-                    "column": 2,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "Ꞅ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 3,
-                    "column": 3,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "ꞅ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 3,
-                    "column": 4,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "ꝷ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 3,
-                    "column": 5,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "Ꞇ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 3,
-                    "column": 6,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "ꞇ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 3,
-                    "column": 7,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "Ꝟ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 3,
-                    "column": 8,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "ꝟ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 3,
-                    "column": 9,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "Ꝩ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 3,
-                    "column": 10,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "ꝩ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 3,
-                    "column": 11,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "Ꝡ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 3,
-                    "column": 12,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "ꝡ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 3,
-                    "column": 13,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "Ꝣ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 3,
-                    "column": 14,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "ꝣ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 3,
-                    "column": 15,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "Ꜿ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 3,
-                    "column": 16,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "ꜿ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 3,
-                    "column": 17,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "Ꝋ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 3,
-                    "column": 18,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "ꝋ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 3,
-                    "column": 19,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "Ꝝ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 4,
+                    "row": 0,
                     "column": 0,
                 
                 
                                 "character": "ꝝ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 4,
-                    "column": 1,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "Ꝫ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 4,
-                    "column": 2,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "ꝫ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 4,
-                    "column": 3,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "Ꝭ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 4,
-                    "column": 4,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "ꝭ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 4,
-                    "column": 5,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "Ꝯ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 4,
-                    "column": 6,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "ꝯ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 4,
-                    "column": 7,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "ꝰ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 4,
-                    "column": 8,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "ꝸ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 4,
-                    "column": 9,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "Ꝥ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 4,
-                    "column": 10,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "ꝥ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 4,
-                    "column": 11,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "Ꝧ"
                                  }
-                            
+                                
                                 {
                                 
-                    "row": 4,
-                    "column": 12,
+                    "row": 0,
+                    "column": 0,
+                
                 
                                 "character": "ꝧ"
                                  }
-                            ++1++
+                                ++1++
                 
                 
                 
