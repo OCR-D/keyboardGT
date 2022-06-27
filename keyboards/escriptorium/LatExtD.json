@@ -20,7 +20,7 @@
                                 {
                                 
                     "row": 0,
-                    "column:" 1,
+                    "column:" 0,
                 
                                 "character": "ꜳ
                                  }
@@ -28,7 +28,7 @@
                                 {
                                 
                     "row": 0,
-                    "column:" 2,
+                    "column:" 1,
                 
                                 "character": "Ꜵ
                                  }
@@ -36,7 +36,7 @@
                                 {
                                 
                     "row": 0,
-                    "column:" 3,
+                    "column:" 2,
                 
                                 "character": "ꜵ
                                  }
@@ -44,7 +44,7 @@
                                 {
                                 
                     "row": 0,
-                    "column:" 4,
+                    "column:" 3,
                 
                                 "character": "Ꜷ
                                  }
@@ -52,7 +52,7 @@
                                 {
                                 
                     "row": 0,
-                    "column:" 5,
+                    "column:" 4,
                 
                                 "character": "ꜷ
                                  }
@@ -60,7 +60,7 @@
                                 {
                                 
                     "row": 0,
-                    "column:" 6,
+                    "column:" 5,
                 
                                 "character": "Ꜹ
                                  }
@@ -68,7 +68,7 @@
                                 {
                                 
                     "row": 0,
-                    "column:" 7,
+                    "column:" 6,
                 
                                 "character": "ꜹ
                                  }
@@ -76,7 +76,7 @@
                                 {
                                 
                     "row": 0,
-                    "column:" 8,
+                    "column:" 7,
                 
                                 "character": "Ꜻ
                                  }
@@ -84,7 +84,7 @@
                                 {
                                 
                     "row": 0,
-                    "column:" 9,
+                    "column:" 8,
                 
                                 "character": "ꜻ
                                  }
@@ -92,7 +92,7 @@
                                 {
                                 
                     "row": 0,
-                    "column:" 10,
+                    "column:" 9,
                 
                                 "character": "Ꜽ
                                  }
@@ -100,7 +100,7 @@
                                 {
                                 
                     "row": 0,
-                    "column:" 11,
+                    "column:" 10,
                 
                                 "character": "ꜽ
                                  }
@@ -108,7 +108,7 @@
                                 {
                                 
                     "row": 0,
-                    "column:" 12,
+                    "column:" 11,
                 
                                 "character": "ꝱ
                                  }
@@ -116,7 +116,7 @@
                                 {
                                 
                     "row": 0,
-                    "column:" 13,
+                    "column:" 12,
                 
                                 "character": "Ꝺ
                                  }
@@ -124,7 +124,7 @@
                                 {
                                 
                     "row": 0,
-                    "column:" 14,
+                    "column:" 13,
                 
                                 "character": "ꝺ
                                  }
@@ -132,7 +132,7 @@
                                 {
                                 
                     "row": 0,
-                    "column:" 15,
+                    "column:" 14,
                 
                                 "character": "ꜰ
                                  }
@@ -140,7 +140,7 @@
                                 {
                                 
                     "row": 0,
-                    "column:" 16,
+                    "column:" 15,
                 
                                 "character": "Ꝼ
                                  }
@@ -148,7 +148,7 @@
                                 {
                                 
                     "row": 0,
-                    "column:" 17,
+                    "column:" 16,
                 
                                 "character": "ꝼ
                                  }
@@ -156,7 +156,7 @@
                                 {
                                 
                     "row": 0,
-                    "column:" 18,
+                    "column:" 17,
                 
                                 "character": "ꟻ
                                  }
@@ -164,7 +164,7 @@
                                 {
                                 
                     "row": 0,
-                    "column:" 19,
+                    "column:" 18,
                 
                                 "character": "Ᵹ
                                  }
@@ -182,7 +182,7 @@
                                 {
                                 
                     "row": 1,
-                    "column:" 1,
+                    "column:" 0,
                 
                                 "character": "ꝿ
                                  }
@@ -190,7 +190,7 @@
                                 {
                                 
                     "row": 1,
-                    "column:" 2,
+                    "column:" 1,
                 
                                 "character": "ꟾ
                                  }
@@ -198,7 +198,7 @@
                                 {
                                 
                     "row": 1,
-                    "column:" 3,
+                    "column:" 2,
                 
                                 "character": "Ꝁ
                                  }
@@ -206,7 +206,7 @@
                                 {
                                 
                     "row": 1,
-                    "column:" 4,
+                    "column:" 3,
                 
                                 "character": "ꝁ
                                  }
@@ -214,7 +214,7 @@
                                 {
                                 
                     "row": 1,
-                    "column:" 5,
+                    "column:" 4,
                 
                                 "character": "Ꝃ
                                  }
@@ -222,7 +222,7 @@
                                 {
                                 
                     "row": 1,
-                    "column:" 6,
+                    "column:" 5,
                 
                                 "character": "ꝃ
                                  }
@@ -230,7 +230,7 @@
                                 {
                                 
                     "row": 1,
-                    "column:" 7,
+                    "column:" 6,
                 
                                 "character": "Ꝅ
                                  }
@@ -238,7 +238,7 @@
                                 {
                                 
                     "row": 1,
-                    "column:" 8,
+                    "column:" 7,
                 
                                 "character": "ꝅ
                                  }
@@ -246,7 +246,7 @@
                                 {
                                 
                     "row": 1,
-                    "column:" 9,
+                    "column:" 8,
                 
                                 "character": "Ꝇ
                                  }
@@ -254,7 +254,7 @@
                                 {
                                 
                     "row": 1,
-                    "column:" 10,
+                    "column:" 9,
                 
                                 "character": "ꝇ
                                  }
@@ -262,7 +262,7 @@
                                 {
                                 
                     "row": 1,
-                    "column:" 11,
+                    "column:" 10,
                 
                                 "character": "Ꝉ
                                  }
@@ -270,7 +270,7 @@
                                 {
                                 
                     "row": 1,
-                    "column:" 12,
+                    "column:" 11,
                 
                                 "character": "ꝉ
                                  }
@@ -278,7 +278,7 @@
                                 {
                                 
                     "row": 1,
-                    "column:" 13,
+                    "column:" 12,
                 
                                 "character": "ꝲ
                                  }
@@ -286,7 +286,7 @@
                                 {
                                 
                     "row": 1,
-                    "column:" 14,
+                    "column:" 13,
                 
                                 "character": "Ꞁ
                                  }
@@ -294,7 +294,7 @@
                                 {
                                 
                     "row": 1,
-                    "column:" 15,
+                    "column:" 14,
                 
                                 "character": "ꞁ
                                  }
@@ -302,7 +302,7 @@
                                 {
                                 
                     "row": 1,
-                    "column:" 16,
+                    "column:" 15,
                 
                                 "character": "ꝳ
                                  }
@@ -310,7 +310,7 @@
                                 {
                                 
                     "row": 1,
-                    "column:" 17,
+                    "column:" 16,
                 
                                 "character": "ꟽ
                                  }
@@ -318,7 +318,7 @@
                                 {
                                 
                     "row": 1,
-                    "column:" 18,
+                    "column:" 17,
                 
                                 "character": "ꟿ
                                  }
@@ -326,7 +326,7 @@
                                 {
                                 
                     "row": 1,
-                    "column:" 19,
+                    "column:" 18,
                 
                                 "character": "ꝴ
                                  }
@@ -344,7 +344,7 @@
                                 {
                                 
                     "row": 2,
-                    "column:" 1,
+                    "column:" 0,
                 
                                 "character": "ꝍ
                                  }
@@ -352,7 +352,7 @@
                                 {
                                 
                     "row": 2,
-                    "column:" 2,
+                    "column:" 1,
                 
                                 "character": "Ꝏ
                                  }
@@ -360,7 +360,7 @@
                                 {
                                 
                     "row": 2,
-                    "column:" 3,
+                    "column:" 2,
                 
                                 "character": "ꝏ
                                  }
@@ -368,7 +368,7 @@
                                 {
                                 
                     "row": 2,
-                    "column:" 4,
+                    "column:" 3,
                 
                                 "character": "Ꝑ
                                  }
@@ -376,7 +376,7 @@
                                 {
                                 
                     "row": 2,
-                    "column:" 5,
+                    "column:" 4,
                 
                                 "character": "ꝑ
                                  }
@@ -384,7 +384,7 @@
                                 {
                                 
                     "row": 2,
-                    "column:" 6,
+                    "column:" 5,
                 
                                 "character": "Ꝓ
                                  }
@@ -392,7 +392,7 @@
                                 {
                                 
                     "row": 2,
-                    "column:" 7,
+                    "column:" 6,
                 
                                 "character": "ꝓ
                                  }
@@ -400,7 +400,7 @@
                                 {
                                 
                     "row": 2,
-                    "column:" 8,
+                    "column:" 7,
                 
                                 "character": "Ꝕ
                                  }
@@ -408,7 +408,7 @@
                                 {
                                 
                     "row": 2,
-                    "column:" 9,
+                    "column:" 8,
                 
                                 "character": "ꝕ
                                  }
@@ -416,7 +416,7 @@
                                 {
                                 
                     "row": 2,
-                    "column:" 10,
+                    "column:" 9,
                 
                                 "character": "ꟼ
                                  }
@@ -424,7 +424,7 @@
                                 {
                                 
                     "row": 2,
-                    "column:" 11,
+                    "column:" 10,
                 
                                 "character": "Ꝗ
                                  }
@@ -432,7 +432,7 @@
                                 {
                                 
                     "row": 2,
-                    "column:" 12,
+                    "column:" 11,
                 
                                 "character": "ꝗ
                                  }
@@ -440,7 +440,7 @@
                                 {
                                 
                     "row": 2,
-                    "column:" 13,
+                    "column:" 12,
                 
                                 "character": "Ꝙ
                                  }
@@ -448,7 +448,7 @@
                                 {
                                 
                     "row": 2,
-                    "column:" 14,
+                    "column:" 13,
                 
                                 "character": "ꝙ
                                  }
@@ -456,7 +456,7 @@
                                 {
                                 
                     "row": 2,
-                    "column:" 15,
+                    "column:" 14,
                 
                                 "character": "Ꝛ
                                  }
@@ -464,7 +464,7 @@
                                 {
                                 
                     "row": 2,
-                    "column:" 16,
+                    "column:" 15,
                 
                                 "character": "ꝛ
                                  }
@@ -472,7 +472,7 @@
                                 {
                                 
                     "row": 2,
-                    "column:" 17,
+                    "column:" 16,
                 
                                 "character": "ꝵ
                                  }
@@ -480,7 +480,7 @@
                                 {
                                 
                     "row": 2,
-                    "column:" 18,
+                    "column:" 17,
                 
                                 "character": "ꝶ
                                  }
@@ -488,7 +488,7 @@
                                 {
                                 
                     "row": 2,
-                    "column:" 19,
+                    "column:" 18,
                 
                                 "character": "Ꞃ
                                  }
@@ -506,7 +506,7 @@
                                 {
                                 
                     "row": 3,
-                    "column:" 1,
+                    "column:" 0,
                 
                                 "character": "ꜱ
                                  }
@@ -514,7 +514,7 @@
                                 {
                                 
                     "row": 3,
-                    "column:" 2,
+                    "column:" 1,
                 
                                 "character": "Ꞅ
                                  }
@@ -522,7 +522,7 @@
                                 {
                                 
                     "row": 3,
-                    "column:" 3,
+                    "column:" 2,
                 
                                 "character": "ꞅ
                                  }
@@ -530,7 +530,7 @@
                                 {
                                 
                     "row": 3,
-                    "column:" 4,
+                    "column:" 3,
                 
                                 "character": "ꝷ
                                  }
@@ -538,7 +538,7 @@
                                 {
                                 
                     "row": 3,
-                    "column:" 5,
+                    "column:" 4,
                 
                                 "character": "Ꞇ
                                  }
@@ -546,7 +546,7 @@
                                 {
                                 
                     "row": 3,
-                    "column:" 6,
+                    "column:" 5,
                 
                                 "character": "ꞇ
                                  }
@@ -554,7 +554,7 @@
                                 {
                                 
                     "row": 3,
-                    "column:" 7,
+                    "column:" 6,
                 
                                 "character": "Ꝟ
                                  }
@@ -562,7 +562,7 @@
                                 {
                                 
                     "row": 3,
-                    "column:" 8,
+                    "column:" 7,
                 
                                 "character": "ꝟ
                                  }
@@ -570,7 +570,7 @@
                                 {
                                 
                     "row": 3,
-                    "column:" 9,
+                    "column:" 8,
                 
                                 "character": "Ꝩ
                                  }
@@ -578,7 +578,7 @@
                                 {
                                 
                     "row": 3,
-                    "column:" 10,
+                    "column:" 9,
                 
                                 "character": "ꝩ
                                  }
@@ -586,7 +586,7 @@
                                 {
                                 
                     "row": 3,
-                    "column:" 11,
+                    "column:" 10,
                 
                                 "character": "Ꝡ
                                  }
@@ -594,7 +594,7 @@
                                 {
                                 
                     "row": 3,
-                    "column:" 12,
+                    "column:" 11,
                 
                                 "character": "ꝡ
                                  }
@@ -602,7 +602,7 @@
                                 {
                                 
                     "row": 3,
-                    "column:" 13,
+                    "column:" 12,
                 
                                 "character": "Ꝣ
                                  }
@@ -610,7 +610,7 @@
                                 {
                                 
                     "row": 3,
-                    "column:" 14,
+                    "column:" 13,
                 
                                 "character": "ꝣ
                                  }
@@ -618,7 +618,7 @@
                                 {
                                 
                     "row": 3,
-                    "column:" 15,
+                    "column:" 14,
                 
                                 "character": "Ꜿ
                                  }
@@ -626,7 +626,7 @@
                                 {
                                 
                     "row": 3,
-                    "column:" 16,
+                    "column:" 15,
                 
                                 "character": "ꜿ
                                  }
@@ -634,7 +634,7 @@
                                 {
                                 
                     "row": 3,
-                    "column:" 17,
+                    "column:" 16,
                 
                                 "character": "Ꝋ
                                  }
@@ -642,7 +642,7 @@
                                 {
                                 
                     "row": 3,
-                    "column:" 18,
+                    "column:" 17,
                 
                                 "character": "ꝋ
                                  }
@@ -650,7 +650,7 @@
                                 {
                                 
                     "row": 3,
-                    "column:" 19,
+                    "column:" 18,
                 
                                 "character": "Ꝝ
                                  }
@@ -668,7 +668,7 @@
                                 {
                                 
                     "row": 4,
-                    "column:" 1,
+                    "column:" 0,
                 
                                 "character": "Ꝫ
                                  }
@@ -676,7 +676,7 @@
                                 {
                                 
                     "row": 4,
-                    "column:" 2,
+                    "column:" 1,
                 
                                 "character": "ꝫ
                                  }
@@ -684,7 +684,7 @@
                                 {
                                 
                     "row": 4,
-                    "column:" 3,
+                    "column:" 2,
                 
                                 "character": "Ꝭ
                                  }
@@ -692,7 +692,7 @@
                                 {
                                 
                     "row": 4,
-                    "column:" 4,
+                    "column:" 3,
                 
                                 "character": "ꝭ
                                  }
@@ -700,7 +700,7 @@
                                 {
                                 
                     "row": 4,
-                    "column:" 5,
+                    "column:" 4,
                 
                                 "character": "Ꝯ
                                  }
@@ -708,7 +708,7 @@
                                 {
                                 
                     "row": 4,
-                    "column:" 6,
+                    "column:" 5,
                 
                                 "character": "ꝯ
                                  }
@@ -716,7 +716,7 @@
                                 {
                                 
                     "row": 4,
-                    "column:" 7,
+                    "column:" 6,
                 
                                 "character": "ꝰ
                                  }
@@ -724,7 +724,7 @@
                                 {
                                 
                     "row": 4,
-                    "column:" 8,
+                    "column:" 7,
                 
                                 "character": "ꝸ
                                  }
@@ -732,7 +732,7 @@
                                 {
                                 
                     "row": 4,
-                    "column:" 9,
+                    "column:" 8,
                 
                                 "character": "Ꝥ
                                  }
@@ -740,7 +740,7 @@
                                 {
                                 
                     "row": 4,
-                    "column:" 10,
+                    "column:" 9,
                 
                                 "character": "ꝥ
                                  }
@@ -748,7 +748,7 @@
                                 {
                                 
                     "row": 4,
-                    "column:" 11,
+                    "column:" 10,
                 
                                 "character": "Ꝧ
                                  }
@@ -756,7 +756,7 @@
                                 {
                                 
                     "row": 4,
-                    "column:" 12,
+                    "column:" 11,
                 
                                 "character": "ꝧ
                                  }
