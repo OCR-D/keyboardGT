@@ -11,8 +11,7 @@
                                 
                     "row": 0,
                     "column": 0,
-                
-                
+                    "column2:"0*** 0
                                 "character": "A"
                                  }1##1
                                 {
@@ -82,8 +81,7 @@
                                 
                     "row": 1,
                     "column": 0,
-                
-                
+                    "column2:"20*** 0
                                 "character": "F"
                                  },
                                 {
@@ -153,8 +151,7 @@
                                 
                     "row": 2,
                     "column": 0,
-                
-                
+                    "column2:"40*** 0
                                 "character": "K"
                                  },
                                 {
@@ -224,8 +221,7 @@
                                 
                     "row": 3,
                     "column": 0,
-                
-                
+                    "column2:"60*** 0
                                 "character": "P"
                                  },
                                 {
@@ -295,8 +291,7 @@
                                 
                     "row": 4,
                     "column": 0,
-                
-                
+                    "column2:"80*** 0
                                 "character": "U"
                                  },
                                 {
@@ -366,8 +361,7 @@
                                 
                     "row": 5,
                     "column": 0,
-                
-                
+                    "column2:"100*** 0
                                 "character": "Z"
                                  },
                                 {
@@ -437,8 +431,7 @@
                                 
                     "row": 6,
                     "column": 0,
-                
-                
+                    "column2:"120*** 0
                                 "character": "6"
                                  },
                                 {
@@ -508,8 +501,7 @@
                                 
                     "row": 7,
                     "column": 0,
-                
-                
+                    "column2:"140*** 0
                                 "character": "-"
                                  },
                                 {
@@ -579,8 +571,7 @@
                                 
                     "row": 8,
                     "column": 0,
-                
-                
+                    "column2:"160*** 0
                                 "character": "{"
                                  },
                                 {
@@ -650,8 +641,7 @@
                                 
                     "row": 9,
                     "column": 0,
-                
-                
+                    "column2:"180*** 0
                                 "character": "$"
                                  },
                                 {
