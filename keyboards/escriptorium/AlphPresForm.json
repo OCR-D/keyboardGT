@@ -9,42 +9,118 @@
                 
                                 {
                                 
+                    "row": 0,
+                    "column": 0,
+                
+                
                                 "character": "ff"
                                  }
                             
                                 {
                                 
+                    "row": 0,
+                    "column": 1,
+                
                                 "character": "fi"
                                  }
                             
                                 {
                                 
+                    "row": 0,
+                    "column": 2,
+                
                                 "character": "fl"
                                  }
                             
                                 {
                                 
+                    "row": 0,
+                    "column": 3,
+                
                                 "character": "ﬃ"
                                  }
                             
                                 {
                                 
+                    "row": 0,
+                    "column": 4,
+                
                                 "character": "ﬄ"
                                  }
                             
                                 {
                                 
+                    "row": 0,
+                    "column": 5,
+                
                                 "character": "ſt"
                                  }
                             
                                 {
                                 
+                    "row": 0,
+                    "column": 6,
+                
                                 "character": "st"
                                  }
-                             {bksp}"]
-                    
-                    
+                            
+                                {
+                                
+                    "row": 0,
+                    "column": 0,
                 
+                
+                                "character": "ff"
+                                 }
+                            
+                                {
+                                
+                    "row": 0,
+                    "column": 1,
+                
+                                "character": "fi"
+                                 }
+                            
+                                {
+                                
+                    "row": 0,
+                    "column": 2,
+                
+                                "character": "fl"
+                                 }
+                            
+                                {
+                                
+                    "row": 0,
+                    "column": 3,
+                
+                                "character": "ﬃ"
+                                 }
+                            
+                                {
+                                
+                    "row": 0,
+                    "column": 4,
+                
+                                "character": "ﬄ"
+                                 }
+                            
+                                {
+                                
+                    "row": 0,
+                    "column": 5,
+                
+                                "character": "ſt"
+                                 }
+                            
+                                {
+                                
+                    "row": 0,
+                    "column": 6,
+                
+                                "character": "st"
+                                 }
+                            
                 
                 
                 ]}
