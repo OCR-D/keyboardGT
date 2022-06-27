@@ -344,7 +344,7 @@ Names
         <xsl:variable name="nrk"><xsl:number format="1" start-at="1"/></xsl:variable>
         <xsl:variable name="tt">
         <xsl:for-each select="$nrk">
-            <xsl:sort order="ascending"/>
+            <xsl:sort order="descending"/>
             <xsl:value-of select="."/>
         </xsl:for-each>
         </xsl:variable>
