@@ -203,7 +203,7 @@ Names
                 {
                 "version": "0.1",
                 "name": "<xsl:value-of select="fn:current-grouping-key()"/>",
-                "author": "tboenig <xsl:text disable-output-escaping="yes">&#x3C;</xsl:text>boenig@bbaw.de&#x3E;",
+                "author": "tboenig <xsl:text disable-output-escaping="yes">&#x3C;hallo</xsl:text>boenig@bbaw.de&#x3E;",
                 "characters": [
                 
                 
