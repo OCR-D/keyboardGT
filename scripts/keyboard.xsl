@@ -210,101 +210,22 @@ Names
                 <xsl:variable name="keys"><line>
                     <xsl:for-each-group select="fn:current-group()" group-by="fn:string[@key = 'alpha']">
                         <xsl:sort order="ascending" select="fn:string[@key = 'alpha']"/>
-                        
                             <xsl:for-each select="fn:current-group()">
                                 {
                                 <number/>
                                 "character": "<xsl:value-of select="fn:string[@key = 'mufichar']"/>"
                                  }<koma/>
                             </xsl:for-each>
-                        
-                        
-                        
                     </xsl:for-each-group>
                 </line></xsl:variable>
                <xsl:message select="$keys"/>
                 <xsl:for-each select="$keys/line">
                     <xsl:apply-templates/>
                 </xsl:for-each>
-                
-                
                 ]}
             </xsl:result-document>
         </xsl:for-each-group>
     </xsl:template>
-    
-    
-    
-    
-    
-    <!--<xsl:template match="$MUFIEXPORT//fn:array" name="ekb">
-    <!-\- 
-    {
-    "version": "0.1",
-    "name": "demo",
-    "author": "Teklia <team@teklia.com>",
-    "characters": [
-        {
-            "row": 0,
-            "column": 0,
-            "character": "ᗅ",
-            "keyboard_code": 65
-        },
-        {
-            "row": 0,
-            "column": 2,
-            "character": "ᑕ",
-            "keyboard_code": 67
-        },
-        {
-            "row": 0,
-            "column": 3,
-            "character": "ᗞ",
-            "keyboard_code": 68
-        },
-        {
-            "row": 1,
-            "column": 1,
-            "character": "ᗷ",
-            "keyboard_code": null
-        },
-        {
-            "row": 1,
-            "column": 3,
-            "character": "⅐"
-        }
-    ]
-}
-    -\->
-        <xsl:for-each-group select="$MUFIEXPORT//fn:map" group-by="fn:string[@key = 'range']">
-            <xsl:sort select="fn:current-grouping-key()"/>
-            <xsl:result-document href="ghout/keyboards/escriptorium/{fn:current-grouping-key()}.json">
-                
-                "version": "0.1",
-                "name": "<xsl:value-of select="fn:current-grouping-key()"/>",
-                "author": "tboenig boenig@bbaw.de",
-                "characters": [
-                {
-                <xsl:variable name="keys">
-                    <xsl:for-each-group select="fn:current-group()" group-by="fn:string[@key = 'alpha']">
-                        <xsl:sort order="ascending" select="fn:string[@key = 'alpha']"/>
-                        <line><xsl:for-each select="fn:current-group()">\u<xsl:value-of select="fn:string[@key = 'codepoint']"/><sp/></xsl:for-each></line>
-                    </xsl:for-each-group>
-                </xsl:variable>
-                
-                <xsl:for-each select="$keys/line[fn:position() &lt; last()]">
-                    "<xsl:apply-templates/><xsl:text disable-output-escaping="yes">",&#xD;</xsl:text>
-                </xsl:for-each>
-                "<xsl:value-of select="$keys/line[position()=last()]"/> {bksp}"]}
-            </xsl:result-document>
-    
-    
-    
-    
-    </xsl:template>-->
-    
-    
-    
     
     
     <xsl:template match="sp">
