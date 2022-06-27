@@ -341,9 +341,16 @@ Names
     </xsl:template>
     
     <xsl:template match="koma">
+        <xsl:variable name="test">
+            <xsl:for-each select=".">
+                hallo
+            </xsl:for-each>
+        </xsl:variable>
+            <xsl:message select="$test"/>
+        
         <xsl:for-each select=".">
             <xsl:variable name="sumKoma" select="count(.)"/>
-            <xsl:variable name="nrk"><xsl:number format="1" start-at="0"/></xsl:variable>
+            <xsl:variable name="nrk"><xsl:number format="1" start-at="1"/></xsl:variable>
             
             <xsl:choose>
                 <xsl:when test="$nrk = $sumKoma"><xsl:value-of select="$nrk"/>##<xsl:value-of select="$sumKoma"/></xsl:when><xsl:otherwise>,</xsl:otherwise>
