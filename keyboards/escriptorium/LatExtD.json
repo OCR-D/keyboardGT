@@ -11,7 +11,7 @@
                                 
                     "row": 0,
                     "column:" 0,hallo
-                    "column2:" 
+                    "column2:" 0
                                 "character": "Ꜳ
                                  }
                             
@@ -171,7 +171,7 @@
                                 
                     "row": 0,
                     "column:" 20,hallo
-                    "column2:" 
+                    "column2:" 0
                                 "character": "Ꝿ
                                  }
                             
@@ -331,7 +331,7 @@
                                 
                     "row": 1,
                     "column:" 20,hallo
-                    "column2:" 19
+                    "column2:" 0
                                 "character": "Ꝍ
                                  }
                             
@@ -491,7 +491,7 @@
                                 
                     "row": 2,
                     "column:" 20,hallo
-                    "column2:" 19
+                    "column2:" 0
                                 "character": "ꞃ
                                  }
                             
@@ -651,7 +651,7 @@
                                 
                     "row": 3,
                     "column:" 20,hallo
-                    "column2:" 19
+                    "column2:" 0
                                 "character": "ꝝ
                                  }
                             
