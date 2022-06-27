@@ -222,7 +222,7 @@ Names
                         
                     </xsl:for-each-group>
                 </line></xsl:variable>
-               
+               <xsl:message select="$keys"/>
                 <xsl:for-each select="$keys/line">
                     <xsl:apply-templates/>
                 </xsl:for-each>
@@ -359,7 +359,7 @@ Names
         </xsl:for-each>
         </liste>
         </xsl:variable>
-        <xsl:message select="$ttt"/>
+        
     </xsl:template>
 
     <xsl:template match="$MUFIEXPORT//fn:array" name="kb-table">
