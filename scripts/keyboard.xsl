@@ -242,7 +242,6 @@ Names
             <xsl:variable name="nr"><xsl:number format="1" start-at="0"/></xsl:variable>
             <xsl:variable name="nnr" select="if ((number(substring-before(string(($nr) div 20), '.'))) &lt; 0) then 0 else (substring-before(string(($nr) div 20), '.'))"></xsl:variable>
             
-            <xsl:variable name="out_row_colum">
             <xsl:choose>
                 <xsl:when test="$nnr = ''">
                     <xsl:variable name="rnr" select="if (((($nr) div 20) - 1) &lt; 0) then (($nr) div 20) else ((($nr) div 20) - 1)"/>
@@ -254,11 +253,7 @@ Names
                     "column": <xsl:value-of select="($nr) - (number($nnr) * 20)"/>,
                 </xsl:otherwise>
             </xsl:choose>
-                
-            </xsl:variable>
-            <xsl:value-of select="$out_row_colum"/>
             </xsl:for-each>
-        
     </xsl:template>
     
     <xsl:template match="koma[fn:position() &lt; last()]">,</xsl:template>
