@@ -223,7 +223,7 @@ Names
                     </xsl:for-each-group>
                 </line></xsl:variable>
                
-                <xsl:for-each select="$keys/line">
+                <!--<xsl:for-each select="$keys/line">
                     <xsl:choose>
                         <xsl:when test=".[position()=last()] !=''">
                             <xsl:apply-templates/>,
@@ -232,7 +232,16 @@ Names
                             <xsl:apply-templates/>
                         </xsl:otherwise>
                     </xsl:choose><xsl:apply-templates/>
+                </xsl:for-each>-->
+                
+                
+                <xsl:for-each select="$keys/line[fn:position() &lt; last()]">
+                    "<xsl:apply-templates/><xsl:text disable-output-escaping="yes">",&#xD;</xsl:text>
                 </xsl:for-each>
+                "<xsl:value-of select="$keys/line[position()=last()]"/> {bksp}"]
+                
+                
+                
                 
                 
                 ]}
