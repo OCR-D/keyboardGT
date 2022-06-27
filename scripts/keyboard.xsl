@@ -215,7 +215,7 @@ Names
                                 {
                                 <number/>
                                 "character": "<xsl:value-of select="fn:string[@key = 'mufichar']"/>"
-                                 }<koma/>
+                                 }<koma><xsl:number/></koma>
                             </xsl:for-each>
                         
                         
@@ -343,7 +343,7 @@ Names
     
     <xsl:template match="koma">
         <xsl:for-each select=".">
-            <xsl:value-of select="fn:position()"/>###<xsl:number count="*" start-at="0"/>
+            <xsl:value-of select="fn:position()"/>###<xsl:number/>
             
         </xsl:for-each>
             <!--<xsl:choose>
