@@ -341,6 +341,7 @@ Names
     </xsl:template>
     
     <xsl:template match="koma">
+        <liste>
         <xsl:variable name="nrk"><nummer><xsl:number format="1" start-at="1"/></nummer></xsl:variable>
         <xsl:variable name="tt">
         <xsl:for-each select="$nrk">
@@ -349,15 +350,15 @@ Names
         </xsl:for-each>
         </xsl:variable>
         
-        <xsl:message select="$tt"/>
+        <xsl:message select="$nrk"/>
         <xsl:for-each select=".">
             <xsl:variable name="sumKoma" select="count(.)"/>
             
             <xsl:choose>
-                <xsl:when test="$nrk = $sumKoma"><xsl:value-of select="$nrk"/>##<xsl:value-of select="$sumKoma"/></xsl:when><xsl:otherwise>,</xsl:otherwise>
+                <xsl:when test="$nrk = $sumKoma"></xsl:when><xsl:otherwise>,</xsl:otherwise>
             </xsl:choose>
         </xsl:for-each>
-        
+        </liste>
     </xsl:template>
 
     <xsl:template match="$MUFIEXPORT//fn:array" name="kb-table">
