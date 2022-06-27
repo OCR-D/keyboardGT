@@ -11,9 +11,7 @@
                                 
                     "row": 0,
                     "column:" 0,hallo
-                
-                
-                
+                    "column2:" 
                                 "character": "A
                                  }
                             
@@ -173,9 +171,7 @@
                                 
                     "row": 0,
                     "column:" 20,hallo
-                
-                
-                
+                    "column2:" 
                                 "character": "K
                                  }
                             
@@ -335,9 +331,7 @@
                                 
                     "row": 1,
                     "column:" 20,hallo
-                
-                
-                
+                    "column2:" 19
                                 "character": "U
                                  }
                             
@@ -497,9 +491,7 @@
                                 
                     "row": 2,
                     "column:" 20,hallo
-                
-                
-                
+                    "column2:" 19
                                 "character": "6
                                  }
                             
@@ -659,9 +651,7 @@
                                 
                     "row": 3,
                     "column:" 20,hallo
-                
-                
-                
+                    "column2:" 19
                                 "character": "{
                                  }
                             
