@@ -340,8 +340,10 @@ Names
         
     </xsl:template>
     
-    <xsl:template match="koma">
-        <xsl:variable name="ttt">
+    <xsl:template match="koma[last()]">
+        hallo
+        
+        <!--<xsl:variable name="ttt">
         <liste>
         <xsl:variable name="nrk"><nummer><xsl:number format="1" start-at="1"/></nummer></xsl:variable>
         <xsl:variable name="tt">
@@ -358,7 +360,7 @@ Names
            <xsl:value-of select="$tt"/>
         </xsl:for-each>
         </liste>
-        </xsl:variable>
+        </xsl:variable>-->
         
     </xsl:template>
 
