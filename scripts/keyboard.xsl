@@ -226,10 +226,10 @@ Names
                 <xsl:for-each select="$keys/line">
                     <xsl:choose>
                         <xsl:when test=".[position()=last()] !=''">
-                            <xsl:apply-templates/>
+                            <xsl:apply-templates/>,
                         </xsl:when>
                         <xsl:otherwise>
-                            <xsl:apply-templates/>,
+                            <xsl:apply-templates/>
                         </xsl:otherwise>
                     </xsl:choose><xsl:apply-templates/>
                 </xsl:for-each>
