@@ -209,16 +209,13 @@ Names
                 
                 <xsl:variable name="keys"><line>
                     <xsl:for-each-group select="fn:current-group()" group-by="fn:string[@key = 'alpha']">
-                        
                         <xsl:sort order="ascending" select="fn:string[@key = 'alpha']"/>
                         
                             <xsl:for-each select="fn:current-group()">
-                                <ab>
                                 {
                                 <number/>
                                 "character": "<xsl:value-of select="fn:string[@key = 'mufichar']"/>"
-                                 }
-                                </ab>
+                                 }<koma/>
                             </xsl:for-each>
                         
                         
@@ -226,28 +223,9 @@ Names
                     </xsl:for-each-group>
                 </line></xsl:variable>
                
-                <!--<xsl:for-each select="$keys/line">
-                    <xsl:choose>
-                        <xsl:when test=".[position()=last()] !=''">
-                            <xsl:apply-templates/>,
-                        </xsl:when>
-                        <xsl:otherwise>
-                            <xsl:apply-templates/>
-                        </xsl:otherwise>
-                    </xsl:choose><xsl:apply-templates/>
-                </xsl:for-each>-->
-                
-                
-                <!--<xsl:for-each select="$keys/line[fn:position() &lt; last()]">
-                    "<xsl:apply-templates/><xsl:text disable-output-escaping="yes">",&#xD;</xsl:text>
-                </xsl:for-each>
-                "<xsl:value-of select="$keys/line[position()=last()]"/> {bksp}"]-->
-                
                 <xsl:for-each select="$keys/line">
-                    
-                    "<xsl:apply-templates/>++<xsl:value-of select="fn:position()"/>++
+                    <xsl:apply-templates/>
                 </xsl:for-each>
-                
                 
                 
                 ]}
@@ -363,7 +341,9 @@ Names
         
     </xsl:template>
     
-    
+    <xsl:template match="koma">
+        <xsl:for-each select=".[fn:position() &lt; last()]">,</xsl:for-each>
+    </xsl:template>
 
     <xsl:template match="$MUFIEXPORT//fn:array" name="kb-table">
         
