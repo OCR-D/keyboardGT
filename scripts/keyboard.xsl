@@ -228,7 +228,7 @@ Names
                     
                     <!--<xsl:apply-templates/>-->
                     
-                    <xsl:for-each select="$keys/line[fn:position() &lt; last()]">
+                    <xsl:for-each select="$keys/line[fn:position() &gt; last()]">
                         <xsl:apply-templates/><xsl:text disable-output-escaping="yes">,</xsl:text>
                     </xsl:for-each>
                     <xsl:value-of select="$keys/line[position()=last()]"/> {bksp}"]
