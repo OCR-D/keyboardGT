@@ -215,7 +215,7 @@ Names
                                 {
                                 <number/>
                                 "character": "<xsl:value-of select="fn:string[@key = 'mufichar']"/>"
-                                 }<koma/>Hallo
+                                 }<koma/>
                             </xsl:for-each>
                         
                         
@@ -342,7 +342,7 @@ Names
     </xsl:template>
     
     <xsl:template match="koma">
-        <xsl:for-each select=".[fn:position() &lt; last()]">,</xsl:for-each>
+        <xsl:for-each select=".">,Hallop</xsl:for-each>
     </xsl:template>
 
     <xsl:template match="$MUFIEXPORT//fn:array" name="kb-table">
