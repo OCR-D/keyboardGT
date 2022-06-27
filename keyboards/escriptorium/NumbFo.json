@@ -10,7 +10,7 @@
                                 {
                                 
                     "row": -0,*0*
-                    "column:" 0,
+                    "column:" 0*0*,
                 
                                 "character": "ↄ
                                  }
@@ -18,7 +18,7 @@
                                 {
                                 
                     "row": 0, *1*
-                    "column:" 0,
+                    "column:" 1,
                 
                 
                 
@@ -28,7 +28,7 @@
                                 {
                                 
                     "row": 0,*2*
-                    "column:" 2,
+                    "column:" 2*2*,
                 
                                 "character": "ↁ
                                  }
@@ -36,7 +36,7 @@
                                 {
                                 
                     "row": 0,*3*
-                    "column:" 3,
+                    "column:" 3*3*,
                 
                                 "character": "ↂ
                                  }
@@ -44,7 +44,7 @@
                                 {
                                 
                     "row": 0,*4*
-                    "column:" 4,
+                    "column:" 4*4*,
                 
                                 "character": "Ↄ
                                  }
