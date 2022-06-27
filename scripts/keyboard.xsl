@@ -342,9 +342,10 @@ Names
     </xsl:template>
     
     <xsl:template match="koma">
-        <xsl:variable name="sumKoma" select="count(.)"/>
+        
         
         <xsl:for-each select=".">
+            <xsl:variable name="sumKoma" select="count(.)"/>
             <xsl:variable name="nr"><xsl:number/></xsl:variable>
             <xsl:choose>
                 <xsl:when test="$nr = $sumKoma"/><xsl:otherwise>,</xsl:otherwise>
