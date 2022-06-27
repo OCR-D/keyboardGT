@@ -215,7 +215,7 @@ Names
                                 {
                                 <number/>
                                 "character": "<xsl:value-of select="fn:string[@key = 'mufichar']"/>"
-                                 }<koma><xsl:number/></koma>
+                                 }<koma/>
                             </xsl:for-each>
                         
                         
@@ -345,16 +345,11 @@ Names
         <xsl:variable name="sumKoma" select="count(.)"/>
         
         <xsl:for-each select=".">
-            <xsl:variable name="nr">xsl:number/></xsl:variable>
+            <xsl:variable name="nr"><xsl:number/></xsl:variable>
             <xsl:choose>
                 <xsl:when test="$nr = $sumKoma"/><xsl:otherwise>,</xsl:otherwise>
             </xsl:choose>
-            
         </xsl:for-each>
-            <!--<xsl:choose>
-                <xsl:when test=".[position() = last()]">Hallo</xsl:when>
-                <xsl:otherwise>,</xsl:otherwise>
-            </xsl:choose>,-->
     </xsl:template>
 
     <xsl:template match="$MUFIEXPORT//fn:array" name="kb-table">
