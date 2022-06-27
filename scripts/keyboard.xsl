@@ -343,7 +343,10 @@ Names
     <xsl:template match="koma">
         <xsl:variable name="test">
             <xsl:for-each select=".">
+                <xsl:variable name="test2">
                 <xsl:value-of select="fn:count(.)"/>
+                </xsl:variable>
+                <xsl:value-of select="sum($test2)"/>
             </xsl:for-each>
         </xsl:variable>
             <xsl:message select="$test"/>
