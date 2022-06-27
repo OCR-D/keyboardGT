@@ -343,10 +343,10 @@ Names
     <xsl:template match="koma">
         <xsl:for-each select=".">
             <xsl:variable name="sumKoma" select="count(.)"/>
-            <xsl:variable name="nr"><xsl:number/></xsl:variable>
+            <xsl:variable name="nrk"><xsl:number format="1" start-at="0"/></xsl:variable>
             
             <xsl:choose>
-                <xsl:when test="$nr = $sumKoma"><xsl:value-of select="$nr"/>##<xsl:value-of select="$sumKoma"/></xsl:when><xsl:otherwise>,</xsl:otherwise>
+                <xsl:when test="$nrk = $sumKoma"><xsl:value-of select="$nrk"/>##<xsl:value-of select="$sumKoma"/></xsl:when><xsl:otherwise>,</xsl:otherwise>
             </xsl:choose>
         </xsl:for-each>
     </xsl:template>
