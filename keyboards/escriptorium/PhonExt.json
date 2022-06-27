@@ -10,7 +10,7 @@
                                 {
                                 
                     "row": -0,*0*
-                    "column:" -2,
+                    "column:" -1,
                 
                                 "character": "ᴀ
                                  }
@@ -28,7 +28,7 @@
                                 {
                                 
                     "row": 0,*2*
-                    "column:" 0,
+                    "column:" 1,
                 
                                 "character": "ᴄ
                                  }
@@ -36,7 +36,7 @@
                                 {
                                 
                     "row": 0,*3*
-                    "column:" 1,
+                    "column:" 2,
                 
                                 "character": "ᴅ
                                  }
@@ -44,7 +44,7 @@
                                 {
                                 
                     "row": 0,*4*
-                    "column:" 2,
+                    "column:" 3,
                 
                                 "character": "ᴆ
                                  }
@@ -52,7 +52,7 @@
                                 {
                                 
                     "row": 0,*5*
-                    "column:" 3,
+                    "column:" 4,
                 
                                 "character": "ᴇ
                                  }
@@ -60,7 +60,7 @@
                                 {
                                 
                     "row": 0,*6*
-                    "column:" 4,
+                    "column:" 5,
                 
                                 "character": "ᵹ
                                  }
@@ -68,7 +68,7 @@
                                 {
                                 
                     "row": 0,*7*
-                    "column:" 5,
+                    "column:" 6,
                 
                                 "character": "ᴊ
                                  }
@@ -76,7 +76,7 @@
                                 {
                                 
                     "row": 0,*8*
-                    "column:" 6,
+                    "column:" 7,
                 
                                 "character": "ᴋ
                                  }
@@ -84,7 +84,7 @@
                                 {
                                 
                     "row": 0,*9*
-                    "column:" 7,
+                    "column:" 8,
                 
                                 "character": "ᴍ
                                  }
@@ -92,7 +92,7 @@
                                 {
                                 
                     "row": 0,*10*
-                    "column:" 8,
+                    "column:" 9,
                 
                                 "character": "ᴏ
                                  }
@@ -100,7 +100,7 @@
                                 {
                                 
                     "row": 0,*11*
-                    "column:" 9,
+                    "column:" 10,
                 
                                 "character": "ᴘ
                                  }
@@ -108,7 +108,7 @@
                                 {
                                 
                     "row": 0,*12*
-                    "column:" 10,
+                    "column:" 11,
                 
                                 "character": "ᴛ
                                  }
@@ -116,7 +116,7 @@
                                 {
                                 
                     "row": 0,*13*
-                    "column:" 11,
+                    "column:" 12,
                 
                                 "character": "ᴜ
                                  }
@@ -124,7 +124,7 @@
                                 {
                                 
                     "row": 0,*14*
-                    "column:" 12,
+                    "column:" 13,
                 
                                 "character": "ᵫ
                                  }
@@ -132,7 +132,7 @@
                                 {
                                 
                     "row": 0,*15*
-                    "column:" 13,
+                    "column:" 14,
                 
                                 "character": "ᴠ
                                  }
@@ -140,7 +140,7 @@
                                 {
                                 
                     "row": 0,*16*
-                    "column:" 14,
+                    "column:" 15,
                 
                                 "character": "ᴡ
                                  }
@@ -148,7 +148,7 @@
                                 {
                                 
                     "row": 0,*17*
-                    "column:" 15,
+                    "column:" 16,
                 
                                 "character": "ᴢ
                                  }
@@ -156,7 +156,7 @@
                                 {
                                 
                     "row": 0,*18*
-                    "column:" 16,
+                    "column:" 17,
                 
                                 "character": "ᴵ
                                  }
