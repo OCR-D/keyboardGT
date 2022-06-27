@@ -330,7 +330,7 @@ Names
                 
                 </xsl:when>
                 <xsl:otherwise>
-                    "row": <xsl:value-of select="$nnr"/>,
+                    "row": <xsl:value-of select="$nnr"/>,*<xsl:value-of select="$nr"/>*
                     "column:" <xsl:value-of select="($nr - 2) - (number($nnr) * 20)"/>,
                 </xsl:otherwise>
             </xsl:choose>
