@@ -203,19 +203,22 @@ Names
                 {
                 "version": "0.1",
                 "name": "<xsl:value-of select="fn:current-grouping-key()"/>",
-                "author": "tboenig &lt;boenig@bbaw.de&gt;",
+                "author": "tboenig <xsl:text disable-output-escaping="yes">&#x3C;</xsl:text>boenig@bbaw.de&#x3E;",
                 "characters": [
                 
                 
                 <xsl:variable name="keys"><line>
                     <xsl:for-each-group select="fn:current-group()" group-by="fn:string[@key = 'alpha']">
+                        
                         <xsl:sort order="ascending" select="fn:string[@key = 'alpha']"/>
                         
                             <xsl:for-each select="fn:current-group()">
+                                <ab>
                                 {
                                 <number/>
                                 "character": "<xsl:value-of select="fn:string[@key = 'mufichar']"/>"
                                  }
+                                </ab>
                             </xsl:for-each>
                         
                         
@@ -241,6 +244,7 @@ Names
                 "<xsl:value-of select="$keys/line[position()=last()]"/> {bksp}"]-->
                 
                 <xsl:for-each select="$keys/line">
+                    
                     "<xsl:apply-templates/>++<xsl:value-of select="fn:position()"/>++
                 </xsl:for-each>
                 
