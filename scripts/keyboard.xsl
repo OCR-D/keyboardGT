@@ -318,7 +318,7 @@ Names
     
     <xsl:template match="number">
         <xsl:for-each select=".">
-            <xsl:variable name="nr"><xsl:number count="*" start-at="0"/></xsl:variable>
+            <xsl:variable name="nr"><xsl:number format="1" start-at="0"/></xsl:variable>
             <xsl:variable name="nnr" select="if ((number(substring-before(string(($nr) div 20), '.'))) &lt; 0) then 0 else (substring-before(string(($nr) div 20), '.'))"></xsl:variable>
             
             <xsl:variable name="out_row_colum">
