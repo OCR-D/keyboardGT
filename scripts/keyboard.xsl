@@ -343,7 +343,8 @@ Names
     
     <xsl:template match="koma">
         <xsl:for-each select=".">
-            <xsl:value-of select="fn:position()"/>
+            <xsl:value-of select="fn:position()"/>###<xsl:number count="*" start-at="0"/>
+            
         </xsl:for-each>
             <!--<xsl:choose>
                 <xsl:when test=".[position() = last()]">Hallo</xsl:when>
