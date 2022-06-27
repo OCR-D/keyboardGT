@@ -324,7 +324,7 @@ Names
             <xsl:choose>
                 <xsl:when test="$nnr = ''">
                     <xsl:variable name="rnr" select="if (((($nr - 1) div 20) - 1) &lt; 0) then (-1 * (($nr - 1) div 20)) else (-1 * ((($nr - 1) div 20) - 1))"/>
-                    "row": <xsl:value-of select="$rnr"/>,hallo
+                    "row": <xsl:value-of select="-1 * $rnr"/>,hallo
                     "column:" <xsl:value-of select="($nr) - ($rnr * 20)"/>,
                 
                 
