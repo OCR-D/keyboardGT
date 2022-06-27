@@ -343,7 +343,7 @@ Names
     <xsl:template match="koma">
         <xsl:variable name="test">
             <xsl:for-each select=".">
-                hallo
+                <xsl:value-of select="fn:count(.)"/>
             </xsl:for-each>
         </xsl:variable>
             <xsl:message select="$test"/>
