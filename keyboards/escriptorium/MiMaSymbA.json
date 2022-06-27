@@ -19,7 +19,7 @@
                             
                                 {
                                 
-                    "row": 0,
+                    "row": 0,*2*
                     "column:" 0,
                 
                                 "character": "⟧
@@ -27,7 +27,7 @@
                             
                                 {
                                 
-                    "row": 0,
+                    "row": 0,*3*
                     "column:" 1,
                 
                                 "character": "⟨
@@ -35,7 +35,7 @@
                             
                                 {
                                 
-                    "row": 0,
+                    "row": 0,*4*
                     "column:" 2,
                 
                                 "character": "⟩
