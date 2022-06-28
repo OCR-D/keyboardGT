@@ -23,7 +23,7 @@
         The key of every entry is the name of the tab that is added to the GUI. 
         The value of the entry is a list of unicode characters OR a valid unicode range in 4-digit hex-format 
         (i.e. 0080-00FF for Latin-1 supplement) - Note that both, a list of characters and multiple ranges, can be combined 
-        into one keyboard by seperating the values with a whitespace!
+        into one keyboard by separating the values with a whitespace!
         The keyboards are sorted by their name in the GUI - add leading numbers to enforce a special order!
         The keyboard was created automatically. The basis was the snapshot of MUFI: The Medieval Unicode Font Initiative (https://mufi.info/m.php?p=mufiexport)
     </comment>
@@ -57,11 +57,11 @@
 
 <!-- 
 Keyboards
-    kb  = Keyborad Aletheia
-    tkb = Keyborad Transkribus
-    lkb = Keyborad Larex
+    kb  = Keyboard Aletheia
+    tkb = Keyboard Transkribus
+    lkb = Keyboard Larex
     qkb = Keyboard Qurator-neat
-    ekb = Keyboard escriptorium
+    ekb = Keyboard eScriptorium
 
 
 Names
@@ -275,19 +275,19 @@ Names
         <xsl:element name="h1">Code chart</xsl:element>
 
         <xsl:element name="p">
-            The Aletheia document image analysis system, Transkribus, LAREX, QURATOR-neat and escriptorium offer the possibility to install additional virtual keyboards or to customize them.
+            The Aletheia document image analysis system, Transkribus, LAREX, QURATOR-neat and eScriptorium offer the possibility to install additional virtual keyboards or to customize them.
             This repository offers about 80 keyboards based on the data snapshot of
             <a href="https://mufi.info/" target="_blank">MUFI: The Medieval Unicode Font Initiative</a> 
             <a href="https://mufi.info/m.php?p=mufiexport" target="_blank">(MUFI data as json)</a>.
         </xsl:element>
-        <xsl:element name="p">Would you like to use the keyboard in Aletheia or in Transkribus or in LAREX or in QURATOR-neat or in escriptorium. Then download and
+        <xsl:element name="p">Would you like to use the keyboard in Aletheia or in Transkribus or in LAREX or in QURATOR-neat or in eScriptorium. Then download and
             install the necessary virtual keyboard. You can find more information about using
             Virtual Keyboards in  
             <a href="https://www.primaresearch.org/www/assets/tools/Aletheia%20User%20Guide.pdf#page=91" target="_blank">Aletheia User Guide</a> or
             <a href="https://readcoop.eu/de/glossary/virtual-keyboard/" target="_blank">Transkribus Glossar,</a> or
             <a href="https://github.com/OCR4all/LAREX/issues/317" target="_blank">LAREX</a> or
             <a href="https://github.com/qurator-spk/neat" target="_blank">QURATOR-neat</a> or
-            <a href="https://gitlab.com/scripta/escriptorium" target="_blank">escriptorium</a>.
+            <a href="https://gitlab.com/scripta/escriptorium" target="_blank">eScriptorium</a>.
             
         </xsl:element>
         
@@ -297,7 +297,7 @@ Names
             <li>Transkribus <a href="https://readcoop.eu/transkribus/">https://readcoop.eu/transkribus/</a></li>
             <li>LAREX <a href="https://github.com/OCR4all/LAREX">https://github.com/OCR4all/LAREX</a></li>
             <li>QURATOR-neat <a href="https://github.com/qurator-spk/neat" target="_blank">https://github.com/qurator-spk/neat</a></li>
-            <li>escriptorium <a href="https://gitlab.com/scripta/escriptorium" target="_blank">https://gitlab.com/scripta/escriptorium</a></li>
+            <li>eScriptorium <a href="https://gitlab.com/scripta/escriptorium" target="_blank">https://gitlab.com/scripta/escriptorium</a></li>
         </ul>
 
         <h2>Recommendation</h2>
@@ -379,7 +379,7 @@ Names
         </xsl:element>
         
         <xsl:element name="details">
-            <xsl:element name="summary">For escriptorium</xsl:element>
+            <xsl:element name="summary">For eScriptorium</xsl:element>
             <xsl:element name="p">
                 Download the <strong>keyboard text files</strong> and copy or import the files to the appropriate directory.
             </xsl:element>
@@ -396,7 +396,7 @@ Names
                     <xsl:element name="th"><span class="big">&#x2328;</span> Virtual Keyboard Layouts<br/>for Transkribus</xsl:element>
                     <xsl:element name="th"><span class="big">&#x2328;</span> Virtual Keyboard Layouts<br/>for LAREX</xsl:element>
                     <xsl:element name="th"><span class="big">&#x2328;</span> Virtual Keyboard Layouts<br/>for QURATOR-neat</xsl:element>
-                    <xsl:element name="th"><span class="big">&#x2328;</span> Virtual Keyboard Layouts<br/>for escriptorium</xsl:element>
+                    <xsl:element name="th"><span class="big">&#x2328;</span> Virtual Keyboard Layouts<br/>for eScriptorium</xsl:element>
                     <xsl:element name="th"><span class="big">&#x1F481;</span> Browse by code chart<br/>(Link to MUFI)</xsl:element>
                 </xsl:element>
               </xsl:element>
