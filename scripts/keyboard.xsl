@@ -205,8 +205,6 @@ Names
                 "name": "<xsl:value-of select="fn:current-grouping-key()"/>",
                 "author": "tboenig <xsl:text disable-output-escaping="yes">&#x3C;</xsl:text>boenig@bbaw.de<xsl:text disable-output-escaping="yes">&#x3E;</xsl:text>",
                 "characters": [
-                
-                
                 <xsl:variable name="keys"><line>
                     <xsl:for-each-group select="fn:current-group()" group-by="fn:string[@key = 'alpha']">
                         <xsl:sort order="ascending" select="fn:string[@key = 'alpha']"/>
