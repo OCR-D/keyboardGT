@@ -28,7 +28,7 @@ If you want to create the keyboard on your computer
 **For LAREX**
 `java -jar saxon-he.jar -xsl:scripts/keyboard.xsl output=lkeyboards -s:scripts/keyboard.xsl `
 
-**QURATOR-neat**
+**For QURATOR-neat**
 `java -jar saxon-he.jar -xsl:scripts/keyboard.xsl output=qkeyboards -s:scripts/keyboard.xsl `
 
 **For escriptorium**
@@ -43,4 +43,6 @@ If you want to create the keyboard on your computer
 - Aletheia https://www.primaresearch.org/tools/Aletheia
 - Transkribus https://readcoop.eu/transkribus/
 - LAREX https://github.com/OCR4all/LAREX
+- QURATOR-neat https://github.com/qurator-spk/neat
+- escriptorium https://gitlab.com/scripta/escriptorium
 - Saxon https://www.saxonica.com/welcome/welcome.xml
