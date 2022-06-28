@@ -212,7 +212,7 @@ Names
                         <xsl:sort order="ascending" select="fn:string[@key = 'alpha']"/>
                             <xsl:for-each select="fn:current-group()">
                                 {
-                                <number/>"character": "<xsl:value-of select="fn:string[@key = 'mufichar']"/>"
+                                    <number/>"character": "<xsl:value-of select="fn:string[@key = 'mufichar']"/>"
                                  }<koma/>
                             </xsl:for-each>
                     </xsl:for-each-group>
