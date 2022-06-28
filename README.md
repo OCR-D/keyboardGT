@@ -1,6 +1,6 @@
 # keyboardGT
 
-The Aletheia document image analysis system, Transkribus, LAREX, QURATOR-neat and escriptorium offer the possibility to install additional virtual keyboards or to customize them.
+The Aletheia document image analysis system, Transkribus, LAREX, QURATOR-neat and eScriptorium offer the possibility to install additional virtual keyboards or to customize them.
 This repository offers about 80 keyboards based on the [MUFI snapshot](https://mufi.info/m.php?p=mufiexport) for download on the [Github page](https://tboenig.github.io/keyboardGT/overview.html).
 
 ## Download your Keyboard
@@ -31,7 +31,7 @@ If you want to create the keyboard on your computer
 **For QURATOR-neat**
 `java -jar saxon-he.jar -xsl:scripts/keyboard.xsl output=qkeyboards -s:scripts/keyboard.xsl `
 
-**For escriptorium**
+**For eScriptorium**
 `java -jar saxon-he.jar -xsl:scripts/keyboard.xsl output=ekeyboards -s:scripts/keyboard.xsl `
 
 
@@ -44,5 +44,5 @@ If you want to create the keyboard on your computer
 - Transkribus https://readcoop.eu/transkribus/
 - LAREX https://github.com/OCR4all/LAREX
 - QURATOR-neat https://github.com/qurator-spk/neat
-- escriptorium https://gitlab.com/scripta/escriptorium
+- eScriptorium https://gitlab.com/scripta/escriptorium
 - Saxon https://www.saxonica.com/welcome/welcome.xml

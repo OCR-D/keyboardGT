@@ -62,7 +62,7 @@ jobs:
         -s:scripts/keyboard.xsl 
       shell: bash  
 
-    - name: Transform MUFI snapshot to escriptorium keyboard
+    - name: Transform MUFI snapshot to eScriptorium keyboard
       run: |
         java -jar saxon-he-10.5.jar -xsl:scripts/keyboard.xsl output=ekeyboards \
         -s:scripts/keyboard.xsl 
