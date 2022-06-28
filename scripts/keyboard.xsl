@@ -340,7 +340,7 @@ Names
         </xsl:element>
          
         <xsl:element name="details">
-            <xsl:element name="summary">For Transcribus</xsl:element>
+            <xsl:element name="summary">For Transkribus</xsl:element>
         <xsl:element name="div">
             <xsl:attribute name="class">container</xsl:attribute>
             
