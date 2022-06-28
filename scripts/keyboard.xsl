@@ -142,8 +142,6 @@ Names
                 </xsl:for-each-group>
             </xsl:element>
         </xsl:result-document>
-            
-        
     </xsl:template>
     
     
@@ -210,7 +208,7 @@ Names
                         <xsl:sort order="ascending" select="fn:string[@key = 'alpha']"/>
                             <xsl:for-each select="fn:current-group()">
                 {<number/>"character": "<xsl:value-of select="fn:string[@key = 'mufichar']"/>"
-                }<koma/>
+                }<komma/>
                             </xsl:for-each>
                     </xsl:for-each-group>
                 </line></xsl:variable>
@@ -251,7 +249,7 @@ Names
             </xsl:for-each>
     </xsl:template>
     
-    <xsl:template match="koma[fn:position() &lt; last()]">,</xsl:template>
+    <xsl:template match="komma[fn:position() &lt; last()]">,</xsl:template>
 
     <xsl:template match="$MUFIEXPORT//fn:array" name="kb-table">
         
