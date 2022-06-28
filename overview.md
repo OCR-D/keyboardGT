@@ -21,12 +21,12 @@
             });</script>
    <h1>Code chart</h1>
    <p>
-            The Aletheia document image analysis system, Transkribus, LAREX, QURATOR-neat and escriptorium offer the possibility to install additional virtual keyboards or to customize them.
+            The Aletheia document image analysis system, Transkribus, LAREX, QURATOR-neat and eScriptorium offer the possibility to install additional virtual keyboards or to customize them.
             This repository offers about 80 keyboards based on the data snapshot of
             <a href="https://mufi.info/" target="_blank">MUFI: The Medieval Unicode Font Initiative</a>
       <a href="https://mufi.info/m.php?p=mufiexport" target="_blank">(MUFI data as json)</a>.
         </p>
-   <p>Would you like to use the keyboard in Aletheia or in Transkribus or in LAREX or in QURATOR-neat or in escriptorium. Then download and
+   <p>Would you like to use the keyboard in Aletheia or in Transkribus or in LAREX or in QURATOR-neat or in eScriptorium. Then download and
             install the necessary virtual keyboard. You can find more information about using
             Virtual Keyboards in  
             <a href="https://www.primaresearch.org/www/assets/tools/Aletheia%20User%20Guide.pdf#page=91"
@@ -35,7 +35,7 @@
          target="_blank">Transkribus Glossar,</a> or
             <a href="https://github.com/OCR4all/LAREX/issues/317" target="_blank">LAREX</a> or
             <a href="https://github.com/qurator-spk/neat" target="_blank">QURATOR-neat</a> or
-            <a href="https://gitlab.com/scripta/escriptorium" target="_blank">escriptorium</a>.
+            <a href="https://gitlab.com/scripta/escriptorium" target="_blank">eScriptorium</a>.
             
         </p>
    <h3>Links:</h3>
@@ -50,7 +50,7 @@
       </li>
       <li>QURATOR-neat <a href="https://github.com/qurator-spk/neat" target="_blank">https://github.com/qurator-spk/neat</a>
       </li>
-      <li>escriptorium <a href="https://gitlab.com/scripta/escriptorium" target="_blank">https://gitlab.com/scripta/escriptorium</a>
+      <li>eScriptorium <a href="https://gitlab.com/scripta/escriptorium" target="_blank">https://gitlab.com/scripta/escriptorium</a>
       </li>
    </ul>
    <h2>Recommendation</h2>
@@ -70,7 +70,7 @@
    <h2>Download and Installation</h2>
    <p>Here you will find the suitable virtual keyboards for all programs listed. In the zip file you will find them under the program name. To install, unzip the file and follow the instructions of your transcription software. You will find more information under the name of your software.</p>
    <p>Links:
-        <a href="https://github.com/tboenig/keyboardGT/releases/download/v253/keyboardGT-v253.zip">
+        <a href="https://github.com/tboenig/keyboardGT/releases/download/v254/keyboardGT-v254.zip">
             all keyboards as zip file</a>
    </p>
    <details>
@@ -121,7 +121,7 @@
             </p>
    </details>
    <details>
-      <summary>For escriptorium</summary>
+      <summary>For eScriptorium</summary>
       <p>
                 Download the <strong>keyboard text files</strong> and copy or import the files to the appropriate directory.
             </p>
@@ -140,7 +140,7 @@
             <th>
                <span class="big">⌨</span> Virtual Keyboard Layouts<br/>for QURATOR-neat</th>
             <th>
-               <span class="big">⌨</span> Virtual Keyboard Layouts<br/>for escriptorium</th>
+               <span class="big">⌨</span> Virtual Keyboard Layouts<br/>for eScriptorium</th>
             <th>
                <span class="big">💁</span> Browse by code chart<br/>(Link to MUFI)</th>
          </tr>
