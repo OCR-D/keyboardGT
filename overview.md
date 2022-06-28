@@ -26,7 +26,7 @@
             <a href="https://mufi.info/" target="_blank">MUFI: The Medieval Unicode Font Initiative</a>
       <a href="https://mufi.info/m.php?p=mufiexport" target="_blank">(MUFI data as json)</a>.
         </p>
-   <p>Would you like to use the keyboard in Aletheia or in Transkribus or in LAREX. Then download and
+   <p>Would you like to use the keyboard in Aletheia or in Transkribus or in LAREX or QURATOR-neat or escriptorium. Then download and
             install the necessary virtual keyboard. You can find more information about using
             Virtual Keyboards in  
             <a href="https://www.primaresearch.org/www/assets/tools/Aletheia%20User%20Guide.pdf#page=91"
@@ -34,7 +34,8 @@
             <a href="https://readcoop.eu/de/glossary/virtual-keyboard/"
          target="_blank">Transkribus Glossar,</a> or
             <a href="https://github.com/OCR4all/LAREX/issues/317" target="_blank">LAREX</a> or
-            <a href="https://github.com/qurator-spk/neat" target="_blank">QURATOR-neat</a>.
+            <a href="https://github.com/qurator-spk/neat" target="_blank">QURATOR-neat</a> or
+            <a href="https://gitlab.com/scripta/escriptorium" target="_blank">escriptorium</a>.
             
         </p>
    <h3>Links:</h3>
@@ -48,6 +49,8 @@
       <li>LAREX <a href="https://github.com/OCR4all/LAREX">https://github.com/OCR4all/LAREX</a>
       </li>
       <li>QURATOR-neat <a href="https://github.com/qurator-spk/neat" target="_blank">https://github.com/qurator-spk/neat</a>
+      </li>
+      <li>escriptorium <a href="https://gitlab.com/scripta/escriptorium" target="_blank">https://gitlab.com/scripta/escriptorium</a>
       </li>
    </ul>
    <h2>Recommendation</h2>
@@ -65,6 +68,11 @@
       </ul>
    </p>
    <h2>Download and Installation</h2>
+   <p>Here you will find the suitable virtual keyboards for all programs listed. In the zip file you will find them under the program name. To install, unzip the file and follow the instructions of your transcription software. You will find more information under the name of your software.</p>
+   <p>Links:
+        <a href="https://github.com/tboenig/keyboardGT/releases/download/v250/keyboardGT-v250.zip">
+            all keyboards as zip file</a>
+   </p>
    <details>
       <summary>For Aletheia</summary>
       <p>
@@ -80,11 +88,6 @@
             <video width="520" height="440" controls="true">
                <source src="doc/keyboard.mp4" type="video/mp4"/> Your browser does not support
                     the video tag. </video>
-         </div>
-         <div class="column">
-            <h3>Links:</h3>
-            <a href="https://github.com/tboenig/keyboardGT/releases/download/v249/keyboardGT-v249.zip">
-                    keyboard archiv as zip</a>
          </div>
       </div>
    </details>
