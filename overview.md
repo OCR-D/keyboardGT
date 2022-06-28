@@ -21,12 +21,12 @@
             });</script>
    <h1>Code chart</h1>
    <p>
-            The Aletheia document image analysis system, Transkribus and LAREX offer the possibility to install additional virtual keyboards or to customize them.
+            The Aletheia document image analysis system, Transkribus, LAREX, QURATOR-neat and escriptorium offer the possibility to install additional virtual keyboards or to customize them.
             This repository offers about 80 keyboards based on the data snapshot of
             <a href="https://mufi.info/" target="_blank">MUFI: The Medieval Unicode Font Initiative</a>
       <a href="https://mufi.info/m.php?p=mufiexport" target="_blank">(MUFI data as json)</a>.
         </p>
-   <p>Would you like to use the keyboard in Aletheia or in Transkribus or in LAREX or QURATOR-neat or escriptorium. Then download and
+   <p>Would you like to use the keyboard in Aletheia or in Transkribus or in LAREX or in QURATOR-neat or in escriptorium. Then download and
             install the necessary virtual keyboard. You can find more information about using
             Virtual Keyboards in  
             <a href="https://www.primaresearch.org/www/assets/tools/Aletheia%20User%20Guide.pdf#page=91"
@@ -70,7 +70,7 @@
    <h2>Download and Installation</h2>
    <p>Here you will find the suitable virtual keyboards for all programs listed. In the zip file you will find them under the program name. To install, unzip the file and follow the instructions of your transcription software. You will find more information under the name of your software.</p>
    <p>Links:
-        <a href="https://github.com/tboenig/keyboardGT/releases/download/v250/keyboardGT-v250.zip">
+        <a href="https://github.com/tboenig/keyboardGT/releases/download/v251/keyboardGT-v251.zip">
             all keyboards as zip file</a>
    </p>
    <details>
