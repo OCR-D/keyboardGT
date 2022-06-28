@@ -35,7 +35,7 @@ If you want to create the keyboard on your computer
 `java -jar saxon-he.jar -xsl:scripts/keyboard.xsl output=ekeyboards -s:scripts/keyboard.xsl `
 
 
-📝 Note: The keybords are stored in the folder `ghout/keyboards` on your system.
+📝 Note: The keyboards are stored in the folder `ghout/keyboards` on your system.
 
 ## See Also
 
