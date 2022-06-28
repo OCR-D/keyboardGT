@@ -275,12 +275,12 @@ Names
         <xsl:element name="h1">Code chart</xsl:element>
 
         <xsl:element name="p">
-            The Aletheia document image analysis system, Transkribus and LAREX offer the possibility to install additional virtual keyboards or to customize them.
+            The Aletheia document image analysis system, Transkribus, LAREX, QURATOR-neat and escriptorium offer the possibility to install additional virtual keyboards or to customize them.
             This repository offers about 80 keyboards based on the data snapshot of
             <a href="https://mufi.info/" target="_blank">MUFI: The Medieval Unicode Font Initiative</a> 
             <a href="https://mufi.info/m.php?p=mufiexport" target="_blank">(MUFI data as json)</a>.
         </xsl:element>
-        <xsl:element name="p">Would you like to use the keyboard in Aletheia or in Transkribus or in LAREX or QURATOR-neat or escriptorium. Then download and
+        <xsl:element name="p">Would you like to use the keyboard in Aletheia or in Transkribus or in LAREX or in QURATOR-neat or in escriptorium. Then download and
             install the necessary virtual keyboard. You can find more information about using
             Virtual Keyboards in  
             <a href="https://www.primaresearch.org/www/assets/tools/Aletheia%20User%20Guide.pdf#page=91" target="_blank">Aletheia User Guide</a> or
