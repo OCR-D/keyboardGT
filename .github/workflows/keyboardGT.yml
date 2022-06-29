@@ -100,7 +100,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
           tag_name: v${{ github.run_number }}
-          release_name: Release ${{ github.run_number }}
+          release_name: Keyboard-zip-package (Release${{ github.run_number }})
           body_path: CHANGELOG.md
           draft: false
           prerelease: false
