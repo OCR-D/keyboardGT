@@ -163,10 +163,12 @@ Names
                                <xsl:when test="contains(fn:string[@key = 'mufichar'], '&gt;')">
                                    <xsl:text disable-output-escaping="yes">&gt;</xsl:text><xsl:text>  </xsl:text>
                                </xsl:when>
+                               <xsl:when test="contains(fn:string[@key = 'mufichar'], '◌')">
+                                   <xsl:value-of select="replace(fn:string[@key = 'mufichar'], '◌','')"/><xsl:text>  </xsl:text>
+                               </xsl:when>
                                <xsl:when test="contains(fn:string[@key = 'mufichar'], '&#x7f;')"></xsl:when>
                                <xsl:otherwise><xsl:value-of select="fn:string[@key = 'mufichar']"/><xsl:text>  </xsl:text></xsl:otherwise>
                            </xsl:choose>
-                           
                           </xsl:for-each><xsl:text disable-output-escaping="yes">&#xD;</xsl:text>
                         </xsl:for-each-group>
             </xsl:result-document>
@@ -207,7 +209,15 @@ Names
                     <xsl:for-each-group select="fn:current-group()" group-by="fn:string[@key = 'alpha']">
                         <xsl:sort order="ascending" select="fn:string[@key = 'alpha']"/>
                             <xsl:for-each select="fn:current-group()">
-                {<number/>"character": "<xsl:value-of select="fn:string[@key = 'mufichar']"/>"
+                                <xsl:variable name="mufi">
+                                    <xsl:choose>
+                                        <xsl:when test="fn:string[@key = 'mufichar'] = '&quot;'"><![CDATA[\"]]></xsl:when>
+                                        <xsl:when test="fn:string[@key = 'mufichar'] = '\'"><![CDATA[\\]]></xsl:when>
+                                        <xsl:when test="contains(fn:string[@key = 'mufichar'], '◌')"><xsl:value-of select="replace(fn:string[@key = 'mufichar'], '◌','')"/></xsl:when>
+                                        <xsl:otherwise><xsl:value-of select="fn:string[@key = 'mufichar']"/></xsl:otherwise>
+                                    </xsl:choose>
+                                </xsl:variable>
+                {<number/>"character": "<xsl:value-of select="$mufi"/>"
                 }<komma/>
                             </xsl:for-each>
                     </xsl:for-each-group>
