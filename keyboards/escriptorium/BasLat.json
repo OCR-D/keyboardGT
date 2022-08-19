@@ -333,7 +333,7 @@
                 {
                 "row": 3,
                 "column": 5,
-                "character": """
+                "character": "\""
                 },
                 {
                 "row": 3,
@@ -393,7 +393,7 @@
                 {
                 "row": 3,
                 "column": 17,
-                "character": "\"
+                "character": "\\"
                 },
                 {
                 "row": 3,
