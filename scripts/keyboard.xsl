@@ -412,9 +412,14 @@ Names
                 <xsl:for-each-group select="$MUFIEXPORT//fn:map"
                     group-by="fn:string[@key = 'range']">
                     <xsl:sort select="fn:current-grouping-key()"/>
-                    <xsl:variable name="link">https://mufi.info/m.php?<xsl:value-of
-                            select="$MUFITABLE//coding/code[@id = fn:current-grouping-key()]/@href"
-                        /></xsl:variable>
+                    <xsl:variable name="link">
+                        <xsl:choose>
+                            <xsl:when test="fn:current-grouping-key() = 'GkExt'">
+                                <xsl:value-of select="$MUFITABLE//coding/code[@id = fn:current-grouping-key()]/@href"/>
+                            </xsl:when>
+                            <xsl:otherwise>https://mufi.info/m.php?<xsl:value-of select="$MUFITABLE//coding/code[@id = fn:current-grouping-key()]/@href"/></xsl:otherwise>
+                        </xsl:choose>
+                        </xsl:variable>
                     <xsl:element name="tr">
                         <xsl:element name="th">
                             <xsl:value-of
