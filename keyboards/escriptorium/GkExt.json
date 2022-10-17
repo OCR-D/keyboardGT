@@ -1,0 +1,1139 @@
+
+                {
+                "version": "0.1",
+                "name": "GkExt",
+                "author": "tboenig <boenig@bbaw.de>",
+                "characters": [
+                
+                {
+                "row": 0,
+                "column": 0,
+                "character": "ἀ"
+                },
+                {
+                "row": 0,
+                "column": 1,
+                "character": "ἁ"
+                },
+                {
+                "row": 0,
+                "column": 2,
+                "character": "ἂ"
+                },
+                {
+                "row": 0,
+                "column": 3,
+                "character": "ἃ"
+                },
+                {
+                "row": 0,
+                "column": 4,
+                "character": "ἄ"
+                },
+                {
+                "row": 0,
+                "column": 5,
+                "character": "ἅ"
+                },
+                {
+                "row": 0,
+                "column": 6,
+                "character": "ἆ"
+                },
+                {
+                "row": 0,
+                "column": 7,
+                "character": "ἇ"
+                },
+                {
+                "row": 0,
+                "column": 8,
+                "character": "Ἀ"
+                },
+                {
+                "row": 0,
+                "column": 9,
+                "character": "Ἁ"
+                },
+                {
+                "row": 0,
+                "column": 10,
+                "character": "Ἂ"
+                },
+                {
+                "row": 0,
+                "column": 11,
+                "character": "Ἃ"
+                },
+                {
+                "row": 0,
+                "column": 12,
+                "character": "Ἄ"
+                },
+                {
+                "row": 0,
+                "column": 13,
+                "character": "Ἅ"
+                },
+                {
+                "row": 0,
+                "column": 14,
+                "character": "Ἆ"
+                },
+                {
+                "row": 0,
+                "column": 15,
+                "character": "Ἇ"
+                },
+                {
+                "row": 0,
+                "column": 16,
+                "character": "ἐ"
+                },
+                {
+                "row": 0,
+                "column": 17,
+                "character": "ἑ"
+                },
+                {
+                "row": 0,
+                "column": 18,
+                "character": "ἒ"
+                },
+                {
+                "row": 0,
+                "column": 19,
+                "character": "ἓ"
+                },
+                {
+                "row": 1,
+                "column": 0,
+                "character": "ἔ"
+                },
+                {
+                "row": 1,
+                "column": 1,
+                "character": "ἕ"
+                },
+                {
+                "row": 1,
+                "column": 2,
+                "character": "Ἐ"
+                },
+                {
+                "row": 1,
+                "column": 3,
+                "character": "Ἑ"
+                },
+                {
+                "row": 1,
+                "column": 4,
+                "character": "Ἒ"
+                },
+                {
+                "row": 1,
+                "column": 5,
+                "character": "Ἓ"
+                },
+                {
+                "row": 1,
+                "column": 6,
+                "character": "Ἔ"
+                },
+                {
+                "row": 1,
+                "column": 7,
+                "character": "Ἕ"
+                },
+                {
+                "row": 1,
+                "column": 8,
+                "character": "ἠ"
+                },
+                {
+                "row": 1,
+                "column": 9,
+                "character": "ἡ"
+                },
+                {
+                "row": 1,
+                "column": 10,
+                "character": "ἢ"
+                },
+                {
+                "row": 1,
+                "column": 11,
+                "character": "ἣ"
+                },
+                {
+                "row": 1,
+                "column": 12,
+                "character": "ἤ"
+                },
+                {
+                "row": 1,
+                "column": 13,
+                "character": "ἥ"
+                },
+                {
+                "row": 1,
+                "column": 14,
+                "character": "ἦ"
+                },
+                {
+                "row": 1,
+                "column": 15,
+                "character": "ἧ"
+                },
+                {
+                "row": 1,
+                "column": 16,
+                "character": "Ἠ"
+                },
+                {
+                "row": 1,
+                "column": 17,
+                "character": "Ἡ"
+                },
+                {
+                "row": 1,
+                "column": 18,
+                "character": "Ἢ"
+                },
+                {
+                "row": 1,
+                "column": 19,
+                "character": "Ἣ"
+                },
+                {
+                "row": 2,
+                "column": 0,
+                "character": "Ἤ"
+                },
+                {
+                "row": 2,
+                "column": 1,
+                "character": "Ἥ"
+                },
+                {
+                "row": 2,
+                "column": 2,
+                "character": "Ἦ"
+                },
+                {
+                "row": 2,
+                "column": 3,
+                "character": "Ἧ"
+                },
+                {
+                "row": 2,
+                "column": 4,
+                "character": "ἰ"
+                },
+                {
+                "row": 2,
+                "column": 5,
+                "character": "ἱ"
+                },
+                {
+                "row": 2,
+                "column": 6,
+                "character": "ἲ"
+                },
+                {
+                "row": 2,
+                "column": 7,
+                "character": "ἳ"
+                },
+                {
+                "row": 2,
+                "column": 8,
+                "character": "ἴ"
+                },
+                {
+                "row": 2,
+                "column": 9,
+                "character": "ἵ"
+                },
+                {
+                "row": 2,
+                "column": 10,
+                "character": "ἶ"
+                },
+                {
+                "row": 2,
+                "column": 11,
+                "character": "ἷ"
+                },
+                {
+                "row": 2,
+                "column": 12,
+                "character": "Ἰ"
+                },
+                {
+                "row": 2,
+                "column": 13,
+                "character": "Ἱ"
+                },
+                {
+                "row": 2,
+                "column": 14,
+                "character": "Ἲ"
+                },
+                {
+                "row": 2,
+                "column": 15,
+                "character": "Ἳ"
+                },
+                {
+                "row": 2,
+                "column": 16,
+                "character": "Ἴ"
+                },
+                {
+                "row": 2,
+                "column": 17,
+                "character": "Ἵ"
+                },
+                {
+                "row": 2,
+                "column": 18,
+                "character": "Ἶ"
+                },
+                {
+                "row": 2,
+                "column": 19,
+                "character": "Ἷ"
+                },
+                {
+                "row": 3,
+                "column": 0,
+                "character": "ὀ"
+                },
+                {
+                "row": 3,
+                "column": 1,
+                "character": "ὁ"
+                },
+                {
+                "row": 3,
+                "column": 2,
+                "character": "ὂ"
+                },
+                {
+                "row": 3,
+                "column": 3,
+                "character": "ὃ"
+                },
+                {
+                "row": 3,
+                "column": 4,
+                "character": "ὄ"
+                },
+                {
+                "row": 3,
+                "column": 5,
+                "character": "ὅ"
+                },
+                {
+                "row": 3,
+                "column": 6,
+                "character": "Ὀ"
+                },
+                {
+                "row": 3,
+                "column": 7,
+                "character": "Ὁ"
+                },
+                {
+                "row": 3,
+                "column": 8,
+                "character": "ὓ"
+                },
+                {
+                "row": 3,
+                "column": 9,
+                "character": "ὔ"
+                },
+                {
+                "row": 3,
+                "column": 10,
+                "character": "ὕ"
+                },
+                {
+                "row": 3,
+                "column": 11,
+                "character": "ὖ"
+                },
+                {
+                "row": 3,
+                "column": 12,
+                "character": "ὗ"
+                },
+                {
+                "row": 3,
+                "column": 13,
+                "character": "Ὑ"
+                },
+                {
+                "row": 3,
+                "column": 14,
+                "character": "Ὓ"
+                },
+                {
+                "row": 3,
+                "column": 15,
+                "character": "Ὕ"
+                },
+                {
+                "row": 3,
+                "column": 16,
+                "character": "Ὗ"
+                },
+                {
+                "row": 3,
+                "column": 17,
+                "character": "ὠ"
+                },
+                {
+                "row": 3,
+                "column": 18,
+                "character": "ὡ"
+                },
+                {
+                "row": 3,
+                "column": 19,
+                "character": "ὢ"
+                },
+                {
+                "row": 4,
+                "column": 0,
+                "character": "ὣ"
+                },
+                {
+                "row": 4,
+                "column": 1,
+                "character": "ὤ"
+                },
+                {
+                "row": 4,
+                "column": 2,
+                "character": "ὥ"
+                },
+                {
+                "row": 4,
+                "column": 3,
+                "character": "ὦ"
+                },
+                {
+                "row": 4,
+                "column": 4,
+                "character": "ὧ"
+                },
+                {
+                "row": 4,
+                "column": 5,
+                "character": "Ὠ"
+                },
+                {
+                "row": 4,
+                "column": 6,
+                "character": "Ὡ"
+                },
+                {
+                "row": 4,
+                "column": 7,
+                "character": "Ὢ"
+                },
+                {
+                "row": 4,
+                "column": 8,
+                "character": "Ὣ"
+                },
+                {
+                "row": 4,
+                "column": 9,
+                "character": "Ὤ"
+                },
+                {
+                "row": 4,
+                "column": 10,
+                "character": "Ὥ"
+                },
+                {
+                "row": 4,
+                "column": 11,
+                "character": "Ὦ"
+                },
+                {
+                "row": 4,
+                "column": 12,
+                "character": "Ὧ"
+                },
+                {
+                "row": 4,
+                "column": 13,
+                "character": "ὰ"
+                },
+                {
+                "row": 4,
+                "column": 14,
+                "character": "ά"
+                },
+                {
+                "row": 4,
+                "column": 15,
+                "character": "ὲ"
+                },
+                {
+                "row": 4,
+                "column": 16,
+                "character": "έ"
+                },
+                {
+                "row": 4,
+                "column": 17,
+                "character": "ὴ"
+                },
+                {
+                "row": 4,
+                "column": 18,
+                "character": "ή"
+                },
+                {
+                "row": 4,
+                "column": 19,
+                "character": "ὶ"
+                },
+                {
+                "row": 5,
+                "column": 0,
+                "character": "ί"
+                },
+                {
+                "row": 5,
+                "column": 1,
+                "character": "ὸ"
+                },
+                {
+                "row": 5,
+                "column": 2,
+                "character": "ό"
+                },
+                {
+                "row": 5,
+                "column": 3,
+                "character": "ὺ"
+                },
+                {
+                "row": 5,
+                "column": 4,
+                "character": "ύ"
+                },
+                {
+                "row": 5,
+                "column": 5,
+                "character": "ὼ"
+                },
+                {
+                "row": 5,
+                "column": 6,
+                "character": "ώ"
+                },
+                {
+                "row": 5,
+                "column": 7,
+                "character": "ᾀ"
+                },
+                {
+                "row": 5,
+                "column": 8,
+                "character": "ᾁ"
+                },
+                {
+                "row": 5,
+                "column": 9,
+                "character": "ᾂ"
+                },
+                {
+                "row": 5,
+                "column": 10,
+                "character": "ᾃ"
+                },
+                {
+                "row": 5,
+                "column": 11,
+                "character": "ᾄ"
+                },
+                {
+                "row": 5,
+                "column": 12,
+                "character": "ᾅ"
+                },
+                {
+                "row": 5,
+                "column": 13,
+                "character": "ᾆ"
+                },
+                {
+                "row": 5,
+                "column": 14,
+                "character": "ᾇ"
+                },
+                {
+                "row": 5,
+                "column": 15,
+                "character": "ᾈ"
+                },
+                {
+                "row": 5,
+                "column": 16,
+                "character": "ᾉ"
+                },
+                {
+                "row": 5,
+                "column": 17,
+                "character": "ᾊ"
+                },
+                {
+                "row": 5,
+                "column": 18,
+                "character": "ᾋ"
+                },
+                {
+                "row": 5,
+                "column": 19,
+                "character": "ᾌ"
+                },
+                {
+                "row": 6,
+                "column": 0,
+                "character": "ᾍ"
+                },
+                {
+                "row": 6,
+                "column": 1,
+                "character": "ᾎ"
+                },
+                {
+                "row": 6,
+                "column": 2,
+                "character": "ᾏ"
+                },
+                {
+                "row": 6,
+                "column": 3,
+                "character": "ᾐ"
+                },
+                {
+                "row": 6,
+                "column": 4,
+                "character": "ᾑ"
+                },
+                {
+                "row": 6,
+                "column": 5,
+                "character": "ᾒ"
+                },
+                {
+                "row": 6,
+                "column": 6,
+                "character": "ᾓ"
+                },
+                {
+                "row": 6,
+                "column": 7,
+                "character": "ᾔ"
+                },
+                {
+                "row": 6,
+                "column": 8,
+                "character": "ᾕ"
+                },
+                {
+                "row": 6,
+                "column": 9,
+                "character": "ᾖ"
+                },
+                {
+                "row": 6,
+                "column": 10,
+                "character": "ᾗ"
+                },
+                {
+                "row": 6,
+                "column": 11,
+                "character": "ᾘ"
+                },
+                {
+                "row": 6,
+                "column": 12,
+                "character": "ᾙ"
+                },
+                {
+                "row": 6,
+                "column": 13,
+                "character": "ᾚ"
+                },
+                {
+                "row": 6,
+                "column": 14,
+                "character": "ᾛ"
+                },
+                {
+                "row": 6,
+                "column": 15,
+                "character": "ᾜ"
+                },
+                {
+                "row": 6,
+                "column": 16,
+                "character": "ᾝ"
+                },
+                {
+                "row": 6,
+                "column": 17,
+                "character": "ᾞ"
+                },
+                {
+                "row": 6,
+                "column": 18,
+                "character": "ᾟ"
+                },
+                {
+                "row": 6,
+                "column": 19,
+                "character": "ᾠ"
+                },
+                {
+                "row": 7,
+                "column": 0,
+                "character": "ᾡ"
+                },
+                {
+                "row": 7,
+                "column": 1,
+                "character": "ᾢ"
+                },
+                {
+                "row": 7,
+                "column": 2,
+                "character": "ᾣ"
+                },
+                {
+                "row": 7,
+                "column": 3,
+                "character": "ᾤ"
+                },
+                {
+                "row": 7,
+                "column": 4,
+                "character": "ᾥ"
+                },
+                {
+                "row": 7,
+                "column": 5,
+                "character": "ᾦ"
+                },
+                {
+                "row": 7,
+                "column": 6,
+                "character": "ᾧ"
+                },
+                {
+                "row": 7,
+                "column": 7,
+                "character": "ᾨ"
+                },
+                {
+                "row": 7,
+                "column": 8,
+                "character": "ᾩ"
+                },
+                {
+                "row": 7,
+                "column": 9,
+                "character": "ᾪ"
+                },
+                {
+                "row": 7,
+                "column": 10,
+                "character": "ᾫ"
+                },
+                {
+                "row": 7,
+                "column": 11,
+                "character": "ᾬ"
+                },
+                {
+                "row": 7,
+                "column": 12,
+                "character": "ᾭ"
+                },
+                {
+                "row": 7,
+                "column": 13,
+                "character": "ᾮ"
+                },
+                {
+                "row": 7,
+                "column": 14,
+                "character": "ᾯ"
+                },
+                {
+                "row": 7,
+                "column": 15,
+                "character": "ᾰ"
+                },
+                {
+                "row": 7,
+                "column": 16,
+                "character": "ᾱ"
+                },
+                {
+                "row": 7,
+                "column": 17,
+                "character": "ᾲ"
+                },
+                {
+                "row": 7,
+                "column": 18,
+                "character": "ᾳ"
+                },
+                {
+                "row": 7,
+                "column": 19,
+                "character": "ᾴ"
+                },
+                {
+                "row": 8,
+                "column": 0,
+                "character": "ᾶ"
+                },
+                {
+                "row": 8,
+                "column": 1,
+                "character": "ᾷ"
+                },
+                {
+                "row": 8,
+                "column": 2,
+                "character": "Ᾰ"
+                },
+                {
+                "row": 8,
+                "column": 3,
+                "character": "Ᾱ"
+                },
+                {
+                "row": 8,
+                "column": 4,
+                "character": "Ὰ"
+                },
+                {
+                "row": 8,
+                "column": 5,
+                "character": "Ά"
+                },
+                {
+                "row": 8,
+                "column": 6,
+                "character": "ᾼ"
+                },
+                {
+                "row": 8,
+                "column": 7,
+                "character": "᾽"
+                },
+                {
+                "row": 8,
+                "column": 8,
+                "character": "ι"
+                },
+                {
+                "row": 8,
+                "column": 9,
+                "character": "᾿"
+                },
+                {
+                "row": 8,
+                "column": 10,
+                "character": "῀"
+                },
+                {
+                "row": 8,
+                "column": 11,
+                "character": "῁"
+                },
+                {
+                "row": 8,
+                "column": 12,
+                "character": "ῂ"
+                },
+                {
+                "row": 8,
+                "column": 13,
+                "character": "ῃ"
+                },
+                {
+                "row": 8,
+                "column": 14,
+                "character": "ῄ"
+                },
+                {
+                "row": 8,
+                "column": 15,
+                "character": "ῆ"
+                },
+                {
+                "row": 8,
+                "column": 16,
+                "character": "ῇ"
+                },
+                {
+                "row": 8,
+                "column": 17,
+                "character": "Ὲ"
+                },
+                {
+                "row": 8,
+                "column": 18,
+                "character": "Έ"
+                },
+                {
+                "row": 8,
+                "column": 19,
+                "character": "Ὴ"
+                },
+                {
+                "row": 9,
+                "column": 0,
+                "character": "Ή"
+                },
+                {
+                "row": 9,
+                "column": 1,
+                "character": "ῌ"
+                },
+                {
+                "row": 9,
+                "column": 2,
+                "character": "῍"
+                },
+                {
+                "row": 9,
+                "column": 3,
+                "character": "῎"
+                },
+                {
+                "row": 9,
+                "column": 4,
+                "character": "῏"
+                },
+                {
+                "row": 9,
+                "column": 5,
+                "character": "ῐ"
+                },
+                {
+                "row": 9,
+                "column": 6,
+                "character": "ῑ"
+                },
+                {
+                "row": 9,
+                "column": 7,
+                "character": "ῒ"
+                },
+                {
+                "row": 9,
+                "column": 8,
+                "character": "ΐ"
+                },
+                {
+                "row": 9,
+                "column": 9,
+                "character": "ῖ"
+                },
+                {
+                "row": 9,
+                "column": 10,
+                "character": "ῗ"
+                },
+                {
+                "row": 9,
+                "column": 11,
+                "character": "Ῐ"
+                },
+                {
+                "row": 9,
+                "column": 12,
+                "character": "Ῑ"
+                },
+                {
+                "row": 9,
+                "column": 13,
+                "character": "Ὶ"
+                },
+                {
+                "row": 9,
+                "column": 14,
+                "character": "Ί"
+                },
+                {
+                "row": 9,
+                "column": 15,
+                "character": "῝"
+                },
+                {
+                "row": 9,
+                "column": 16,
+                "character": "῞"
+                },
+                {
+                "row": 9,
+                "column": 17,
+                "character": "῟"
+                },
+                {
+                "row": 9,
+                "column": 18,
+                "character": "ῠ"
+                },
+                {
+                "row": 9,
+                "column": 19,
+                "character": "ῡ"
+                },
+                {
+                "row": 10,
+                "column": 0,
+                "character": "ῢ"
+                },
+                {
+                "row": 10,
+                "column": 1,
+                "character": "ΰ"
+                },
+                {
+                "row": 10,
+                "column": 2,
+                "character": "ῤ"
+                },
+                {
+                "row": 10,
+                "column": 3,
+                "character": "ῥ"
+                },
+                {
+                "row": 10,
+                "column": 4,
+                "character": "ῦ"
+                },
+                {
+                "row": 10,
+                "column": 5,
+                "character": "ῧ"
+                },
+                {
+                "row": 10,
+                "column": 6,
+                "character": "Ῠ"
+                },
+                {
+                "row": 10,
+                "column": 7,
+                "character": "Ῡ"
+                },
+                {
+                "row": 10,
+                "column": 8,
+                "character": "Ὺ"
+                },
+                {
+                "row": 10,
+                "column": 9,
+                "character": "Ύ"
+                },
+                {
+                "row": 10,
+                "column": 10,
+                "character": "Ῥ"
+                },
+                {
+                "row": 10,
+                "column": 11,
+                "character": "῭"
+                },
+                {
+                "row": 10,
+                "column": 12,
+                "character": "΅"
+                },
+                {
+                "row": 10,
+                "column": 13,
+                "character": "`"
+                },
+                {
+                "row": 10,
+                "column": 14,
+                "character": "ῲ"
+                },
+                {
+                "row": 10,
+                "column": 15,
+                "character": "ῳ"
+                },
+                {
+                "row": 10,
+                "column": 16,
+                "character": "ῴ"
+                },
+                {
+                "row": 10,
+                "column": 17,
+                "character": "ῶ"
+                },
+                {
+                "row": 10,
+                "column": 18,
+                "character": "ῷ"
+                },
+                {
+                "row": 10,
+                "column": 19,
+                "character": "Ὸ"
+                },
+                {
+                "row": 11,
+                "column": 0,
+                "character": "Ό"
+                },
+                {
+                "row": 11,
+                "column": 1,
+                "character": "Ὼ"
+                },
+                {
+                "row": 11,
+                "column": 2,
+                "character": "Ώ"
+                },
+                {
+                "row": 11,
+                "column": 3,
+                "character": "ῼ"
+                },
+                {
+                "row": 11,
+                "column": 4,
+                "character": "´"
+                },
+                {
+                "row": 11,
+                "column": 5,
+                "character": "῾"
+                }
+                ]}
+            

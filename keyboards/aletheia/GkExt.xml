@@ -1,0 +1,2714 @@
+<Parameters name="GkExt">
+   <Parameter type="4"
+              sortIndex="1603"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1F00"
+              id="01604"
+              textType="0">
+      <Description>GREEK SMALL LETTER ALPHA WITH PSILI</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1604"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1F01"
+              id="01605"
+              textType="0">
+      <Description>GREEK SMALL LETTER ALPHA WITH DASIA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1605"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1F02"
+              id="01606"
+              textType="0">
+      <Description>GREEK SMALL LETTER ALPHA WITH PSILI AND VARIA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1606"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1F03"
+              id="01607"
+              textType="0">
+      <Description>GREEK SMALL LETTER ALPHA WITH DASIA AND VARIA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1607"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1F04"
+              id="01608"
+              textType="0">
+      <Description>GREEK SMALL LETTER ALPHA WITH PSILI AND OXIA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1608"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1F05"
+              id="01609"
+              textType="0">
+      <Description>GREEK SMALL LETTER ALPHA WITH DASIA AND OXIA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1609"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1F06"
+              id="01610"
+              textType="0">
+      <Description>GREEK SMALL LETTER ALPHA WITH PSILI AND PERISPOMENI</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1610"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1F07"
+              id="01611"
+              textType="0">
+      <Description>GREEK SMALL LETTER ALPHA WITH DASIA AND PERISPOMENI</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1611"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1F08"
+              id="01612"
+              textType="0">
+      <Description>GREEK CAPITAL LETTER ALPHA WITH PSILI</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1612"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1F09"
+              id="01613"
+              textType="0">
+      <Description>GREEK CAPITAL LETTER ALPHA WITH DASIA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1613"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1F0A"
+              id="01614"
+              textType="0">
+      <Description>GREEK CAPITAL LETTER ALPHA WITH PSILI AND VARIA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1614"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1F0B"
+              id="01615"
+              textType="0">
+      <Description>GREEK CAPITAL LETTER ALPHA WITH DASIA AND VARIA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1615"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1F0C"
+              id="01616"
+              textType="0">
+      <Description>GREEK CAPITAL LETTER ALPHA WITH PSILI AND OXIA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1616"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1F0D"
+              id="01617"
+              textType="0">
+      <Description>GREEK CAPITAL LETTER ALPHA WITH DASIA AND OXIA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1617"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1F0E"
+              id="01618"
+              textType="0">
+      <Description>GREEK CAPITAL LETTER ALPHA WITH PSILI AND PERISPOMENI</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1618"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1F0F"
+              id="01619"
+              textType="0">
+      <Description>GREEK CAPITAL LETTER ALPHA WITH DASIA AND PERISPOMENI</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1619"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1F10"
+              id="01620"
+              textType="0">
+      <Description>GREEK SMALL LETTER EPSILON WITH PSILI</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1620"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1F11"
+              id="01621"
+              textType="0">
+      <Description>GREEK SMALL LETTER EPSILON WITH DASIA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1621"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1F12"
+              id="01622"
+              textType="0">
+      <Description>GREEK SMALL LETTER EPSILON WITH PSILI AND VARIA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1622"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1F13"
+              id="01623"
+              textType="0">
+      <Description>GREEK SMALL LETTER EPSILON WITH DASIA AND VARIA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1623"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1F14"
+              id="01624"
+              textType="0">
+      <Description>GREEK SMALL LETTER EPSILON WITH PSILI AND OXIA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1624"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1F15"
+              id="01625"
+              textType="0">
+      <Description>GREEK SMALL LETTER EPSILON WITH DASIA AND OXIA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1625"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1F18"
+              id="01626"
+              textType="0">
+      <Description>GREEK CAPITAL LETTER EPSILON WITH PSILI</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1626"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1F19"
+              id="01627"
+              textType="0">
+      <Description>GREEK CAPITAL LETTER EPSILON WITH DASIA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1627"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1F1A"
+              id="01628"
+              textType="0">
+      <Description>GREEK CAPITAL LETTER EPSILON WITH PSILI AND VARIA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1628"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1F1B"
+              id="01629"
+              textType="0">
+      <Description>GREEK CAPITAL LETTER EPSILON WITH DASIA AND VARIA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1629"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1F1C"
+              id="01630"
+              textType="0">
+      <Description>GREEK CAPITAL LETTER EPSILON WITH PSILI AND OXIA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1630"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1F1D"
+              id="01631"
+              textType="0">
+      <Description>GREEK CAPITAL LETTER EPSILON WITH DASIA AND OXIA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1631"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1F20"
+              id="01632"
+              textType="0">
+      <Description>GREEK SMALL LETTER ETA WITH PSILI</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1632"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1F21"
+              id="01633"
+              textType="0">
+      <Description>GREEK SMALL LETTER ETA WITH DASIA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1633"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1F22"
+              id="01634"
+              textType="0">
+      <Description>GREEK SMALL LETTER ETA WITH PSILI AND VARIA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1634"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1F23"
+              id="01635"
+              textType="0">
+      <Description>GREEK SMALL LETTER ETA WITH DASIA AND VARIA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1635"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1F24"
+              id="01636"
+              textType="0">
+      <Description>GREEK SMALL LETTER ETA WITH PSILI AND OXIA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1636"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1F25"
+              id="01637"
+              textType="0">
+      <Description>GREEK SMALL LETTER ETA WITH DASIA AND OXIA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1637"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1F26"
+              id="01638"
+              textType="0">
+      <Description>GREEK SMALL LETTER ETA WITH PSILI AND PERISPOMENI</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1638"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1F27"
+              id="01639"
+              textType="0">
+      <Description>GREEK SMALL LETTER ETA WITH DASIA AND PERISPOMENI</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1639"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1F28"
+              id="01640"
+              textType="0">
+      <Description>GREEK CAPITAL LETTER ETA WITH PSILI</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1640"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1F29"
+              id="01641"
+              textType="0">
+      <Description>GREEK CAPITAL LETTER ETA WITH DASIA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1641"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1F2A"
+              id="01642"
+              textType="0">
+      <Description>GREEK CAPITAL LETTER ETA WITH PSILI AND VARIA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1642"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1F2B"
+              id="01643"
+              textType="0">
+      <Description>GREEK CAPITAL LETTER ETA WITH DASIA AND VARIA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1643"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1F2C"
+              id="01644"
+              textType="0">
+      <Description>GREEK CAPITAL LETTER ETA WITH PSILI AND OXIA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1644"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1F2D"
+              id="01645"
+              textType="0">
+      <Description>GREEK CAPITAL LETTER ETA WITH DASIA AND OXIA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1645"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1F2E"
+              id="01646"
+              textType="0">
+      <Description>GREEK CAPITAL LETTER ETA WITH PSILI AND PERISPOMENI</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1646"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1F2F"
+              id="01647"
+              textType="0">
+      <Description>GREEK CAPITAL LETTER ETA WITH DASIA AND PERISPOMENI</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1647"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1F30"
+              id="01648"
+              textType="0">
+      <Description>GREEK SMALL LETTER IOTA WITH PSILI</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1648"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1F31"
+              id="01649"
+              textType="0">
+      <Description>GREEK SMALL LETTER IOTA WITH DASIA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1649"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1F32"
+              id="01650"
+              textType="0">
+      <Description>GREEK SMALL LETTER IOTA WITH PSILI AND VARIA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1650"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1F33"
+              id="01651"
+              textType="0">
+      <Description>GREEK SMALL LETTER IOTA WITH DASIA AND VARIA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1651"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1F34"
+              id="01652"
+              textType="0">
+      <Description>GREEK SMALL LETTER IOTA WITH PSILI AND OXIA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1652"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1F35"
+              id="01653"
+              textType="0">
+      <Description>GREEK SMALL LETTER IOTA WITH DASIA AND OXIA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1653"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1F36"
+              id="01654"
+              textType="0">
+      <Description>GREEK SMALL LETTER IOTA WITH PSILI AND PERISPOMENI</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1654"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1F37"
+              id="01655"
+              textType="0">
+      <Description>GREEK SMALL LETTER IOTA WITH DASIA AND PERISPOMENI</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1655"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1F38"
+              id="01656"
+              textType="0">
+      <Description>GREEK CAPITAL LETTER IOTA WITH PSILI</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1656"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1F39"
+              id="01657"
+              textType="0">
+      <Description>GREEK CAPITAL LETTER IOTA WITH DASIA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1657"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1F3A"
+              id="01658"
+              textType="0">
+      <Description>GREEK CAPITAL LETTER IOTA WITH PSILI AND VARIA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1658"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1F3B"
+              id="01659"
+              textType="0">
+      <Description>GREEK CAPITAL LETTER IOTA WITH DASIA AND VARIA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1659"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1F3C"
+              id="01660"
+              textType="0">
+      <Description>GREEK CAPITAL LETTER IOTA WITH PSILI AND OXIA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1660"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1F3D"
+              id="01661"
+              textType="0">
+      <Description>GREEK CAPITAL LETTER IOTA WITH DASIA AND OXIA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1661"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1F3E"
+              id="01662"
+              textType="0">
+      <Description>GREEK CAPITAL LETTER IOTA WITH PSILI AND PERISPOMENI</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1662"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1F3F"
+              id="01663"
+              textType="0">
+      <Description>GREEK CAPITAL LETTER IOTA WITH DASIA AND PERISPOMENI</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1663"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1F40"
+              id="01664"
+              textType="0">
+      <Description>GREEK SMALL LETTER OMICRON WITH PSILI</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1664"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1F41"
+              id="01665"
+              textType="0">
+      <Description>GREEK SMALL LETTER OMICRON WITH DASIA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1665"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1F42"
+              id="01666"
+              textType="0">
+      <Description>GREEK SMALL LETTER OMICRON WITH PSILI AND VARIA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1666"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1F43"
+              id="01667"
+              textType="0">
+      <Description>GREEK SMALL LETTER OMICRON WITH DASIA AND VARIA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1667"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1F44"
+              id="01668"
+              textType="0">
+      <Description>GREEK SMALL LETTER OMICRON WITH PSILI AND OXIA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1668"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1F45"
+              id="01669"
+              textType="0">
+      <Description>GREEK SMALL LETTER OMICRON WITH DASIA AND OXIA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1669"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1F48"
+              id="01670"
+              textType="0">
+      <Description>GREEK CAPITAL LETTER OMICRON WITH PSILI</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1670"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1F49"
+              id="01671"
+              textType="0">
+      <Description>GREEK CAPITAL LETTER OMICRON WITH DASIA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1671"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1F53"
+              id="01672"
+              textType="0">
+      <Description>GREEK SMALL LETTER UPSILON WITH DASIA AND VARIA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1672"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1F54"
+              id="01673"
+              textType="0">
+      <Description>GREEK SMALL LETTER UPSILON WITH PSILI AND OXIA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1673"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1F55"
+              id="01674"
+              textType="0">
+      <Description>GREEK SMALL LETTER UPSILON WITH DASIA AND OXIA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1674"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1F56"
+              id="01675"
+              textType="0">
+      <Description>GREEK SMALL LETTER UPSILON WITH PSILI AND PERISPOMENI</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1675"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1F57"
+              id="01676"
+              textType="0">
+      <Description>GREEK SMALL LETTER UPSILON WITH DASIA AND PERISPOMENI</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1676"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1F59"
+              id="01677"
+              textType="0">
+      <Description>GREEK CAPITAL LETTER UPSILON WITH DASIA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1677"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1F5B"
+              id="01678"
+              textType="0">
+      <Description>GREEK CAPITAL LETTER UPSILON WITH DASIA AND VARIA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1678"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1F5D"
+              id="01679"
+              textType="0">
+      <Description>GREEK CAPITAL LETTER UPSILON WITH DASIA AND OXIA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1679"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1F5F"
+              id="01680"
+              textType="0">
+      <Description>GREEK CAPITAL LETTER UPSILON WITH DASIA AND PERISPOMENI</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1680"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1F60"
+              id="01681"
+              textType="0">
+      <Description>GREEK SMALL LETTER OMEGA WITH PSILI</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1681"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1F61"
+              id="01682"
+              textType="0">
+      <Description>GREEK SMALL LETTER OMEGA WITH DASIA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1682"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1F62"
+              id="01683"
+              textType="0">
+      <Description>GREEK SMALL LETTER OMEGA WITH PSILI AND VARIA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1683"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1F63"
+              id="01684"
+              textType="0">
+      <Description>GREEK SMALL LETTER OMEGA WITH DASIA AND VARIA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1684"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1F64"
+              id="01685"
+              textType="0">
+      <Description>GREEK SMALL LETTER OMEGA WITH PSILI AND OXIA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1685"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1F65"
+              id="01686"
+              textType="0">
+      <Description>GREEK SMALL LETTER OMEGA WITH DASIA AND OXIA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1686"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1F66"
+              id="01687"
+              textType="0">
+      <Description>GREEK SMALL LETTER OMEGA WITH PSILI AND PERISPOMENI</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1687"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1F67"
+              id="01688"
+              textType="0">
+      <Description>GREEK SMALL LETTER OMEGA WITH DASIA AND PERISPOMENI</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1688"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1F68"
+              id="01689"
+              textType="0">
+      <Description>GREEK CAPITAL LETTER OMEGA WITH PSILI</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1689"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1F69"
+              id="01690"
+              textType="0">
+      <Description>GREEK CAPITAL LETTER OMEGA WITH DASIA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1690"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1F6A"
+              id="01691"
+              textType="0">
+      <Description>GREEK CAPITAL LETTER OMEGA WITH PSILI AND VARIA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1691"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1F6B"
+              id="01692"
+              textType="0">
+      <Description>GREEK CAPITAL LETTER OMEGA WITH DASIA AND VARIA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1692"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1F6C"
+              id="01693"
+              textType="0">
+      <Description>GREEK CAPITAL LETTER OMEGA WITH PSILI AND OXIA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1693"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1F6D"
+              id="01694"
+              textType="0">
+      <Description>GREEK CAPITAL LETTER OMEGA WITH DASIA AND OXIA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1694"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1F6E"
+              id="01695"
+              textType="0">
+      <Description>GREEK CAPITAL LETTER OMEGA WITH PSILI AND PERISPOMENI</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1695"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1F6F"
+              id="01696"
+              textType="0">
+      <Description>GREEK CAPITAL LETTER OMEGA WITH DASIA AND PERISPOMENI</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1696"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1F70"
+              id="01697"
+              textType="0">
+      <Description>GREEK SMALL LETTER ALPHA WITH VARIA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1697"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1F71"
+              id="01698"
+              textType="0">
+      <Description>GREEK SMALL LETTER ALPHA WITH OXIA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1698"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1F72"
+              id="01699"
+              textType="0">
+      <Description>GREEK SMALL LETTER EPSILON WITH VARIA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1699"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1F73"
+              id="01700"
+              textType="0">
+      <Description>GREEK SMALL LETTER EPSILON WITH OXIA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1700"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1F74"
+              id="01701"
+              textType="0">
+      <Description>GREEK SMALL LETTER ETA WITH VARIA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1701"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1F75"
+              id="01702"
+              textType="0">
+      <Description>GREEK SMALL LETTER ETA WITH OXIA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1702"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1F76"
+              id="01703"
+              textType="0">
+      <Description>GREEK SMALL LETTER IOTA WITH VARIA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1703"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1F77"
+              id="01704"
+              textType="0">
+      <Description>GREEK SMALL LETTER IOTA WITH OXIA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1704"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1F78"
+              id="01705"
+              textType="0">
+      <Description>GREEK SMALL LETTER OMICRON WITH VARIA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1705"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1F79"
+              id="01706"
+              textType="0">
+      <Description>GREEK SMALL LETTER OMICRON WITH OXIA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1706"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1F7A"
+              id="01707"
+              textType="0">
+      <Description>GREEK SMALL LETTER UPSILON WITH VARIA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1707"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1F7B"
+              id="01708"
+              textType="0">
+      <Description>GREEK SMALL LETTER UPSILON WITH OXIA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1708"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1F7C"
+              id="01709"
+              textType="0">
+      <Description>GREEK SMALL LETTER OMEGA WITH VARIA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1709"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1F7D"
+              id="01710"
+              textType="0">
+      <Description>GREEK SMALL LETTER OMEGA WITH OXIA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1710"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1F80"
+              id="01711"
+              textType="0">
+      <Description>GREEK SMALL LETTER ALPHA WITH PSILI AND YPOGEGRAMMENI</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1711"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1F81"
+              id="01712"
+              textType="0">
+      <Description>GREEK SMALL LETTER ALPHA WITH DASIA AND YPOGEGRAMMENI</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1712"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1F82"
+              id="01713"
+              textType="0">
+      <Description>GREEK SMALL LETTER ALPHA WITH PSILI AND VARIA AND YPOGEGRAMMENI</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1713"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1F83"
+              id="01714"
+              textType="0">
+      <Description>GREEK SMALL LETTER ALPHA WITH DASIA AND VARIA AND YPOGEGRAMMENI</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1714"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1F84"
+              id="01715"
+              textType="0">
+      <Description>GREEK SMALL LETTER ALPHA WITH PSILI AND OXIA AND YPOGEGRAMMENI</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1715"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1F85"
+              id="01716"
+              textType="0">
+      <Description>GREEK SMALL LETTER ALPHA WITH DASIA AND OXIA AND YPOGEGRAMMENI</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1716"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1F86"
+              id="01717"
+              textType="0">
+      <Description>GREEK SMALL LETTER ALPHA WITH PSILI AND PERISPOMENI AND YPOGEGRAMMENI</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1717"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1F87"
+              id="01718"
+              textType="0">
+      <Description>GREEK SMALL LETTER ALPHA WITH DASIA AND PERISPOMENI AND YPOGEGRAMMENI</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1718"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1F88"
+              id="01719"
+              textType="0">
+      <Description>GREEK CAPITAL LETTER ALPHA WITH PSILI AND PROSGEGRAMMENI</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1719"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1F89"
+              id="01720"
+              textType="0">
+      <Description>GREEK CAPITAL LETTER ALPHA WITH DASIA AND PROSGEGRAMMENI</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1720"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1F8A"
+              id="01721"
+              textType="0">
+      <Description>GREEK CAPITAL LETTER ALPHA WITH PSILI AND VARIA AND PROSGEGRAMMENI</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1721"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1F8B"
+              id="01722"
+              textType="0">
+      <Description>GREEK CAPITAL LETTER ALPHA WITH DASIA AND VARIA AND PROSGEGRAMMENI</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1722"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1F8C"
+              id="01723"
+              textType="0">
+      <Description>GREEK CAPITAL LETTER ALPHA WITH PSILI AND OXIA AND PROSGEGRAMMENI</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1723"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1F8D"
+              id="01724"
+              textType="0">
+      <Description>GREEK CAPITAL LETTER ALPHA WITH DASIA AND OXIA AND PROSGEGRAMMENI</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1724"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1F8E"
+              id="01725"
+              textType="0">
+      <Description>GREEK CAPITAL LETTER ALPHA WITH PSILI AND PERISPOMENI AND PROSGEGRAMMENI</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1725"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1F8F"
+              id="01726"
+              textType="0">
+      <Description>GREEK CAPITAL LETTER ALPHA WITH DASIA AND PERISPOMENI AND PROSGEGRAMMENI</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1726"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1F90"
+              id="01727"
+              textType="0">
+      <Description>GREEK SMALL LETTER ETA WITH PSILI AND YPOGEGRAMMENI</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1727"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1F91"
+              id="01728"
+              textType="0">
+      <Description>GREEK SMALL LETTER ETA WITH DASIA AND YPOGEGRAMMENI</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1728"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1F92"
+              id="01729"
+              textType="0">
+      <Description>GREEK SMALL LETTER ETA WITH PSILI AND VARIA AND YPOGEGRAMMENI</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1729"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1F93"
+              id="01730"
+              textType="0">
+      <Description>GREEK SMALL LETTER ETA WITH DASIA AND VARIA AND YPOGEGRAMMENI</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1730"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1F94"
+              id="01731"
+              textType="0">
+      <Description>GREEK SMALL LETTER ETA WITH PSILI AND OXIA AND YPOGEGRAMMENI</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1731"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1F95"
+              id="01732"
+              textType="0">
+      <Description>GREEK SMALL LETTER ETA WITH DASIA AND OXIA AND YPOGEGRAMMENI</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1732"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1F96"
+              id="01733"
+              textType="0">
+      <Description>GREEK SMALL LETTER ETA WITH PSILI AND PERISPOMENI AND YPOGEGRAMMENI</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1733"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1F97"
+              id="01734"
+              textType="0">
+      <Description>GREEK SMALL LETTER ETA WITH DASIA AND PERISPOMENI AND YPOGEGRAMMENI</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1734"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1F98"
+              id="01735"
+              textType="0">
+      <Description>GREEK CAPITAL LETTER ETA WITH PSILI AND PROSGEGRAMMENI</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1735"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1F99"
+              id="01736"
+              textType="0">
+      <Description>GREEK CAPITAL LETTER ETA WITH DASIA AND PROSGEGRAMMENI</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1736"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1F9A"
+              id="01737"
+              textType="0">
+      <Description>GREEK CAPITAL LETTER ETA WITH PSILI AND VARIA AND PROSGEGRAMMENI</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1737"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1F9B"
+              id="01738"
+              textType="0">
+      <Description>GREEK CAPITAL LETTER ETA WITH DASIA AND VARIA AND PROSGEGRAMMENI</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1738"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1F9C"
+              id="01739"
+              textType="0">
+      <Description>GREEK CAPITAL LETTER ETA WITH PSILI AND OXIA AND PROSGEGRAMMENI</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1739"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1F9D"
+              id="01740"
+              textType="0">
+      <Description>GREEK CAPITAL LETTER ETA WITH DASIA AND OXIA AND PROSGEGRAMMENI</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1740"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1F9E"
+              id="01741"
+              textType="0">
+      <Description>GREEK CAPITAL LETTER ETA WITH PSILI AND PERISPOMENI AND PROSGEGRAMMENI</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1741"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1F9F"
+              id="01742"
+              textType="0">
+      <Description>GREEK CAPITAL LETTER ETA WITH DASIA AND PERISPOMENI AND PROSGEGRAMMENI</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1742"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1FA0"
+              id="01743"
+              textType="0">
+      <Description>GREEK SMALL LETTER OMEGA WITH PSILI AND YPOGEGRAMMENI</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1743"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1FA1"
+              id="01744"
+              textType="0">
+      <Description>GREEK SMALL LETTER OMEGA WITH DASIA AND YPOGEGRAMMENI</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1744"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1FA2"
+              id="01745"
+              textType="0">
+      <Description>GREEK SMALL LETTER OMEGA WITH PSILI AND VARIA AND YPOGEGRAMMENI</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1745"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1FA3"
+              id="01746"
+              textType="0">
+      <Description>GREEK SMALL LETTER OMEGA WITH DASIA AND VARIA AND YPOGEGRAMMENI</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1746"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1FA4"
+              id="01747"
+              textType="0">
+      <Description>GREEK SMALL LETTER OMEGA WITH PSILI AND OXIA AND YPOGEGRAMMENI</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1747"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1FA5"
+              id="01748"
+              textType="0">
+      <Description>GREEK SMALL LETTER OMEGA WITH DASIA AND OXIA AND YPOGEGRAMMENI</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1748"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1FA6"
+              id="01749"
+              textType="0">
+      <Description>GREEK SMALL LETTER OMEGA WITH PSILI AND PERISPOMENI AND YPOGEGRAMMENI</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1749"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1FA7"
+              id="01750"
+              textType="0">
+      <Description>GREEK SMALL LETTER OMEGA WITH DASIA AND PERISPOMENI AND YPOGEGRAMMENI</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1750"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1FA8"
+              id="01751"
+              textType="0">
+      <Description>GREEK CAPITAL LETTER OMEGA WITH PSILI AND PROSGEGRAMMENI</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1751"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1FA9"
+              id="01752"
+              textType="0">
+      <Description>GREEK CAPITAL LETTER OMEGA WITH DASIA AND PROSGEGRAMMENI</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1752"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1FAA"
+              id="01753"
+              textType="0">
+      <Description>GREEK CAPITAL LETTER OMEGA WITH PSILI AND VARIA AND PROSGEGRAMMENI</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1753"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1FAB"
+              id="01754"
+              textType="0">
+      <Description>GREEK CAPITAL LETTER OMEGA WITH DASIA AND VARIA AND PROSGEGRAMMENI</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1754"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1FAC"
+              id="01755"
+              textType="0">
+      <Description>GREEK CAPITAL LETTER OMEGA WITH PSILI AND OXIA AND PROSGEGRAMMENI</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1755"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1FAD"
+              id="01756"
+              textType="0">
+      <Description>GREEK CAPITAL LETTER OMEGA WITH DASIA AND OXIA AND PROSGEGRAMMENI</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1756"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1FAE"
+              id="01757"
+              textType="0">
+      <Description>GREEK CAPITAL LETTER OMEGA WITH PSILI AND PERISPOMENI AND PROSGEGRAMMENI</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1757"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1FAF"
+              id="01758"
+              textType="0">
+      <Description>GREEK CAPITAL LETTER OMEGA WITH DASIA AND PERISPOMENI AND PROSGEGRAMMENI</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1758"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1FB0"
+              id="01759"
+              textType="0">
+      <Description>GREEK SMALL LETTER ALPHA WITH VRACHY</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1759"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1FB1"
+              id="01760"
+              textType="0">
+      <Description>GREEK SMALL LETTER ALPHA WITH MACRON</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1760"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1FB2"
+              id="01761"
+              textType="0">
+      <Description>GREEK SMALL LETTER ALPHA WITH VARIA AND YPOGEGRAMMENI</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1761"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1FB3"
+              id="01762"
+              textType="0">
+      <Description>GREEK SMALL LETTER ALPHA WITH YPOGEGRAMMENI</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1762"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1FB4"
+              id="01763"
+              textType="0">
+      <Description>GREEK SMALL LETTER ALPHA WITH OXIA AND YPOGEGRAMMENI</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1763"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1FB6"
+              id="01764"
+              textType="0">
+      <Description>GREEK SMALL LETTER ALPHA WITH PERISPOMENI</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1764"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1FB7"
+              id="01765"
+              textType="0">
+      <Description>GREEK SMALL LETTER ALPHA WITH PERISPOMENI AND YPOGEGRAMMENI</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1765"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1FB8"
+              id="01766"
+              textType="0">
+      <Description>GREEK CAPITAL LETTER ALPHA WITH VRACHY</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1766"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1FB9"
+              id="01767"
+              textType="0">
+      <Description>GREEK CAPITAL LETTER ALPHA WITH MACRON</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1767"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1FBA"
+              id="01768"
+              textType="0">
+      <Description>GREEK CAPITAL LETTER ALPHA WITH VARIA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1768"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1FBB"
+              id="01769"
+              textType="0">
+      <Description>GREEK CAPITAL LETTER ALPHA WITH OXIA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1769"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1FBC"
+              id="01770"
+              textType="0">
+      <Description>GREEK CAPITAL LETTER ALPHA WITH PROSGEGRAMMENI</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1770"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1FBD"
+              id="01771"
+              textType="0">
+      <Description>GREEK KORONIS</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1771"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1FBE"
+              id="01772"
+              textType="0">
+      <Description>GREEK PROSGEGRAMMENI</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1772"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1FBF"
+              id="01773"
+              textType="0">
+      <Description>GREEK PSILI</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1773"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1FC0"
+              id="01774"
+              textType="0">
+      <Description>GREEK PERISPOMENI</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1774"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1FC1"
+              id="01775"
+              textType="0">
+      <Description>GREEK DIALYTIKA AND PERISPOMENI</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1775"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1FC2"
+              id="01776"
+              textType="0">
+      <Description>GREEK SMALL LETTER ETA WITH VARIA AND YPOGEGRAMMENI</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1776"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1FC3"
+              id="01777"
+              textType="0">
+      <Description>GREEK SMALL LETTER ETA WITH YPOGEGRAMMENI</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1777"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1FC4"
+              id="01778"
+              textType="0">
+      <Description>GREEK SMALL LETTER ETA WITH OXIA AND YPOGEGRAMMENI</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1778"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1FC6"
+              id="01779"
+              textType="0">
+      <Description>GREEK SMALL LETTER ETA WITH PERISPOMENI</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1779"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1FC7"
+              id="01780"
+              textType="0">
+      <Description>GREEK SMALL LETTER ETA WITH PERISPOMENI AND YPOGEGRAMMENI</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1780"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1FC8"
+              id="01781"
+              textType="0">
+      <Description>GREEK CAPITAL LETTER EPSILON WITH VARIA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1781"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1FC9"
+              id="01782"
+              textType="0">
+      <Description>GREEK CAPITAL LETTER EPSILON WITH OXIA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1782"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1FCA"
+              id="01783"
+              textType="0">
+      <Description>GREEK CAPITAL LETTER ETA WITH VARIA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1783"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1FCB"
+              id="01784"
+              textType="0">
+      <Description>GREEK CAPITAL LETTER ETA WITH OXIA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1784"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1FCC"
+              id="01785"
+              textType="0">
+      <Description>GREEK CAPITAL LETTER ETA WITH PROSGEGRAMMENI</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1785"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1FCD"
+              id="01786"
+              textType="0">
+      <Description>GREEK PSILI AND VARIA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1786"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1FCE"
+              id="01787"
+              textType="0">
+      <Description>GREEK PSILI AND OXIA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1787"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1FCF"
+              id="01788"
+              textType="0">
+      <Description>GREEK PSILI AND PERISPOMENI</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1788"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1FD0"
+              id="01789"
+              textType="0">
+      <Description>GREEK SMALL LETTER IOTA WITH VRACHY</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1789"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1FD1"
+              id="01790"
+              textType="0">
+      <Description>GREEK SMALL LETTER IOTA WITH MACRON</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1790"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1FD2"
+              id="01791"
+              textType="0">
+      <Description>GREEK SMALL LETTER IOTA WITH DIALYTIKA AND VARIA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1791"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1FD3"
+              id="01792"
+              textType="0">
+      <Description>GREEK SMALL LETTER IOTA WITH DIALYTIKA AND OXIA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1792"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1FD6"
+              id="01793"
+              textType="0">
+      <Description>GREEK SMALL LETTER IOTA WITH PERISPOMENI</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1793"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1FD7"
+              id="01794"
+              textType="0">
+      <Description>GREEK SMALL LETTER IOTA WITH DIALYTIKA AND PERISPOMENI</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1794"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1FD8"
+              id="01795"
+              textType="0">
+      <Description>GREEK CAPITAL LETTER IOTA WITH VRACHY</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1795"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1FD9"
+              id="01796"
+              textType="0">
+      <Description>GREEK CAPITAL LETTER IOTA WITH MACRON</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1796"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1FDA"
+              id="01797"
+              textType="0">
+      <Description>GREEK CAPITAL LETTER IOTA WITH VARIA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1797"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1FDB"
+              id="01798"
+              textType="0">
+      <Description>GREEK CAPITAL LETTER IOTA WITH OXIA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1798"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1FDD"
+              id="01799"
+              textType="0">
+      <Description>GREEK DASIA AND VARIA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1799"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1FDE"
+              id="01800"
+              textType="0">
+      <Description>GREEK DASIA AND OXIA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1800"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1FDF"
+              id="01801"
+              textType="0">
+      <Description>GREEK DASIA AND PERISPOMENI</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1801"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1FE0"
+              id="01802"
+              textType="0">
+      <Description>GREEK SMALL LETTER UPSILON WITH VRACHY</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1802"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1FE1"
+              id="01803"
+              textType="0">
+      <Description>GREEK SMALL LETTER UPSILON WITH MACRON</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1803"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1FE2"
+              id="01804"
+              textType="0">
+      <Description>GREEK SMALL LETTER UPSILON WITH DIALYTIKA AND VARIA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1804"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1FE3"
+              id="01805"
+              textType="0">
+      <Description>GREEK SMALL LETTER UPSILON WITH DIALYTIKA AND OXIA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1805"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1FE4"
+              id="01806"
+              textType="0">
+      <Description>GREEK SMALL LETTER RHO WITH PSILI</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1806"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1FE5"
+              id="01807"
+              textType="0">
+      <Description>GREEK SMALL LETTER RHO WITH DASIA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1807"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1FE6"
+              id="01808"
+              textType="0">
+      <Description>GREEK SMALL LETTER UPSILON WITH PERISPOMENI</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1808"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1FE7"
+              id="01809"
+              textType="0">
+      <Description>GREEK SMALL LETTER UPSILON WITH DIALYTIKA AND PERISPOMENI</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1809"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1FE8"
+              id="01810"
+              textType="0">
+      <Description>GREEK CAPITAL LETTER UPSILON WITH VRACHY</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1810"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1FE9"
+              id="01811"
+              textType="0">
+      <Description>GREEK CAPITAL LETTER UPSILON WITH MACRON</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1811"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1FEA"
+              id="01812"
+              textType="0">
+      <Description>GREEK CAPITAL LETTER UPSILON WITH VARIA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1812"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1FEB"
+              id="01813"
+              textType="0">
+      <Description>GREEK CAPITAL LETTER UPSILON WITH OXIA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1813"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1FEC"
+              id="01814"
+              textType="0">
+      <Description>GREEK CAPITAL LETTER RHO WITH DASIA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1814"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1FED"
+              id="01815"
+              textType="0">
+      <Description>GREEK DIALYTIKA AND VARIA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1815"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1FEE"
+              id="01816"
+              textType="0">
+      <Description>GREEK DIALYTIKA AND OXIA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1816"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1FEF"
+              id="01817"
+              textType="0">
+      <Description>GREEK VARIA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1817"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1FF2"
+              id="01818"
+              textType="0">
+      <Description>GREEK SMALL LETTER OMEGA WITH VARIA AND YPOGEGRAMMENI</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1818"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1FF3"
+              id="01819"
+              textType="0">
+      <Description>GREEK SMALL LETTER OMEGA WITH YPOGEGRAMMENI</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1819"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1FF4"
+              id="01820"
+              textType="0">
+      <Description>GREEK SMALL LETTER OMEGA WITH OXIA AND YPOGEGRAMMENI</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1820"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1FF6"
+              id="01821"
+              textType="0">
+      <Description>GREEK SMALL LETTER OMEGA WITH PERISPOMENI</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1821"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1FF7"
+              id="01822"
+              textType="0">
+      <Description>GREEK SMALL LETTER OMEGA WITH PERISPOMENI AND YPOGEGRAMMENI</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1822"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1FF8"
+              id="01823"
+              textType="0">
+      <Description>GREEK CAPITAL LETTER OMICRON WITH VARIA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1823"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1FF9"
+              id="01824"
+              textType="0">
+      <Description>GREEK CAPITAL LETTER OMICRON WITH OXIA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1824"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1FFA"
+              id="01825"
+              textType="0">
+      <Description>GREEK CAPITAL LETTER OMEGA WITH VARIA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1825"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1FFB"
+              id="01826"
+              textType="0">
+      <Description>GREEK CAPITAL LETTER OMEGA WITH OXIA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1826"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1FFC"
+              id="01827"
+              textType="0">
+      <Description>GREEK CAPITAL LETTER OMEGA WITH PROSGEGRAMMENI</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1827"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1FFD"
+              id="01828"
+              textType="0">
+      <Description>GREEK OXIA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1828"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="1FFE"
+              id="01829"
+              textType="0">
+      <Description>GREEK DASIA</Description>
+   </Parameter>
+</Parameters>

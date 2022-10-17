@@ -70,7 +70,7 @@
    <h2>Download and Installation</h2>
    <p>Here you will find the suitable virtual keyboards for all programs listed. In the zip file you will find them under the program name. To install, unzip the file and follow the instructions of your transcription software. You will find more information under the name of your software.</p>
    <p>Links:
-        <a href="https://github.com/tboenig/keyboardGT/releases/download/v259/keyboardGT-v259.zip">
+        <a href="https://github.com/tboenig/keyboardGT/releases/download/v260/keyboardGT-v260.zip">
             all keyboards as zip file</a>
    </p>
    <details>
@@ -406,6 +406,27 @@
                <a href="keyboards/escriptorium/GkCo.json" target="_blank">GkCo</a>
             </td>
             <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=80"
+                                target="_blank">Browse
+                                charts</a></td>
+         </tr>
+         <tr>
+            <th>Greek Extended</th>
+            <td>
+               <a href="keyboards/aletheia/GkExt.xml" target="_blank">GkExt</a>
+            </td>
+            <td>
+               <a href="keyboards/transkribus/GkExt/virtualKeyboards.xml" target="_blank">GkExt</a>
+            </td>
+            <td>
+               <a href="keyboards/LAREX/GkExt.txt" target="_blank">GkExt</a>
+            </td>
+            <td>
+               <a href="keyboards/qurator-neat/GkExt.txt" target="_blank">GkExt</a>
+            </td>
+            <td>
+               <a href="keyboards/escriptorium/GkExt.json" target="_blank">GkExt</a>
+            </td>
+            <td><a href="https://de.wikipedia.org/wiki/Unicodeblock_Griechisch,_Zusatz"
                                 target="_blank">Browse
                                 charts</a></td>
          </tr>
