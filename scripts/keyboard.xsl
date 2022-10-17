@@ -14,7 +14,7 @@
     </xsl:variable>
 
     <xsl:variable name="MUFIEXPORT">
-        <xsl:copy-of select="json-to-xml(unparsed-text('https://mufi.info/m.php?p=mufiexport'))"/>
+        <xsl:copy-of select="json-to-xml(unparsed-text('../metadata/mufi.json'))"/>
     </xsl:variable>
 
 <xsl:variable name="TComment">
