@@ -70,7 +70,7 @@
    <h2>Download and Installation</h2>
    <p>Here you will find the suitable virtual keyboards for all programs listed. In the zip file you will find them under the program name. To install, unzip the file and follow the instructions of your transcription software. You will find more information under the name of your software.</p>
    <p>Links:
-        <a href="https://github.com/tboenig/keyboardGT/releases/download/v268/keyboardGT-v268.zip">
+        <a href="https://github.com/tboenig/keyboardGT/releases/download/v269/keyboardGT-v269.zip">
             all keyboards as zip file</a>
    </p>
    <details>
