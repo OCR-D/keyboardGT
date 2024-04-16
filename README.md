@@ -1,7 +1,7 @@
 # keyboardGT
 
 The Aletheia document image analysis system, Transkribus, LAREX, QURATOR-neat and eScriptorium offer the possibility to install additional virtual keyboards or to customize them.
-This repository offers about 80 keyboards based on the [MUFI snapshot](https://mufi.info/m.php?p=mufiexport) for download on the [Github page](https://tboenig.github.io/keyboardGT/overview.html).
+This repository offers about 80 keyboards based on the [MUFI snapshot](https://gefin.ku.dk/q.php?q=mufiexport) for download on the [Github page](https://tboenig.github.io/keyboardGT/overview.html).
 
 ## Download your Keyboard
 
