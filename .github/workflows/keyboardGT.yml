@@ -1,8 +1,8 @@
 name: keyboardGT
-'on':
+on:
   push:
-    branches:
-      - main
+    tags:
+      - 'v[0-9]+.[0-9]+.[0-9]+'
   workflow_dispatch:
 jobs:
   cli:
@@ -11,7 +11,7 @@ jobs:
     steps:
 
     - name: Git checkout
-      uses: actions/checkout@v2
+      uses: actions/checkout@v4
 
 
    # Installation and Directories
