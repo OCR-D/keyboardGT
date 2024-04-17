@@ -6,8 +6,8 @@ authors:
     - given-names: Matthias
       family-names: Boenig
       orcid: 'https://orcid.org/0000-0003-4615-4753'
-repository-code: 'https://github.com/tboenig/keyboardGT'
-url: 'https://github.com/tboenig/keyboardGT'
+repository-code: 'https://github.com/OCR-D/keyboardGT'
+url: 'https://github.com/OCR-D/keyboardGT'
 abstract: The Aletheia document image analysis system, Transkribus, LAREX, QURATOR-neat and eScriptorium offer the possibility to install additional virtual keyboards or to customize them. This repository offers about 80 keyboards based on the Medieval Unicode Font Initiative (MUFI) snapshot for download on the Github page.
 keywords:
     - ocr-d
@@ -20,6 +20,6 @@ keywords:
     - qurator-neat
     - page-xml
 license: CC-BY-SA-4.0
-commit: v1.0.1
-version: 275_v1.0.1
+commit: v1.0.2
+version: 276_v1.0.2
 date-released: '2024-04-17'
