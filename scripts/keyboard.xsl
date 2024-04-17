@@ -417,7 +417,7 @@ Names
                             <xsl:when test="fn:current-grouping-key() = 'GkExt'">
                                 <xsl:value-of select="$MUFITABLE//coding/code[@id = fn:current-grouping-key()]/@href"/>
                             </xsl:when>
-                            <xsl:otherwise>https://mufi.info/m.php?<xsl:value-of select="$MUFITABLE//coding/code[@id = fn:current-grouping-key()]/@href"/></xsl:otherwise>
+                            <xsl:otherwise>https://mufi.info/q.php?<xsl:value-of select="$MUFITABLE//coding/code[@id = fn:current-grouping-key()]/@href"/></xsl:otherwise>
                         </xsl:choose>
                         </xsl:variable>
                     <xsl:element name="tr">
