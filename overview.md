@@ -70,7 +70,7 @@
    <h2>Download and Installation</h2>
    <p>Here you will find the suitable virtual keyboards for all programs listed. In the zip file you will find them under the program name. To install, unzip the file and follow the instructions of your transcription software. You will find more information under the name of your software.</p>
    <p>Links:
-        <a href="https://github.com/tboenig/keyboardGT/releases/download/v269/keyboardGT-v269.zip">
+        <a href="https://github.com/tboenig/keyboardGT/releases/download/v270/keyboardGT-v270.zip">
             all keyboards as zip file</a>
    </p>
    <details>
@@ -164,7 +164,7 @@
             <td>
                <a href="keyboards/escriptorium/AlphPresForm.json" target="_blank">AlphPresForm</a>
             </td>
-            <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=40"
+            <td><a href="https://mufi.info/q.php?p=mufi/codecharts/codechart/40"
                                 target="_blank">Browse
                                 charts</a></td>
          </tr>
@@ -186,7 +186,7 @@
             <td>
                <a href="keyboards/escriptorium/AncSymb.json" target="_blank">AncSymb</a>
             </td>
-            <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=75"
+            <td><a href="https://mufi.info/q.php?p=mufi/codecharts/codechart/75"
                                 target="_blank">Browse
                                 charts</a></td>
          </tr>
@@ -208,7 +208,7 @@
             <td>
                <a href="keyboards/escriptorium/Arrows.json" target="_blank">Arrows</a>
             </td>
-            <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=76"
+            <td><a href="https://mufi.info/q.php?p=mufi/codecharts/codechart/76"
                                 target="_blank">Browse
                                 charts</a></td>
          </tr>
@@ -230,7 +230,7 @@
             <td>
                <a href="keyboards/escriptorium/BasLat.json" target="_blank">BasLat</a>
             </td>
-            <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=1"
+            <td><a href="https://mufi.info/q.php?p=mufi/codecharts/codechart/1"
                                 target="_blank">Browse
                                 charts</a></td>
          </tr>
@@ -252,7 +252,7 @@
             <td>
                <a href="keyboards/escriptorium/CombDiaMk.json" target="_blank">CombDiaMk</a>
             </td>
-            <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=58"
+            <td><a href="https://mufi.info/q.php?p=mufi/codecharts/codechart/58"
                                 target="_blank">Browse
                                 charts</a></td>
          </tr>
@@ -274,7 +274,7 @@
             <td>
                <a href="keyboards/escriptorium/CombDiaMkS.json" target="_blank">CombDiaMkS</a>
             </td>
-            <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=59"
+            <td><a href="https://mufi.info/q.php?p=mufi/codecharts/codechart/59"
                                 target="_blank">Browse
                                 charts</a></td>
          </tr>
@@ -296,7 +296,7 @@
             <td>
                <a href="keyboards/escriptorium/CurrSymb.json" target="_blank">CurrSymb</a>
             </td>
-            <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=73"
+            <td><a href="https://mufi.info/q.php?p=mufi/codecharts/codechart/73"
                                 target="_blank">Browse
                                 charts</a></td>
          </tr>
@@ -318,7 +318,7 @@
             <td>
                <a href="keyboards/escriptorium/Dingbats.json" target="_blank">Dingbats</a>
             </td>
-            <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=72"
+            <td><a href="https://mufi.info/q.php?p=mufi/codecharts/codechart/72"
                                 target="_blank">Browse
                                 charts</a></td>
          </tr>
@@ -340,7 +340,7 @@
             <td>
                <a href="keyboards/escriptorium/GenPunct.json" target="_blank">GenPunct</a>
             </td>
-            <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=62"
+            <td><a href="https://mufi.info/q.php?p=mufi/codecharts/codechart/62"
                                 target="_blank">Browse
                                 charts</a></td>
          </tr>
@@ -362,7 +362,7 @@
             <td>
                <a href="keyboards/escriptorium/GeomShap.json" target="_blank">GeomShap</a>
             </td>
-            <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=77"
+            <td><a href="https://mufi.info/q.php?p=mufi/codecharts/codechart/77"
                                 target="_blank">Browse
                                 charts</a></td>
          </tr>
@@ -384,7 +384,7 @@
             <td>
                <a href="keyboards/escriptorium/Georgian.json" target="_blank">Georgian</a>
             </td>
-            <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=66"
+            <td><a href="https://mufi.info/q.php?p=mufi/codecharts/codechart/66"
                                 target="_blank">Browse
                                 charts</a></td>
          </tr>
@@ -405,7 +405,7 @@
             <td>
                <a href="keyboards/escriptorium/GkCo.json" target="_blank">GkCo</a>
             </td>
-            <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=80"
+            <td><a href="https://mufi.info/q.php?p=mufi/codecharts/codechart/80"
                                 target="_blank">Browse
                                 charts</a></td>
          </tr>
@@ -448,7 +448,7 @@
             <td>
                <a href="keyboards/escriptorium/IPAExt.json" target="_blank">IPAExt</a>
             </td>
-            <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=28"
+            <td><a href="https://mufi.info/q.php?p=mufi/codecharts/codechart/28"
                                 target="_blank">Browse
                                 charts</a></td>
          </tr>
@@ -470,7 +470,7 @@
             <td>
                <a href="keyboards/escriptorium/Lat1Suppl.json" target="_blank">Lat1Suppl</a>
             </td>
-            <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=4"
+            <td><a href="https://mufi.info/q.php?p=mufi/codecharts/codechart/4"
                                 target="_blank">Browse
                                 charts</a></td>
          </tr>
@@ -492,7 +492,7 @@
             <td>
                <a href="keyboards/escriptorium/LatExtA.json" target="_blank">LatExtA</a>
             </td>
-            <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=5"
+            <td><a href="https://mufi.info/q.php?p=mufi/codecharts/codechart/5"
                                 target="_blank">Browse
                                 charts</a></td>
          </tr>
@@ -514,7 +514,7 @@
             <td>
                <a href="keyboards/escriptorium/LatExtAdd.json" target="_blank">LatExtAdd</a>
             </td>
-            <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=7"
+            <td><a href="https://mufi.info/q.php?p=mufi/codecharts/codechart/7"
                                 target="_blank">Browse
                                 charts</a></td>
          </tr>
@@ -536,7 +536,7 @@
             <td>
                <a href="keyboards/escriptorium/LatExtB.json" target="_blank">LatExtB</a>
             </td>
-            <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=8"
+            <td><a href="https://mufi.info/q.php?p=mufi/codecharts/codechart/8"
                                 target="_blank">Browse
                                 charts</a></td>
          </tr>
@@ -558,7 +558,7 @@
             <td>
                <a href="keyboards/escriptorium/LatExtC.json" target="_blank">LatExtC</a>
             </td>
-            <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=43"
+            <td><a href="https://mufi.info/q.php?p=mufi/codecharts/codechart/43"
                                 target="_blank">Browse
                                 charts</a></td>
          </tr>
@@ -580,7 +580,7 @@
             <td>
                <a href="keyboards/escriptorium/LatExtD.json" target="_blank">LatExtD</a>
             </td>
-            <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=18"
+            <td><a href="https://mufi.info/q.php?p=mufi/codecharts/codechart/18"
                                 target="_blank">Browse
                                 charts</a></td>
          </tr>
@@ -602,7 +602,7 @@
             <td>
                <a href="keyboards/escriptorium/LatExtE.json" target="_blank">LatExtE</a>
             </td>
-            <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=82"
+            <td><a href="https://mufi.info/q.php?p=mufi/codecharts/codechart/82"
                                 target="_blank">Browse
                                 charts</a></td>
          </tr>
@@ -624,7 +624,7 @@
             <td>
                <a href="keyboards/escriptorium/LettSymb.json" target="_blank">LettSymb</a>
             </td>
-            <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=41"
+            <td><a href="https://mufi.info/q.php?p=mufi/codecharts/codechart/41"
                                 target="_blank">Browse
                                 charts</a></td>
          </tr>
@@ -646,7 +646,7 @@
             <td>
                <a href="keyboards/escriptorium/MathOp.json" target="_blank">MathOp</a>
             </td>
-            <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=64"
+            <td><a href="https://mufi.info/q.php?p=mufi/codecharts/codechart/64"
                                 target="_blank">Browse
                                 charts</a></td>
          </tr>
@@ -668,7 +668,7 @@
             <td>
                <a href="keyboards/escriptorium/MiMaSymbA.json" target="_blank">MiMaSymbA</a>
             </td>
-            <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=70"
+            <td><a href="https://mufi.info/q.php?p=mufi/codecharts/codechart/70"
                                 target="_blank">Browse
                                 charts</a></td>
          </tr>
@@ -690,7 +690,7 @@
             <td>
                <a href="keyboards/escriptorium/MiscTech.json" target="_blank">MiscTech</a>
             </td>
-            <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=78"
+            <td><a href="https://mufi.info/q.php?p=mufi/codecharts/codechart/78"
                                 target="_blank">Browse
                                 charts</a></td>
          </tr>
@@ -712,7 +712,7 @@
             <td>
                <a href="keyboards/escriptorium/NumbFo.json" target="_blank">NumbFo</a>
             </td>
-            <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=30"
+            <td><a href="https://mufi.info/q.php?p=mufi/codecharts/codechart/30"
                                 target="_blank">Browse
                                 charts</a></td>
          </tr>
@@ -733,7 +733,7 @@
             <td>
                <a href="keyboards/escriptorium/PUA-1.json" target="_blank">PUA-1</a>
             </td>
-            <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=19"
+            <td><a href="https://mufi.info/q.php?p=mufi/codecharts/codechart/19"
                                 target="_blank">Browse
                                 charts</a></td>
          </tr>
@@ -755,7 +755,7 @@
             <td>
                <a href="keyboards/escriptorium/PUA-10.json" target="_blank">PUA-10</a>
             </td>
-            <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=79"
+            <td><a href="https://mufi.info/q.php?p=mufi/codecharts/codechart/79"
                                 target="_blank">Browse
                                 charts</a></td>
          </tr>
@@ -777,7 +777,7 @@
             <td>
                <a href="keyboards/escriptorium/PUA-11.json" target="_blank">PUA-11</a>
             </td>
-            <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=57"
+            <td><a href="https://mufi.info/q.php?p=mufi/codecharts/codechart/57"
                                 target="_blank">Browse
                                 charts</a></td>
          </tr>
@@ -799,7 +799,7 @@
             <td>
                <a href="keyboards/escriptorium/PUA-12.json" target="_blank">PUA-12</a>
             </td>
-            <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=74"
+            <td><a href="https://mufi.info/q.php?p=mufi/codecharts/codechart/74"
                                 target="_blank">Browse
                                 charts</a></td>
          </tr>
@@ -821,7 +821,7 @@
             <td>
                <a href="keyboards/escriptorium/PUA-13.json" target="_blank">PUA-13</a>
             </td>
-            <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=47"
+            <td><a href="https://mufi.info/q.php?p=mufi/codecharts/codechart/47"
                                 target="_blank">Browse
                                 charts</a></td>
          </tr>
@@ -843,7 +843,7 @@
             <td>
                <a href="keyboards/escriptorium/PUA-14.json" target="_blank">PUA-14</a>
             </td>
-            <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=84"
+            <td><a href="https://mufi.info/q.php?p=mufi/codecharts/codechart/84"
                                 target="_blank">Browse
                                 charts</a></td>
          </tr>
@@ -865,7 +865,7 @@
             <td>
                <a href="keyboards/escriptorium/PUA-15.json" target="_blank">PUA-15</a>
             </td>
-            <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=29"
+            <td><a href="https://mufi.info/q.php?p=mufi/codecharts/codechart/29"
                                 target="_blank">Browse
                                 charts</a></td>
          </tr>
@@ -887,7 +887,7 @@
             <td>
                <a href="keyboards/escriptorium/PUA-16.json" target="_blank">PUA-16</a>
             </td>
-            <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=22"
+            <td><a href="https://mufi.info/q.php?p=mufi/codecharts/codechart/22"
                                 target="_blank">Browse
                                 charts</a></td>
          </tr>
@@ -909,7 +909,7 @@
             <td>
                <a href="keyboards/escriptorium/PUA-17.json" target="_blank">PUA-17</a>
             </td>
-            <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=12"
+            <td><a href="https://mufi.info/q.php?p=mufi/codecharts/codechart/12"
                                 target="_blank">Browse
                                 charts</a></td>
          </tr>
@@ -931,7 +931,7 @@
             <td>
                <a href="keyboards/escriptorium/PUA-18.json" target="_blank">PUA-18</a>
             </td>
-            <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=21"
+            <td><a href="https://mufi.info/q.php?p=mufi/codecharts/codechart/21"
                                 target="_blank">Browse
                                 charts</a></td>
          </tr>
@@ -953,7 +953,7 @@
             <td>
                <a href="keyboards/escriptorium/PUA-19.json" target="_blank">PUA-19</a>
             </td>
-            <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=20"
+            <td><a href="https://mufi.info/q.php?p=mufi/codecharts/codechart/20"
                                 target="_blank">Browse
                                 charts</a></td>
          </tr>
@@ -974,7 +974,7 @@
             <td>
                <a href="keyboards/escriptorium/PUA-2.json" target="_blank">PUA-2</a>
             </td>
-            <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=51"
+            <td><a href="https://mufi.info/q.php?p=mufi/codecharts/codechart/51"
                                 target="_blank">Browse
                                 charts</a></td>
          </tr>
@@ -996,7 +996,7 @@
             <td>
                <a href="keyboards/escriptorium/PUA-20.json" target="_blank">PUA-20</a>
             </td>
-            <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=9"
+            <td><a href="https://mufi.info/q.php?p=mufi/codecharts/codechart/9"
                                 target="_blank">Browse
                                 charts</a></td>
          </tr>
@@ -1018,7 +1018,7 @@
             <td>
                <a href="keyboards/escriptorium/PUA-21.json" target="_blank">PUA-21</a>
             </td>
-            <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=6"
+            <td><a href="https://mufi.info/q.php?p=mufi/codecharts/codechart/6"
                                 target="_blank">Browse
                                 charts</a></td>
          </tr>
@@ -1040,7 +1040,7 @@
             <td>
                <a href="keyboards/escriptorium/PUA-22.json" target="_blank">PUA-22</a>
             </td>
-            <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=24"
+            <td><a href="https://mufi.info/q.php?p=mufi/codecharts/codechart/24"
                                 target="_blank">Browse
                                 charts</a></td>
          </tr>
@@ -1062,7 +1062,7 @@
             <td>
                <a href="keyboards/escriptorium/PUA-23.json" target="_blank">PUA-23</a>
             </td>
-            <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=26"
+            <td><a href="https://mufi.info/q.php?p=mufi/codecharts/codechart/26"
                                 target="_blank">Browse
                                 charts</a></td>
          </tr>
@@ -1084,7 +1084,7 @@
             <td>
                <a href="keyboards/escriptorium/PUA-24.json" target="_blank">PUA-24</a>
             </td>
-            <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=44"
+            <td><a href="https://mufi.info/q.php?p=mufi/codecharts/codechart/44"
                                 target="_blank">Browse
                                 charts</a></td>
          </tr>
@@ -1106,7 +1106,7 @@
             <td>
                <a href="keyboards/escriptorium/PUA-25.json" target="_blank">PUA-25</a>
             </td>
-            <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=39"
+            <td><a href="https://mufi.info/q.php?p=mufi/codecharts/codechart/39"
                                 target="_blank">Browse
                                 charts</a></td>
          </tr>
@@ -1128,7 +1128,7 @@
             <td>
                <a href="keyboards/escriptorium/PUA-26.json" target="_blank">PUA-26</a>
             </td>
-            <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=25"
+            <td><a href="https://mufi.info/q.php?p=mufi/codecharts/codechart/25"
                                 target="_blank">Browse
                                 charts</a></td>
          </tr>
@@ -1150,7 +1150,7 @@
             <td>
                <a href="keyboards/escriptorium/PUA-27.json" target="_blank">PUA-27</a>
             </td>
-            <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=46"
+            <td><a href="https://mufi.info/q.php?p=mufi/codecharts/codechart/46"
                                 target="_blank">Browse
                                 charts</a></td>
          </tr>
@@ -1172,7 +1172,7 @@
             <td>
                <a href="keyboards/escriptorium/PUA-28.json" target="_blank">PUA-28</a>
             </td>
-            <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=52"
+            <td><a href="https://mufi.info/q.php?p=mufi/codecharts/codechart/52"
                                 target="_blank">Browse
                                 charts</a></td>
          </tr>
@@ -1194,7 +1194,7 @@
             <td>
                <a href="keyboards/escriptorium/PUA-29.json" target="_blank">PUA-29</a>
             </td>
-            <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=55"
+            <td><a href="https://mufi.info/q.php?p=mufi/codecharts/codechart/55"
                                 target="_blank">Browse
                                 charts</a></td>
          </tr>
@@ -1215,7 +1215,7 @@
             <td>
                <a href="keyboards/escriptorium/PUA-3.json" target="_blank">PUA-3</a>
             </td>
-            <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=2"
+            <td><a href="https://mufi.info/q.php?p=mufi/codecharts/codechart/2"
                                 target="_blank">Browse
                                 charts</a></td>
          </tr>
@@ -1237,7 +1237,7 @@
             <td>
                <a href="keyboards/escriptorium/PUA-30.json" target="_blank">PUA-30</a>
             </td>
-            <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=54"
+            <td><a href="https://mufi.info/q.php?p=mufi/codecharts/codechart/54"
                                 target="_blank">Browse
                                 charts</a></td>
          </tr>
@@ -1259,7 +1259,7 @@
             <td>
                <a href="keyboards/escriptorium/PUA-31.json" target="_blank">PUA-31</a>
             </td>
-            <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=27"
+            <td><a href="https://mufi.info/q.php?p=mufi/codecharts/codechart/27"
                                 target="_blank">Browse
                                 charts</a></td>
          </tr>
@@ -1281,7 +1281,7 @@
             <td>
                <a href="keyboards/escriptorium/PUA-32.json" target="_blank">PUA-32</a>
             </td>
-            <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=13"
+            <td><a href="https://mufi.info/q.php?p=mufi/codecharts/codechart/13"
                                 target="_blank">Browse
                                 charts</a></td>
          </tr>
@@ -1303,7 +1303,7 @@
             <td>
                <a href="keyboards/escriptorium/PUA-33.json" target="_blank">PUA-33</a>
             </td>
-            <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=35"
+            <td><a href="https://mufi.info/q.php?p=mufi/codecharts/codechart/35"
                                 target="_blank">Browse
                                 charts</a></td>
          </tr>
@@ -1325,7 +1325,7 @@
             <td>
                <a href="keyboards/escriptorium/PUA-34.json" target="_blank">PUA-34</a>
             </td>
-            <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=50"
+            <td><a href="https://mufi.info/q.php?p=mufi/codecharts/codechart/50"
                                 target="_blank">Browse
                                 charts</a></td>
          </tr>
@@ -1347,7 +1347,7 @@
             <td>
                <a href="keyboards/escriptorium/PUA-35.json" target="_blank">PUA-35</a>
             </td>
-            <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=48"
+            <td><a href="https://mufi.info/q.php?p=mufi/codecharts/codechart/48"
                                 target="_blank">Browse
                                 charts</a></td>
          </tr>
@@ -1369,7 +1369,7 @@
             <td>
                <a href="keyboards/escriptorium/PUA-36.json" target="_blank">PUA-36</a>
             </td>
-            <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=11"
+            <td><a href="https://mufi.info/q.php?p=mufi/codecharts/codechart/11"
                                 target="_blank">Browse
                                 charts</a></td>
          </tr>
@@ -1391,7 +1391,7 @@
             <td>
                <a href="keyboards/escriptorium/PUA-37.json" target="_blank">PUA-37</a>
             </td>
-            <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=37"
+            <td><a href="https://mufi.info/q.php?p=mufi/codecharts/codechart/37"
                                 target="_blank">Browse
                                 charts</a></td>
          </tr>
@@ -1413,7 +1413,7 @@
             <td>
                <a href="keyboards/escriptorium/PUA-38.json" target="_blank">PUA-38</a>
             </td>
-            <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=32"
+            <td><a href="https://mufi.info/q.php?p=mufi/codecharts/codechart/32"
                                 target="_blank">Browse
                                 charts</a></td>
          </tr>
@@ -1435,7 +1435,7 @@
             <td>
                <a href="keyboards/escriptorium/PUA-39.json" target="_blank">PUA-39</a>
             </td>
-            <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=33"
+            <td><a href="https://mufi.info/q.php?p=mufi/codecharts/codechart/33"
                                 target="_blank">Browse
                                 charts</a></td>
          </tr>
@@ -1456,7 +1456,7 @@
             <td>
                <a href="keyboards/escriptorium/PUA-4.json" target="_blank">PUA-4</a>
             </td>
-            <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=63"
+            <td><a href="https://mufi.info/q.php?p=mufi/codecharts/codechart/63"
                                 target="_blank">Browse
                                 charts</a></td>
          </tr>
@@ -1478,7 +1478,7 @@
             <td>
                <a href="keyboards/escriptorium/PUA-40.json" target="_blank">PUA-40</a>
             </td>
-            <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=34"
+            <td><a href="https://mufi.info/q.php?p=mufi/codecharts/codechart/34"
                                 target="_blank">Browse
                                 charts</a></td>
          </tr>
@@ -1500,7 +1500,7 @@
             <td>
                <a href="keyboards/escriptorium/PUA-41.json" target="_blank">PUA-41</a>
             </td>
-            <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=14"
+            <td><a href="https://mufi.info/q.php?p=mufi/codecharts/codechart/14"
                                 target="_blank">Browse
                                 charts</a></td>
          </tr>
@@ -1522,7 +1522,7 @@
             <td>
                <a href="keyboards/escriptorium/PUA-42.json" target="_blank">PUA-42</a>
             </td>
-            <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=10"
+            <td><a href="https://mufi.info/q.php?p=mufi/codecharts/codechart/10"
                                 target="_blank">Browse
                                 charts</a></td>
          </tr>
@@ -1544,7 +1544,7 @@
             <td>
                <a href="keyboards/escriptorium/PUA-43.json" target="_blank">PUA-43</a>
             </td>
-            <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=31"
+            <td><a href="https://mufi.info/q.php?p=mufi/codecharts/codechart/31"
                                 target="_blank">Browse
                                 charts</a></td>
          </tr>
@@ -1566,7 +1566,7 @@
             <td>
                <a href="keyboards/escriptorium/PUA-44.json" target="_blank">PUA-44</a>
             </td>
-            <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=38"
+            <td><a href="https://mufi.info/q.php?p=mufi/codecharts/codechart/38"
                                 target="_blank">Browse
                                 charts</a></td>
          </tr>
@@ -1588,7 +1588,7 @@
             <td>
                <a href="keyboards/escriptorium/PUA-45.json" target="_blank">PUA-45</a>
             </td>
-            <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=15"
+            <td><a href="https://mufi.info/q.php?p=mufi/codecharts/codechart/15"
                                 target="_blank">Browse
                                 charts</a></td>
          </tr>
@@ -1610,7 +1610,7 @@
             <td>
                <a href="keyboards/escriptorium/PUA-46.json" target="_blank">PUA-46</a>
             </td>
-            <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=16"
+            <td><a href="https://mufi.info/q.php?p=mufi/codecharts/codechart/16"
                                 target="_blank">Browse
                                 charts</a></td>
          </tr>
@@ -1632,7 +1632,7 @@
             <td>
                <a href="keyboards/escriptorium/PUA-47.json" target="_blank">PUA-47</a>
             </td>
-            <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=17"
+            <td><a href="https://mufi.info/q.php?p=mufi/codecharts/codechart/17"
                                 target="_blank">Browse
                                 charts</a></td>
          </tr>
@@ -1654,7 +1654,7 @@
             <td>
                <a href="keyboards/escriptorium/PUA-48.json" target="_blank">PUA-48</a>
             </td>
-            <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=36"
+            <td><a href="https://mufi.info/q.php?p=mufi/codecharts/codechart/36"
                                 target="_blank">Browse
                                 charts</a></td>
          </tr>
@@ -1675,7 +1675,7 @@
             <td>
                <a href="keyboards/escriptorium/PUA-5.json" target="_blank">PUA-5</a>
             </td>
-            <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=42"
+            <td><a href="https://mufi.info/q.php?p=mufi/codecharts/codechart/42"
                                 target="_blank">Browse
                                 charts</a></td>
          </tr>
@@ -1697,7 +1697,7 @@
             <td>
                <a href="keyboards/escriptorium/PUA-51.json" target="_blank">PUA-51</a>
             </td>
-            <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=83"
+            <td><a href="https://mufi.info/q.php?p=mufi/codecharts/codechart/83"
                                 target="_blank">Browse
                                 charts</a></td>
          </tr>
@@ -1718,7 +1718,7 @@
             <td>
                <a href="keyboards/escriptorium/PUA-6.json" target="_blank">PUA-6</a>
             </td>
-            <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=61"
+            <td><a href="https://mufi.info/q.php?p=mufi/codecharts/codechart/61"
                                 target="_blank">Browse
                                 charts</a></td>
          </tr>
@@ -1739,7 +1739,7 @@
             <td>
                <a href="keyboards/escriptorium/PUA-7.json" target="_blank">PUA-7</a>
             </td>
-            <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=60"
+            <td><a href="https://mufi.info/q.php?p=mufi/codecharts/codechart/60"
                                 target="_blank">Browse
                                 charts</a></td>
          </tr>
@@ -1760,7 +1760,7 @@
             <td>
                <a href="keyboards/escriptorium/PUA-8.json" target="_blank">PUA-8</a>
             </td>
-            <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=71"
+            <td><a href="https://mufi.info/q.php?p=mufi/codecharts/codechart/71"
                                 target="_blank">Browse
                                 charts</a></td>
          </tr>
@@ -1781,7 +1781,7 @@
             <td>
                <a href="keyboards/escriptorium/PUA-9.json" target="_blank">PUA-9</a>
             </td>
-            <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=67"
+            <td><a href="https://mufi.info/q.php?p=mufi/codecharts/codechart/67"
                                 target="_blank">Browse
                                 charts</a></td>
          </tr>
@@ -1803,7 +1803,7 @@
             <td>
                <a href="keyboards/escriptorium/PhonExt.json" target="_blank">PhonExt</a>
             </td>
-            <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=3"
+            <td><a href="https://mufi.info/q.php?p=mufi/codecharts/codechart/3"
                                 target="_blank">Browse
                                 charts</a></td>
          </tr>
@@ -1824,7 +1824,7 @@
             <td>
                <a href="keyboards/escriptorium/Run.json" target="_blank">Run</a>
             </td>
-            <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=65"
+            <td><a href="https://mufi.info/q.php?p=mufi/codecharts/codechart/65"
                                 target="_blank">Browse
                                 charts</a></td>
          </tr>
@@ -1846,7 +1846,7 @@
             <td>
                <a href="keyboards/escriptorium/SpModLet.json" target="_blank">SpModLet</a>
             </td>
-            <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=56"
+            <td><a href="https://mufi.info/q.php?p=mufi/codecharts/codechart/56"
                                 target="_blank">Browse
                                 charts</a></td>
          </tr>
@@ -1868,7 +1868,7 @@
             <td>
                <a href="keyboards/escriptorium/SupSub.json" target="_blank">SupSub</a>
             </td>
-            <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=81"
+            <td><a href="https://mufi.info/q.php?p=mufi/codecharts/codechart/81"
                                 target="_blank">Browse
                                 charts</a></td>
          </tr>
@@ -1890,7 +1890,7 @@
             <td>
                <a href="keyboards/escriptorium/SupplMathOp.json" target="_blank">SupplMathOp</a>
             </td>
-            <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=68"
+            <td><a href="https://mufi.info/q.php?p=mufi/codecharts/codechart/68"
                                 target="_blank">Browse
                                 charts</a></td>
          </tr>
@@ -1912,7 +1912,7 @@
             <td>
                <a href="keyboards/escriptorium/SupplPunct.json" target="_blank">SupplPunct</a>
             </td>
-            <td><a href="https://mufi.info/m.php?p=mufichars&i=3&v=69"
+            <td><a href="https://mufi.info/q.php?p=mufi/codecharts/codechart/69"
                                 target="_blank">Browse
                                 charts</a></td>
          </tr>
