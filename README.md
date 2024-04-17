@@ -6,7 +6,7 @@ This repository offers about 80 keyboards based on the [MUFI snapshot](https://g
 ## Download your Keyboard
 
 You can download the suitable keyboard here.
-### 🖮  https://tboenig.github.io/keyboardGT/overview.html 🖮
+### 🖮  https://ocr-d.de/keyboardGT/overview.html 🖮
 
 
 ## In-house Keyboard Production
