@@ -16,10 +16,19 @@ jobs:
 
    # Installation and Directories
 
+    - name: Get SDK Version from config
+      id: lookupSdkVersion
+      uses: mikefarah/yq@master
+      with:
+        cmd: |
+          yq -o=json CITATION.cff > CITATION.json
+    
+    
+    
     - name: Download and install saxon
       run: |
-       wget https://sourceforge.net/projects/saxon/files/Saxon-HE/10/Java/SaxonHE10-5J.zip/download
-       unzip download
+         wget https://github.com/Saxonica/Saxon-HE/releases/download/SaxonHE12-3/SaxonHE12-3J.zip 
+         unzip SaxonHE12-3J.zip
 
 
     - name: Make gh-pages_out, keyboards, doc folder
@@ -38,41 +47,55 @@ jobs:
 
     - name: Transform MUFI snapshot to Aletheia keyboard
       run: |
-        java -jar saxon-he-10.5.jar -xsl:scripts/keyboard.xsl output=keyboards \
+        java -jar saxon-he-12.3.jar -xsl:scripts/keyboard.xsl output=keyboards \
         -s:scripts/keyboard.xsl
       shell: bash
 
     - name: Transform MUFI snapshot to Transkribus keyboard
       run: |
-        java -jar saxon-he-10.5.jar -xsl:scripts/keyboard.xsl output=tkeyboards \
+        java -jar saxon-he-12.3.jar -xsl:scripts/keyboard.xsl output=tkeyboards \
         -s:scripts/keyboard.xsl
       shell: bash
 
 
     - name: Transform MUFI snapshot to LAREX keyboard
       run: |
-        java -jar saxon-he-10.5.jar -xsl:scripts/keyboard.xsl output=lkeyboards \
+        java -jar saxon-he-12.3.jar -xsl:scripts/keyboard.xsl output=lkeyboards \
         -s:scripts/keyboard.xsl
       shell: bash
 
 
     - name: Transform MUFI snapshot to qurator-neat keyboard
       run: |
-        java -jar saxon-he-10.5.jar -xsl:scripts/keyboard.xsl output=qkeyboards \
+        java -jar saxon-he-12.3.jar -xsl:scripts/keyboard.xsl output=qkeyboards \
         -s:scripts/keyboard.xsl
       shell: bash
 
     - name: Transform MUFI snapshot to eScriptorium keyboard
       run: |
-        java -jar saxon-he-10.5.jar -xsl:scripts/keyboard.xsl output=ekeyboards \
+        java -jar saxon-he-12.3.jar -xsl:scripts/keyboard.xsl output=ekeyboards \
         -s:scripts/keyboard.xsl
       shell: bash
 
     - name: Make compressed table view
       run: |
-        java -jar saxon-he-10.5.jar -xsl:scripts/keyboard.xsl output=keytable release=$GITHUB_RUN_NUMBER \
+        java -jar saxon-he-12.3.jar -xsl:scripts/keyboard.xsl output=keytable release=$GITHUB_RUN_NUMBER \
         -s:scripts/keyboard.xsl -o:ghout/overview.md
       shell: bash
+
+    - name: generate CITATION.cff
+      run: |
+        java -jar saxon-he-12.3.jar -xsl:scripts/metadata.xsl \
+        output=CITATION repoBase=$GITHUB_REF_Name repoName=$GITHUB_REPOSITORY bagitDumpNum=$GITHUB_RUN_NUMBER releaseTag=$GITHUB_REF_NAME \
+        -s:scripts/metadata.xsl -o:rawCITATION.cff
+      shell: bash
+
+     - name: formating CITATION.cff
+       id: lookupSdkVersion2
+       uses: mikefarah/yq@master
+       with:
+        cmd: |
+          yq -I4 rawCITATION.cff > CITATION.cff    
 
    # GH-style
 
@@ -101,7 +124,20 @@ jobs:
       with:
           tag_name: v${{ github.run_number }}
           release_name: Keyboard-zip-package (Release${{ github.run_number }})
-          body_path: CHANGELOG.md
+          body: |
+            <dl>
+            <dt>Version:</dt> 
+            <dd>Keyboard-zip-package (Release${{ github.run_number }}_${{ github.ref_name }})</dd>
+            <dt>Info:</dt>
+            <dd>
+            The file Keyboard-zip-package-v${{ github.run_number }}.zip is a zip archive file.<br/>
+            <ul><li>If you wish to use the rules, this file must first be unpacked.</li>
+            <li>The archive file contains virtual keyboards for various transcription editors or tools.</li>
+            <li>The keyboards are categorized according to the MUFI category scheme.</li>
+            <li>The column <i>💁 Browse by code chart (Link to MUFI)</i> provides an overview of the scope of the respective keyboard.</li></ul>
+            </dd>
+            </dl>
+            </dl>
           draft: false
           prerelease: false
 
@@ -115,6 +151,14 @@ jobs:
           asset_path: ./site.zip
           asset_name: keyboardGT-v${{ github.run_number }}.zip
           asset_content_type: application/zip
+
+     - name: Commit CITATION.cff
+      run: |
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add CITATION.cff
+          git commit -m "[Automatic] Update CITATION.cff files" || echo "Nothing to update"
+          git push origin HEAD:main     
 
 
     - name: Deploy GT-Overview to GitHub Pages
