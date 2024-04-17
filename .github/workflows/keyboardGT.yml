@@ -90,10 +90,10 @@ jobs:
         -s:scripts/metadata.xsl -o:rawCITATION.cff
       shell: bash
 
-     - name: formating CITATION.cff
-       id: lookupSdkVersion2
-       uses: mikefarah/yq@master
-       with:
+    - name: formating CITATION.cff
+      id: lookupSdkVersion2
+      uses: mikefarah/yq@master
+      with:
         cmd: |
           yq -I4 rawCITATION.cff > CITATION.cff    
 
@@ -152,7 +152,7 @@ jobs:
           asset_name: keyboardGT-v${{ github.run_number }}.zip
           asset_content_type: application/zip
 
-     - name: Commit CITATION.cff
+    - name: Commit CITATION.cff
       run: |
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
