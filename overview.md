@@ -70,7 +70,7 @@
    <h2>Download and Installation</h2>
    <p>Here you will find the suitable virtual keyboards for all programs listed. In the zip file you will find them under the program name. To install, unzip the file and follow the instructions of your transcription software. You will find more information under the name of your software.</p>
    <p>Links:
-        <a href="https://github.com/tboenig/keyboardGT/releases/download/v277/keyboardGT-v277.zip">
+        <a href="https://github.com/tboenig/keyboardGT/releases/download/v279/keyboardGT-v279.zip">
             all keyboards as zip file</a>
    </p>
    <details>
@@ -431,7 +431,7 @@
                                 charts</a></td>
          </tr>
          <tr>
-            <th/>
+            <th>Hebrew</th>
             <td>
                <a href="keyboards/aletheia/Hebrew.xml" target="_blank">Hebrew</a>
             </td>
@@ -448,12 +448,12 @@
             <td>
                <a href="keyboards/escriptorium/Hebrew.json" target="_blank">Hebrew</a>
             </td>
-            <td><a href="https://mufi.info/q.php?"
+            <td><a href="https://mufi.info/q.php?https://en.wikipedia.org/wiki/Unicode_and_HTML_for_the_Hebrew_alphabet"
                                 target="_blank">Browse
                                 charts</a></td>
          </tr>
          <tr>
-            <th/>
+            <th>Hebrew subset of Alphabetic Presentation Forms</th>
             <td>
                <a href="keyboards/aletheia/HebrewPres.xml" target="_blank">HebrewPres</a>
             </td>
@@ -470,7 +470,7 @@
             <td>
                <a href="keyboards/escriptorium/HebrewPres.json" target="_blank">HebrewPres</a>
             </td>
-            <td><a href="https://mufi.info/q.php?"
+            <td><a href="https://mufi.info/q.php?https://en.wikipedia.org/wiki/Unicode_and_HTML_for_the_Hebrew_alphabet"
                                 target="_blank">Browse
                                 charts</a></td>
          </tr>
