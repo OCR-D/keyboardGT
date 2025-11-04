@@ -70,7 +70,7 @@
    <h2>Download and Installation</h2>
    <p>Here you will find the suitable virtual keyboards for all programs listed. In the zip file you will find them under the program name. To install, unzip the file and follow the instructions of your transcription software. You will find more information under the name of your software.</p>
    <p>Links:
-        <a href="https://github.com/tboenig/keyboardGT/releases/download/v276/keyboardGT-v276.zip">
+        <a href="https://github.com/tboenig/keyboardGT/releases/download/v277/keyboardGT-v277.zip">
             all keyboards as zip file</a>
    </p>
    <details>
@@ -427,6 +427,50 @@
                <a href="keyboards/escriptorium/GkExt.json" target="_blank">GkExt</a>
             </td>
             <td><a href="https://de.wikipedia.org/wiki/Unicodeblock_Griechisch,_Zusatz"
+                                target="_blank">Browse
+                                charts</a></td>
+         </tr>
+         <tr>
+            <th/>
+            <td>
+               <a href="keyboards/aletheia/Hebrew.xml" target="_blank">Hebrew</a>
+            </td>
+            <td>
+               <a href="keyboards/transkribus/Hebrew/virtualKeyboards.xml"
+                  target="_blank">Hebrew</a>
+            </td>
+            <td>
+               <a href="keyboards/LAREX/Hebrew.txt" target="_blank">Hebrew</a>
+            </td>
+            <td>
+               <a href="keyboards/qurator-neat/Hebrew.txt" target="_blank">Hebrew</a>
+            </td>
+            <td>
+               <a href="keyboards/escriptorium/Hebrew.json" target="_blank">Hebrew</a>
+            </td>
+            <td><a href="https://mufi.info/q.php?"
+                                target="_blank">Browse
+                                charts</a></td>
+         </tr>
+         <tr>
+            <th/>
+            <td>
+               <a href="keyboards/aletheia/HebrewPres.xml" target="_blank">HebrewPres</a>
+            </td>
+            <td>
+               <a href="keyboards/transkribus/HebrewPres/virtualKeyboards.xml"
+                  target="_blank">HebrewPres</a>
+            </td>
+            <td>
+               <a href="keyboards/LAREX/HebrewPres.txt" target="_blank">HebrewPres</a>
+            </td>
+            <td>
+               <a href="keyboards/qurator-neat/HebrewPres.txt" target="_blank">HebrewPres</a>
+            </td>
+            <td>
+               <a href="keyboards/escriptorium/HebrewPres.json" target="_blank">HebrewPres</a>
+            </td>
+            <td><a href="https://mufi.info/q.php?"
                                 target="_blank">Browse
                                 charts</a></td>
          </tr>

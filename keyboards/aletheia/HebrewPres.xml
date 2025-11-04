@@ -1,0 +1,554 @@
+<Parameters name="HebrewPres">
+   <Parameter type="4"
+              sortIndex="1929"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="FB1D"
+              id="01930"
+              textType="0">
+      <Description>HEBREW LETTER YOD WITH HIRIQ</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1930"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="FB1E"
+              id="01931"
+              textType="0">
+      <Description>HEBREW POINT JUDEO-SPANISH VARIKA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1931"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="FB1F"
+              id="01932"
+              textType="0">
+      <Description>HEBREW LIGATURE YIDDISH YOD YOD PATAH</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1932"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="FB20"
+              id="01933"
+              textType="0">
+      <Description>HEBREW LETTER ALTERNATIVE AYIN</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1933"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="FB21"
+              id="01934"
+              textType="0">
+      <Description>HEBREW LETTER WIDE ALEF</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1934"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="FB22"
+              id="01935"
+              textType="0">
+      <Description>HEBREW LETTER WIDE DALET</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1935"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="FB23"
+              id="01936"
+              textType="0">
+      <Description>HEBREW LETTER WIDE HE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1936"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="FB24"
+              id="01937"
+              textType="0">
+      <Description>HEBREW LETTER WIDE KAF</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1937"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="FB25"
+              id="01938"
+              textType="0">
+      <Description>HEBREW LETTER WIDE LAMED</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1938"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="FB26"
+              id="01939"
+              textType="0">
+      <Description>HEBREW LETTER WIDE FINAL MEM</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1939"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="FB27"
+              id="01940"
+              textType="0">
+      <Description>HEBREW LETTER WIDE RESH</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1940"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="FB28"
+              id="01941"
+              textType="0">
+      <Description>HEBREW LETTER WIDE TAV</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1941"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="FB29"
+              id="01942"
+              textType="0">
+      <Description>HEBREW LETTER ALTERNATIVE PLUS SIGN</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1942"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="FB2A"
+              id="01943"
+              textType="0">
+      <Description>HEBREW LETTER SHIN WITH SHIN DOT</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1943"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="FB2B"
+              id="01944"
+              textType="0">
+      <Description>HEBREW LETTER SHIN WITH SIN DOT</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1944"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="FB2C"
+              id="01945"
+              textType="0">
+      <Description>HEBREW LETTER SHIN WITH DAGESH AND SHIN DOT</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1945"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="FB2D"
+              id="01946"
+              textType="0">
+      <Description>HEBREW LETTER SHIN WITH DAGESH AND SIN DOT</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1946"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="FB2E"
+              id="01947"
+              textType="0">
+      <Description>HEBREW LETTER ALEF WITH PATAH</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1947"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="FB2F"
+              id="01948"
+              textType="0">
+      <Description>HEBREW LETTER ALEF WITH QAMATS</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1948"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="FB30"
+              id="01949"
+              textType="0">
+      <Description>HEBREW LETTER ALEF WITH MAPIQ</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1949"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="FB31"
+              id="01950"
+              textType="0">
+      <Description>HEBREW LETTER BET WITH DAGESH</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1950"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="FB32"
+              id="01951"
+              textType="0">
+      <Description>HEBREW LETTER GIMEL WITH DAGESH</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1951"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="FB33"
+              id="01952"
+              textType="0">
+      <Description>HEBREW LETTER DALET WITH DAGESH</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1952"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="FB34"
+              id="01953"
+              textType="0">
+      <Description>HEBREW LETTER HE WITH MAPIQ</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1953"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="FB35"
+              id="01954"
+              textType="0">
+      <Description>HEBREW LETTER VAV WITH DAGESH</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1954"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="FB36"
+              id="01955"
+              textType="0">
+      <Description>HEBREW LETTER ZAYIN WITH DAGESH</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1955"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="FB38"
+              id="01956"
+              textType="0">
+      <Description>HEBREW LETTER TET WITH DAGESH</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1956"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="FB39"
+              id="01957"
+              textType="0">
+      <Description>HEBREW LETTER YOD WITH DAGESH</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1957"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="FB3A"
+              id="01958"
+              textType="0">
+      <Description>HEBREW LETTER FINAL KAF WITH DAGESH</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1958"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="FB3B"
+              id="01959"
+              textType="0">
+      <Description>HEBREW LETTER KAF WITH DAGESH</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1959"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="FB3C"
+              id="01960"
+              textType="0">
+      <Description>HEBREW LETTER LAMED WITH DAGESH</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1960"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="FB3E"
+              id="01961"
+              textType="0">
+      <Description>HEBREW LETTER MEM WITH DAGESH</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1961"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="FB40"
+              id="01962"
+              textType="0">
+      <Description>HEBREW LETTER NUN WITH DAGESH</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1962"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="FB41"
+              id="01963"
+              textType="0">
+      <Description>HEBREW LETTER SAMEKH WITH DAGESH</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1963"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="FB43"
+              id="01964"
+              textType="0">
+      <Description>HEBREW LETTER PE WITH DAGESH</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1964"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="FB44"
+              id="01965"
+              textType="0">
+      <Description>HEBREW LETTER TSADI WITH DAGESH</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1965"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="FB46"
+              id="01966"
+              textType="0">
+      <Description>HEBREW LETTER QOF WITH DAGESH</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1966"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="FB47"
+              id="01967"
+              textType="0">
+      <Description>HEBREW LETTER RESH WITH DAGESH</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1967"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="FB48"
+              id="01968"
+              textType="0">
+      <Description>HEBREW LETTER SHIN WITH DAGESH</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1968"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="FB49"
+              id="01969"
+              textType="0">
+      <Description>HEBREW LETTER TAV WITH DAGESH</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1969"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="FB4A"
+              id="01970"
+              textType="0">
+      <Description>HEBREW LETTER VAV WITH HOLAM</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1970"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="FB4B"
+              id="01971"
+              textType="0">
+      <Description>HEBREW LETTER BET WITH RAFE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1971"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="FB4C"
+              id="01972"
+              textType="0">
+      <Description>HEBREW LETTER KAF WITH RAFE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1972"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="FB4D"
+              id="01973"
+              textType="0">
+      <Description>HEBREW LETTER PE WITH RAFE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1973"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="FB4E"
+              id="01974"
+              textType="0">
+      <Description>HEBREW LETTER ALEF WITH PATAH</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1974"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="FB4F"
+              id="01975"
+              textType="0">
+      <Description>HEBREW LETTER ALEF WITH QAMATS</Description>
+   </Parameter>
+</Parameters>

@@ -1,0 +1,1202 @@
+<Parameters name="Hebrew">
+   <Parameter type="4"
+              sortIndex="1829"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0591"
+              id="01830"
+              textType="0">
+      <Description>HEBREW ACCENT ETNAHTA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1830"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0592"
+              id="01831"
+              textType="0">
+      <Description>HEBREW ACCENT SEGOL</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1831"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0593"
+              id="01832"
+              textType="0">
+      <Description>HEBREW ACCENT SHALSHELET</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1832"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0594"
+              id="01833"
+              textType="0">
+      <Description>HEBREW ACCENT ZAQEF QATAN</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1833"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0595"
+              id="01834"
+              textType="0">
+      <Description>HEBREW ACCENT ZAQEF GADOL</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1834"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0596"
+              id="01835"
+              textType="0">
+      <Description>HEBREW ACCENT TIPEHA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1835"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0597"
+              id="01836"
+              textType="0">
+      <Description>HEBREW ACCENT REVIA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1836"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0598"
+              id="01837"
+              textType="0">
+      <Description>HEBREW ACCENT ZARQA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1837"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="0599"
+              id="01838"
+              textType="0">
+      <Description>HEBREW ACCENT PASHTA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1838"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="059A"
+              id="01839"
+              textType="0">
+      <Description>HEBREW ACCENT YETIV</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1839"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="059B"
+              id="01840"
+              textType="0">
+      <Description>HEBREW ACCENT TEVIR</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1840"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="059C"
+              id="01841"
+              textType="0">
+      <Description>HEBREW ACCENT GERESH</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1841"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="059D"
+              id="01842"
+              textType="0">
+      <Description>HEBREW ACCENT GERESH MUQDAM</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1842"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="059E"
+              id="01843"
+              textType="0">
+      <Description>HEBREW ACCENT GERSHAYIM</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1843"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="059F"
+              id="01844"
+              textType="0">
+      <Description>HEBREW ACCENT QARNEY PARA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1844"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="05A0"
+              id="01845"
+              textType="0">
+      <Description>HEBREW ACCENT TELISHA GEDOLA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1845"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="05A1"
+              id="01846"
+              textType="0">
+      <Description>HEBREW ACCENT PAZER</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1846"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="05A2"
+              id="01847"
+              textType="0">
+      <Description>HEBREW ACCENT ATNAH HAFUKH</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1847"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="05A3"
+              id="01848"
+              textType="0">
+      <Description>HEBREW ACCENT MUNAH</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1848"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="05A4"
+              id="01849"
+              textType="0">
+      <Description>HEBREW ACCENT MAHAPAKH</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1849"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="05A5"
+              id="01850"
+              textType="0">
+      <Description>HEBREW ACCENT MERKHA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1850"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="05A6"
+              id="01851"
+              textType="0">
+      <Description>HEBREW ACCENT MERKHA KEFULA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1851"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="05A7"
+              id="01852"
+              textType="0">
+      <Description>HEBREW ACCENT DARGA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1852"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="05A8"
+              id="01853"
+              textType="0">
+      <Description>HEBREW ACCENT QADMA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1853"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="05A9"
+              id="01854"
+              textType="0">
+      <Description>HEBREW ACCENT TELISHA QETANA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1854"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="05AA"
+              id="01855"
+              textType="0">
+      <Description>HEBREW ACCENT YERAH BEN YOMO</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1855"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="05AB"
+              id="01856"
+              textType="0">
+      <Description>HEBREW ACCENT OLE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1856"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="05AC"
+              id="01857"
+              textType="0">
+      <Description>HEBREW ACCENT ILUY</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1857"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="05AD"
+              id="01858"
+              textType="0">
+      <Description>HEBREW ACCENT DEHI</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1858"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="05AE"
+              id="01859"
+              textType="0">
+      <Description>HEBREW ACCENT ZINOR</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1859"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="05AF"
+              id="01860"
+              textType="0">
+      <Description>HEBREW MARK MASORA CIRCLE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1860"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="05B0"
+              id="01861"
+              textType="0">
+      <Description>HEBREW POINT SHEVA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1861"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="05B1"
+              id="01862"
+              textType="0">
+      <Description>HEBREW POINT HATAF SEGOL</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1862"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="05B2"
+              id="01863"
+              textType="0">
+      <Description>HEBREW POINT HATAF PATAH</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1863"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="05B3"
+              id="01864"
+              textType="0">
+      <Description>HEBREW POINT HATAF QAMATS</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1864"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="05B4"
+              id="01865"
+              textType="0">
+      <Description>HEBREW POINT HIRIQ</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1865"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="05B5"
+              id="01866"
+              textType="0">
+      <Description>HEBREW POINT TSERE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1866"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="05B6"
+              id="01867"
+              textType="0">
+      <Description>HEBREW POINT SEGOL</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1867"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="05B7"
+              id="01868"
+              textType="0">
+      <Description>HEBREW POINT PATAH</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1868"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="05B8"
+              id="01869"
+              textType="0">
+      <Description>HEBREW POINT QAMATS</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1869"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="05B9"
+              id="01870"
+              textType="0">
+      <Description>HEBREW POINT HOLAM</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1870"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="05BA"
+              id="01871"
+              textType="0">
+      <Description>HEBREW POINT HOLAM HASER FOR VAV</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1871"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="05BB"
+              id="01872"
+              textType="0">
+      <Description>HEBREW POINT QUBUTS</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1872"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="05BC"
+              id="01873"
+              textType="0">
+      <Description>HEBREW POINT DAGESH OR MAPIQ</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1873"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="05BD"
+              id="01874"
+              textType="0">
+      <Description>HEBREW POINT METEG</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1874"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="05BE"
+              id="01875"
+              textType="0">
+      <Description>HEBREW PUNCTUATION MAQAF</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1875"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="05BF"
+              id="01876"
+              textType="0">
+      <Description>HEBREW POINT RAFE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1876"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="05C0"
+              id="01877"
+              textType="0">
+      <Description>HEBREW PUNCTUATION PASEQ</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1877"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="05C1"
+              id="01878"
+              textType="0">
+      <Description>HEBREW POINT SHIN DOT</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1878"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="05C2"
+              id="01879"
+              textType="0">
+      <Description>HEBREW POINT SIN DOT</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1879"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="05C3"
+              id="01880"
+              textType="0">
+      <Description>HEBREW PUNCTUATION SOF PASUQ</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1880"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="05C4"
+              id="01881"
+              textType="0">
+      <Description>HEBREW MARK UPPER DOT</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1881"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="05C5"
+              id="01882"
+              textType="0">
+      <Description>HEBREW MARK LOWER DOT</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1882"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="05C6"
+              id="01883"
+              textType="0">
+      <Description>HEBREW PUNCTUATION NUN HAFUKHA</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1883"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="05C7"
+              id="01884"
+              textType="0">
+      <Description>HEBREW POINT QAMATS QATAN</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1884"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="05C8"
+              id="01885"
+              textType="0">
+      <Description>UNASSIGNED</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1885"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="05C9"
+              id="01886"
+              textType="0">
+      <Description>UNASSIGNED</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1886"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="05CA"
+              id="01887"
+              textType="0">
+      <Description>UNASSIGNED</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1887"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="05CB"
+              id="01888"
+              textType="0">
+      <Description>UNASSIGNED</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1888"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="05CC"
+              id="01889"
+              textType="0">
+      <Description>UNASSIGNED</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1889"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="05CD"
+              id="01890"
+              textType="0">
+      <Description>UNASSIGNED</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1890"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="05CE"
+              id="01891"
+              textType="0">
+      <Description>UNASSIGNED</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1891"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="05CF"
+              id="01892"
+              textType="0">
+      <Description>UNASSIGNED</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1892"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="05D0"
+              id="01893"
+              textType="0">
+      <Description>HEBREW LETTER ALEF</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1893"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="05D1"
+              id="01894"
+              textType="0">
+      <Description>HEBREW LETTER BET</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1894"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="05D2"
+              id="01895"
+              textType="0">
+      <Description>HEBREW LETTER GIMEL</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1895"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="05D3"
+              id="01896"
+              textType="0">
+      <Description>HEBREW LETTER DALET</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1896"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="05D4"
+              id="01897"
+              textType="0">
+      <Description>HEBREW LETTER HE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1897"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="05D5"
+              id="01898"
+              textType="0">
+      <Description>HEBREW LETTER VAV</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1898"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="05D6"
+              id="01899"
+              textType="0">
+      <Description>HEBREW LETTER ZAYIN</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1899"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="05D7"
+              id="01900"
+              textType="0">
+      <Description>HEBREW LETTER HET</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1900"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="05D8"
+              id="01901"
+              textType="0">
+      <Description>HEBREW LETTER TET</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1901"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="05D9"
+              id="01902"
+              textType="0">
+      <Description>HEBREW LETTER YOD</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1902"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="05DA"
+              id="01903"
+              textType="0">
+      <Description>HEBREW LETTER FINAL KAF</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1903"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="05DB"
+              id="01904"
+              textType="0">
+      <Description>HEBREW LETTER KAF</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1904"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="05DC"
+              id="01905"
+              textType="0">
+      <Description>HEBREW LETTER LAMED</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1905"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="05DD"
+              id="01906"
+              textType="0">
+      <Description>HEBREW LETTER FINAL MEM</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1906"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="05DE"
+              id="01907"
+              textType="0">
+      <Description>HEBREW LETTER MEM</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1907"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="05DF"
+              id="01908"
+              textType="0">
+      <Description>HEBREW LETTER FINAL NUN</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1908"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="05E0"
+              id="01909"
+              textType="0">
+      <Description>HEBREW LETTER NUN</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1909"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="05E1"
+              id="01910"
+              textType="0">
+      <Description>HEBREW LETTER SAMEKH</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1910"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="05E2"
+              id="01911"
+              textType="0">
+      <Description>HEBREW LETTER AYIN</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1911"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="05E3"
+              id="01912"
+              textType="0">
+      <Description>HEBREW LETTER FINAL PE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1912"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="05E4"
+              id="01913"
+              textType="0">
+      <Description>HEBREW LETTER PE</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1913"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="05E5"
+              id="01914"
+              textType="0">
+      <Description>HEBREW LETTER FINAL TSADI</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1914"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="05E6"
+              id="01915"
+              textType="0">
+      <Description>HEBREW LETTER TSADI</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1915"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="05E7"
+              id="01916"
+              textType="0">
+      <Description>HEBREW LETTER QOF</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1916"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="05E8"
+              id="01917"
+              textType="0">
+      <Description>HEBREW LETTER RESH</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1917"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="05E9"
+              id="01918"
+              textType="0">
+      <Description>HEBREW LETTER SHIN</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1918"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="05EA"
+              id="01919"
+              textType="0">
+      <Description>HEBREW LETTER TAV</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1919"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="05EB"
+              id="01920"
+              textType="0">
+      <Description>UNASSIGNED</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1920"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="05EC"
+              id="01921"
+              textType="0">
+      <Description>UNASSIGNED</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1921"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="05ED"
+              id="01922"
+              textType="0">
+      <Description>UNASSIGNED</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1922"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="05EE"
+              id="01923"
+              textType="0">
+      <Description>UNASSIGNED</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1923"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="05EF"
+              id="01924"
+              textType="0">
+      <Description>UNASSIGNED</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1924"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="05F0"
+              id="01925"
+              textType="0">
+      <Description>HEBREW LIGATURE YIDDISH DOUBLE VAV</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1925"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="05F1"
+              id="01926"
+              textType="0">
+      <Description>HEBREW LIGATURE YIDDISH VAV YOD</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1926"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="05F2"
+              id="01927"
+              textType="0">
+      <Description>HEBREW LIGATURE YIDDISH DOUBLE YOD</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1927"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="05F3"
+              id="01928"
+              textType="0">
+      <Description>HEBREW PUNCTUATION GERESH</Description>
+   </Parameter>
+   <Parameter type="4"
+              sortIndex="1928"
+              version="0"
+              name="Character"
+              readOnly="false"
+              isSet="true"
+              visible="true"
+              value="05F4"
+              id="01929"
+              textType="0">
+      <Description>HEBREW PUNCTUATION GERSHAYIM</Description>
+   </Parameter>
+</Parameters>

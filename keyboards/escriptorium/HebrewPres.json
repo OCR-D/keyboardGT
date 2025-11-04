@@ -1,0 +1,239 @@
+
+                {
+                "version": "0.1",
+                "name": "HebrewPres",
+                "author": "tboenig <boenig@bbaw.de>",
+                "characters": [
+                
+                {
+                "row": 0,
+                "column": 0,
+                "character": "יִ"
+                },
+                {
+                "row": 0,
+                "column": 1,
+                "character": "ﬞ"
+                },
+                {
+                "row": 0,
+                "column": 2,
+                "character": "ײַ"
+                },
+                {
+                "row": 0,
+                "column": 3,
+                "character": "ﬠ"
+                },
+                {
+                "row": 0,
+                "column": 4,
+                "character": "ﬡ"
+                },
+                {
+                "row": 0,
+                "column": 5,
+                "character": "ﬢ"
+                },
+                {
+                "row": 0,
+                "column": 6,
+                "character": "ﬣ"
+                },
+                {
+                "row": 0,
+                "column": 7,
+                "character": "ﬤ"
+                },
+                {
+                "row": 0,
+                "column": 8,
+                "character": "ﬥ"
+                },
+                {
+                "row": 0,
+                "column": 9,
+                "character": "ﬦ"
+                },
+                {
+                "row": 0,
+                "column": 10,
+                "character": "ﬧ"
+                },
+                {
+                "row": 0,
+                "column": 11,
+                "character": "ﬨ"
+                },
+                {
+                "row": 0,
+                "column": 12,
+                "character": "﬩"
+                },
+                {
+                "row": 0,
+                "column": 13,
+                "character": "שׁ"
+                },
+                {
+                "row": 0,
+                "column": 14,
+                "character": "שׂ"
+                },
+                {
+                "row": 0,
+                "column": 15,
+                "character": "שּׁ"
+                },
+                {
+                "row": 0,
+                "column": 16,
+                "character": "שּׂ"
+                },
+                {
+                "row": 0,
+                "column": 17,
+                "character": "אַ"
+                },
+                {
+                "row": 0,
+                "column": 18,
+                "character": "אָ"
+                },
+                {
+                "row": 0,
+                "column": 19,
+                "character": "אּ"
+                },
+                {
+                "row": 1,
+                "column": 0,
+                "character": "בּ"
+                },
+                {
+                "row": 1,
+                "column": 1,
+                "character": "גּ"
+                },
+                {
+                "row": 1,
+                "column": 2,
+                "character": "דּ"
+                },
+                {
+                "row": 1,
+                "column": 3,
+                "character": "הּ"
+                },
+                {
+                "row": 1,
+                "column": 4,
+                "character": "וּ"
+                },
+                {
+                "row": 1,
+                "column": 5,
+                "character": "זּ"
+                },
+                {
+                "row": 1,
+                "column": 6,
+                "character": "טּ"
+                },
+                {
+                "row": 1,
+                "column": 7,
+                "character": "יּ"
+                },
+                {
+                "row": 1,
+                "column": 8,
+                "character": "ךּ"
+                },
+                {
+                "row": 1,
+                "column": 9,
+                "character": "כּ"
+                },
+                {
+                "row": 1,
+                "column": 10,
+                "character": "לּ"
+                },
+                {
+                "row": 1,
+                "column": 11,
+                "character": "מּ"
+                },
+                {
+                "row": 1,
+                "column": 12,
+                "character": "נּ"
+                },
+                {
+                "row": 1,
+                "column": 13,
+                "character": "סּ"
+                },
+                {
+                "row": 1,
+                "column": 14,
+                "character": "ףּ"
+                },
+                {
+                "row": 1,
+                "column": 15,
+                "character": "פּ"
+                },
+                {
+                "row": 1,
+                "column": 16,
+                "character": "צּ"
+                },
+                {
+                "row": 1,
+                "column": 17,
+                "character": "קּ"
+                },
+                {
+                "row": 1,
+                "column": 18,
+                "character": "רּ"
+                },
+                {
+                "row": 1,
+                "column": 19,
+                "character": "שּ"
+                },
+                {
+                "row": 2,
+                "column": 0,
+                "character": "תּ"
+                },
+                {
+                "row": 2,
+                "column": 1,
+                "character": "וֹ"
+                },
+                {
+                "row": 2,
+                "column": 2,
+                "character": "בֿ"
+                },
+                {
+                "row": 2,
+                "column": 3,
+                "character": "כֿ"
+                },
+                {
+                "row": 2,
+                "column": 4,
+                "character": "פֿ"
+                },
+                {
+                "row": 2,
+                "column": 5,
+                "character": "ﭏ"
+                }
+                ]}
+            
