@@ -414,7 +414,7 @@ Names
                     <xsl:sort select="fn:current-grouping-key()"/>
                     <xsl:variable name="link">
                         <xsl:choose>
-                            <xsl:when test="fn:current-grouping-key() = 'GkExt'">
+                            <xsl:when test="fn:current-grouping-key() = 'GkExt', 'Hebrew', 'HebrewPres'">
                                 <xsl:value-of select="$MUFITABLE//coding/code[@id = fn:current-grouping-key()]/@href"/>
                             </xsl:when>
                             <xsl:otherwise>https://mufi.info/q.php?<xsl:value-of select="$MUFITABLE//coding/code[@id = fn:current-grouping-key()]/@href"/></xsl:otherwise>
