@@ -70,7 +70,7 @@
    <h2>Download and Installation</h2>
    <p>Here you will find the suitable virtual keyboards for all programs listed. In the zip file you will find them under the program name. To install, unzip the file and follow the instructions of your transcription software. You will find more information under the name of your software.</p>
    <p>Links:
-        <a href="https://github.com/tboenig/keyboardGT/releases/download/v281/keyboardGT-v281.zip">
+        <a href="https://github.com/tboenig/keyboardGT/releases/download/v282/keyboardGT-v282.zip">
             all keyboards as zip file</a>
    </p>
    <details>
@@ -111,7 +111,7 @@
    <details>
       <summary>For LAREX</summary>
       <p>
-                Download the <strong>keyboard text files</strong> and copy the files to the appropriate directory.
+                Download the <strong>keyboard text files</strong> and copy the files to the appropriate directory. <br/>This is usually the directory: <pre>LAREX/tree/master/src/main/webapp/WEB-INF/virtual_keyboards</pre>.
             </p>
    </details>
    <details>
