@@ -375,7 +375,7 @@ Names
         <xsl:element name="details">
             <xsl:element name="summary">For LAREX</xsl:element>
             <xsl:element name="p">
-                Download the <strong>keyboard text files</strong> and copy the files to the appropriate directory.
+                Download the <strong>keyboard text files</strong> and copy the files to the appropriate directory. <br/>This is usually the directory: <pre>LAREX/tree/master/src/main/webapp/WEB-INF/virtual_keyboards</pre>.
             </xsl:element>
         </xsl:element>
         
